@@ -1,0 +1,227 @@
+[
+  {
+    "question": "Welcher Satz ist ein Konditionalsatz vom Typ 1?",
+    "answers": [
+      "Wenn ich müde bin, schlafe ich früh.",
+      "Wenn ich müde wäre, schlief ich früh.",
+      "Wenn ich gestern müde gewesen wäre, hätte ich früher geschlafen.",
+      "Wenn ich morgen müde sein werde, schlafe ich früh."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Welcher Satz ist ein Konditionalsatz vom Typ 2?",
+    "answers": [
+      "Wenn es kalt ist, trage ich eine Jacke.",
+      "Wenn es kalt wäre, würde ich eine Jacke tragen.",
+      "Wenn es gestern kalt war, trug ich eine Jacke.",
+      "Wenn es kalt sein wird, trage ich eine Jacke."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Welcher Satz ist ein Konditionalsatz vom Typ 3?",
+    "answers": [
+      "Wenn es regnet, bleibe ich zu Hause.",
+      "Wenn es regnen würde, bliebe ich zu Hause.",
+      "Wenn es geregnet hätte, wäre ich zu Hause geblieben.",
+      "Wenn es morgen regnet, bleibe ich zu Hause."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Welches Wort leitet einen Konditionalsatz oft ein?",
+    "answers": ["weil", "dass", "wenn", "ob"],
+    "correct": 2
+  },
+  {
+    "question": "Welche Aussage beschreibt eine unrealistische Bedingung?",
+    "answers": [
+      "Wenn du arbeitest, verdienst du Geld.",
+      "Wenn du arbeiten würdest, würdest du Geld verdienen.",
+      "Wenn du gearbeitet hast, hast du Geld verdient.",
+      "Wenn du heute arbeitest, verdienst du Geld."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Welcher Satz ist grammatikalisch korrekt?",
+    "answers": [
+      "Wenn er kommt, sage ich ihm Bescheid.",
+      "Wenn er kommen wird, sage ich ihm Bescheid.",
+      "Wenn er kommt, sagte ich ihm Bescheid.",
+      "Wenn er kommt, sagt er Bescheid."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Welcher Satz ist typisch für den Konditionalsatz Typ 2?",
+    "answers": [
+      "Wenn ich reich wäre, würde ich ein Haus kaufen.",
+      "Wenn ich reich bin, kaufe ich ein Haus.",
+      "Wenn ich reich gewesen wäre, hätte ich ein Haus gekauft.",
+      "Wenn ich reich sein werde, kaufe ich ein Haus."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Welcher Satz beschreibt eine hypothetische Zukunft?",
+    "answers": [
+      "Wenn er kommt, spielen wir Fußball.",
+      "Wenn er käme, würden wir Fußball spielen.",
+      "Wenn er kommen würde, würden wir Fußball spielen.",
+      "Wenn er kam, spielten wir Fußball."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Welcher Satz ist ein Konditionalsatz Typ 1?",
+    "answers": [
+      "Wenn du nicht schläfst, wirst du morgen müde sein.",
+      "Wenn du nicht schlafen würdest, würdest du müde sein.",
+      "Wenn du nicht geschlafen hättest, wärst du müde gewesen.",
+      "Wenn du nicht geschlafen hast, bist du müde."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Welcher Satz ist ein Konditionalsatz Typ 3?",
+    "answers": [
+      "Wenn du früher losgegangen wärst, hättest du ihn getroffen.",
+      "Wenn du früher losgehst, triffst du ihn.",
+      "Wenn du früher losgehen würdest, würdest du ihn treffen.",
+      "Wenn du früher losgegangen bist, hast du ihn getroffen."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Welcher Satz ist ein irrealer Konditionalsatz?",
+    "answers": [
+      "Wenn es warm ist, gehe ich spazieren.",
+      "Wenn es wärmer wäre, würde ich schwimmen gehen.",
+      "Wenn es warm war, ging ich spazieren.",
+      "Wenn es warm sein wird, gehe ich spazieren."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Welcher Konditionalsatz drückt Hoffnung aus?",
+    "answers": [
+      "Wenn du kommst, freue ich mich.",
+      "Wenn du kämst, würde ich mich freuen.",
+      "Wenn du gekommen wärst, hätte ich mich gefreut.",
+      "Wenn du kommst, habe ich mich gefreut."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Welcher Satz ist korrekt formuliert?",
+    "answers": [
+      "Wenn du mir helfen würdest, wäre ich dir dankbar.",
+      "Wenn du hilfst, danke ich dir.",
+      "Wenn du geholfen hast, danke ich dir.",
+      "Wenn du hilfst, habe ich dir gedankt."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Welcher Satz ist typisch für Typ 3?",
+    "answers": [
+      "Wenn sie mehr gelernt hätte, hätte sie bestanden.",
+      "Wenn sie lernt, besteht sie.",
+      "Wenn sie lernen würde, bestünde sie.",
+      "Wenn sie gelernt hat, besteht sie."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Welches Modalverb kommt im Konditionalsatz Typ 2 vor?",
+    "answers": ["kann", "soll", "dürfte", "würde"],
+    "correct": 3
+  },
+  {
+    "question": "Wann verwendet man 'würde' im Konditionalsatz?",
+    "answers": [
+      "Bei realen Bedingungen in der Gegenwart.",
+      "Bei hypothetischen oder unrealistischen Situationen.",
+      "Bei vergangenen Ereignissen.",
+      "Bei Befehlen und Aufforderungen."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Welcher Satz ist ein Konditionalsatz Typ 2?",
+    "answers": [
+      "Wenn du hier wohnst, ist es ruhig.",
+      "Wenn du hier wohnen würdest, wäre es ruhig.",
+      "Wenn du hier gewohnt hättest, wäre es ruhig gewesen.",
+      "Wenn du hier wohnst, ist es laut."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Wie lautet der korrekte Konditionalsatz Typ 1 zu folgendem Satz: 'Er fährt mit, wenn er Zeit hat.'",
+    "answers": [
+      "Er fährt mit, wenn er Zeit haben wird.",
+      "Er fährt mit, wenn er keine Zeit hat.",
+      "Er fährt mit, wenn er Zeit hat.",
+      "Er fährt mit, wenn er Zeit hatte."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Welcher Satz drückt eine abgeschlossene Handlung in der Vergangenheit aus?",
+    "answers": [
+      "Wenn du mehr Zeit hattest, hast du mehr gelernt.",
+      "Wenn du mehr Zeit hast, lernst du mehr.",
+      "Wenn du mehr Zeit gehabt hättest, hättest du mehr gelernt.",
+      "Wenn du mehr Zeit haben würdest, würdest du mehr lernen."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Welcher Satz beschreibt eine hypothetische Gegenwart?",
+    "answers": [
+      "Wenn es regnet, bleibe ich zu Hause.",
+      "Wenn es regnen würde, bliebe ich zu Hause.",
+      "Wenn es geregnet hat, bleibe ich zu Hause.",
+      "Wenn es regnen sollte, bleibe ich zu Hause."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Welches Verb steht im Konditionalsatz Typ 2 im Hauptsatz?",
+    "answers": ["haben", "werden", "sein", "können"],
+    "correct": 1
+  },
+  {
+    "question": "Welcher Satz ist ein Konditionalsatz Typ 3?",
+    "answers": [
+      "Wenn du früher losgegangen wärst, hättest du ihn getroffen.",
+      "Wenn du früher losgehst, triffst du ihn.",
+      "Wenn du früher losgehen würdest, würdest du ihn treffen.",
+      "Wenn du früher losgegangen bist, hast du ihn getroffen."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Welcher Satz enthält eine Bedingung aus der Vergangenheit, die nicht eingetreten ist?",
+    "answers": [
+      "Wenn du früher da gewesen wärst, hättest du alles gesehen.",
+      "Wenn du früher da bist, siehst du alles.",
+      "Wenn du früher da gewesen wärst, würdest du alles sehen.",
+      "Wenn du früher da warst, hast du alles gesehen."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Welcher Satz ist grammatikalisch richtig?",
+    "answers": [
+      "Wenn du mir helfen würdest, wäre ich dir dankbar.",
+      "Wenn du hilfst, danke ich dir.",
+      "Wenn du geholfen hast, danke ich dir.",
+      "Wenn du hilfst, habe ich dir gedankt."
+    ],
+    "correct": 0
+  }
+]

@@ -1,0 +1,494 @@
+[
+  {
+    "question": "Ergänze: 'Der ___ Mann.'",
+    "answers": ["gute", "guten", "gutem", "guter"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Ich sehe den ___ Jungen.'",
+    "answers": ["glückliche", "glücklichen", "glücklichem", "glücklicher"],
+    "correct": 1
+  },
+  {
+    "question": "Ergänze: 'Die ___ Frau.'",
+    "answers": ["freundliche", "freundliches", "freundlichen", "freundlichs"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Das gehört zu dem ___ Kind.'",
+    "answers": ["kleine", "kleinen", "kleiner", "kleines"],
+    "correct": 1
+  },
+  {
+    "question": "Ergänze: 'Ein ___ Auto.'",
+    "answers": ["schön", "schöne", "schönen", "schöner"],
+    "correct": 1
+  },
+  {
+    "question": "Ergänze: 'Ich lese ___ Buch.'",
+    "answers": ["ein interessantes", "ein interessant", "interessante", "interessanten"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Sie gibt ___ Geschenk dem Lehrer.'",
+    "answers": ["das schöne", "die schöne", "dem schönen", "den schönen"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Er spricht über ___ Film.'",
+    "answers": ["der spannende", "den spannenden", "dem spannenden", "des spannenden"],
+    "correct": 1
+  },
+  {
+    "question": "Ergänze: 'Ich gehe mit ___ Freunden spazieren.'",
+    "answers": ["alten", "alte", "altem", "alt"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Hast du ___ Buch gesehen?'",
+    "answers": ["dieses", "diesen", "dieser", "diesem"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Das ist das Auto ___ Vaters.'",
+    "answers": ["mein", "meines", "meiner", "meinem"],
+    "correct": 1
+  },
+  {
+    "question": "Ergänze: 'Sie arbeitet mit ___ Kollegen.'",
+    "answers": ["freundlichen", "freundliche", "freundlicher", "freundlichem"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Eine ___ Nachricht.'",
+    "answers": ["schlechte", "schlechten", "schlechter", "schlechtes"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Wir sprechen über ___ Thema.'",
+    "answers": ["neues", "neue", "neuen", "neuer"],
+    "correct": 2
+  },
+  {
+    "question": "Ergänze: 'In ___ Stadt gibt es viele Geschäfte.'",
+    "answers": ["einem großen", "eine große", "einer großen", "ein großes"],
+    "correct": 2
+  },
+  {
+    "question": "Ergänze: 'Er trägt einen ___ Anzug.'",
+    "answers": ["teures", "teuren", "teurem", "teurer"],
+    "correct": 1
+  },
+  {
+    "question": "Ergänze: 'Das Bild hängt an ___ Wand.'",
+    "answers": ["der weißen", "weiße", "weißen", "weißes"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Sie liest eine ___ Zeitung.'",
+    "answers": ["interessante", "interessanten", "interessanter", "interessantem"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Das ist das Ergebnis ___ Arbeit.'",
+    "answers": ["meiner", "meine", "meines", "meinem"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Er kauft ___ Kuchen.'",
+    "answers": ["frische", "frischen", "frischer", "frisches"],
+    "correct": 1
+  },
+  {
+    "question": "Ergänze: 'Ich helfe ___ Schwester.'",
+    "answers": ["meine", "meiner", "meines", "meinem"],
+    "correct": 1
+  },
+  {
+    "question": "Ergänze: 'Das ist ___ Lieblingsfarbe.'",
+    "answers": ["ihre", "ihrer", "ihrem", "ihren"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Er schreibt ___ Brief.'",
+    "answers": ["einen langen", "eine lange", "ein langes", "lange"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Mit ___ Mädchen.'",
+    "answers": ["junge", "jungen", "jungem", "junger"],
+    "correct": 1
+  },
+
+
+  {
+    "question": "Ergänze: 'Ich trinke ___ Kaffee.'",
+    "answers": ["frischen", "frische", "frischem", "frischer"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Sie fährt mit ___ Zug.'",
+    "answers": ["dem schnellen", "schnellem", "schnelle", "schnellen"],
+    "correct": 3
+  },
+  {
+    "question": "Ergänze: 'Ein ___ Buch.'",
+    "answers": ["interessant", "interessante", "interessanten", "interessanter"],
+    "correct": 1
+  },
+  {
+    "question": "Ergänze: 'Ich liebe ___ Musik.'",
+    "answers": ["klassische", "klassischen", "klassischer", "klassisch"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Er hat ___ Fehler gemacht.'",
+    "answers": ["einen dummen", "eine dumme", "ein dummes", "dummen"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'In ___ Stadt lebe ich.'",
+    "answers": ["der alten", "alten", "alte", "altem"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Das ist die Stimme ___ Bruders.'",
+    "answers": ["mein", "meiner", "meines", "meinem"],
+    "correct": 2
+  },
+  {
+    "question": "Ergänze: 'Er arbeitet in ___ Firma.'",
+    "answers": ["einem großen", "eine große", "einer großen", "ein großes"],
+    "correct": 2
+  },
+  {
+    "question": "Ergänze: 'Eine ___ Entscheidung.'",
+    "answers": ["schweren", "schwere", "schwerer", "schwem"],
+    "correct": 1
+  },
+  {
+    "question": "Ergänze: 'Wir essen ___ Apfel.'",
+    "answers": ["frisches", "frische", "frischen", "frisch"],
+    "correct": 2
+  },
+  {
+    "question": "Ergänze: 'Ich kenne ___ Eltern.'",
+    "answers": ["seine", "seines", "seiner", "seinem"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Im ___ Zimmer steht ein Bett.'",
+    "answers": ["kleine", "kleinen", "kleines", "kleiner"],
+    "correct": 1
+  },
+  {
+    "question": "Ergänze: 'Das Auto ___ Nachbarn ist neu.'",
+    "answers": ["den", "des", "die", "dem"],
+    "correct": 1
+  },
+  {
+    "question": "Ergänze: 'Er liest ___ interessantes Buch.'",
+    "answers": ["ein", "einen", "eine", "einem"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Hast du ___ Schlüssel?'",
+    "answers": ["roten", "rote", "roter", "rotes"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Die Farbe ___ Autos.'",
+    "answers": ["blau", "blauen", "blauer", "blause"],
+    "correct": 2
+  },
+  {
+    "question": "Ergänze: 'Ein Haus aus ___ Zeit.'",
+    "answers": ["alter", "altem", "alten", "alte"],
+    "correct": 1
+  },
+  {
+    "question": "Ergänze: 'Ich gehe zu ___ Tante.'",
+    "answers": ["meine", "meiner", "meines", "meinem"],
+    "correct": 1
+  },
+  {
+    "question": "Ergänze: 'Sie trägt eine ___ Jacke.'",
+    "answers": ["schwarzen", "schwarzer", "schwarze", "schwarzes"],
+    "correct": 2
+  },
+  {
+    "question": "Ergänze: 'Er spricht über ___ Erfahrung.'",
+    "answers": ["ihre", "ihrer", "ihrem", "ihren"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Das ist das Ergebnis ___ Forschung.'",
+    "answers": ["wissenschaftlichen", "wissenschaftliche", "wissenschaftlicher", "wissenschaftlich"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Lesen Sie ___ Anweisungen!'",
+    "answers": ["folgende", "folgenden", "folgender", "folgendem"],
+    "correct": 1
+  },
+  {
+    "question": "Ergänze: 'Ein ___ Beispiel.'",
+    "answers": ["gutes", "gute", "guter", "gutem"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Ich helfe ___ Kind.'",
+    "answers": ["einem kleinen", "ein kleines", "das kleine", "kleinem"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Das ist ___ interessanter Film.'",
+    "answers": ["ein", "einen", "eine", "einem"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Er liest ___ Zeitung.'",
+    "answers": ["die lokale", "lokalen", "lokaler", "lokales"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Ich kaufe ___ Geschenk.'",
+    "answers": ["ein schönes", "schönen", "schöne", "schöner"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Sie wohnt in ___ Stadt.'",
+    "answers": ["große", "großen", "großer", "großem"],
+    "correct": 1
+  },
+  {
+    "question": "Ergänze: 'Das Auto gehört ___ Nachbarn.'",
+    "answers": ["dem alten", "alten", "alter", "altes"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Wir sprechen über ___ neue Methode.'",
+    "answers": ["die", "den", "der", "dem"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Sie gab dem ___ Kind einen Apfel.'",
+    "answers": ["kleine", "kleinen", "kleiner", "kleinem"],
+    "correct": 1
+  },
+  {
+    "question": "Ergänze: 'Er hat ___ gute Note.'",
+    "answers": ["eine", "ein", "einer", "eines"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Ich sehe ___ blauen Himmel.'",
+    "answers": ["den", "die", "das", "des"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Die Wände ___ Hauses sind weiß.'",
+    "answers": ["das", "die", "der", "den"],
+    "correct": 2
+  },
+  {
+    "question": "Ergänze: 'In ___ Ferien fahren wir weg.'",
+    "answers": ["den langen", "lange", "langen", "langes"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Mit ___ Freunden.'" ,
+    "answers": ["guten", "gute", "guter", "gutem"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Ein ___ Problem.'" ,
+    "answers": ["ernstes", "ernste", "ernster", "ernstem"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Dies ist ___ Lieblingsbuch.'" ,
+    "answers": ["mein", "meines", "meiner", "meinem"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Er schreibt an ___ Brief.'" ,
+    "answers": ["einen langen", "eine lange", "ein langes", "lange"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Die Antwort ___ Lehrers war klar.'" ,
+    "answers": ["den", "die", "des", "dem"],
+    "correct": 2
+  },
+  {
+    "question": "Ergänze: 'Ich gehe mit ___ Schwester spazieren.'" ,
+    "answers": ["meine", "meiner", "meines", "meinem"],
+    "correct": 1
+  },
+  {
+    "question": "Ergänze: 'Sie arbeitet für ___ Firma.'" ,
+    "answers": ["eine große", "ein großes", "einem großen", "eine großer"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Ein ___ Ergebnis.'" ,
+    "answers": ["wichtiges", "wichtige", "wichtiger", "wichtigem"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Ich liebe ___ Musik.'" ,
+    "answers": ["klassische", "klassischen", "klassischer", "klassisch"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Er spricht mit ___ Mann.'" ,
+    "answers": ["einem alten", "eine alte", "ein altes", "alt"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Ich höre ___ schöne Musik.'" ,
+    "answers": ["die", "der", "den", "das"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Sie trägt ___ rotes Kleid.'" ,
+    "answers": ["ein", "eine", "einen", "einem"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Im ___ Zimmer ist es kalt.'" ,
+    "answers": ["unteren", "untere", "unterer", "unterm"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Das ist die Stimme ___ Vaters.'" ,
+    "answers": ["mein", "meiner", "meines", "meinem"],
+    "correct": 2
+  },
+  {
+    "question": "Ergänze: 'Ich kaufe ___ frisches Gemüse.'",
+    "answers": ["das", "die", "ein", "eine"],
+    "correct": 2
+  },
+  {
+    "question": "Ergänze: 'Sie spricht über ___ neue Idee.'",
+    "answers": ["die", "den", "der", "dem"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Er gibt ___ Mann das Buch.'",
+    "answers": ["dem alten", "alte", "altem", "alten"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Die Farbe ___ Autos.'",
+    "answers": ["blau", "blauen", "blauer", "blause"],
+    "correct": 2
+  },
+  {
+    "question": "Ergänze: 'Ein ___ Beispiel.'",
+    "answers": ["gutes", "gute", "guter", "gutem"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Sie trägt eine ___ Jacke.'",
+    "answers": ["schwarzen", "schwarzer", "schwarze", "schwarzes"],
+    "correct": 2
+  },
+  {
+    "question": "Ergänze: 'Das Auto gehört ___ Nachbarn.'",
+    "answers": ["dem alten", "alten", "alter", "altes"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Ich liebe ___ Musik.'",
+    "answers": ["klassische", "klassischen", "klassischer", "klassisch"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Er hat ___ gute Note.'",
+    "answers": ["eine", "ein", "einer", "eines"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Wir sprechen über ___ Erfahrung.'",
+    "answers": ["ihre", "ihrer", "ihrem", "ihren"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Ich helfe ___ Kind.'",
+    "answers": ["einem kleinen", "ein kleines", "das kleine", "kleinem"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Sie fährt mit ___ Zug.'",
+    "answers": ["dem schnellen", "schnellem", "schnelle", "schnellen"],
+    "correct": 3
+  },
+  {
+    "question": "Ergänze: 'In ___ Stadt lebe ich.'",
+    "answers": ["der alten", "alten", "alte", "altem"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Etwas ___ Lebensfreude.'",
+    "answers": ["mehr", "mehres", "mehrer", "mehrem"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Ein ___ Plan.'",
+    "answers": ["realistisches", "realistische", "realistischer", "realistischem"],
+    "correct": 2
+  },
+  {
+    "question": "Ergänze: 'Der Chef ___ Firma.'",
+    "answers": ["die", "der", "des", "dem"],
+    "correct": 1
+  },
+  {
+    "question": "Ergänze: 'Hast du ___ roten Pullover gesehen?'",
+    "answers": ["den", "die", "das", "des"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Ich trinke ___ Kaffee.'",
+    "answers": ["frischen", "frische", "frischem", "frischer"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Ein ___ Tag.'",
+    "answers": ["wunderschönes", "wunderschöne", "wunderschöner", "wunderschönem"],
+    "correct": 2
+  },
+  {
+    "question": "Ergänze: 'Die Qualität ___ Produkts.'",
+    "answers": ["die", "der", "das", "des"],
+    "correct": 3
+  },
+  {
+    "question": "Ergänze: 'Mit ___ Freunden.'",
+    "answers": ["guten", "gute", "guter", "gutem"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Sie arbeitet in ___ Büro.'",
+    "answers": ["einem großen", "ein großes", "großen", "großem"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Ein ___ Gedanke.'",
+    "answers": ["traurig", "trauriger", "trauriges", "traurigem"],
+    "correct": 1
+  },
+  {
+    "question": "Ergänze: 'Ich sehe ___ blauen Himmel.'",
+    "answers": ["den", "die", "das", "des"],
+    "correct": 0
+  },
+  {
+    "question": "Ergänze: 'Das Ergebnis ___ Verhandlungen.'",
+    "answers": ["die", "der", "das", "den"],
+    "correct": 1
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Was ist die Hauptstadt von Deutschland?",
+    "answers": [
+      "Berlin",
+      "München",
+      "Hamburg",
+      "Frankfurt"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Wie viele Bundesländer hat Deutschland?",
+    "answers": [
+      "16",
+      "12",
+      "14",
+      "18"
+    ],
+    "correct": 0
+  }
+]

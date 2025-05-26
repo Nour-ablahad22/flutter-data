@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Welcher Satz ist im Konjunktiv II?",
+    "answers": [
+      "Er geht zur Schule.",
+      "Er ging zur Schule.",
+      "Er gehe zur Schule.",
+      "Er würde zur Schule gehen."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Welche Form drückt eine unreale Gegenwart aus?",
+    "answers": [
+      "Er spielt Fußball.",
+      "Er spielte Fußball.",
+      "Er spiele Fußball.",
+      "Er würde Fußball spielen."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Welcher Satz enthält eine hypothetische Situation?",
+    "answers": [
+      "Wenn du ihn siehst, grüße ihn.",
+      "Wenn du ihn sähest, würdest du ihn grüßen.",
+      "Wenn du ihn gesehen hast, grüße ihn.",
+      "Wenn du ihn sahst, grüßtest du ihn."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Wie lautet die Konjunktiv II-Form von 'haben' in der 1. Person Singular?",
+    "answers": [
+      "habe",
+      "hätte",
+      "hatte",
+      "würde haben"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Welcher Satz ist eine höfliche Anfrage?",
+    "answers": [
+      "Kannst du mir helfen?",
+      "Könntest du mir helfen?",
+      "Konntest du mir helfen?",
+      "Wirst du mir helfen?"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Welcher Satz beschreibt einen Wunsch?",
+    "answers": [
+      "Ich wünsche dir viel Glück.",
+      "Ich wünschte, ich könnte mitkommen.",
+      "Ich habe gewünscht, dass du kommst.",
+      "Ich wünsche, dass du kommst."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Welche Aussage ist im Konjunktiv II?",
+    "answers": [
+      "Es ist möglich, dass er kommt.",
+      "Es wäre schön, wenn er käme.",
+      "Er kommt, wenn er kann.",
+      "Er kam, als ich schlief."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Welche Verbform passt zu Konjunktiv II?",
+    "answers": [
+      "gehen",
+      "ging",
+      "ginge",
+      "gegangen"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Welches Modalverb wird oft mit Konjunktiv II benutzt?",
+    "answers": [
+      "müssen",
+      "dürfen",
+      "sollen",
+      "würde"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Welcher Satz ist grammatikalisch korrekt?",
+    "answers": [
+      "Wenn ich Zeit habe, komme ich.",
+      "Wenn ich Zeit hätte, komme ich.",
+      "Wenn ich Zeit hätte, würde ich kommen.",
+      "Wenn ich Zeit habe, würde ich kommen."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Welcher Satz drückt eine unwirkliche Situation aus?",
+    "answers": [
+      "Er arbeitet jeden Tag.",
+      "Er arbeitete jeden Tag.",
+      "Er arbeite jeden Tag.",
+      "Er würde jeden Tag arbeiten."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Welche Form ist richtig für Konjunktiv II von 'sehen' in der 3. Person Plural?",
+    "answers": [
+      "sie sähen",
+      "sie sehen",
+      "sie sähen",
+      "sie hätten gesehen"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Welcher Satz ist typisch für indirekte Rede im Konjunktiv II?",
+    "answers": [
+      "Er sagt, er ist krank.",
+      "Er sagt, er sei krank.",
+      "Er sagte, er sei krank.",
+      "Er sagte, er wäre krank."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Welche Antwort passt? 'Wenn du früher ___ , hättest du ihn getroffen.'",
+    "answers": [
+      "kommst",
+      "kamst",
+      "gekommen wärst",
+      "gekommen bist"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Was beschreibt der Konjunktiv II hauptsächlich?",
+    "answers": [
+      "Tatsachen",
+      "Unwirkliches oder Mögliche",
+      "Befehle",
+      "Zukünftige Ereignisse"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Welcher Satz ist eine höfliche Bitte?",
+    "answers": [
+      "Gib mir das!",
+      "Gäbe mir das!",
+      "Könntest du mir das geben?",
+      "Du gibst mir das!"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Welche Form ist richtig?", 
+    "answers": [
+      "Ich werde singen.",
+      "Ich sang.",
+      "Ich singe.",
+      "Ich würde singen."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Welcher Satz enthält einen unreellen Wunsch?",
+    "answers": [
+      "Ich wünsche dir einen schönen Tag.",
+      "Ich wünschte, du wärst hier.",
+      "Ich wünsche, dass du kommst.",
+      "Ich wünschte, du kommst."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Welche Struktur gehört zum Konjunktiv II?",
+    "answers": [
+      "Präsens + Verb",
+      "würde + Infinitiv",
+      "Perfekt + Partizip",
+      "Präteritum + Hilfsverb"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Welcher Satz ist im Konjunktiv II und beschreibt eine unrealistische Situation?",
+    "answers": [
+      "Wenn es regnet, bleibe ich zu Hause.",
+      "Wenn es regnen würde, bliebe ich zu Hause.",
+      "Wenn es geregnet hat, bleibe ich zu Hause.",
+      "Wenn es regnen soll, bleibe ich zu Hause."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Welche Form passt? 'Ich ___ dich gestern gesehen.'",
+    "answers": [
+      "habe",
+      "hatte",
+      "wäre",
+      "hätte"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Welcher Satz ist im Konjunktiv II und aus der Vergangenheit?",
+    "answers": [
+      "Wenn du kämst, würde ich lachen.",
+      "Wenn du gekommen wärst, hätte ich gelacht.",
+      "Wenn du kommst, lache ich.",
+      "Wenn du gekommen bist, habe ich gelacht."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Welcher Satz beschreibt eine unrealistische Zukunftssituation?",
+    "answers": [
+      "Wenn du gehst, rufe ich an.",
+      "Wenn du gehen würdest, rufe ich an.",
+      "Wenn du gehen würdest, würde ich anrufen.",
+      "Wenn du gegangen wärst, hätte ich angerufen."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Welche Aussage ist im Konjunktiv II?",
+    "answers": [
+      "Ich esse gern Eis.",
+      "Ich aß gern Eis.",
+      "Ich esse Eis gern.",
+      "Ich würde gern Eis essen."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Welcher Satz ist eine formelle indirekte Rede?",
+    "answers": [
+      "Er sagt, er kommt morgen.",
+      "Er sagt, er komme morgen.",
+      "Er sagte, er käme morgen.",
+      "Er sagte, er kommt morgen."
+    ],
+    "correct": 2
+  }
+]
