@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Präsens",
+    "questionsFile": "assets/Gramatik/Gramatik_B1/Präsens.json",
+    "explanationFile": "assets/grammar_explanations/all_explanations.json"
+  },
+  {
+    "title": "Perfekt",
+    "questionsFile": "assets/Gramatik/Gramatik_B1/perfekt.json",
+    "explanationFile": "assets/grammar_explanations/all_explanations.json"
+  },
+  {
+    "title": "Präteritum",
+    "questionsFile": "assets/Gramatik/Gramatik_B1/Präteritum.json",
+    "explanationFile": "assets/grammar_explanations/all_explanations.json"
+  },
+  {
+    "title": "Futur I",
+    "questionsFile": "assets/Gramatik/Gramatik_B1/futur1.json",
+    "explanationFile": "assets/grammar_explanations/all_explanations.json"
+  },
+  {
+    "title": "Modalverben",
+    "questionsFile": "assets/Gramatik/Gramatik_B1/modalverben.json",
+    "explanationFile": "assets/grammar_explanations/all_explanations.json"
+  },
+  {
+    "title": "Adjektivdeklination",
+    "questionsFile": "assets/Gramatik/Gramatik_B1/adjektivdeklination.json",
+    "explanationFile": "assets/grammar_explanations/all_explanations.json"
+  },
+  {
+    "title": "Konjunktiv II",
+    "questionsFile": "assets/Gramatik/Gramatik_B1/konjunktiv2.json",
+    "explanationFile": "assets/grammar_explanations/all_explanations.json"
+  },
+  {
+    "title": "Relativsätze",
+    "questionsFile": "assets/Gramatik/Gramatik_B1/Relativsätze.json",
+    "explanationFile": "assets/grammar_explanations/all_explanations.json"
+  },
+  {
+    "title": "Passiv",
+    "questionsFile": "assets/Gramatik/Gramatik_B1/passiv.json",
+    "explanationFile": "assets/grammar_explanations/all_explanations.json"
+  },
+  {
+    "title": "Konditionalsätze",
+    "questionsFile": "assets/Gramatik/Gramatik_B1/Konditionalsätze.json",
+    "explanationFile": "assets/grammar_explanations/all_explanations.json"
+  }
+]

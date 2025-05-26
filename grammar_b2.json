@@ -1,0 +1,17 @@
+[
+  { "title": "Konjunktiv II", "questionsFile": "assets/Gramatik/Gramatik_B2/konjunktiv2.json" },
+  { "title": "Passiv", "questionsFile": "assets/Gramatik/Gramatik_B2/passiv.json" },
+  { "title": "Relativsätze", "questionsFile": "assets/Gramatik/Gramatik_B2/relativsaetze.json" },
+  { "title": "Konditionalsätze", "questionsFile": "assets/Gramatik/Gramatik_B2/konditionalsaetze.json" },
+  { "title": "Temporale Nebensätze", "questionsFile": "assets/Gramatik/Gramatik_B2/temporale_nebensaetze.json" },
+  { "title": "Finalsätze", "questionsFile": "assets/Gramatik/Gramatik_B2/finalsaetze.json" },
+  { "title": "Kausalsätze", "questionsFile": "assets/Gramatik/Gramatik_B2/kausalsaetze.json" },
+  { "title": "Konsekutivsätze", "questionsFile": "assets/Gramatik/Gramatik_B2/konsekutivsaetze.json" },
+  { "title": "Infinitivkonstruktionen mit 'zu'", "questionsFile": "assets/Gramatik/Gramatik_B2/infinitiv_mit_zu.json" },
+  { "title": "Partizipialkonstruktionen", "questionsFile": "assets/Gramatik/Gramatik_B2/partizipialkonstruktionen.json" },
+  { "title": "Nominalisierung", "questionsFile": "assets/Gramatik/Gramatik_B2/nominalisierung.json" },
+  { "title": "Adjektivdeklination", "questionsFile": "assets/Gramatik/Gramatik_B2/adjektivdeklination.json" },
+  { "title": "Trennbare und untrennbare Verben", "questionsFile": "assets/Gramatik/Gramatik_B2/trennbare_verben.json" },
+  { "title": "Verbvalenz und Satzstruktur", "questionsFile": "assets/Gramatik/Gramatik_B2/verbvalenz.json" },
+  { "title": "Modalverben + Perfekt", "questionsFile": "assets/Gramatik/Gramatik_B2/modalverben_perfekt.json" }
+]

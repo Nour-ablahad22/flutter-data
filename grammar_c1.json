@@ -1,0 +1,17 @@
+[
+  { "title": "Konjunktiv I", "questionsFile": "assets/Gramatik/Gramatik_C1/konjunktiv1.json" },
+  { "title": "Konjunktiv II (unregelmäßig)", "questionsFile": "assets/Gramatik/Gramatik_C1/konjunktiv2_unregelmaessig.json" },
+  { "title": "Passiv (alle Zeiten)", "questionsFile": "assets/Gramatik/Gramatik_C1/passiv_alle_zeiten.json" },
+  { "title": "Relativsätze (erweiterte Formen)", "questionsFile": "assets/Gramatik/Gramatik_C1/relativsaetze_erweitert.json" },
+  { "title": "Konditionalsätze (unregelmäßig)", "questionsFile": "assets/Gramatik/Gramatik_C1/konditionalsaetze_unregelmaessig.json" },
+  { "title": "Temporale Nebensätze (erweiterte Formen)", "questionsFile": "assets/Gramatik/Gramatik_C1/temporale_nebensaetze_erweitert.json" },
+  { "title": "Finalsätze (erweiterte Formen)", "questionsFile": "assets/Gramatik/Gramatik_C1/finalsaetze_erweitert.json" },
+  { "title": "Kausalsätze (erweiterte Formen)", "questionsFile": "assets/Gramatik/Gramatik_C1/kausalsaetze_erweitert.json" },
+  { "title": "Konsekutivsätze (erweiterte Formen)", "questionsFile": "assets/Gramatik/Gramatik_C1/konsekutivsaetze_erweitert.json" },
+  { "title": "Infinitivkonstruktionen mit 'zu' (erweiterte Formen)", "questionsFile": "assets/Gramatik/Gramatik_C1/infinitiv_mit_zu_erweitert.json" },
+  { "title": "Partizipialkonstruktionen (erweiterte Formen)", "questionsFile": "assets/Gramatik/Gramatik_C1/partizipialkonstruktionen_erweitert.json" },
+  { "title": "Nominalisierung (erweiterte Formen)", "questionsFile": "assets/Gramatik/Gramatik_C1/nominalisierung_erweitert.json" },
+  { "title": "Adjektivdeklination (erweiterte Formen)", "questionsFile": "assets/Gramatik/Gramatik_C1/adjektivdeklination_erweitert.json" },
+  { "title": "Trennbare und untrennbare Verben (erweiterte Formen)", "questionsFile": "assets/Gramatik/Gramatik_C1/trennbare_verben_erweitert.json" },
+  { "title": "Verbvalenz und Satzstruktur (erweiterte Formen)", "questionsFile": "assets/Gramatik/Gramatik_C1/verbvalenz_erweitert.json" }
+]
