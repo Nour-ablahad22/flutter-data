@@ -1,46 +1,1566 @@
 [
   {
-    "text": "هذا النص الأول يتحدث عن موضوع معين...",
+    "text": "Liebe Frau Becker, vielen Dank für Ihre nette Einladung zum Mittagessen. Ich freue mich sehr darauf. Mein Zug kommt um 12 Uhr an. Kann ich Ihnen beim Kochen helfen? Bis bald! Herzliche Grüße, Jens.",
     "questions": [
       {
-        "question": "ما هو الموضوع الرئيسي لهذا النص؟",
-        "options": ["موضوع A", "موضوع B", "موضوع C"],
-        "answer": "موضوع A"
+        "question": "Jens kommt mit dem Flugzeug an.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
       },
       {
-        "question": "ما هي الفكرة الرئيسية في الفقرة الأولى؟",
-        "options": ["فكرة X", "فكرة Y", "فكرة Z"],
-        "answer": "فكرة Y"
+        "question": "Jens bietet seine Hilfe beim Kochen an.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
       }
     ]
   },
   {
-    "text": "هذا النص الثاني يتحدث عن موضوع مختلف...",
+    "text": "Hallo Lisa, danke für deine Einladung zum Geburtstag. Ich komme gern am Freitagabend. Soll ich Getränke mitbringen? Ich freue mich schon! Liebe Grüße, Paul.",
     "questions": [
       {
-        "question": "ما هو الشيء الأساسي الذي يركز عليه هذا النص؟",
-        "options": ["شيء A", "شيء B", "شيء C"],
-        "answer": "شيء B"
+        "question": "Paul kommt nicht zum Geburtstag.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
       },
       {
-        "question": "ما هي الفكرة التي تكررت في النص؟",
-        "options": ["فكرة 1", "فكرة 2", "فكرة 3"],
-        "answer": "فكرة 1"
+        "question": "Paul fragt, ob er Getränke mitbringen soll.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
       }
     ]
   },
   {
-    "text": "هذا النص الثالث يتعلق بفكرة جديدة...",
+    "text": "Guten Morgen Frau Wagner, vielen Dank für Ihre Nachricht. Ich kann am Montag um 10 Uhr zum Arzttermin kommen. Bitte bestätigen Sie den Termin. Mit freundlichen Grüßen, Sabine.",
     "questions": [
       {
-        "question": "ما هو الهدف الرئيسي من هذا النص؟",
-        "options": ["هدف A", "هدف B", "هدف C"],
-        "answer": "هدف C"
+        "question": "Sabine hat den Arzttermin am Montag bestätigt.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
       },
       {
-        "question": "ما هي المشكلة التي يناقشها النص؟",
-        "options": ["مشكلة X", "مشكلة Y", "مشكلة Z"],
-        "answer": "مشكلة Z"
+        "question": "Sabine kann am Montag um 10 Uhr zum Arzttermin kommen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Hallo Herr Meier, danke für die Einladung zum Theater. Ich freue mich sehr und komme gerne mit meiner Frau. Können wir die Karten am Freitag abholen? Viele Grüße, Thomas.",
+    "questions": [
+      {
+        "question": "Thomas kommt allein zum Theater.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Thomas möchte die Karten am Freitag abholen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Liebe Frau Klein, vielen Dank für Ihre Hilfe letzte Woche. Ich habe die Dokumente erhalten und bearbeite sie jetzt. Ich melde mich, wenn ich Fragen habe. Herzliche Grüße, Markus.",
+    "questions": [
+      {
+        "question": "Markus hat die Dokumente nicht bekommen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Markus wird sich melden, wenn er Fragen hat.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  
+  {
+    "text": "Liebe Frau Müller, vielen Dank für Ihre Einladung zum Kaffeetrinken. Ich komme gerne am Samstag um 15 Uhr. Es freut mich, Sie wiederzusehen. Können Sie mir bitte sagen, ob ich etwas mitbringen soll? Herzliche Grüße, Thomas Meier.",
+    "questions": [
+      {
+        "question": "Thomas kommt am Sonntag zum Kaffeetrinken.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Thomas fragt, ob er etwas mitbringen soll.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Hallo Anna, ich habe dein Buch gestern gelesen. Es war sehr interessant und spannend. Danke, dass du es mir geliehen hast. Ich werde es nächste Woche zurückbringen. Viele Grüße, Markus.",
+    "questions": [
+      {
+        "question": "Markus hat das Buch von Anna bekommen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Markus wird das Buch erst in einem Monat zurückbringen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Guten Tag Herr Schmidt, vielen Dank für Ihre E-Mail. Ich kann am Mittwoch leider nicht zum Treffen kommen. Können wir einen anderen Termin finden? Ich freue mich auf Ihre Antwort. Mit freundlichen Grüßen, Laura.",
+    "questions": [
+      {
+        "question": "Laura kann am Mittwoch zum Treffen kommen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Laura möchte einen neuen Termin vereinbaren.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  
+  
+
+  {
+    "text": "Liebe Frau Bauer, vielen Dank für die Einladung zum Mittagessen. Ich komme am Freitag um 13 Uhr. Ich freue mich darauf. Herzliche Grüße, Anna.",
+    "questions": [
+      {
+        "question": "Anna kommt am Freitag zum Mittagessen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Anna kommt am Samstag zum Mittagessen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Hallo Peter, ich habe dein Paket erhalten. Danke! Ich werde es morgen öffnen. Viele Grüße, Julia.",
+    "questions": [
+      {
+        "question": "Julia hat das Paket noch nicht erhalten.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Julia will das Paket morgen öffnen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Guten Tag Herr Schmidt, ich kann am Dienstag nicht zum Meeting kommen. Können wir einen neuen Termin finden? Mit freundlichen Grüßen, Laura.",
+    "questions": [
+      {
+        "question": "Laura kommt am Dienstag zum Meeting.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Laura möchte einen neuen Termin.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Lieber Thomas, danke für deine Hilfe gestern. Ohne dich hätte ich das Projekt nicht geschafft. Viele Grüße, Sarah.",
+    "questions": [
+      {
+        "question": "Sarah hat Thomas für seine Hilfe gedankt.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Sarah hat das Projekt alleine geschafft.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Hallo Maria, ich komme am Samstag zu deinem Geburtstag. Soll ich etwas zu essen mitbringen? Liebe Grüße, Stefan.",
+    "questions": [
+      {
+        "question": "Stefan kommt zum Geburtstag von Maria.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Stefan will nichts mitbringen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Guten Morgen Herr Müller, ich habe die Rechnung erhalten. Ich werde sie nächste Woche bezahlen. Mit freundlichen Grüßen, Claudia.",
+    "questions": [
+      {
+        "question": "Claudia hat die Rechnung noch nicht erhalten.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Claudia zahlt die Rechnung nächste Woche.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Liebe Sophie, danke für deinen Brief. Ich schreibe dir bald zurück. Viele Grüße, Paul.",
+    "questions": [
+      {
+        "question": "Paul hat den Brief von Sophie bekommen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Paul schreibt bald zurück.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Hallo Herr Weber, vielen Dank für Ihre schnelle Antwort. Ich freue mich auf die Zusammenarbeit. Mit freundlichen Grüßen, Lisa.",
+    "questions": [
+      {
+        "question": "Lisa freut sich auf die Zusammenarbeit.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Lisa hat keine Antwort bekommen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Liebe Anna, ich kann am Sonntag nicht kommen. Tut mir leid! Wir sehen uns nächste Woche. Liebe Grüße, Markus.",
+    "questions": [
+      {
+        "question": "Markus kann am Sonntag kommen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Markus freut sich auf nächste Woche.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Guten Tag Frau Hoffmann, vielen Dank für Ihre Einladung. Ich werde am Donnerstag da sein. Mit freundlichen Grüßen, Jens.",
+    "questions": [
+      {
+        "question": "Jens kommt am Donnerstag.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Jens kommt am Freitag.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Hallo Lisa, ich habe die Tickets für das Konzert gekauft. Wir treffen uns am Samstag am Bahnhof. Liebe Grüße, Tom.",
+    "questions": [
+      {
+        "question": "Tom hat die Konzerttickets gekauft.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Sie treffen sich am Freitag.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Liebe Frau Meier, ich habe Ihre Nachricht gelesen. Ich komme morgen zum Arzttermin. Vielen Dank! Mit freundlichen Grüßen, Eva.",
+    "questions": [
+      {
+        "question": "Eva kommt morgen zum Arzttermin.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Eva kommt nicht zum Arzttermin.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Hallo Michael, danke für deine Hilfe beim Umzug. Ohne dich wäre es schwer gewesen. Viele Grüße, Claudia.",
+    "questions": [
+      {
+        "question": "Claudia dankt Michael für seine Hilfe.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Der Umzug war einfach ohne Michaels Hilfe.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Guten Tag Herr Fischer, ich habe den Bericht gelesen und einige Fragen. Können wir telefonieren? Mit freundlichen Grüßen, Katrin.",
+    "questions": [
+      {
+        "question": "Katrin hat den Bericht gelesen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Katrin will nicht telefonieren.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Liebe Jana, ich freue mich auf unser Treffen morgen. Soll ich etwas mitbringen? Viele Grüße, Leon.",
+    "questions": [
+      {
+        "question": "Leon freut sich auf das Treffen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Leon will nichts mitbringen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Hallo Frau Keller, ich kann am Mittwoch nicht zur Besprechung kommen. Können wir einen neuen Termin finden? Mit freundlichen Grüßen, Martin.",
+    "questions": [
+      {
+        "question": "Martin kann am Mittwoch kommen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Martin möchte einen neuen Termin.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Liebe Sabine, danke für dein Geschenk. Ich habe mich sehr gefreut. Wir sehen uns nächste Woche! Herzliche Grüße, Claudia.",
+    "questions": [
+      {
+        "question": "Claudia hat sich über das Geschenk gefreut.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Claudia sieht Sabine nicht nächste Woche.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Hallo Peter, ich kann leider nicht zum Fußballspiel kommen. Vielleicht das nächste Mal. Viele Grüße, Tim.",
+    "questions": [
+      {
+        "question": "Tim kommt zum Fußballspiel.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Tim hofft auf das nächste Mal.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Guten Tag Frau Schmidt, ich habe die Einladung zum Seminar erhalten. Ich werde teilnehmen. Mit freundlichen Grüßen, Andreas.",
+    "questions": [
+      {
+        "question": "Andreas hat die Einladung nicht bekommen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Andreas nimmt am Seminar teil.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Liebe Frau Hoffmann, vielen Dank für Ihre Unterstützung. Ich melde mich, wenn ich weitere Fragen habe. Herzliche Grüße, Daniel.",
+    "questions": [
+      {
+        "question": "Daniel hat keine Unterstützung bekommen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Daniel wird sich melden, wenn er Fragen hat.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+
+
+  
+  {
+    "text": "Liebe Frau Müller, danke für die Einladung zum Kaffee. Ich komme gern am Samstag um 15 Uhr. Herzliche Grüße, Anna.",
+    "questions": [
+      {
+        "question": "Anna kommt am Samstag zum Kaffee.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Anna kommt am Sonntag zum Kaffee.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Hallo Tom, ich habe deine Nachricht erhalten. Ich rufe dich morgen an. Viele Grüße, Julia.",
+    "questions": [
+      {
+        "question": "Julia hat Toms Nachricht erhalten.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Julia will Tom heute anrufen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Guten Tag Herr Becker, ich kann am Dienstag nicht zum Meeting kommen. Können wir einen neuen Termin finden? Mit freundlichen Grüßen, Laura.",
+    "questions": [
+      {
+        "question": "Laura kommt am Dienstag zum Meeting.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Laura möchte einen neuen Termin.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Lieber Max, danke für deine Hilfe beim Umzug. Ohne dich wäre es schwer gewesen. Viele Grüße, Sarah.",
+    "questions": [
+      {
+        "question": "Sarah dankt Max für seine Hilfe.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Der Umzug war einfach ohne Max.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Hallo Maria, ich komme am Freitag zu deiner Feier. Soll ich etwas mitbringen? Liebe Grüße, Stefan.",
+    "questions": [
+      {
+        "question": "Stefan kommt zur Feier.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Stefan bringt nichts mit.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Guten Morgen Frau Schmidt, ich habe die Rechnung erhalten. Ich werde sie nächste Woche bezahlen. Mit freundlichen Grüßen, Claudia.",
+    "questions": [
+      {
+        "question": "Claudia hat die Rechnung erhalten.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Claudia zahlt die Rechnung nächste Woche.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Liebe Sophie, danke für deinen Brief. Ich schreibe dir bald zurück. Viele Grüße, Paul.",
+    "questions": [
+      {
+        "question": "Paul hat den Brief von Sophie bekommen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Paul schreibt bald zurück.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Hallo Herr Weber, vielen Dank für Ihre schnelle Antwort. Ich freue mich auf die Zusammenarbeit. Mit freundlichen Grüßen, Lisa.",
+    "questions": [
+      {
+        "question": "Lisa freut sich auf die Zusammenarbeit.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Lisa hat keine Antwort bekommen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Liebe Anna, ich kann am Sonntag nicht kommen. Tut mir leid! Wir sehen uns nächste Woche. Liebe Grüße, Markus.",
+    "questions": [
+      {
+        "question": "Markus kann am Sonntag kommen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Markus freut sich auf nächste Woche.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Guten Tag Frau Hoffmann, vielen Dank für Ihre Einladung. Ich werde am Donnerstag da sein. Mit freundlichen Grüßen, Jens.",
+    "questions": [
+      {
+        "question": "Jens kommt am Donnerstag.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Jens kommt am Freitag.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+
+
+  {
+    "text": "Hallo Anna, vielen Dank für deine Einladung. Ich komme gerne vorbei. Mein Fahrrad ist kaputt, deshalb nehme ich den Bus. Die Haltestelle ist neben dem Supermarkt. Bis später! Liebe Grüße, Tom.",
+    "questions": [
+      {
+        "question": "Tom kommt mit dem Fahrrad.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Tom nimmt den Bus zur Einladung.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Liebe Frau Becker, vielen Dank für Ihre Nachricht. Ja, ich habe Zeit am Mittwoch. Ich komme um 16 Uhr zu Ihrem Büro. Bis dann! Mit freundlichen Grüßen, Lena.",
+    "questions": [
+      {
+        "question": "Lena kommt am Dienstag um 16 Uhr.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Lena kommt am Mittwoch um 16 Uhr.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Guten Tag Herr Meier, ich möchte einen Termin bei Ihnen machen. Am besten nächsten Montag. Vielen Dank!",
+    "questions": [
+      {
+        "question": "Der Sender möchte einen Termin nächsten Montag.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Der Sender ruft wegen eines Urlaubs an.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Hi Tim, willst du heute Abend mit mir ins Kino gehen? Der Film fängt um 20 Uhr an. Melde dich bitte. LG, Sara",
+    "questions": [
+      {
+        "question": "Sara möchte mit Tim ins Kino gehen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Der Film beginnt um 19 Uhr.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Hallo, ich suche eine Wohnung zum Mieten. Gibt es noch etwas frei? Ich brauche zwei Zimmer und eine Küche. Danke für Ihre Antwort.",
+    "questions": [
+      {
+        "question": "Die Person sucht eine Wohnung.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Die Person braucht drei Zimmer.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+
+
+
+  {
+    "text": "Liebe Maria, am Samstag habe ich Geburtstag. Ich werde 30 Jahre alt. Ich feiere bei mir zu Hause. Die Feier beginnt um 17 Uhr. Es kommen viele Freunde, und es gibt Kuchen, Pizza und Musik. Wenn das Wetter schön ist, sitzen wir im Garten. Bring bitte eine Jacke mit. Ich freue mich, wenn du kommst! Viele Grüße, Julia",
+    "questions": [
+      {
+        "question": "Julia wird 40 Jahre alt.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Die Feier findet im Garten statt, wenn das Wetter gut ist.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Hallo Stefan, nächste Woche habe ich Urlaub. Ich möchte ans Meer fahren. Ich habe ein kleines Hotel in Italien gebucht. Es liegt direkt am Strand. Jeden Tag will ich schwimmen, lesen und spazieren gehen. Ich freue mich sehr auf die Reise. Vielleicht fahren wir das nächste Mal zusammen? Viele Grüße, Lisa",
+    "questions": [
+      {
+        "question": "Lisa macht Urlaub in den Bergen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Lisa möchte sich am Meer entspannen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Liebe Frau Müller, ich danke Ihnen für die Einladung zum Abendessen. Es war ein sehr schöner Abend. Das Essen war lecker, besonders der Salat. Auch das Gespräch mit Ihnen und Herrn Müller hat mir gut gefallen. Ich hoffe, wir sehen uns bald wieder. Herzliche Grüße, Anna Schneider",
+    "questions": [
+      {
+        "question": "Anna fand das Essen schlecht.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Anna hat sich gut mit Frau und Herrn Müller unterhalten.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Hallo Jonas, heute war mein erster Tag im neuen Job. Ich arbeite jetzt in einer kleinen Firma in der Stadt. Die Kollegen sind freundlich, und mein Chef ist sehr nett. Ich habe ein eigenes Büro und viele neue Aufgaben. Es ist spannend, aber auch ein bisschen stressig. Ich hoffe, es wird bald leichter. Liebe Grüße, Miriam",
+    "questions": [
+      {
+        "question": "Miriam arbeitet in einer großen Firma auf dem Land.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Miriam hat ein eigenes Büro.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Sehr geehrte Damen und Herren, ich interessiere mich für Ihren Deutschkurs am Abend. Ich arbeite tagsüber und kann nur ab 18 Uhr teilnehmen. Gibt es noch freie Plätze im Kurs? Und wie hoch ist die Kursgebühr? Ich freue mich auf Ihre Antwort. Mit freundlichen Grüßen, Ahmed El-Masri",
+    "questions": [
+      {
+        "question": "Ahmed möchte morgens am Kurs teilnehmen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Ahmed fragt nach der Gebühr für den Kurs.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Liebe Eltern, nächste Woche machen wir mit der Klasse einen Ausflug in den Zoo. Wir fahren am Dienstag um 8 Uhr mit dem Bus los und sind gegen 15 Uhr zurück. Bitte geben Sie Ihrem Kind ein Lunchpaket und etwas zu trinken mit. Denken Sie auch an wetterfeste Kleidung. Vielen Dank! Ihre Frau Schneider",
+    "questions": [
+      {
+        "question": "Die Klasse fährt am Mittwoch in den Zoo.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Die Kinder sollen Essen und Trinken mitbringen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Hallo Lukas, wir treffen uns morgen um 14 Uhr am Bahnhof. Ich bringe mein Fahrrad mit, denn wir wollen eine Radtour machen. Der Weg führt durch den Wald bis zum See. Dort machen wir ein Picknick. Bitte nimm eine Decke mit. Bis morgen! Timo",
+    "questions": [
+      {
+        "question": "Timo will eine Wanderung machen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Timo schlägt ein Picknick am See vor.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Liebe Familie Huber, vielen Dank für Ihre Gastfreundschaft. Die Tage bei Ihnen auf dem Bauernhof waren sehr schön. Unsere Kinder haben viel gelernt und hatten viel Spaß mit den Tieren. Besonders die Pferde haben ihnen gefallen. Wir kommen gern wieder. Herzliche Grüße, Familie Becker",
+    "questions": [
+      {
+        "question": "Die Familie Huber war bei Familie Becker zu Besuch.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Die Kinder mochten besonders die Pferde.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Guten Tag, ich habe gestern bei Ihnen einen Pullover gekauft, aber er ist zu klein. Kann ich ihn umtauschen? Ich habe den Kassenbon noch. Der Pullover ist ungetragen und in der Originalverpackung. Vielen Dank für Ihre Hilfe. Mit freundlichen Grüßen, Elena Winkler",
+    "questions": [
+      {
+        "question": "Frau Winkler hat den Pullover getragen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Frau Winkler möchte den Pullover umtauschen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Hallo Frau Berger, mein Sohn Tim ist krank und kann morgen nicht zur Schule kommen. Er hat Fieber und bleibt im Bett. Ich bringe die Entschuldigung nächste Woche mit. Bitte sagen Sie dem Lehrer Bescheid. Vielen Dank! Freundliche Grüße, Sabine Meier",
+    "questions": [
+      {
+        "question": "Tim geht morgen zur Schule.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Tim hat Fieber und bleibt zu Hause.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+
+
+  {
+    "text": "Liebe Anna, morgen habe ich einen wichtigen Arzttermin in der Stadt. Ich fahre mit dem Bus um 8 Uhr los, weil ich um 9 Uhr da sein muss. Danach möchte ich noch in die Bibliothek gehen und ein paar Bücher ausleihen. Hast du vielleicht Zeit, mich zu begleiten? Liebe Grüße, Sabine",
+    "questions": [
+      {
+        "question": "Sabine fährt um 10 Uhr zum Arzt.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Sabine möchte Bücher ausleihen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Hallo Ben, unser Fußballtraining fällt heute aus, weil es stark regnet. Der Trainer hat gesagt, dass wir uns am Freitag wieder treffen. Bitte sag auch Lukas Bescheid. Ich bleibe heute zu Hause und mache meine Hausaufgaben. Grüße, Tarek",
+    "questions": [
+      {
+        "question": "Das Training findet heute statt.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Tarek will heute Hausaufgaben machen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Sehr geehrte Damen und Herren, ich habe am Wochenende einen Flug bei Ihnen gebucht, aber ich habe noch keine Bestätigung per E-Mail erhalten. Ich wollte sicher gehen, dass die Buchung erfolgreich war. Die Flugnummer ist LH203. Bitte senden Sie mir die Bestätigung noch einmal zu. Mit freundlichen Grüßen, David Horn",
+    "questions": [
+      {
+        "question": "David hat seine Flugbestätigung schon erhalten.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "David bittet um eine neue Bestätigung.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Liebe Claudia, ich bin am Wochenende bei meinen Großeltern auf dem Land. Sie haben viele Tiere: Hühner, Ziegen und auch einen Hund. Ich helfe meinem Opa im Garten und pflücke Erdbeeren. Abends spielen wir Karten oder schauen einen Film. Es ist ruhig und schön hier. Viele Grüße, Lisa",
+    "questions": [
+      {
+        "question": "Lisa besucht ihre Freunde in der Stadt.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Lisa pflückt Erdbeeren und hilft im Garten.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Guten Tag Herr Klein, hier ist Ihre Bestellung vom 20. Mai. Wir haben die Bücher in zwei Paketen verschickt. Das erste Paket ist heute angekommen, das zweite kommt voraussichtlich morgen. Bitte prüfen Sie den Inhalt und melden Sie sich, falls etwas fehlt. Mit freundlichen Grüßen, Ihr Buchversand-Team",
+    "questions": [
+      {
+        "question": "Herr Klein hat alle Pakete schon bekommen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Die Bestellung enthält mehrere Bücher.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Hallo Sophie, ich habe nächste Woche eine wichtige Prüfung in Mathe. Deshalb kann ich leider nicht ins Kino gehen. Ich muss viel lernen und mich gut vorbereiten. Vielleicht klappt es nächste Woche? Drück mir die Daumen! Viele Grüße, Jan",
+    "questions": [
+      {
+        "question": "Jan geht nächste Woche ins Kino.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Jan bereitet sich auf eine Prüfung vor.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Liebe Frau Meier, unser Sohn Leon hat heute beim Sport seinen Arm verletzt. Wir waren beim Arzt, und er muss eine Woche Pause machen. Bitte informieren Sie seine Lehrer, dass er nicht am Sportunterricht teilnehmen kann. Vielen Dank für Ihr Verständnis. Mit freundlichen Grüßen, Familie Weber",
+    "questions": [
+      {
+        "question": "Leon hat sich das Bein verletzt.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Leon darf eine Woche lang keinen Sport machen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Guten Tag, ich interessiere mich für eine Wohnung in der Goethestraße 10. Sie hat drei Zimmer, eine Küche und einen Balkon. Ich suche schon lange eine Wohnung in dieser Gegend. Gibt es nächste Woche einen Besichtigungstermin? Ich würde mich über eine Antwort freuen. Mit freundlichen Grüßen, Miriam König",
+    "questions": [
+      {
+        "question": "Die Wohnung hat vier Zimmer und einen Garten.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Miriam möchte die Wohnung besichtigen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Hallo Tom, ich war gestern im Supermarkt, aber es gab keine Milch mehr. Dafür habe ich Brot, Käse und Äpfel gekauft. Kannst du vielleicht heute noch Milch holen? Ich bin erst abends wieder zu Hause. Danke! Deine Schwester Laura",
+    "questions": [
+      {
+        "question": "Laura hat gestern Milch gekauft.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Tom soll heute Milch kaufen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Liebe Jana, heute war ich mit meiner Klasse im Museum. Wir haben viel über alte Autos gelernt. Die Führung war spannend, und ich habe viele Fotos gemacht. Nach dem Besuch sind wir noch ein Eis essen gegangen. Es war ein toller Tag! Viele Grüße, Mia",
+    "questions": [
+      {
+        "question": "Mia war mit ihrer Familie im Museum.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Mia hat viele Fotos gemacht.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Hallo Lukas, heute war ich beim Zahnarzt. Ich hatte seit Tagen Zahnschmerzen. Der Arzt war sehr freundlich und hat ein kleines Loch gefunden. Jetzt tut es nicht mehr weh. Nächste Woche muss ich aber noch einmal hin. Liebe Grüße, Thomas",
+    "questions": [
+      {
+        "question": "Thomas hatte Zahnschmerzen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Thomas war beim Augenarzt.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Liebe Sarah, heute war ich auf dem Wochenmarkt. Es gab frisches Obst und Gemüse. Ich habe Tomaten, Äpfel und Käse gekauft. Die Leute waren nett, und das Wetter war schön. Wir sollten mal zusammen hingehen! Viele Grüße, Emma",
+    "questions": [
+      {
+        "question": "Emma hat frisches Obst gekauft.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Emma war im Supermarkt.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Hallo Max, ich bin heute mit dem Zug nach Köln gefahren. Die Fahrt hat zwei Stunden gedauert. Im Zug habe ich gelesen und Musik gehört. In Köln habe ich meine Cousine getroffen. Morgen fahre ich wieder zurück. Grüße, Jonas",
+    "questions": [
+      {
+        "question": "Jonas ist mit dem Bus nach Köln gefahren.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Jonas hat im Zug gelesen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Liebe Frau Schröder, gestern gab es vor unserer Schule einen kleinen Unfall. Ein Fahrradfahrer ist gestürzt, weil die Straße nass war. Zum Glück war er nicht schwer verletzt. Wir haben ihm geholfen und den Notarzt gerufen. Er wurde ins Krankenhaus gebracht. Mit freundlichen Grüßen, Jan Meyer",
+    "questions": [
+      {
+        "question": "Der Fahrradfahrer war schwer verletzt.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Es gab einen Unfall vor der Schule.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Hallo Tina, heute ist eine neue Nachbarin in unser Haus eingezogen. Sie heißt Frau Lindner und kommt aus Berlin. Sie hat zwei Katzen und ist sehr freundlich. Ich habe ihr geholfen, die Möbel zu tragen. Vielleicht kommt sie morgen zu uns auf einen Kaffee. Liebe Grüße, Marie",
+    "questions": [
+      {
+        "question": "Die neue Nachbarin hat Hunde.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Marie hat der neuen Nachbarin geholfen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Hi Leon, gestern war ich mit Freunden im Kino. Wir haben einen spannenden Film gesehen – ein Krimi mit viel Action. Danach sind wir noch etwas essen gegangen. Es war ein sehr schöner Abend. Nächstes Mal kommst du mit! Grüße, Philipp",
+    "questions": [
+      {
+        "question": "Philipp war allein im Kino.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Der Film war spannend.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Guten Tag, seit gestern habe ich kein Internet mehr. Ich arbeite von zu Hause und brauche dringend eine stabile Verbindung. Ich habe Ihren Kundenservice schon angerufen, aber es gibt noch keine Lösung. Bitte helfen Sie mir schnell. Vielen Dank, Petra Neumann",
+    "questions": [
+      {
+        "question": "Petra hat Probleme mit dem Internet.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Petra arbeitet in einem Büro.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Hallo, ich möchte mich für den Deutschkurs anmelden. Ich bin Anfängerin und habe bisher nur wenig Deutsch gelernt. Ich kann abends am Unterricht teilnehmen. Gibt es noch freie Plätze im Kurs? Ich freue mich auf Ihre Antwort. Mit freundlichen Grüßen, Leila Ben Amar",
+    "questions": [
+      {
+        "question": "Leila spricht fließend Deutsch.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Leila möchte abends zum Kurs gehen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Liebe Julia, heute wollten wir eigentlich einen Spaziergang machen, aber es hat den ganzen Tag geregnet. Deshalb sind wir zu Hause geblieben, haben Tee getrunken und gelesen. Vielleicht ist morgen besseres Wetter. Viele Grüße, Lena",
+    "questions": [
+      {
+        "question": "Julia war im Park spazieren.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Es hat den ganzen Tag geregnet.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Hallo Paul, ich habe heute meinen Schlüssel verloren. Ich glaube, ich habe ihn im Bus liegen lassen. Jetzt kann ich nicht in meine Wohnung. Ich warte auf den Schlüsseldienst. Das ist echt ärgerlich! Grüße, Jana",
+    "questions": [
+      {
+        "question": "Jana hat ihren Schlüssel noch.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Jana wartet auf den Schlüsseldienst.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+
+  {
+    "text": "Heute war ich auf dem Bauernhof. Es gibt viele Tiere: Kühe, Schafe und Hühner. Ich habe den Bauern geholfen, die Kühe zu füttern. Das Wetter war sonnig und warm.",
+    "questions": [
+      {
+        "question": "Es gab viele Tiere auf dem Bauernhof.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Es hat den ganzen Tag geregnet.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Gestern habe ich meinen Geburtstag gefeiert. Meine Familie und Freunde waren da. Wir haben Kuchen gegessen und Spiele gespielt. Es war ein schöner Tag.",
+    "questions": [
+      {
+        "question": "Der Geburtstag war gestern.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Es waren keine Gäste da.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Ich war im Restaurant. Ich habe Pizza und Salat bestellt. Das Essen war lecker. Der Kellner war freundlich und schnell.",
+    "questions": [
+      {
+        "question": "Ich habe Pizza bestellt.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Der Kellner war unfreundlich.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Heute habe ich ein Geschenk gekauft. Es ist für meine Freundin. Ich habe eine schöne Tasche gefunden. Sie wird sich freuen.",
+    "questions": [
+      {
+        "question": "Das Geschenk ist für meinen Bruder.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Ich habe eine Tasche gekauft.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Ich fahre mit dem Bus zur Arbeit. Der Bus kommt jeden Morgen pünktlich. Heute war der Bus sehr voll. Ich musste stehen.",
+    "questions": [
+      {
+        "question": "Ich fahre mit dem Auto zur Arbeit.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Der Bus war heute voll.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Im Frühling ist das Wetter oft schön. Die Blumen blühen, und die Vögel singen. Man kann lange spazieren gehen.",
+    "questions": [
+      {
+        "question": "Im Frühling blühen die Blumen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Im Frühling ist es immer kalt.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Ich war beim Friseur. Ich habe meine Haare geschnitten und gewaschen. Die Friseurin war sehr nett.",
+    "questions": [
+      {
+        "question": "Ich war beim Friseur.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Die Friseurin war unfreundlich.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Ich habe einen Brief an meinen Freund geschrieben. Ich habe über meinen Urlaub erzählt. Ich habe den Brief gestern abgeschickt.",
+    "questions": [
+      {
+        "question": "Ich habe einen Brief geschrieben.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Der Brief ist für meine Schwester.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Am Wochenende mache ich oft Sport im Park. Ich laufe und spiele Fußball mit meinen Freunden. Das macht viel Spaß.",
+    "questions": [
+      {
+        "question": "Ich mache Sport im Park.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Ich gehe am Wochenende nicht raus.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Ich war im Supermarkt. Ich habe Brot, Milch und Eier gekauft. An der Kasse habe ich bezahlt. Dann bin ich nach Hause gegangen.",
+    "questions": [
+      {
+        "question": "Ich habe Brot gekauft.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Ich habe im Restaurant gegessen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+
+  
+  {
+    "text": "Ich war gestern im Zoo. Ich habe viele Tiere gesehen, zum Beispiel Elefanten, Affen und Löwen. Das Wetter war warm und sonnig.",
+    "questions": [
+      {
+        "question": "Im Zoo gibt es Elefanten.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Es war kalt im Zoo.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Ich habe eine kleine Erkältung. Ich huste und habe Schnupfen. Morgen gehe ich zum Arzt, weil ich mich nicht gut fühle.",
+    "questions": [
+      {
+        "question": "Ich habe keine Erkältung.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Ich gehe morgen zum Arzt.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Heute bin ich mit meinem Hund im Park spazieren gegangen. Er hat viel gespielt und ist herumgelaufen. Es war sehr schön draußen.",
+    "questions": [
+      {
+        "question": "Der Hund war im Park.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Es war schlecht draußen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Im Supermarkt habe ich Brot, Milch und Obst gekauft. Die Kassiererin war freundlich. Danach bin ich nach Hause gegangen.",
+    "questions": [
+      {
+        "question": "Ich habe im Supermarkt eingekauft.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Die Kassiererin war unfreundlich.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Ich habe eine Einladung zum Geburtstag bekommen. Die Party ist am Samstag. Ich freue mich auf das Fest und die Freunde.",
+    "questions": [
+      {
+        "question": "Die Geburtstagsparty ist am Samstag.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Ich habe keine Einladung bekommen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Ich schreibe einen Brief an meine Familie. Ich erzähle von meiner Arbeit und meinen Freunden. Die Familie freut sich über den Brief.",
+    "questions": [
+      {
+        "question": "Ich schreibe einen Brief.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Ich schreibe keine Briefe.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Im Sommer ist das Wetter oft warm und sonnig. Viele Leute gehen schwimmen und machen Urlaub am Meer.",
+    "questions": [
+      {
+        "question": "Im Sommer ist es warm.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Im Sommer ist es oft kalt.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Mein Tagesablauf in der Schule beginnt um acht Uhr. Ich habe Mathe, Deutsch und Sport. Nach der Schule gehe ich nach Hause.",
+    "questions": [
+      {
+        "question": "Die Schule beginnt um acht Uhr.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Nach der Schule bleibe ich in der Schule.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Ich koche zu Hause gern. Heute habe ich Pasta mit Tomatensoße gemacht. Es schmeckt lecker und ist einfach zu machen.",
+    "questions": [
+      {
+        "question": "Ich koche zu Hause gern.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Ich esse immer Fertigessen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Ich fahre mit dem Zug in die Stadt. Die Fahrt dauert etwa 30 Minuten. Ich treffe dort meine Freunde und wir gehen einkaufen.",
+    "questions": [
+      {
+        "question": "Die Zugfahrt dauert 30 Minuten.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Ich fahre mit dem Auto in die Stadt.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+
+  {
+    "text": "Ich kaufe auf dem Markt Obst und Gemüse. Die Tomaten sind frisch und die Äpfel sind rot. Der Verkäufer ist freundlich.",
+    "questions": [
+      {
+        "question": "Ich kaufe auf dem Markt Obst.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Die Tomaten sind alt.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Gestern war ich im Museum. Ich habe viele Bilder gesehen. Das Museum ist groß und hat viele Besucher.",
+    "questions": [
+      {
+        "question": "Ich war gestern im Museum.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Das Museum ist klein.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Ich lerne Fahrrad fahren. Manchmal fahre ich ohne Hilfe, aber manchmal brauche ich noch Unterstützung.",
+    "questions": [
+      {
+        "question": "Ich kann schon gut Fahrrad fahren.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Ich brauche manchmal Hilfe beim Fahrradfahren.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      }
+    ]
+  },
+  {
+    "text": "Am Nachmittag treffe ich meine Freunde im Café. Wir trinken Kaffee und reden viel. Es macht Spaß zusammen.",
+    "questions": [
+      {
+        "question": "Ich treffe meine Freunde im Café.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Wir trinken Wasser im Café.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Ich möchte ein Haustier kaufen. Ich mag Katzen und Hunde. Vielleicht bekomme ich einen Hund.",
+    "questions": [
+      {
+        "question": "Ich mag Katzen und Hunde.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Ich will kein Haustier kaufen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+
+
+  {
+    "text": "Ich kaufe heute auf dem Markt frisches Obst und Gemüse. Die Tomaten sind rot und sehr lecker. Außerdem kaufe ich Äpfel und Karotten. Der Verkäufer ist freundlich und gibt mir Tipps, wie ich das Gemüse am besten zubereite.",
+    "questions": [
+      {
+        "question": "Ich kaufe frisches Obst und Gemüse auf dem Markt.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Der Verkäufer ist unfreundlich.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Gestern habe ich das Museum besucht. Dort gab es viele Bilder und alte Gegenstände. Das Museum war sehr groß und ich habe viel gelernt. Es gab auch eine Führung, die sehr interessant war.",
+    "questions": [
+      {
+        "question": "Ich war gestern im Museum und habe viel gelernt.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Das Museum war klein und langweilig.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Ich lerne gerade, wie man Fahrrad fährt. Manchmal fahre ich schon ganz gut, aber manchmal brauche ich noch Hilfe. Mein Freund hilft mir und wir üben zusammen im Park.",
+    "questions": [
+      {
+        "question": "Ich lerne Fahrrad fahren und mein Freund hilft mir.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Ich kann schon perfekt Fahrrad fahren.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Am Nachmittag treffe ich mich mit meinen Freunden im Café. Wir trinken Kaffee und essen Kuchen. Wir sprechen viel und haben eine schöne Zeit zusammen.",
+    "questions": [
+      {
+        "question": "Ich treffe meine Freunde im Café und wir essen Kuchen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Wir treffen uns nicht im Café.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
+      }
+    ]
+  },
+  {
+    "text": "Ich möchte ein Haustier kaufen. Ich mag Katzen und Hunde sehr. Vielleicht bekomme ich einen Hund, weil ich gerne mit ihm draußen spiele und spazieren gehe.",
+    "questions": [
+      {
+        "question": "Ich mag Katzen und Hunde und möchte ein Haustier kaufen.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Ich möchte kein Haustier haben.",
+        "options": ["Richtig", "Falsch"],
+        "answer": "Falsch"
       }
     ]
   }
