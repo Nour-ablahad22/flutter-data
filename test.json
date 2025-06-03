@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Präsens",
+    "questionsFile": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Praesens.json"
+  },
+  {
+    "title": "Perfekt",
+    "questionsFile": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/perfekt.json"
+  },
+  {
+    "title": "Präteritum",
+    "questionsFile": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Praeteritum.json"
+  },
+  {
+    "title": "Futur I",
+    "questionsFile": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/futur1.json"
+  },
+  {
+    "title": "Modalverben",
+    "questionsFile": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/modalverben.json"
+  },
+  {
+    "title": "Adjektivdeklination",
+    "questionsFile": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/adjektivdeklination.json"
+  },
+  {
+    "title": "Konjunktiv II",
+    "questionsFile": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/konjunktiv2.json"
+   
+  },
+  {
+    "title": "Relativsätze",
+    "questionsFile": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Relativsaetze.json"
+  },
+  {
+    "title": "Passiv",
+    "questionsFile": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/passiv.json"
+  },
+  {
+    "title": "Konditionalsätze",
+    "questionsFile": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Konditionalsaetze.json"
+  }
+]
