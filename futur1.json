@@ -1,0 +1,307 @@
+[
+  {
+    "question": "Was wirst du morgen im Fitnessstudio machen?",
+    "answers": [
+      "Ich bin gelaufen",
+      "Ich werde trainieren",
+      "Ich trainiere jetzt",
+      "Ich habe trainiert"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Wirst du in Zukunft mehr reisen?",
+    "answers": [
+      "Ja, ich reise mehr",
+      "Nein, ich werde weniger reisen",
+      "Ich werde nicht reisen",
+      "Ich reise jetzt"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Was wirst du nach der Arbeit machen?",
+    "answers": [
+      "Ich werde schlafen",
+      "Ich werde zu Hause bleiben",
+      "Ich werde ein Buch lesen",
+      "Ich werde mit Freunden treffen"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Wirst du in den nächsten Jahren eine neue Technologie entwickeln?",
+    "answers": [
+      "Ja, ich werde eine neue App entwickeln",
+      "Nein, ich werde keine neue Technologie entwickeln",
+      "Ich entwickle jetzt eine Technologie",
+      "Ich habe keine Pläne"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Wirst du in der Zukunft gesünder leben?",
+    "answers": [
+      "Ja, ich werde mehr Sport treiben",
+      "Nein, ich werde weniger Sport treiben",
+      "Ich werde mich genauso ernähren wie jetzt",
+      "Ich werde nicht gesünder leben"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Was wirst du an deinem freien Tag machen?",
+    "answers": [
+      "Ich werde einkaufen gehen",
+      "Ich werde mit der Familie zu Hause bleiben",
+      "Ich werde den Tag arbeiten",
+      "Ich werde einen Film sehen"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Wirst du in der Zukunft ein eigenes Unternehmen gründen?",
+    "answers": [
+      "Ja, ich werde ein Unternehmen gründen",
+      "Nein, ich werde nicht gründen",
+      "Ich werde meine Arbeit fortsetzen",
+      "Ich werde in einer Firma arbeiten"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Wirst du in den nächsten Jahren eine Familie gründen?",
+    "answers": [
+      "Ja, ich werde eine Familie gründen",
+      "Nein, ich werde keine Familie gründen",
+      "Ich werde bald heiraten",
+      "Ich werde keine Kinder haben"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Wirst du bald eine neue Sprache lernen?",
+    "answers": [
+      "Ja, ich werde Spanisch lernen",
+      "Nein, ich werde keine neue Sprache lernen",
+      "Ich werde jetzt eine neue Sprache lernen",
+      "Ich lerne Deutsch"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Wirst du nächstes Jahr an einem Marathon teilnehmen?",
+    "answers": [
+      "Ja, ich werde teilnehmen",
+      "Nein, ich werde nicht teilnehmen",
+      "Ich werde trainieren",
+      "Ich werde den Marathon beobachten"
+    ],
+    "correct": 0
+  },
+  
+    {
+      "question": "Wirst du in der Zukunft mehr Zeit mit deiner Familie verbringen?",
+      "answers": [
+        "Ja, ich werde mehr Zeit mit ihnen verbringen",
+        "Nein, ich werde weniger Zeit mit meiner Familie verbringen",
+        "Ich werde genauso viel Zeit mit meiner Familie verbringen wie jetzt",
+        "Ich weiß es noch nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Wirst du bald ein neues Hobby anfangen?",
+      "answers": [
+        "Ja, ich werde ein neues Hobby ausprobieren",
+        "Nein, ich werde kein neues Hobby anfangen",
+        "Ich habe bereits ein neues Hobby",
+        "Ich werde alte Hobbys weiter pflegen"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Wirst du in Zukunft mehr Sportarten ausüben?",
+      "answers": [
+        "Ja, ich werde neue Sportarten ausprobieren",
+        "Nein, ich werde nur eine Sportart weiter betreiben",
+        "Ich werde weniger Sport treiben",
+        "Ich werde keinen Sport treiben"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Wirst du ein eigenes Haus bauen?",
+      "answers": [
+        "Ja, ich werde ein Haus bauen",
+        "Nein, ich werde in einer Wohnung leben",
+        "Ich werde in einem großen Haus leben",
+        "Ich weiß noch nicht, wo ich leben werde"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Wirst du in der Zukunft umweltfreundlicher leben?",
+      "answers": [
+        "Ja, ich werde umweltfreundlichere Entscheidungen treffen",
+        "Nein, ich werde genauso leben wie jetzt",
+        "Ich werde weniger auf die Umwelt achten",
+        "Ich werde versuchen, den Müll zu reduzieren"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Wirst du in Zukunft regelmäßig meditieren?",
+      "answers": [
+        "Ja, ich werde jeden Tag meditieren",
+        "Nein, ich werde nicht meditieren",
+        "Ich werde ab und zu meditieren",
+        "Ich weiß es noch nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Wirst du in den nächsten Jahren ein Studium beginnen?",
+      "answers": [
+        "Ja, ich werde ein Studium beginnen",
+        "Nein, ich werde kein Studium anfangen",
+        "Ich werde mich auf eine Ausbildung konzentrieren",
+        "Ich werde eine andere Karriereoption wählen"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Wirst du in Zukunft ein Haustier haben?",
+      "answers": [
+        "Ja, ich werde einen Hund oder eine Katze haben",
+        "Nein, ich werde kein Haustier haben",
+        "Ich werde ein Aquarium haben",
+        "Ich werde Vögel halten"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Wirst du in den kommenden Jahren viel reisen?",
+      "answers": [
+        "Ja, ich werde viele Länder besuchen",
+        "Nein, ich werde zu Hause bleiben",
+        "Ich werde gelegentlich reisen",
+        "Ich werde nur in Europa reisen"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Wirst du in der Zukunft neue Freunde finden?",
+      "answers": [
+        "Ja, ich werde neue Freunde kennenlernen",
+        "Nein, ich werde keine neuen Freunde finden",
+        "Ich werde meine alten Freunde pflegen",
+        "Ich werde mich mehr auf meine Familie konzentrieren"
+      ],
+      "correct": 0
+    },
+      {
+        "question": "Wirst du in der Zukunft mehr Zeit mit dem Lesen verbringen?",
+        "answers": [
+          "Ja, ich werde mehr Bücher lesen",
+          "Nein, ich werde weniger lesen",
+          "Ich werde weniger Zeit mit Medien verbringen",
+          "Ich werde mehr Zeit mit Filmen verbringen"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Wirst du in den kommenden Jahren ein Auto kaufen?",
+        "answers": [
+          "Ja, ich werde ein Auto kaufen",
+          "Nein, ich werde kein Auto kaufen",
+          "Ich werde ein umweltfreundliches Auto kaufen",
+          "Ich werde ein Auto leasen"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Wirst du in der Zukunft an einem wissenschaftlichen Projekt arbeiten?",
+        "answers": [
+          "Ja, ich werde an einem Forschungsprojekt arbeiten",
+          "Nein, ich werde nicht an einem Projekt arbeiten",
+          "Ich werde in der Wissenschaft tätig sein",
+          "Ich werde in der Technologiebranche arbeiten"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Wirst du in Zukunft ein neues Gadget kaufen?",
+        "answers": [
+          "Ja, ich werde das neueste Smartphone kaufen",
+          "Nein, ich werde keine neuen Gadgets kaufen",
+          "Ich werde mich auf meinen Computer konzentrieren",
+          "Ich werde meine Technik regelmäßig upgraden"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Wirst du in den kommenden Jahren in einem internationalen Team arbeiten?",
+        "answers": [
+          "Ja, ich werde mit Menschen aus verschiedenen Ländern zusammenarbeiten",
+          "Nein, ich werde in einem lokalen Team bleiben",
+          "Ich werde in einem digitalen Team arbeiten",
+          "Ich werde nur alleine arbeiten"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Wirst du in der Zukunft viel Zeit im Ausland verbringen?",
+        "answers": [
+          "Ja, ich werde in verschiedenen Ländern leben",
+          "Nein, ich werde immer in meinem Heimatland bleiben",
+          "Ich werde einige Monate im Ausland verbringen",
+          "Ich werde nur auf Reisen gehen, aber nicht dauerhaft leben"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Wirst du in den nächsten Jahren ein Buch schreiben?",
+        "answers": [
+          "Ja, ich werde ein Buch veröffentlichen",
+          "Nein, ich werde kein Buch schreiben",
+          "Ich werde ein E-Book schreiben",
+          "Ich werde an einem Roman arbeiten"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Wirst du in der Zukunft öfter in die Natur gehen?",
+        "answers": [
+          "Ja, ich werde regelmäßig wandern gehen",
+          "Nein, ich werde immer in der Stadt bleiben",
+          "Ich werde mehr Zeit im Park verbringen",
+          "Ich werde im Garten arbeiten"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Wirst du in Zukunft mehr Freizeitaktivitäten unternehmen?",
+        "answers": [
+          "Ja, ich werde mehr Freizeit genießen",
+          "Nein, ich werde weiterhin arbeiten",
+          "Ich werde mich mehr entspannen",
+          "Ich werde mehr mit Freunden zusammen sein"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Wirst du in der Zukunft an neuen Technologien forschen?",
+        "answers": [
+          "Ja, ich werde an künstlicher Intelligenz forschen",
+          "Nein, ich werde nicht in der Forschung tätig sein",
+          "Ich werde in der Medizin forschen",
+          "Ich werde an ökologischen Technologien arbeiten"
+        ],
+        "correct": 0
+      }
+    
+    
+  
+  
+]

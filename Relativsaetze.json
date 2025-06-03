@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Wie heißt der Mann, ___ das Auto gehört?",
+    "answers": ["der", "dem", "den", "dessen"],
+    "correct": 3
+  },
+  {
+    "question": "Kennst du die Frau, ___ in Berlin wohnt?",
+    "answers": ["die", "der", "den", "dessen"],
+    "correct": 0
+  },
+  {
+    "question": "Das ist das Buch, ___ ich gestern gelesen habe.",
+    "answers": ["das", "den", "dem", "dessen"],
+    "correct": 0
+  },
+  {
+    "question": "Ich habe einen Freund, ___ sehr gut Gitarre spielt.",
+    "answers": ["der", "den", "dem", "dessen"],
+    "correct": 0
+  },
+  {
+    "question": "Da ist die Lehrerin, ___ Schüler immer sehr motiviert sind.",
+    "answers": ["deren", "dessen", "dem", "die"],
+    "correct": 0
+  },
+  {
+    "question": "Das ist der Film, ___ wir gestern gesehen haben.",
+    "answers": ["den", "der", "dem", "dessen"],
+    "correct": 0
+  },
+  {
+    "question": "Die Frau, ___ du geholfen hast, ist sehr nett.",
+    "answers": ["der", "die", "den", "dessen"],
+    "correct": 0
+  },
+  {
+    "question": "Das Kind, ___ Ball kaputt ist, weint.",
+    "answers": ["dessen", "deren", "dem", "das"],
+    "correct": 0
+  },
+  {
+    "question": "Das ist der Mann, ___ ich gestern getroffen habe.",
+    "answers": ["den", "der", "dem", "dessen"],
+    "correct": 0
+  },
+  {
+    "question": "Ich sehe ein Haus, ___ Fenster grün sind.",
+    "answers": ["dessen", "deren", "dem", "das"],
+    "correct": 1
+  }
+]
