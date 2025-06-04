@@ -1,0 +1,27 @@
+[
+    {
+        "question": "Hur bildar man plural av ett substantiv på tyska?",
+        "answers": ["Genom att lägga till -s", "Genom att lägga till -en", "Genom att lägga till -e", "Genom omljud och -e"],
+        "correct": "Genom omljud och -e"
+    },
+    {
+        "question": "När använder man ackusativ i tyska språket?",
+        "answers": ["Vid direkt objekt", "Vid indirekt objekt", "Vid tidsuttryck", "Vid adjektiv"],
+        "correct": "Vid direkt objekt"
+    },
+    {
+        "question": "Vad är den korrekta formen av verbet 'vara' i presens för 'jag'?",
+        "answers": ["jag är", "jag bist", "jag vara", "jag seid"],
+        "correct": "jag är"
+    },
+    {
+        "question": "Hur frågar man efter priset på tyska?",
+        "answers": ["Hur mycket kostar det?", "Hur dyrt är det?", "Hur mycket det kostar?", "Hur dyrt kostar det?"],
+        "correct": "Hur mycket kostar det?"
+    },
+    {
+        "question": "Vilken preposition används med dativ i tyska språket?",
+        "answers": ["för", "med", "genom", "mot"],
+        "correct": "med"
+    }
+]
