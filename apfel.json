@@ -1,0 +1,44 @@
+[
+  {
+    "word": "Apfel",
+    "article": "der",
+    "plural": "Äpfel",
+    "translation": "تفاحة"
+  },
+  {
+    "word": "Haus",
+    "article": "das",
+    "plural": "Häuser",
+    "translation": "بيت"
+  },
+  {
+    "word": "Hund",
+    "article": "der",
+    "plural": "Hunde",
+    "translation": "كلب"
+  },
+  {
+    "word": "Frau",
+    "article": "die",
+    "plural": "Frauen",
+    "translation": "امرأة"
+  },
+  {
+    "word": "Buch",
+    "article": "das",
+    "plural": "Bücher",
+    "translation": "كتاب"
+  },
+  {
+    "word": "Baum",
+    "article": "der",
+    "plural": "Bäume",
+    "translation": "شجرة"
+  },
+  {
+    "word": "Auto",
+    "article": "das",
+    "plural": "Autos",
+    "translation": "سيارة"
+  }
+]
