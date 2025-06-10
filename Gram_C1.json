@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Präsens",
+    "questionsFile": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Praesens.json",
+    "explanationFile": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Grammatik_B1_Liste.json"
+  },
+  {
+    "title": "Perfekt",
+    "questionsFile": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/perfekt.json",
+    "explanationFile": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Grammatik_B1_Liste.json"
+  },
+  {
+    "title": "Präteritum",
+    "questionsFile": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Praeteritum.json",
+    "explanationFile": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Grammatik_B1_Liste.json"
+  },
+  {
+    "title": "Futur I",
+    "questionsFile": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/futur1.json",
+    "explanationFile": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Grammatik_B1_Liste.json"
+  },
+  {
+    "title": "Modalverben",
+    "questionsFile": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/modalverben.json",
+    "explanationFile": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Grammatik_B1_Liste.json"
+  },
+  {
+    "title": "Adjektivdeklination",
+    "questionsFile": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/adjektivdeklination.json",
+    "explanationFile": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Grammatik_B1_Liste.json"
+  },
+  {
+    "title": "Konjunktiv II",
+    "questionsFile": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/konjunktiv2.json",
+    "explanationFile": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Grammatik_B1_Liste.json"
+  },
+  {
+    "title": "Relativsätze",
+    "questionsFile": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Relativsaetze.json",
+    "explanationFile": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Grammatik_B1_Liste.json"
+  },
+  {
+    "title": "Passiv",
+    "questionsFile": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/passiv.json",
+    "explanationFile": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Grammatik_B1_Liste.json"
+  },
+  {
+    "title": "Konditionalsätze",
+    "questionsFile": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Konditionalsaetze.json",
+    "explanationFile": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Grammatik_B1_Liste.json"
+  }
+]
