@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Präsens",
+    "questionsFile": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/refs/heads/main/Praesens.json",
+    "explanationFile": "assets/grammar_explanations/all_explanations.json"
+  },
+  {
+    "title": "Perfekt",
+    "questionsFile": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/refs/heads/main/perfekt.json",
+    "explanationFile": "assets/grammar_explanations/all_explanations.json"
+  },
+  {
+    "title": "Präteritum",
+    "questionsFile": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/refs/heads/main/Praeteritum.json",
+    "explanationFile": "assets/grammar_explanations/all_explanations.json"
+  },
+  {
+    "title": "Futur I",
+    "questionsFile": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/refs/heads/main/futur1.json",
+    "explanationFile": "assets/grammar_explanations/all_explanations.json"
+  },
+  {
+    "title": "Modalverben",
+    "questionsFile": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/refs/heads/main/modalverben.json",
+    "explanationFile": "assets/grammar_explanations/all_explanations.json"
+  },
+  {
+    "title": "Adjektivdeklination",
+    "questionsFile": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/refs/heads/main/adjektivdeklination.json",
+    "explanationFile": "assets/grammar_explanations/all_explanations.json"
+  },
+  {
+    "title": "Konjunktiv II",
+    "questionsFile": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/refs/heads/main/konjunktiv2.json",
+    "explanationFile": "assets/grammar_explanations/all_explanations.json"
+  },
+  {
+    "title": "Relativsätze",
+    "questionsFile": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/refs/heads/main/Relativsaetze.json",
+    "explanationFile": "assets/grammar_explanations/all_explanations.json"
+  },
+  {
+    "title": "Passiv",
+    "questionsFile": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/refs/heads/main/passiv.json",
+    "explanationFile": "assets/grammar_explanations/all_explanations.json"
+  },
+  {
+    "title": "Konditionalsätze",
+    "questionsFile": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/refs/heads/main/Konditionalsaetze.json",
+    "explanationFile": "assets/grammar_explanations/all_explanations.json"
+  }
+]
