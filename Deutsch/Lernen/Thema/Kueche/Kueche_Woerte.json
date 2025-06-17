@@ -1,0 +1,219 @@
+[
+  {
+    "id": 1,
+    "word": "Küche",
+    "article": "die",
+    "plural": "Küchen",
+    "translation": "مطبخ"
+  },
+  {
+    "id": 2,
+    "word": "Herd",
+    "article": "der",
+    "plural": "Herde",
+    "translation": "موقد"
+  },
+  {
+    "id": 3,
+    "word": "Backofen",
+    "article": "der",
+    "plural": "Backöfen",
+    "translation": "فرن"
+  },
+  {
+    "id": 4,
+    "word": "Mikrowelle",
+    "article": "die",
+    "plural": "Mikrowellen",
+    "translation": "ميكروويف"
+  },
+  {
+    "id": 5,
+    "word": "Kühlschrank",
+    "article": "der",
+    "plural": "Kühlschränke",
+    "translation": "ثلاجة"
+  },
+  {
+    "id": 6,
+    "word": "Gefrierschrank",
+    "article": "der",
+    "plural": "Gefrierschränke",
+    "translation": "فريزر"
+  },
+  {
+    "id": 7,
+    "word": "Spüle",
+    "article": "die",
+    "plural": "Spülen",
+    "translation": "حوض المطبخ"
+  },
+  {
+    "id": 8,
+    "word": "Geschirrspüler",
+    "article": "der",
+    "plural": "Geschirrspüler",
+    "translation": "غسالة صحون"
+  },
+  {
+    "id": 9,
+    "word": "Wasserkocher",
+    "article": "der",
+    "plural": "Wasserkocher",
+    "translation": "غلاية ماء"
+  },
+  {
+    "id": 10,
+    "word": "Toaster",
+    "article": "der",
+    "plural": "Toaster",
+    "translation": "محمصة خبز"
+  },
+  {
+    "id": 11,
+    "word": "Kaffeemaschine",
+    "article": "die",
+    "plural": "Kaffeemaschinen",
+    "translation": "آلة قهوة"
+  },
+  {
+    "id": 12,
+    "word": "Mixer",
+    "article": "der",
+    "plural": "Mixer",
+    "translation": "خلاط"
+  },
+  {
+    "id": 13,
+    "word": "Topf",
+    "article": "der",
+    "plural": "Töpfe",
+    "translation": "قدر"
+  },
+  {
+    "id": 14,
+    "word": "Pfanne",
+    "article": "die",
+    "plural": "Pfannen",
+    "translation": "مقلاة"
+  },
+  {
+    "id": 15,
+    "word": "Deckel",
+    "article": "der",
+    "plural": "Deckel",
+    "translation": "غطاء"
+  },
+  {
+    "id": 16,
+    "word": "Besteck",
+    "article": "das",
+    "plural": "Bestecke",
+    "translation": "أدوات مائدة"
+  },
+  {
+    "id": 17,
+    "word": "Gabel",
+    "article": "die",
+    "plural": "Gabeln",
+    "translation": "شوكة"
+  },
+  {
+    "id": 18,
+    "word": "Messer",
+    "article": "das",
+    "plural": "Messer",
+    "translation": "سكين"
+  },
+  {
+    "id": 19,
+    "word": "Löffel",
+    "article": "der",
+    "plural": "Löffel",
+    "translation": "ملعقة"
+  },
+  {
+    "id": 20,
+    "word": "Schüssel",
+    "article": "die",
+    "plural": "Schüsseln",
+    "translation": "وعاء"
+  },
+  {
+    "id": 21,
+    "word": "Teller",
+    "article": "der",
+    "plural": "Teller",
+    "translation": "طبق"
+  },
+  {
+    "id": 22,
+    "word": "Tasse",
+    "article": "die",
+    "plural": "Tassen",
+    "translation": "كوب"
+  },
+  {
+    "id": 23,
+    "word": "Glas",
+    "article": "das",
+    "plural": "Gläser",
+    "translation": "كأس"
+  },
+  {
+    "id": 24,
+    "word": "Becher",
+    "article": "der",
+    "plural": "Becher",
+    "translation": "كوب"
+  },
+  {
+    "id": 25,
+    "word": "Schneidebrett",
+    "article": "das",
+    "plural": "Schneidebretter",
+    "translation": "لوح تقطيع"
+  },
+  {
+    "id": 26,
+    "word": "Kelle",
+    "article": "die",
+    "plural": "Kellen",
+    "translation": "مغرفة"
+  },
+  {
+    "id": 27,
+    "word": "Sieb",
+    "article": "das",
+    "plural": "Siebe",
+    "translation": "مصفاة"
+  },
+  {
+    "id": 28,
+    "word": "Schneebesen",
+    "article": "der",
+    "plural": "Schneebesen",
+    "translation": "خفاق"
+  },
+  {
+    "id": 29,
+    "word": "Reibe",
+    "article": "die",
+    "plural": "Reiben",
+    "translation": "مبشرة"
+  },
+  {
+    "id": 30,
+    "word": "Dosenöffner",
+    "article": "der",
+    "plural": "Dosenöffner",
+    "translation": "فتاحة علب"
+  },
+  {
+    "id": 31,
+    "word": "Flaschenöffner",
+    "article": "der",
+    "plural": "Flaschenöffner",
+    "translation": "فتاحة زجاجات"
+  }
+]
