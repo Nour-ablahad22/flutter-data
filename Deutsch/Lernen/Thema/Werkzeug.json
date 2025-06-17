@@ -1,0 +1,22 @@
+[
+  { "id": 1, "word": "Werkzeug", "article": "das", "plural": "Werkzeuge", "translation": "أداة / أدوات" },
+  { "id": 2, "word": "Hammer", "article": "der", "plural": "Hammer", "translation": "مطرقة" },
+  { "id": 3, "word": "Schraubenzieher", "article": "der", "plural": "Schraubenzieher", "translation": "مفك براغي" },
+  { "id": 4, "word": "Zange", "article": "die", "plural": "Zangen", "translation": "كماشة" },
+  { "id": 5, "word": "Säge", "article": "die", "plural": "Sägen", "translation": "منشار" },
+  { "id": 6, "word": "Bohrmaschine", "article": "die", "plural": "Bohrmaschinen", "translation": "مثقاب كهربائي" },
+  { "id": 7, "word": "Axt", "article": "die", "plural": "Äxte", "translation": "فأس" },
+  { "id": 8, "word": "Schraube", "article": "die", "plural": "Schrauben", "translation": "برغي" },
+  { "id": 9, "word": "Nagel", "article": "der", "plural": "Nägel", "translation": "مسمار" },
+  { "id": 10, "word": "Maßband", "article": "das", "plural": "Maßbänder", "translation": "شريط قياس" },
+  { "id": 11, "word": "Wasserwaage", "article": "die", "plural": "Wasserwaagen", "translation": "ميزان مائي" },
+  { "id": 12, "word": "Schleifmaschine", "article": "die", "plural": "Schleifmaschinen", "translation": "آلة صنفرة" },
+  { "id": 13, "word": "Feile", "article": "die", "plural": "Feilen", "translation": "مبرد" },
+  { "id": 14, "word": "Schraubenschlüssel", "article": "der", "plural": "Schraubenschlüssel", "translation": "مفتاح براغي" },
+  { "id": 15, "word": "Klebepistole", "article": "die", "plural": "Klebepistolen", "translation": "مسدس غراء" },
+  { "id": 16, "word": "Meißel", "article": "der", "plural": "Meißel", "translation": "إزميل" },
+  { "id": 17, "word": "Schutzbrille", "article": "die", "plural": "Schutzbrillen", "translation": "نظارات واقية" },
+  { "id": 18, "word": "Arbeitskleidung", "article": "die", "plural": "-", "translation": "ملابس عمل" },
+  { "id": 19, "word": "Tacker", "article": "der", "plural": "Tacker", "translation": "دباسة" },
+  { "id": 20, "word": "Klammer", "article": "die", "plural": "Klammern", "translation": "مشبك / دبوس" }
+]

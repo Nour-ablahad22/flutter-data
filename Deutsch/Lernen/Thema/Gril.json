@@ -1,0 +1,22 @@
+[
+  { "id": 1, "word": "Grill", "article": "der", "plural": "Grills", "translation": "شواية" },
+  { "id": 2, "word": "Kohle", "article": "die", "plural": "Kohlen", "translation": "فحم" },
+  { "id": 3, "word": "Feuer", "article": "das", "plural": "Feuer", "translation": "نار" },
+  { "id": 4, "word": "Rost", "article": "der", "plural": "Roste", "translation": "شبكة الشواء" },
+  { "id": 5, "word": "Grillzange", "article": "die", "plural": "Grillzangen", "translation": "ملقط الشواء" },
+  { "id": 6, "word": "Fleisch", "article": "das", "plural": "-", "translation": "لحم" },
+  { "id": 7, "word": "Wurst", "article": "die", "plural": "Würste", "translation": "نقانق" },
+  { "id": 8, "word": "Hähnchen", "article": "das", "plural": "Hähnchen", "translation": "دجاج مشوي" },
+  { "id": 9, "word": "Gemüse", "article": "das", "plural": "-", "translation": "خضار" },
+  { "id": 10, "word": "Mais", "article": "der", "plural": "-", "translation": "ذرة" },
+  { "id": 11, "word": "Spieß", "article": "der", "plural": "Spieße", "translation": "سيخ" },
+  { "id": 12, "word": "Grillanzünder", "article": "der", "plural": "Grillanzünder", "translation": "مُشعل الفحم" },
+  { "id": 13, "word": "Grillfest", "article": "das", "plural": "Grillfeste", "translation": "حفلة شواء" },
+  { "id": 14, "word": "Grillplatte", "article": "die", "plural": "Grillplatten", "translation": "صفيحة الشواء" },
+  { "id": 15, "word": "Rauch", "article": "der", "plural": "Rauche", "translation": "دخان" },
+  { "id": 16, "word": "Grillbesteck", "article": "das", "plural": "-", "translation": "عدة الشواء" },
+  { "id": 17, "word": "Salat", "article": "der", "plural": "Salate", "translation": "سلطة" },
+  { "id": 18, "word": "Marinade", "article": "die", "plural": "Marinaden", "translation": "تتبيلة" },
+  { "id": 19, "word": "Grillmeister", "article": "der", "plural": "Grillmeister", "translation": "خبير الشواء" },
+  { "id": 20, "word": "Bier", "article": "das", "plural": "Biere", "translation": "بيرة" }
+]

@@ -1,0 +1,22 @@
+[
+  { "id": 1, "word": "Wetter", "article": "das", "plural": "-", "translation": "الطقس" },
+  { "id": 2, "word": "Sonne", "article": "die", "plural": "Sonnen", "translation": "شمس" },
+  { "id": 3, "word": "Regen", "article": "der", "plural": "Regen", "translation": "مطر" },
+  { "id": 4, "word": "Wind", "article": "der", "plural": "Winde", "translation": "رياح" },
+  { "id": 5, "word": "Wolke", "article": "die", "plural": "Wolken", "translation": "سحابة" },
+  { "id": 6, "word": "Schnee", "article": "der", "plural": "-", "translation": "ثلج" },
+  { "id": 7, "word": "Hagel", "article": "der", "plural": "-", "translation": "برد (ثلج صغير)" },
+  { "id": 8, "word": "Gewitter", "article": "das", "plural": "Gewitter", "translation": "عاصفة رعدية" },
+  { "id": 9, "word": "Sturm", "article": "der", "plural": "Stürme", "translation": "عاصفة" },
+  { "id": 10, "word": "Nebel", "article": "der", "plural": "Nebel", "translation": "ضباب" },
+  { "id": 11, "word": "Temperatur", "article": "die", "plural": "Temperaturen", "translation": "درجة الحرارة" },
+  { "id": 12, "word": "Kälte", "article": "die", "plural": "-", "translation": "البرودة" },
+  { "id": 13, "word": "Hitze", "article": "die", "plural": "-", "translation": "الحرارة الشديدة" },
+  { "id": 14, "word": "Frühling", "article": "der", "plural": "Frühlinge", "translation": "الربيع" },
+  { "id": 15, "word": "Sommer", "article": "der", "plural": "Sommer", "translation": "الصيف" },
+  { "id": 16, "word": "Herbst", "article": "der", "plural": "Herbste", "translation": "الخريف" },
+  { "id": 17, "word": "Winter", "article": "der", "plural": "Winter", "translation": "الشتاء" },
+  { "id": 18, "word": "Klima", "article": "das", "plural": "Klimata", "translation": "المناخ" },
+  { "id": 19, "word": "Luft", "article": "die", "plural": "Lüfte", "translation": "الهواء" },
+  { "id": 20, "word": "Wetterbericht", "article": "der", "plural": "Wetterberichte", "translation": "تقرير الطقس" }
+]

@@ -1,0 +1,22 @@
+[
+  { "id": 1, "word": "Garten", "article": "der", "plural": "Gärten", "translation": "حديقة" },
+  { "id": 2, "word": "Pflanze", "article": "die", "plural": "Pflanzen", "translation": "نبتة" },
+  { "id": 3, "word": "Baum", "article": "der", "plural": "Bäume", "translation": "شجرة" },
+  { "id": 4, "word": "Blume", "article": "die", "plural": "Blumen", "translation": "زهرة" },
+  { "id": 5, "word": "Rasen", "article": "der", "plural": "Rasens", "translation": "عشب" },
+  { "id": 6, "word": "Hecke", "article": "die", "plural": "Hecken", "translation": "سياج نباتي" },
+  { "id": 7, "word": "Gießkanne", "article": "die", "plural": "Gießkannen", "translation": "بخاخ ماء" },
+  { "id": 8, "word": "Schaufel", "article": "die", "plural": "Schaufeln", "translation": "مجرفة" },
+  { "id": 9, "word": "Rechen", "article": "der", "plural": "Rechen", "translation": "مشط الحديقة / مذراة" },
+  { "id": 10, "word": "Spaten", "article": "der", "plural": "Spaten", "translation": "رفش" },
+  { "id": 11, "word": "Topf", "article": "der", "plural": "Töpfe", "translation": "وعاء نبات" },
+  { "id": 12, "word": "Erde", "article": "die", "plural": "Erden", "translation": "تربة" },
+  { "id": 13, "word": "Kompost", "article": "der", "plural": "Komposte", "translation": "سماد عضوي" },
+  { "id": 14, "word": "Wasser", "article": "das", "plural": "-", "translation": "ماء" },
+  { "id": 15, "word": "Sonne", "article": "die", "plural": "Sonnen", "translation": "شمس" },
+  { "id": 16, "word": "Wurzel", "article": "die", "plural": "Wurzeln", "translation": "جذر" },
+  { "id": 17, "word": "Laub", "article": "das", "plural": "-", "translation": "أوراق الشجر المتساقطة" },
+  { "id": 18, "word": "Beet", "article": "das", "plural": "Beete", "translation": "سرير زرع" },
+  { "id": 19, "word": "Samen", "article": "der", "plural": "Samen", "translation": "بذرة" },
+  { "id": 20, "word": "Unkraut", "article": "das", "plural": "Unkräuter", "translation": "أعشاب ضارة" }
+]

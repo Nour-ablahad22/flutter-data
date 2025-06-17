@@ -1,0 +1,22 @@
+[
+  { "id": 1, "word": "Bank", "article": "die", "plural": "Banken", "translation": "بنك" },
+  { "id": 2, "word": "Konto", "article": "das", "plural": "Konten", "translation": "حساب بنكي" },
+  { "id": 3, "word": "Geld", "article": "das", "plural": "Gelder", "translation": "مال" },
+  { "id": 4, "word": "Kredit", "article": "der", "plural": "Kredite", "translation": "قرض" },
+  { "id": 5, "word": "Zins", "article": "der", "plural": "Zinsen", "translation": "فائدة" },
+  { "id": 6, "word": "Schulden", "article": "die", "plural": "—", "translation": "ديون" },
+  { "id": 7, "word": "Überweisung", "article": "die", "plural": "Überweisungen", "translation": "تحويل" },
+  { "id": 8, "word": "Einzahlung", "article": "die", "plural": "Einzahlungen", "translation": "إيداع" },
+  { "id": 9, "word": "Auszahlung", "article": "die", "plural": "Auszahlungen", "translation": "سحب" },
+  { "id": 10, "word": "Geldautomat", "article": "der", "plural": "Geldautomaten", "translation": "آلة الصراف الآلي" },
+  { "id": 11, "word": "Karte", "article": "die", "plural": "Karten", "translation": "بطاقة" },
+  { "id": 12, "word": "Bankkarte", "article": "die", "plural": "Bankkarten", "translation": "بطاقة بنكية" },
+  { "id": 13, "word": "Kreditkarte", "article": "die", "plural": "Kreditkarten", "translation": "بطاقة ائتمان" },
+  { "id": 14, "word": "Sparbuch", "article": "das", "plural": "Sparbücher", "translation": "دفتر التوفير" },
+  { "id": 15, "word": "Kontoauszug", "article": "der", "plural": "Kontoauszüge", "translation": "كشف الحساب" },
+  { "id": 16, "word": "Filiale", "article": "die", "plural": "Filialen", "translation": "فرع" },
+  { "id": 17, "word": "Bankangestellter", "article": "der", "plural": "Bankangestellten", "translation": "موظف بنك" },
+  { "id": 18, "word": "IBAN", "article": "die", "plural": "IBANs", "translation": "رقم الحساب الدولي" },
+  { "id": 19, "word": "BIC", "article": "der", "plural": "BICs", "translation": "رمز البنك" },
+  { "id": 20, "word": "Kontoeröffnung", "article": "die", "plural": "Kontoeröffnungen", "translation": "فتح حساب" }
+]
