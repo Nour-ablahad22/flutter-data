@@ -1,0 +1,471 @@
+[
+  {
+    "id": 1,
+    "word": "Büro",
+    "article": "das",
+    "plural": "Büros",
+    "translation": "مكتب"
+  },
+  {
+    "id": 2,
+    "word": "Schreibtisch",
+    "article": "der",
+    "plural": "Schreibtische",
+    "translation": "مكتب كتابة"
+  },
+  {
+    "id": 3,
+    "word": "Stuhl",
+    "article": "der",
+    "plural": "Stühle",
+    "translation": "كرسي"
+  },
+  {
+    "id": 4,
+    "word": "Computer",
+    "article": "der",
+    "plural": "Computer",
+    "translation": "كمبيوتر"
+  },
+  {
+    "id": 5,
+    "word": "Laptop",
+    "article": "der",
+    "plural": "Laptops",
+    "translation": "كمبيوتر محمول"
+  },
+  {
+    "id": 6,
+    "word": "Monitor",
+    "article": "der",
+    "plural": "Monitore",
+    "translation": "شاشة"
+  },
+  {
+    "id": 7,
+    "word": "Tastatur",
+    "article": "die",
+    "plural": "Tastaturen",
+    "translation": "لوحة مفاتيح"
+  },
+  {
+    "id": 8,
+    "word": "Maus",
+    "article": "die",
+    "plural": "Mäuse",
+    "translation": "فأرة"
+  },
+  {
+    "id": 9,
+    "word": "Drucker",
+    "article": "der",
+    "plural": "Drucker",
+    "translation": "طابعة"
+  },
+  {
+    "id": 10,
+    "word": "Scanner",
+    "article": "der",
+    "plural": "Scanner",
+    "translation": "ماسح ضوئي"
+  },
+  {
+    "id": 11,
+    "word": "Kopierer",
+    "article": "der",
+    "plural": "Kopierer",
+    "translation": "آلة تصوير"
+  },
+  {
+    "id": 12,
+    "word": "Telefon",
+    "article": "das",
+    "plural": "Telefone",
+    "translation": "هاتف"
+  },
+  {
+    "id": 13,
+    "word": "Handy",
+    "article": "das",
+    "plural": "Handys",
+    "translation": "هاتف محمول"
+  },
+  {
+    "id": 14,
+    "word": "Headset",
+    "article": "das",
+    "plural": "Headsets",
+    "translation": "سماعة رأس"
+  },
+  {
+    "id": 15,
+    "word": "Büromaterial",
+    "article": "das",
+    "plural": "Büromaterialien",
+    "translation": "لوازم مكتبية"
+  },
+  {
+    "id": 16,
+    "word": "Heftklammer",
+    "article": "die",
+    "plural": "Heftklammern",
+    "translation": "دبوس تثبيت"
+  },
+  {
+    "id": 17,
+    "word": "Büroklammer",
+    "article": "die",
+    "plural": "Büroklammern",
+    "translation": "مشبك ورق"
+  },
+  {
+    "id": 18,
+    "word": "Notizblock",
+    "article": "der",
+    "plural": "Notizblöcke",
+    "translation": "دفتر ملاحظات"
+  },
+  {
+    "id": 19,
+    "word": "Kalender",
+    "article": "der",
+    "plural": "Kalender",
+    "translation": "تقويم"
+  },
+  {
+    "id": 20,
+    "word": "Terminplaner",
+    "article": "der",
+    "plural": "Terminplaner",
+    "translation": "مخطط مواعيد"
+  },
+  {
+    "id": 21,
+    "word": "Aktenordner",
+    "article": "der",
+    "plural": "Aktenordner",
+    "translation": "مجلد ملفات"
+  },
+  {
+    "id": 22,
+    "word": "Akte",
+    "article": "die",
+    "plural": "Akten",
+    "translation": "ملف"
+  },
+  {
+    "id": 23,
+    "word": "Dokument",
+    "article": "das",
+    "plural": "Dokumente",
+    "translation": "وثيقة"
+  },
+  {
+    "id": 24,
+    "word": "Bericht",
+    "article": "der",
+    "plural": "Berichte",
+    "translation": "تقرير"
+  },
+  {
+    "id": 25,
+    "word": "Protokoll",
+    "article": "das",
+    "plural": "Protokolle",
+    "translation": "محضر"
+  },
+  {
+    "id": 26,
+    "word": "Vertrag",
+    "article": "der",
+    "plural": "Verträge",
+    "translation": "عقد"
+  },
+  {
+    "id": 27,
+    "word": "Rechnung",
+    "article": "die",
+    "plural": "Rechnungen",
+    "translation": "فاتورة"
+  },
+  {
+    "id": 28,
+    "word": "Quittung",
+    "article": "die",
+    "plural": "Quittungen",
+    "translation": "إيصال"
+  },
+  {
+    "id": 29,
+    "word": "Brief",
+    "article": "der",
+    "plural": "Briefe",
+    "translation": "رسالة"
+  },
+  {
+    "id": 30,
+    "word": "E-Mail",
+    "article": "die",
+    "plural": "E-Mails",
+    "translation": "بريد إلكتروني"
+  },
+  {
+    "id": 31,
+    "word": "Posteingang",
+    "article": "der",
+    "plural": "Posteingänge",
+    "translation": "صندوق الوارد"
+  },
+  {
+    "id": 32,
+    "word": "Postausgang",
+    "article": "der",
+    "plural": "Postausgänge",
+    "translation": "صندوق الصادر"
+  },
+  {
+    "id": 33,
+    "word": "Papierkorb",
+    "article": "der",
+    "plural": "Papierkörbe",
+    "translation": "سلة المهملات"
+  },
+  {
+    "id": 34,
+    "word": "Karteikarte",
+    "article": "die",
+    "plural": "Karteikarten",
+    "translation": "بطاقة فهرسة"
+  },
+  {
+    "id": 35,
+    "word": "Präsentation",
+    "article": "die",
+    "plural": "Präsentationen",
+    "translation": "عرض تقديمي"
+  },
+  {
+    "id": 36,
+    "word": "Projekt",
+    "article": "das",
+    "plural": "Projekte",
+    "translation": "مشروع"
+  },
+  {
+    "id": 37,
+    "word": "Aufgabe",
+    "article": "die",
+    "plural": "Aufgaben",
+    "translation": "مهمة"
+  },
+  {
+    "id": 38,
+    "word": "Tischlampe",
+    "article": "die",
+    "plural": "Tischlampen",
+    "translation": "مصباح طاولة"
+  },
+  {
+    "id": 39,
+    "word": "Whiteboard",
+    "article": "das",
+    "plural": "Whiteboards",
+    "translation": "سبورة بيضاء"
+  },
+  {
+    "id": 40,
+    "word": "Pinnwand",
+    "article": "die",
+    "plural": "Pinnwände",
+    "translation": "لوحة إعلانات"
+  },
+  {
+    "id": 41,
+    "word": "Marker",
+    "article": "der",
+    "plural": "Marker",
+    "translation": "قلم تعليم"
+  },
+  {
+    "id": 42,
+    "word": "Kugelschreiber",
+    "article": "der",
+    "plural": "Kugelschreiber",
+    "translation": "قلم حبر جاف"
+  },
+  {
+    "id": 43,
+    "word": "Bleistift",
+    "article": "der",
+    "plural": "Bleistifte",
+    "translation": "قلم رصاص"
+  },
+  {
+    "id": 44,
+    "word": "Radiergummi",
+    "article": "der",
+    "plural": "Radiergummis",
+    "translation": "ممحاة"
+  },
+  {
+    "id": 45,
+    "word": "Lineal",
+    "article": "das",
+    "plural": "Lineale",
+    "translation": "مسطرة"
+  },
+  {
+    "id": 46,
+    "word": "Textmarker",
+    "article": "der",
+    "plural": "Textmarker",
+    "translation": "قلم تمييز"
+  },
+  {
+    "id": 47,
+    "word": "Klebestift",
+    "article": "der",
+    "plural": "Klebestifte",
+    "translation": "صمغ لاصق"
+  },
+  {
+    "id": 48,
+    "word": "Klebeband",
+    "article": "das",
+    "plural": "Klebebänder",
+    "translation": "شريط لاصق"
+  },
+  {
+    "id": 49,
+    "word": "Schere",
+    "article": "die",
+    "plural": "Scheren",
+    "translation": "مقص"
+  },
+  {
+    "id": 50,
+    "word": "Locher",
+    "article": "der",
+    "plural": "Locher",
+    "translation": "مثقاب ورق"
+  },
+  {
+    "id": 51,
+    "word": "Tacker",
+    "article": "der",
+    "plural": "Tacker",
+    "translation": "دباسة"
+  },
+  {
+    "id": 52,
+    "word": "Hefter",
+    "article": "der",
+    "plural": "Hefter",
+    "translation": "مجلد"
+  },
+  {
+    "id": 53,
+    "word": "USB-Stick",
+    "article": "der",
+    "plural": "USB-Sticks",
+    "translation": "ذاكرة فلاش"
+  },
+  {
+    "id": 54,
+    "word": "Festplatte",
+    "article": "die",
+    "plural": "Festplatten",
+    "translation": "قرص صلب"
+  },
+  {
+    "id": 55,
+    "word": "Netzteil",
+    "article": "das",
+    "plural": "Netzteile",
+    "translation": "مزود طاقة"
+  },
+  {
+    "id": 56,
+    "word": "Mauspad",
+    "article": "das",
+    "plural": "Mauspads",
+    "translation": "لوحة فأرة"
+  },
+  {
+    "id": 57,
+    "word": "Lautsprecher",
+    "article": "der",
+    "plural": "Lautsprecher",
+    "translation": "مكبر صوت"
+  },
+  {
+    "id": 58,
+    "word": "Webcam",
+    "article": "die",
+    "plural": "Webcams",
+    "translation": "كاميرا ويب"
+  },
+  {
+    "id": 59,
+    "word": "Mikrofon",
+    "article": "das",
+    "plural": "Mikrofone",
+    "translation": "ميكروفون"
+  },
+  {
+    "id": 60,
+    "word": "Router",
+    "article": "der",
+    "plural": "Router",
+    "translation": "جهاز توجيه"
+  },
+  {
+    "id": 61,
+    "word": "Switch",
+    "article": "der",
+    "plural": "Switches",
+    "translation": "محول شبكات"
+  },
+  {
+    "id": 62,
+    "word": "Kabel",
+    "article": "das",
+    "plural": "Kabel",
+    "translation": "كابل"
+  },
+  {
+    "id": 63,
+    "word": "Adapter",
+    "article": "der",
+    "plural": "Adapter",
+    "translation": "محول"
+  },
+  {
+    "id": 64,
+    "word": "Bürostuhl",
+    "article": "der",
+    "plural": "Bürostühle",
+    "translation": "كرسي مكتب"
+  },
+  {
+    "id": 65,
+    "word": "Drehstuhl",
+    "article": "der",
+    "plural": "Drehstühle",
+    "translation": "كرسي دوار"
+  },
+  {
+    "id": 66,
+    "word": "Aktenschrank",
+    "article": "der",
+    "plural": "Aktenschränke",
+    "translation": "خزانة ملفات"
+  },
+  {
+    "id": 67,
+    "word": "Regal",
+    "article": "das",
+    "plural": "Regale",
+    "translation": "رف"
+  }
+]
