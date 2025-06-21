@@ -1,0 +1,53 @@
+[
+  {
+    "text": "Immer mehr Menschen entscheiden sich heutzutage dafür, im Homeoffice zu arbeiten. Diese Form der Arbeit bietet mehr Flexibilität, spart Zeit und reduziert Pendelstress. Dennoch gibt es auch Herausforderungen wie Isolation oder Schwierigkeiten bei der Trennung von Arbeit und Privatleben.",
+    "questions": [
+      {
+        "question": "Was ist ein Vorteil der Arbeit im Homeoffice?",
+        "options": ["Weniger Freizeit", "Mehr Pendelzeit", "Größere Flexibilität", "Schlechtere Kommunikation"],
+        "answer": "Größere Flexibilität",
+        "meta": "Fragt nach einem Vorteil – positive Auswirkung erkennen (Analyse)"
+      },
+      {
+        "question": "Was ist eine mögliche Schwierigkeit beim Homeoffice?",
+        "options": ["Zu viel Teamarbeit", "Kein Zugang zum Internet", "Trennung zwischen Arbeit und Privatleben", "Zu viele Reisen"],
+        "answer": "Trennung zwischen Arbeit und Privatleben",
+        "meta": "Fragt nach einer Herausforderung – kritisches Lesen (Verständnis vertiefen)"
+      }
+    ]
+  },
+  {
+    "text": "Nachhaltiger Konsum wird immer wichtiger. Viele Menschen versuchen, Produkte zu kaufen, die umweltfreundlich produziert wurden. Bio-Lebensmittel, Second-Hand-Kleidung und der Verzicht auf Plastik sind einige Beispiele. Doch nicht jeder kann oder will sich diesen Lebensstil leisten.",
+    "questions": [
+      {
+        "question": "Was ist ein Beispiel für nachhaltigen Konsum?",
+        "options": ["Neue Kleidung kaufen", "Plastiktüten verwenden", "Bio-Lebensmittel kaufen", "Flugreisen machen"],
+        "answer": "Bio-Lebensmittel kaufen",
+        "meta": "Testet Textdetails erkennen – konkretes Beispiel finden"
+      },
+      {
+        "question": "Warum leben nicht alle Menschen nachhaltig?",
+        "options": ["Es ist oft günstiger", "Es ist gesetzlich verboten", "Niemand kennt nachhaltige Produkte", "Es ist zu einfach"],
+        "answer": "Es ist oft günstiger",
+        "meta": "Testet Gründe und Zusammenhänge verstehen – Argumentation erkennen"
+      }
+    ]
+  },
+  {
+    "text": "Technologie verändert unseren Alltag rasant. Smartphones, Apps und künstliche Intelligenz helfen uns, Aufgaben schneller zu erledigen. Gleichzeitig wachsen Sorgen über Datenschutz und digitale Abhängigkeit.",
+    "questions": [
+      {
+        "question": "Wie verändert Technologie unseren Alltag laut dem Text?",
+        "options": ["Sie macht alles langsamer", "Sie hilft bei Aufgaben", "Sie verhindert Kommunikation", "Sie ersetzt Bücher"],
+        "answer": "Sie hilft bei Aufgaben",
+        "meta": "Globale Aussage verstehen – Wirkung identifizieren"
+      },
+      {
+        "question": "Was ist eine Sorge im Zusammenhang mit moderner Technologie?",
+        "options": ["Weniger Autos", "Geringere Bildung", "Datenschutzprobleme", "Längere Wartezeiten"],
+        "answer": "Datenschutzprobleme",
+        "meta": "Problem erkennen – kritisches Bewusstsein fördern"
+      }
+    ]
+  }
+]
