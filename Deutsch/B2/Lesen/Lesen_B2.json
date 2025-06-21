@@ -1898,5 +1898,1646 @@
         "meta": "Lösungsorientiertes Denken"
       }
     ]
+  },
+
+  {
+    "text": "Umweltschutz ist heute wichtiger denn je. Viele Menschen engagieren sich aktiv, um die Natur zu schützen. Dazu gehören Maßnahmen wie Müllvermeidung, Recycling und der Einsatz erneuerbarer Energien. Jeder kann durch sein Verhalten einen Beitrag leisten.",
+    "questions": [
+      {
+        "question": "Was ist laut Text wichtig?",
+        "options": ["Sport treiben", "Umweltschutz", "Autofahren", "Kochen"],
+        "answer": "Umweltschutz"
+      },
+      {
+        "question": "Welche Maßnahmen werden genannt?",
+        "options": ["Müllvermeidung", "Sportveranstaltungen", "Fernseher kaufen", "Reisen"],
+        "answer": "Müllvermeidung"
+      },
+      {
+        "question": "Wer kann etwas tun?",
+        "options": ["Nur Unternehmen", "Jeder", "Nur Politiker", "Niemand"],
+        "answer": "Jeder"
+      }
+    ]
+  },
+  {
+    "text": "Die Digitalisierung verändert viele Lebensbereiche. Schulen nutzen zunehmend digitale Medien, und auch im Beruf spielen Technologien eine große Rolle. Gleichzeitig gibt es Herausforderungen wie Datenschutz und Ablenkung durch soziale Medien.",
+    "questions": [
+      {
+        "question": "Was verändert viele Lebensbereiche?",
+        "options": ["Digitalisierung", "Sport", "Kochen", "Reisen"],
+        "answer": "Digitalisierung"
+      },
+      {
+        "question": "Wo werden digitale Medien genutzt?",
+        "options": ["Nur im Beruf", "Nur in der Schule", "In Schulen und Berufen", "Gar nicht"],
+        "answer": "In Schulen und Berufen"
+      },
+      {
+        "question": "Welche Herausforderungen werden genannt?",
+        "options": ["Datenschutz und Ablenkung", "Mehr Sport", "Weniger Essen", "Schlechter Schlaf"],
+        "answer": "Datenschutz und Ablenkung"
+      }
+    ]
+  },
+  {
+    "text": "Die Elektromobilität gilt als wichtige Lösung für den Klimaschutz. Elektroautos verursachen weniger Emissionen als Fahrzeuge mit Verbrennungsmotor. Allerdings ist die Produktion der Batterien noch problematisch und teuer.",
+    "questions": [
+      {
+        "question": "Was gilt als wichtige Lösung für den Klimaschutz?",
+        "options": ["Elektromobilität", "Ölautos", "Flugzeuge", "Fahrräder"],
+        "answer": "Elektromobilität"
+      },
+      {
+        "question": "Was verursachen Elektroautos weniger?",
+        "options": ["Emissionen", "Lärm", "Verkehr", "Kosten"],
+        "answer": "Emissionen"
+      },
+      {
+        "question": "Was ist ein Problem bei der Batterieproduktion?",
+        "options": ["Es ist billig", "Es ist problematisch und teuer", "Es ist einfach", "Es ist schnell"],
+        "answer": "Es ist problematisch und teuer"
+      }
+    ]
+  },
+  {
+    "text": "Das Thema Homeoffice ist seit der Pandemie sehr wichtig geworden. Viele Arbeitnehmer schätzen die Flexibilität, gleichzeitig gibt es aber auch Herausforderungen wie die Trennung von Beruf und Privatleben.",
+    "questions": [
+      {
+        "question": "Wann wurde Homeoffice sehr wichtig?",
+        "options": ["Seit der Pandemie", "Seit 10 Jahren", "Seit gestern", "Seit 2000"],
+        "answer": "Seit der Pandemie"
+      },
+      {
+        "question": "Was schätzen viele Arbeitnehmer am Homeoffice?",
+        "options": ["Die Flexibilität", "Das Büro", "Die Kollegen", "Den Stress"],
+        "answer": "Die Flexibilität"
+      },
+      {
+        "question": "Welche Herausforderung wird genannt?",
+        "options": ["Trennung von Beruf und Privatleben", "Mehr Freizeit", "Geringere Arbeit", "Keine Herausforderung"],
+        "answer": "Trennung von Beruf und Privatleben"
+      }
+    ]
+  },
+  {
+    "text": "Nachhaltiger Konsum bedeutet, bewusst Produkte auszuwählen, die umweltfreundlich hergestellt sind. Dies hilft, Ressourcen zu sparen und die Umwelt zu schützen. Verbraucher können so einen Beitrag zum Klimaschutz leisten.",
+    "questions": [
+      {
+        "question": "Was bedeutet nachhaltiger Konsum?",
+        "options": ["Produkte bewusst auswählen", "Alles kaufen", "Billig einkaufen", "Schnell konsumieren"],
+        "answer": "Produkte bewusst auswählen"
+      },
+      {
+        "question": "Was hilft nachhaltiger Konsum zu sparen?",
+        "options": ["Ressourcen", "Zeit", "Geld", "Nerven"],
+        "answer": "Ressourcen"
+      },
+      {
+        "question": "Wozu können Verbraucher beitragen?",
+        "options": ["Klimaschutz", "Fast Fashion", "Umweltschäden", "Müllproduktion"],
+        "answer": "Klimaschutz"
+      }
+    ]
+  },
+
+  {
+    "text": "Der Klimawandel stellt eine große Herausforderung für die Menschheit dar. Durch steigende Temperaturen und veränderte Wetterbedingungen sind viele Lebensräume bedroht. Um den Klimawandel zu stoppen, sind internationale Zusammenarbeit und nachhaltige Maßnahmen notwendig.",
+    "questions": [
+      {
+        "question": "Was stellt eine große Herausforderung dar?",
+        "options": ["Klimawandel", "Krieg", "Technologie", "Sport"],
+        "answer": "Klimawandel"
+      },
+      {
+        "question": "Was ist durch den Klimawandel bedroht?",
+        "options": ["Lebensräume", "Autos", "Computer", "Möbel"],
+        "answer": "Lebensräume"
+      },
+      {
+        "question": "Was ist notwendig, um den Klimawandel zu stoppen?",
+        "options": ["Internationale Zusammenarbeit", "Allein handeln", "Nichts tun", "Schnelle Autos"],
+        "answer": "Internationale Zusammenarbeit"
+      }
+    ]
+  },
+  {
+    "text": "Das Thema Ernährung spielt eine wichtige Rolle für die Gesundheit. Viele Menschen achten auf eine ausgewogene Ernährung mit viel Obst und Gemüse. Gleichzeitig sind Fertiggerichte und Fast Food sehr beliebt, was zu Gesundheitsproblemen führen kann.",
+    "questions": [
+      {
+        "question": "Welche Rolle spielt Ernährung laut Text?",
+        "options": ["Wichtige Rolle für die Gesundheit", "Keine Rolle", "Schlechte Rolle", "Nur für Kinder"],
+        "answer": "Wichtige Rolle für die Gesundheit"
+      },
+      {
+        "question": "Was essen viele Menschen laut Text?",
+        "options": ["Viel Obst und Gemüse", "Nur Fleisch", "Süßigkeiten", "Fast Food"],
+        "answer": "Viel Obst und Gemüse"
+      },
+      {
+        "question": "Was kann zu Gesundheitsproblemen führen?",
+        "options": ["Fertiggerichte und Fast Food", "Sport", "Obst", "Wasser trinken"],
+        "answer": "Fertiggerichte und Fast Food"
+      }
+    ]
+  },
+  {
+    "text": "Die Arbeitswelt verändert sich durch neue Technologien. Automatisierung und künstliche Intelligenz übernehmen zunehmend Aufgaben. Das bedeutet für Arbeitnehmer, sich weiterzubilden und neue Fähigkeiten zu erlernen.",
+    "questions": [
+      {
+        "question": "Was verändert die Arbeitswelt?",
+        "options": ["Neue Technologien", "Sport", "Politik", "Kunst"],
+        "answer": "Neue Technologien"
+      },
+      {
+        "question": "Was übernehmen Automatisierung und KI?",
+        "options": ["Aufgaben", "Ferien", "Müll", "Pausen"],
+        "answer": "Aufgaben"
+      },
+      {
+        "question": "Was müssen Arbeitnehmer tun?",
+        "options": ["Weiterbilden", "Nichts tun", "Urlaub machen", "Kündigen"],
+        "answer": "Weiterbilden"
+      }
+    ]
+  },
+  {
+    "text": "In vielen Städten gibt es Probleme mit Verkehr und Luftverschmutzung. Öffentliche Verkehrsmittel und Fahrradwege sollen verbessert werden, um die Umwelt zu entlasten und die Lebensqualität zu erhöhen.",
+    "questions": [
+      {
+        "question": "Welche Probleme gibt es in Städten?",
+        "options": ["Verkehr und Luftverschmutzung", "Sportmangel", "Lärm", "Wasserknappheit"],
+        "answer": "Verkehr und Luftverschmutzung"
+      },
+      {
+        "question": "Was soll verbessert werden?",
+        "options": ["Öffentliche Verkehrsmittel und Fahrradwege", "Schulen", "Krankenhäuser", "Restaurants"],
+        "answer": "Öffentliche Verkehrsmittel und Fahrradwege"
+      },
+      {
+        "question": "Was wird dadurch erhöht?",
+        "options": ["Lebensqualität", "Kosten", "Lärm", "Arbeitslosigkeit"],
+        "answer": "Lebensqualität"
+      }
+    ]
+  },
+  {
+    "text": "Kulturelle Vielfalt bereichert unsere Gesellschaft. Durch den Austausch unterschiedlicher Traditionen und Werte entsteht ein besseres Verständnis und mehr Toleranz unter Menschen verschiedener Herkunft.",
+    "questions": [
+      {
+        "question": "Was bereichert die Gesellschaft?",
+        "options": ["Kulturelle Vielfalt", "Sport", "Technologie", "Politik"],
+        "answer": "Kulturelle Vielfalt"
+      },
+      {
+        "question": "Was entsteht durch den Austausch?",
+        "options": ["Verständnis und Toleranz", "Konflikte", "Ignoranz", "Armut"],
+        "answer": "Verständnis und Toleranz"
+      },
+      {
+        "question": "Worunter entstehen mehr Toleranz und Verständnis?",
+        "options": ["Menschen verschiedener Herkunft", "Menschen derselben Herkunft", "Nur Politiker", "Nur Jugendliche"],
+        "answer": "Menschen verschiedener Herkunft"
+      }
+    ]
+  },
+
+  {
+    "text": "Sport fördert die Gesundheit und das Wohlbefinden. Regelmäßige Bewegung kann Stress reduzieren und das Herz-Kreislauf-System stärken. Es ist wichtig, eine Sportart zu finden, die Spaß macht, um langfristig dabei zu bleiben.",
+    "questions": [
+      {
+        "question": "Was fördert Sport laut Text?",
+        "options": ["Gesundheit und Wohlbefinden", "Faulheit", "Schlaf", "Essen"],
+        "answer": "Gesundheit und Wohlbefinden"
+      },
+      {
+        "question": "Was kann regelmäßige Bewegung reduzieren?",
+        "options": ["Stress", "Freude", "Hunger", "Lärm"],
+        "answer": "Stress"
+      },
+      {
+        "question": "Was ist wichtig, um langfristig Sport zu machen?",
+        "options": ["Spaß an der Sportart", "Schnelle Ergebnisse", "Hohe Kosten", "Viel Konkurrenz"],
+        "answer": "Spaß an der Sportart"
+      }
+    ]
+  },
+  {
+    "text": "Die Energiewende zielt darauf ab, fossile Brennstoffe durch erneuerbare Energien zu ersetzen. Solar- und Windenergie gewinnen immer mehr an Bedeutung. Allerdings gibt es noch Herausforderungen bei der Speicherung und Verteilung der Energie.",
+    "questions": [
+      {
+        "question": "Was soll durch die Energiewende ersetzt werden?",
+        "options": ["Fossile Brennstoffe", "Holz", "Wasser", "Kohle"],
+        "answer": "Fossile Brennstoffe"
+      },
+      {
+        "question": "Welche Energiequellen gewinnen an Bedeutung?",
+        "options": ["Solar- und Windenergie", "Öl und Gas", "Kohle und Uran", "Holz und Kohle"],
+        "answer": "Solar- und Windenergie"
+      },
+      {
+        "question": "Was sind Herausforderungen bei der Energiewende?",
+        "options": ["Speicherung und Verteilung", "Nutzung", "Erzeugung", "Kosten"],
+        "answer": "Speicherung und Verteilung"
+      }
+    ]
+  },
+  {
+    "text": "Bildung ist ein wichtiger Schlüssel für eine erfolgreiche Zukunft. Sie eröffnet Chancen und fördert die persönliche Entwicklung. Besonders wichtig ist es, lebenslang zu lernen und sich ständig weiterzubilden.",
+    "questions": [
+      {
+        "question": "Was ist laut Text ein wichtiger Schlüssel?",
+        "options": ["Bildung", "Sport", "Geld", "Reisen"],
+        "answer": "Bildung"
+      },
+      {
+        "question": "Was eröffnet Bildung?",
+        "options": ["Chancen", "Probleme", "Gefahren", "Unwissenheit"],
+        "answer": "Chancen"
+      },
+      {
+        "question": "Was ist besonders wichtig laut Text?",
+        "options": ["Lebenslanges Lernen", "Einmal lernen", "Nichts lernen", "Reisen"],
+        "answer": "Lebenslanges Lernen"
+      }
+    ]
+  },
+  {
+    "text": "Tourismus kann sowohl positive als auch negative Auswirkungen haben. Während er wirtschaftliche Vorteile bringt, kann er auch die Umwelt belasten und Kulturen verändern. Nachhaltiger Tourismus versucht, diese Probleme zu minimieren.",
+    "questions": [
+      {
+        "question": "Welche Auswirkungen kann Tourismus haben?",
+        "options": ["Positive und negative", "Nur positive", "Nur negative", "Keine"],
+        "answer": "Positive und negative"
+      },
+      {
+        "question": "Was bringt Tourismus wirtschaftlich?",
+        "options": ["Vorteile", "Nachteile", "Probleme", "Gefahren"],
+        "answer": "Vorteile"
+      },
+      {
+        "question": "Was versucht nachhaltiger Tourismus?",
+        "options": ["Probleme minimieren", "Probleme verschärfen", "Ignorieren", "Nicht reisen"],
+        "answer": "Probleme minimieren"
+      }
+    ]
+  },
+  {
+    "text": "Soziale Medien haben die Kommunikation stark verändert. Sie ermöglichen schnellen Austausch von Informationen, können aber auch zu Fehlinformationen und Stress führen. Ein bewusster Umgang ist daher wichtig.",
+    "questions": [
+      {
+        "question": "Was haben soziale Medien verändert?",
+        "options": ["Kommunikation", "Sport", "Reisen", "Essen"],
+        "answer": "Kommunikation"
+      },
+      {
+        "question": "Was ermöglichen soziale Medien?",
+        "options": ["Schnellen Austausch von Informationen", "Langsamen Austausch", "Keine Kommunikation", "Sportveranstaltungen"],
+        "answer": "Schnellen Austausch von Informationen"
+      },
+      {
+        "question": "Was kann ein Problem durch soziale Medien sein?",
+        "options": ["Fehlinformationen und Stress", "Freundschaft", "Erholung", "Sport"],
+        "answer": "Fehlinformationen und Stress"
+      }
+    ]
+  },
+
+  {
+    "text": "Die Bedeutung der Schlafqualität wird oft unterschätzt. Ausreichender und erholsamer Schlaf ist essenziell für die Gesundheit und das Wohlbefinden. Schlafmangel kann zu Konzentrationsproblemen, erhöhter Stressanfälligkeit und gesundheitlichen Beschwerden führen.",
+    "questions": [
+      {
+        "question": "Was wird oft unterschätzt?",
+        "options": ["Die Schlafqualität", "Die Ernährung", "Der Sport", "Die Arbeit"],
+        "answer": "Die Schlafqualität"
+      },
+      {
+        "question": "Wofür ist erholsamer Schlaf wichtig?",
+        "options": ["Gesundheit und Wohlbefinden", "Geld verdienen", "Reisen", "Auto fahren"],
+        "answer": "Gesundheit und Wohlbefinden"
+      },
+      {
+        "question": "Was kann Schlafmangel verursachen?",
+        "options": ["Konzentrationsprobleme", "Mehr Energie", "Freude", "Sport"],
+        "answer": "Konzentrationsprobleme"
+      }
+    ]
+  },
+  {
+    "text": "Urban Gardening erfreut sich immer größerer Beliebtheit. Menschen bepflanzen Balkone, Dächer oder Gemeinschaftsgärten, um eigenes Gemüse und Kräuter anzubauen. Dies fördert nicht nur die Nachhaltigkeit, sondern auch das Gemeinschaftsgefühl.",
+    "questions": [
+      {
+        "question": "Was ist Urban Gardening?",
+        "options": ["Gemüse und Kräuter anbauen in der Stadt", "Sport im Park", "Einkaufen", "Fahrrad fahren"],
+        "answer": "Gemüse und Kräuter anbauen in der Stadt"
+      },
+      {
+        "question": "Wo bepflanzen Menschen oft Gemüse?",
+        "options": ["Balkone und Dächer", "Nur Gärten", "Straßen", "Supermärkte"],
+        "answer": "Balkone und Dächer"
+      },
+      {
+        "question": "Was fördert Urban Gardening außer Nachhaltigkeit?",
+        "options": ["Gemeinschaftsgefühl", "Alleinsein", "Stress", "Lärm"],
+        "answer": "Gemeinschaftsgefühl"
+      }
+    ]
+  },
+  {
+    "text": "Künstliche Intelligenz (KI) hat in vielen Bereichen Einzug gehalten, von der Medizin bis zur Wirtschaft. KI kann große Datenmengen analysieren und Entscheidungen unterstützen. Gleichzeitig gibt es ethische Fragen und Bedenken bezüglich Datenschutz.",
+    "questions": [
+      {
+        "question": "Wo wird KI eingesetzt?",
+        "options": ["Medizin und Wirtschaft", "Nur in der Schule", "Nur im Haushalt", "Nur im Verkehr"],
+        "answer": "Medizin und Wirtschaft"
+      },
+      {
+        "question": "Was kann KI tun?",
+        "options": ["Daten analysieren und Entscheidungen unterstützen", "Kochen", "Fahren", "Schlafen"],
+        "answer": "Daten analysieren und Entscheidungen unterstützen"
+      },
+      {
+        "question": "Welche Probleme gibt es mit KI?",
+        "options": ["Ethische Fragen und Datenschutz", "Kein Problem", "Sport", "Essen"],
+        "answer": "Ethische Fragen und Datenschutz"
+      }
+    ]
+  },
+  {
+    "text": "Das Reisen erweitert den Horizont und fördert interkulturelles Verständnis. Neue Länder und Kulturen kennenzulernen bereichert das Leben. Gleichzeitig ist es wichtig, verantwortungsbewusst zu reisen, um Umwelt und Kultur zu schützen.",
+    "questions": [
+      {
+        "question": "Was erweitert das Reisen laut Text?",
+        "options": ["Den Horizont", "Das Auto", "Das Essen", "Den Sport"],
+        "answer": "Den Horizont"
+      },
+      {
+        "question": "Was fördert Reisen?",
+        "options": ["Interkulturelles Verständnis", "Sport", "Stress", "Lärm"],
+        "answer": "Interkulturelles Verständnis"
+      },
+      {
+        "question": "Wie soll man reisen?",
+        "options": ["Verantwortungsbewusst", "Schnell", "Teuer", "Gefährlich"],
+        "answer": "Verantwortungsbewusst"
+      }
+    ]
+  },
+  {
+    "text": "Die Arbeitszeiten verändern sich in der modernen Gesellschaft. Flexible Arbeitsmodelle und Homeoffice werden immer beliebter. Dies kann die Work-Life-Balance verbessern, aber auch neue Herausforderungen mit sich bringen.",
+    "questions": [
+      {
+        "question": "Was verändert sich laut Text?",
+        "options": ["Arbeitszeiten", "Essen", "Schlafen", "Sport"],
+        "answer": "Arbeitszeiten"
+      },
+      {
+        "question": "Was wird immer beliebter?",
+        "options": ["Flexible Arbeitsmodelle und Homeoffice", "Feste Arbeitszeiten", "Reisen", "Schule"],
+        "answer": "Flexible Arbeitsmodelle und Homeoffice"
+      },
+      {
+        "question": "Was kann sich verbessern?",
+        "options": ["Work-Life-Balance", "Stress", "Krankheit", "Lärm"],
+        "answer": "Work-Life-Balance"
+      }
+    ]
+  },
+
+  {
+    "text": "Der demografische Wandel führt zu einer älter werdenden Gesellschaft. Das hat Auswirkungen auf das Gesundheitssystem, die Renten und den Arbeitsmarkt. Es wird immer wichtiger, neue Konzepte für Pflege und Integration älterer Menschen zu entwickeln.",
+    "questions": [
+      {
+        "question": "Was führt zu einer älter werdenden Gesellschaft?",
+        "options": ["Demografischer Wandel", "Technologie", "Sport", "Reisen"],
+        "answer": "Demografischer Wandel"
+      },
+      {
+        "question": "Welche Bereiche sind betroffen?",
+        "options": ["Gesundheitssystem, Renten, Arbeitsmarkt", "Sport, Reisen, Essen", "Politik, Kunst, Musik", "Schule, Freizeit, Mode"],
+        "answer": "Gesundheitssystem, Renten, Arbeitsmarkt"
+      },
+      {
+        "question": "Was wird wichtiger?",
+        "options": ["Neue Konzepte für Pflege und Integration", "Mehr Urlaub", "Mehr Sport", "Weniger Arbeit"],
+        "answer": "Neue Konzepte für Pflege und Integration"
+      }
+    ]
+  },
+  {
+    "text": "Der Einsatz von Robotern in der Industrie nimmt zu. Roboter können gefährliche oder monotone Arbeiten übernehmen und die Produktivität steigern. Gleichzeitig gibt es Diskussionen über Arbeitsplatzverluste und die Notwendigkeit von Umschulungen.",
+    "questions": [
+      {
+        "question": "Wo werden Roboter vermehrt eingesetzt?",
+        "options": ["In der Industrie", "Im Sport", "Im Haushalt", "In der Schule"],
+        "answer": "In der Industrie"
+      },
+      {
+        "question": "Welche Aufgaben übernehmen Roboter?",
+        "options": ["Gefährliche und monotone Arbeiten", "Kreative Arbeiten", "Urlaubsplanung", "Kochen"],
+        "answer": "Gefährliche und monotone Arbeiten"
+      },
+      {
+        "question": "Welche Probleme gibt es?",
+        "options": ["Arbeitsplatzverluste und Umschulungsbedarf", "Mehr Jobs", "Weniger Produktivität", "Keine Probleme"],
+        "answer": "Arbeitsplatzverluste und Umschulungsbedarf"
+      }
+    ]
+  },
+  {
+    "text": "Die Nutzung erneuerbarer Energien wie Solar- und Windenergie ist ein wichtiger Schritt gegen den Klimawandel. Allerdings sind der Ausbau und die Speicherung der Energie Herausforderungen, die noch gelöst werden müssen.",
+    "questions": [
+      {
+        "question": "Welche Energien werden genannt?",
+        "options": ["Solar- und Windenergie", "Kohle und Öl", "Gas und Atomenergie", "Holz und Kohle"],
+        "answer": "Solar- und Windenergie"
+      },
+      {
+        "question": "Was ist ein wichtiger Schritt gegen den Klimawandel?",
+        "options": ["Nutzung erneuerbarer Energien", "Mehr Autos", "Weniger Sport", "Mehr Industrie"],
+        "answer": "Nutzung erneuerbarer Energien"
+      },
+      {
+        "question": "Welche Probleme gibt es noch?",
+        "options": ["Ausbau und Speicherung", "Nutzung und Transport", "Produktion und Verkauf", "Keine Probleme"],
+        "answer": "Ausbau und Speicherung"
+      }
+    ]
+  },
+  {
+    "text": "Die Globalisierung bringt viele Vorteile, wie den Austausch von Waren, Ideen und Kulturen. Gleichzeitig gibt es aber auch Kritik, da manche Länder benachteiligt werden und Umweltschäden zunehmen.",
+    "questions": [
+      {
+        "question": "Was bringt die Globalisierung?",
+        "options": ["Austausch von Waren, Ideen und Kulturen", "Nur Nachteile", "Keine Veränderungen", "Sport"],
+        "answer": "Austausch von Waren, Ideen und Kulturen"
+      },
+      {
+        "question": "Was ist eine Kritik an der Globalisierung?",
+        "options": ["Manche Länder werden benachteiligt", "Alle profitieren", "Es gibt keine Kritik", "Sportmangel"],
+        "answer": "Manche Länder werden benachteiligt"
+      },
+      {
+        "question": "Was nimmt durch Globalisierung zu?",
+        "options": ["Umweltschäden", "Freizeit", "Gesundheit", "Sport"],
+        "answer": "Umweltschäden"
+      }
+    ]
+  },
+  {
+    "text": "Die Bedeutung von Medienkompetenz wächst in der digitalen Welt. Menschen müssen lernen, Informationen kritisch zu beurteilen und verantwortungsvoll mit digitalen Medien umzugehen, um Fehlinformationen und Manipulation zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was wächst in der digitalen Welt?",
+        "options": ["Bedeutung von Medienkompetenz", "Sportliche Fähigkeiten", "Technisches Wissen", "Kochen"],
+        "answer": "Bedeutung von Medienkompetenz"
+      },
+      {
+        "question": "Was müssen Menschen lernen?",
+        "options": ["Informationen kritisch beurteilen", "Nichts lernen", "Nur spielen", "Fernsehen"],
+        "answer": "Informationen kritisch beurteilen"
+      },
+      {
+        "question": "Wozu dient Medienkompetenz?",
+        "options": ["Fehlinformationen und Manipulation vermeiden", "Mehr Werbung", "Mehr Spaß", "Mehr Stress"],
+        "answer": "Fehlinformationen und Manipulation vermeiden"
+      }
+    ]
+  },
+
+  {
+    "text": "Das Fahrradfahren ist nicht nur umweltfreundlich, sondern auch gesund. Immer mehr Städte fördern den Radverkehr durch den Ausbau von Fahrradwegen und die Verbesserung der Sicherheit. So kann die Luftverschmutzung reduziert werden.",
+    "questions": [
+      {
+        "question": "Warum ist Fahrradfahren gut?",
+        "options": ["Umweltfreundlich und gesund", "Teuer und gefährlich", "Langsam und langweilig", "Unmodern"],
+        "answer": "Umweltfreundlich und gesund"
+      },
+      {
+        "question": "Was fördern Städte?",
+        "options": ["Radverkehr und Fahrradwege", "Autoverkehr", "Flugverkehr", "Schulwege"],
+        "answer": "Radverkehr und Fahrradwege"
+      },
+      {
+        "question": "Was kann durch Fahrradfahren reduziert werden?",
+        "options": ["Luftverschmutzung", "Lärm", "Stress", "Verkehrsunfälle"],
+        "answer": "Luftverschmutzung"
+      }
+    ]
+  },
+  {
+    "text": "Der Einfluss von Musik auf die Stimmung ist wissenschaftlich belegt. Musik kann entspannen, motivieren oder Erinnerungen wecken. Deshalb wird Musiktherapie auch in der Medizin und Psychologie eingesetzt.",
+    "questions": [
+      {
+        "question": "Was beeinflusst Musik laut Text?",
+        "options": ["Die Stimmung", "Das Wetter", "Die Ernährung", "Das Lernen"],
+        "answer": "Die Stimmung"
+      },
+      {
+        "question": "Was kann Musik bewirken?",
+        "options": ["Entspannen und motivieren", "Verwirren", "Einschläfern", "Ignorieren"],
+        "answer": "Entspannen und motivieren"
+      },
+      {
+        "question": "Wo wird Musiktherapie eingesetzt?",
+        "options": ["Medizin und Psychologie", "Sport und Verkehr", "Küche und Haushalt", "Schule und Freizeit"],
+        "answer": "Medizin und Psychologie"
+      }
+    ]
+  },
+  {
+    "text": "Das Internet hat die Art und Weise, wie Menschen kommunizieren, revolutioniert. Soziale Netzwerke ermöglichen den Kontakt über große Entfernungen. Allerdings gibt es auch Risiken wie Datenschutzverletzungen und Cybermobbing.",
+    "questions": [
+      {
+        "question": "Was hat das Internet verändert?",
+        "options": ["Die Kommunikation", "Die Ernährung", "Das Wetter", "Die Kleidung"],
+        "answer": "Die Kommunikation"
+      },
+      {
+        "question": "Was ermöglichen soziale Netzwerke?",
+        "options": ["Kontakt über große Entfernungen", "Sportveranstaltungen", "Einkäufe", "Reisen"],
+        "answer": "Kontakt über große Entfernungen"
+      },
+      {
+        "question": "Welche Risiken gibt es?",
+        "options": ["Datenschutzverletzungen und Cybermobbing", "Kein Risiko", "Mehr Freizeit", "Mehr Sport"],
+        "answer": "Datenschutzverletzungen und Cybermobbing"
+      }
+    ]
+  },
+  {
+    "text": "Gesunde Ernährung ist wichtig für das körperliche und geistige Wohlbefinden. Eine ausgewogene Ernährung mit viel Obst, Gemüse und wenig Zucker kann Krankheiten vorbeugen und die Leistungsfähigkeit steigern.",
+    "questions": [
+      {
+        "question": "Was ist wichtig für das Wohlbefinden?",
+        "options": ["Gesunde Ernährung", "Sport", "Reisen", "Schlafen"],
+        "answer": "Gesunde Ernährung"
+      },
+      {
+        "question": "Was gehört zu einer ausgewogenen Ernährung?",
+        "options": ["Obst, Gemüse und wenig Zucker", "Viel Fett und Zucker", "Nur Fleisch", "Fast Food"],
+        "answer": "Obst, Gemüse und wenig Zucker"
+      },
+      {
+        "question": "Was kann gesunde Ernährung verhindern?",
+        "options": ["Krankheiten", "Freude", "Stress", "Lärm"],
+        "answer": "Krankheiten"
+      }
+    ]
+  },
+  {
+    "text": "Klimaschutz erfordert das Engagement aller Menschen. Jeder kann durch kleine Veränderungen im Alltag, wie weniger Müll produzieren oder Energie sparen, einen Beitrag leisten. Politische Maßnahmen unterstützen diese Bemühungen.",
+    "questions": [
+      {
+        "question": "Was erfordert Klimaschutz?",
+        "options": ["Engagement aller Menschen", "Nur Regierung", "Keine Veränderungen", "Sport"],
+        "answer": "Engagement aller Menschen"
+      },
+      {
+        "question": "Was kann jeder tun?",
+        "options": ["Weniger Müll produzieren und Energie sparen", "Nichts tun", "Reisen", "Viel kaufen"],
+        "answer": "Weniger Müll produzieren und Energie sparen"
+      },
+      {
+        "question": "Wer unterstützt die Bemühungen?",
+        "options": ["Politische Maßnahmen", "Nur Wissenschaftler", "Keine Unterstützung", "Sportvereine"],
+        "answer": "Politische Maßnahmen"
+      }
+    ]
+  },
+  
+  {
+    "text": "Die Digitalisierung verändert die Arbeitswelt grundlegend. Viele Prozesse werden automatisiert, was Effizienz und Produktivität steigert. Gleichzeitig erfordert dies neue Kompetenzen und lebenslanges Lernen.",
+    "questions": [
+      {
+        "question": "Was verändert die Arbeitswelt?",
+        "options": ["Die Digitalisierung", "Das Auto", "Die Ernährung", "Der Sport"],
+        "answer": "Die Digitalisierung"
+      },
+      {
+        "question": "Was wird automatisiert?",
+        "options": ["Viele Prozesse", "Keine Prozesse", "Nur der Verkehr", "Nur die Schule"],
+        "answer": "Viele Prozesse"
+      },
+      {
+        "question": "Was ist erforderlich durch die Digitalisierung?",
+        "options": ["Neue Kompetenzen und lebenslanges Lernen", "Weniger Bildung", "Mehr Freizeit", "Weniger Arbeit"],
+        "answer": "Neue Kompetenzen und lebenslanges Lernen"
+      }
+    ]
+  },
+  {
+    "text": "Der öffentliche Nahverkehr ist eine wichtige Alternative zum Auto. Er reduziert Verkehrsstaus und Luftverschmutzung in Städten. Investitionen in moderne Verkehrsmittel und Infrastruktur sind entscheidend für die Zukunft urbaner Gebiete.",
+    "questions": [
+      {
+        "question": "Was ist eine Alternative zum Auto?",
+        "options": ["Öffentlicher Nahverkehr", "Flugzeug", "Fahrrad", "Motorrad"],
+        "answer": "Öffentlicher Nahverkehr"
+      },
+      {
+        "question": "Was reduziert der Nahverkehr?",
+        "options": ["Verkehrsstaus und Luftverschmutzung", "Kosten", "Freizeit", "Schlafmangel"],
+        "answer": "Verkehrsstaus und Luftverschmutzung"
+      },
+      {
+        "question": "Was ist entscheidend für die Zukunft der Städte?",
+        "options": ["Investitionen in Verkehrsmittel und Infrastruktur", "Mehr Autos", "Weniger Verkehr", "Mehr Parkplätze"],
+        "answer": "Investitionen in Verkehrsmittel und Infrastruktur"
+      }
+    ]
+  },
+  {
+    "text": "Freiwilligenarbeit bietet die Möglichkeit, sich gesellschaftlich zu engagieren und neue Erfahrungen zu sammeln. Dabei profitieren sowohl die Helfer als auch die Gemeinschaft. Freiwillige Arbeit stärkt das soziale Miteinander.",
+    "questions": [
+      {
+        "question": "Was bietet Freiwilligenarbeit?",
+        "options": ["Gesellschaftliches Engagement und neue Erfahrungen", "Nur Freizeit", "Geld verdienen", "Alleinsein"],
+        "answer": "Gesellschaftliches Engagement und neue Erfahrungen"
+      },
+      {
+        "question": "Wer profitiert von Freiwilligenarbeit?",
+        "options": ["Helfer und Gemeinschaft", "Nur Helfer", "Nur Gemeinschaft", "Niemand"],
+        "answer": "Helfer und Gemeinschaft"
+      },
+      {
+        "question": "Was stärkt Freiwilligenarbeit?",
+        "options": ["Soziales Miteinander", "Wettbewerb", "Stress", "Isolation"],
+        "answer": "Soziales Miteinander"
+      }
+    ]
+  },
+  {
+    "text": "Die richtige Nutzung von Wasserressourcen ist für den Umweltschutz entscheidend. Wasserverschwendung sollte vermieden werden, da sauberes Wasser begrenzt ist. Moderne Technologien helfen, Wasser effizienter zu nutzen.",
+    "questions": [
+      {
+        "question": "Was ist entscheidend für den Umweltschutz?",
+        "options": ["Richtige Nutzung von Wasserressourcen", "Mehr Wasserverbrauch", "Wasserverschmutzung", "Wasserverschwendung"],
+        "answer": "Richtige Nutzung von Wasserressourcen"
+      },
+      {
+        "question": "Was soll vermieden werden?",
+        "options": ["Wasserverschwendung", "Wassersparen", "Wasserfilter", "Wassersport"],
+        "answer": "Wasserverschwendung"
+      },
+      {
+        "question": "Was hilft, Wasser effizienter zu nutzen?",
+        "options": ["Moderne Technologien", "Mehr Wasserverbrauch", "Keine Technik", "Verzicht auf Wasser"],
+        "answer": "Moderne Technologien"
+      }
+    ]
+  },
+  {
+    "text": "Die kulturelle Vielfalt bereichert Gesellschaften und fördert Toleranz. Kultureller Austausch kann Vorurteile abbauen und gegenseitiges Verständnis stärken. Bildung spielt eine wichtige Rolle bei der Förderung von Offenheit.",
+    "questions": [
+      {
+        "question": "Was bereichert Gesellschaften?",
+        "options": ["Kulturelle Vielfalt", "Gleichheit", "Sport", "Technologie"],
+        "answer": "Kulturelle Vielfalt"
+      },
+      {
+        "question": "Was kann kultureller Austausch abbauen?",
+        "options": ["Vorurteile", "Freundschaften", "Wissen", "Stress"],
+        "answer": "Vorurteile"
+      },
+      {
+        "question": "Was spielt eine wichtige Rolle für Offenheit?",
+        "options": ["Bildung", "Sport", "Technologie", "Reisen"],
+        "answer": "Bildung"
+      }
+    ]
+  }.
+
+  {
+    "text": "Die zunehmende Urbanisierung stellt Städte vor große Herausforderungen. Der Bedarf an Wohnraum, Verkehrswegen und Infrastruktur wächst stetig. Nachhaltige Stadtplanung ist notwendig, um Lebensqualität zu erhalten.",
+    "questions": [
+      {
+        "question": "Was stellt Städte vor Herausforderungen?",
+        "options": ["Zunehmende Urbanisierung", "Demografischer Wandel", "Technologische Entwicklung", "Tourismus"],
+        "answer": "Zunehmende Urbanisierung"
+      },
+      {
+        "question": "Was wächst stetig?",
+        "options": ["Wohnraum, Verkehrswege und Infrastruktur", "Freizeitangebote", "Schulen", "Parks"],
+        "answer": "Wohnraum, Verkehrswege und Infrastruktur"
+      },
+      {
+        "question": "Was ist notwendig, um Lebensqualität zu erhalten?",
+        "options": ["Nachhaltige Stadtplanung", "Mehr Autos", "Weniger Menschen", "Mehr Fabriken"],
+        "answer": "Nachhaltige Stadtplanung"
+      }
+    ]
+  },
+  {
+    "text": "Die Bedeutung von erneuerbaren Energien nimmt weltweit zu. Wind-, Solar- und Wasserkraft sind wichtige Quellen für saubere Energie. Die Umstellung auf erneuerbare Energien hilft, den Klimawandel zu bekämpfen.",
+    "questions": [
+      {
+        "question": "Welche Energien werden genannt?",
+        "options": ["Wind-, Solar- und Wasserkraft", "Kohle, Öl und Gas", "Atomenergie", "Biomasse"],
+        "answer": "Wind-, Solar- und Wasserkraft"
+      },
+      {
+        "question": "Was hilft, den Klimawandel zu bekämpfen?",
+        "options": ["Umstellung auf erneuerbare Energien", "Mehr Autos", "Weniger Sport", "Mehr Industrie"],
+        "answer": "Umstellung auf erneuerbare Energien"
+      },
+      {
+        "question": "Wie nimmt die Bedeutung erneuerbarer Energien zu?",
+        "options": ["Weltweit", "Nur in Deutschland", "Nur in Städten", "Gar nicht"],
+        "answer": "Weltweit"
+      }
+    ]
+  },
+  {
+    "text": "Das Thema Ernährung gewinnt immer mehr an Bedeutung. Viele Menschen achten heute auf eine bewusste und nachhaltige Ernährung. Regionale und saisonale Lebensmittel werden bevorzugt, um Umweltbelastungen zu reduzieren.",
+    "questions": [
+      {
+        "question": "Was gewinnt an Bedeutung?",
+        "options": ["Ernährung", "Sport", "Technologie", "Reisen"],
+        "answer": "Ernährung"
+      },
+      {
+        "question": "Was bevorzugen viele Menschen?",
+        "options": ["Regionale und saisonale Lebensmittel", "Importierte Lebensmittel", "Fast Food", "Fertigprodukte"],
+        "answer": "Regionale und saisonale Lebensmittel"
+      },
+      {
+        "question": "Warum bevorzugen sie diese Lebensmittel?",
+        "options": ["Um Umweltbelastungen zu reduzieren", "Weil sie billiger sind", "Weil sie schneller sind", "Weil sie besser schmecken"],
+        "answer": "Um Umweltbelastungen zu reduzieren"
+      }
+    ]
+  },
+  {
+    "text": "Der Tourismus ist eine wichtige Einkommensquelle für viele Länder. Gleichzeitig kann massiver Tourismus aber auch negative Folgen für die Umwelt und die lokale Bevölkerung haben. Nachhaltiger Tourismus versucht, diese Probleme zu minimieren.",
+    "questions": [
+      {
+        "question": "Was ist der Tourismus für viele Länder?",
+        "options": ["Wichtige Einkommensquelle", "Umweltschutz", "Sportveranstaltung", "Bildung"],
+        "answer": "Wichtige Einkommensquelle"
+      },
+      {
+        "question": "Welche Folgen kann massiver Tourismus haben?",
+        "options": ["Negative Folgen für Umwelt und Bevölkerung", "Keine Folgen", "Nur positive Folgen", "Weniger Touristen"],
+        "answer": "Negative Folgen für Umwelt und Bevölkerung"
+      },
+      {
+        "question": "Was versucht nachhaltiger Tourismus?",
+        "options": ["Probleme zu minimieren", "Mehr Touristen zu gewinnen", "Mehr Geld zu verdienen", "Weniger Reisen"],
+        "answer": "Probleme zu minimieren"
+      }
+    ]
+  },
+  {
+    "text": "Sportliche Betätigung fördert die Gesundheit und das Wohlbefinden. Regelmäßiger Sport kann das Risiko von Herz-Kreislauf-Erkrankungen senken und das Immunsystem stärken. Außerdem wirkt Sport stressreduzierend und verbessert die Stimmung.",
+    "questions": [
+      {
+        "question": "Was fördert sportliche Betätigung?",
+        "options": ["Gesundheit und Wohlbefinden", "Stress und Krankheit", "Langsamkeit", "Isolation"],
+        "answer": "Gesundheit und Wohlbefinden"
+      },
+      {
+        "question": "Was kann regelmäßiger Sport senken?",
+        "options": ["Risiko von Herz-Kreislauf-Erkrankungen", "Risiko von Unfällen", "Kosten", "Stress"],
+        "answer": "Risiko von Herz-Kreislauf-Erkrankungen"
+      },
+      {
+        "question": "Wie wirkt Sport noch?",
+        "options": ["Stressreduzierend und stimmungsverbessernd", "Stressfördernd", "Schädlich", "Unwichtig"],
+        "answer": "Stressreduzierend und stimmungsverbessernd"
+      }
+    ]
+  },
+
+  {
+    "text": "Die Rolle der sozialen Medien in der heutigen Gesellschaft ist enorm. Sie ermöglichen schnelle Kommunikation und den Austausch von Informationen. Gleichzeitig gibt es aber auch Herausforderungen wie Fake News und Datenschutzprobleme.",
+    "questions": [
+      {
+        "question": "Welche Rolle spielen soziale Medien?",
+        "options": ["Schnelle Kommunikation und Informationsaustausch", "Keinen Einfluss", "Nur Unterhaltung", "Nur Werbung"],
+        "answer": "Schnelle Kommunikation und Informationsaustausch"
+      },
+      {
+        "question": "Welche Herausforderungen gibt es?",
+        "options": ["Fake News und Datenschutzprobleme", "Mehr Sport", "Bessere Bildung", "Keine"],
+        "answer": "Fake News und Datenschutzprobleme"
+      },
+      {
+        "question": "Was ermöglichen soziale Medien?",
+        "options": ["Kommunikation", "Isolation", "Verwirrung", "Unwissenheit"],
+        "answer": "Kommunikation"
+      }
+    ]
+  },
+  {
+    "text": "Der Schutz der Biodiversität ist für das Gleichgewicht der Natur wichtig. Durch Abholzung, Umweltverschmutzung und Klimawandel sind viele Tier- und Pflanzenarten bedroht. Schutzgebiete und nachhaltige Nutzung sind Maßnahmen dagegen.",
+    "questions": [
+      {
+        "question": "Warum ist Biodiversität wichtig?",
+        "options": ["Für das Gleichgewicht der Natur", "Für die Wirtschaft", "Für den Verkehr", "Für die Technik"],
+        "answer": "Für das Gleichgewicht der Natur"
+      },
+      {
+        "question": "Welche Bedrohungen gibt es?",
+        "options": ["Abholzung, Umweltverschmutzung und Klimawandel", "Sport", "Technologie", "Bildung"],
+        "answer": "Abholzung, Umweltverschmutzung und Klimawandel"
+      },
+      {
+        "question": "Was sind Maßnahmen zum Schutz?",
+        "options": ["Schutzgebiete und nachhaltige Nutzung", "Mehr Straßen bauen", "Industrialisierung", "Mehr Verkehr"],
+        "answer": "Schutzgebiete und nachhaltige Nutzung"
+      }
+    ]
+  },
+  {
+    "text": "Bildung ist der Schlüssel für persönliche Entwicklung und gesellschaftlichen Fortschritt. Gute Bildung fördert kritisches Denken, Kreativität und soziale Kompetenzen. Investitionen in Bildung sind deshalb besonders wichtig.",
+    "questions": [
+      {
+        "question": "Was ist Bildung laut Text?",
+        "options": ["Schlüssel für persönliche Entwicklung und gesellschaftlichen Fortschritt", "Nur Wissen", "Spaß", "Geld"],
+        "answer": "Schlüssel für persönliche Entwicklung und gesellschaftlichen Fortschritt"
+      },
+      {
+        "question": "Was fördert gute Bildung?",
+        "options": ["Kritisches Denken, Kreativität und soziale Kompetenzen", "Sport", "Reisen", "Technologie"],
+        "answer": "Kritisches Denken, Kreativität und soziale Kompetenzen"
+      },
+      {
+        "question": "Warum sind Investitionen in Bildung wichtig?",
+        "options": ["Für die Zukunft", "Für den Sport", "Für die Unterhaltung", "Für die Landwirtschaft"],
+        "answer": "Für die Zukunft"
+      }
+    ]
+  },
+  {
+    "text": "Die Arbeitsbedingungen in vielen Ländern sind unterschiedlich. Gute Arbeitsbedingungen fördern die Gesundheit und Motivation der Mitarbeiter. Faire Löhne, sichere Arbeitsplätze und Weiterbildung sind wichtige Faktoren.",
+    "questions": [
+      {
+        "question": "Was fördern gute Arbeitsbedingungen?",
+        "options": ["Gesundheit und Motivation", "Stress und Krankheit", "Langsamkeit", "Isolation"],
+        "answer": "Gesundheit und Motivation"
+      },
+      {
+        "question": "Was sind wichtige Faktoren für Arbeitsbedingungen?",
+        "options": ["Faire Löhne, sichere Arbeitsplätze und Weiterbildung", "Weniger Arbeit", "Mehr Freizeit", "Mehr Sport"],
+        "answer": "Faire Löhne, sichere Arbeitsplätze und Weiterbildung"
+      },
+      {
+        "question": "Sind Arbeitsbedingungen überall gleich?",
+        "options": ["Nein, sie sind unterschiedlich", "Ja", "Weiß nicht", "Manchmal"],
+        "answer": "Nein, sie sind unterschiedlich"
+      }
+    ]
+  },
+  {
+    "text": "Kunst und Kultur spielen eine wichtige Rolle im gesellschaftlichen Leben. Sie fördern Kreativität, Identität und das Verständnis für andere Kulturen. Veranstaltungen, Museen und Theater sind wichtige Orte für kulturellen Austausch.",
+    "questions": [
+      {
+        "question": "Was fördern Kunst und Kultur?",
+        "options": ["Kreativität, Identität und Verständnis für andere Kulturen", "Nur Unterhaltung", "Technologie", "Sport"],
+        "answer": "Kreativität, Identität und Verständnis für andere Kulturen"
+      },
+      {
+        "question": "Welche Orte sind wichtig für kulturellen Austausch?",
+        "options": ["Veranstaltungen, Museen und Theater", "Sportplätze", "Einkaufszentren", "Schulen"],
+        "answer": "Veranstaltungen, Museen und Theater"
+      },
+      {
+        "question": "Welche Rolle spielen Kunst und Kultur?",
+        "options": ["Wichtige Rolle im gesellschaftlichen Leben", "Keine Rolle", "Weniger wichtig", "Unbekannt"],
+        "answer": "Wichtige Rolle im gesellschaftlichen Leben"
+      }
+    ]
+  },
+
+  {
+    "text": "Der Klimawandel führt zu immer extremeren Wetterbedingungen. Stürme, Überschwemmungen und Dürren nehmen weltweit zu. Um diese Folgen zu begrenzen, müssen Emissionen reduziert und erneuerbare Energien gefördert werden.",
+    "questions": [
+      {
+        "question": "Was führt zu extremen Wetterbedingungen?",
+        "options": ["Klimawandel", "Technologie", "Sport", "Wirtschaft"],
+        "answer": "Klimawandel"
+      },
+      {
+        "question": "Welche Wetterereignisse nehmen zu?",
+        "options": ["Stürme, Überschwemmungen und Dürren", "Sonnenschein", "Schnee", "Regen"],
+        "answer": "Stürme, Überschwemmungen und Dürren"
+      },
+      {
+        "question": "Was muss getan werden, um Folgen zu begrenzen?",
+        "options": ["Emissionen reduzieren und erneuerbare Energien fördern", "Mehr Industrie", "Weniger Sport", "Mehr Verkehr"],
+        "answer": "Emissionen reduzieren und erneuerbare Energien fördern"
+      }
+    ]
+  },
+  {
+    "text": "Das Thema Recycling gewinnt in vielen Haushalten an Bedeutung. Durch das richtige Trennen von Müll können wertvolle Rohstoffe zurückgewonnen werden. Dies trägt zum Umweltschutz bei und spart Ressourcen.",
+    "questions": [
+      {
+        "question": "Was gewinnt an Bedeutung?",
+        "options": ["Recycling", "Sport", "Technologie", "Essen"],
+        "answer": "Recycling"
+      },
+      {
+        "question": "Was kann durch Mülltrennung zurückgewonnen werden?",
+        "options": ["Wertvolle Rohstoffe", "Müll", "Wasser", "Energie"],
+        "answer": "Wertvolle Rohstoffe"
+      },
+      {
+        "question": "Wozu trägt Recycling bei?",
+        "options": ["Umweltschutz und Ressourcenschonung", "Stress", "Verwirrung", "Weniger Sport"],
+        "answer": "Umweltschutz und Ressourcenschonung"
+      }
+    ]
+  },
+  {
+    "text": "Die Digitalisierung beeinflusst nicht nur die Arbeitswelt, sondern auch den Alltag der Menschen. Online-Shopping, soziale Netzwerke und digitale Kommunikation sind heute selbstverständlich. Dabei sind Datenschutz und Sicherheit wichtige Themen.",
+    "questions": [
+      {
+        "question": "Was beeinflusst die Digitalisierung?",
+        "options": ["Arbeitswelt und Alltag", "Nur die Technik", "Nur die Wirtschaft", "Nur die Politik"],
+        "answer": "Arbeitswelt und Alltag"
+      },
+      {
+        "question": "Welche Bereiche werden genannt?",
+        "options": ["Online-Shopping, soziale Netzwerke und digitale Kommunikation", "Sport, Musik, Reisen", "Kochen, Putzen, Schlafen", "Politik, Wirtschaft, Bildung"],
+        "answer": "Online-Shopping, soziale Netzwerke und digitale Kommunikation"
+      },
+      {
+        "question": "Welche Themen sind wichtig dabei?",
+        "options": ["Datenschutz und Sicherheit", "Kosten und Preise", "Mode und Trends", "Sport und Freizeit"],
+        "answer": "Datenschutz und Sicherheit"
+      }
+    ]
+  },
+  {
+    "text": "Gesunde Ernährung ist ein wichtiger Faktor für das Wohlbefinden. Eine ausgewogene Kost mit viel Obst, Gemüse und Vollkornprodukten kann Krankheiten vorbeugen. Gleichzeitig sollten Zucker und Fett nur in Maßen konsumiert werden.",
+    "questions": [
+      {
+        "question": "Was ist ein wichtiger Faktor für Wohlbefinden?",
+        "options": ["Gesunde Ernährung", "Sport", "Technologie", "Reisen"],
+        "answer": "Gesunde Ernährung"
+      },
+      {
+        "question": "Welche Lebensmittel werden empfohlen?",
+        "options": ["Obst, Gemüse und Vollkornprodukte", "Fast Food", "Süßigkeiten", "Fertiggerichte"],
+        "answer": "Obst, Gemüse und Vollkornprodukte"
+      },
+      {
+        "question": "Was sollte man nur in Maßen konsumieren?",
+        "options": ["Zucker und Fett", "Wasser", "Obst", "Gemüse"],
+        "answer": "Zucker und Fett"
+      }
+    ]
+  },
+  {
+    "text": "Die Nutzung von öffentlichen Verkehrsmitteln kann zur Reduzierung von Umweltverschmutzung beitragen. Sie sind oft günstiger und entlasten den Straßenverkehr. Zudem fördern sie soziale Kontakte und bieten Zeit für Entspannung.",
+    "questions": [
+      {
+        "question": "Wozu kann die Nutzung öffentlicher Verkehrsmittel beitragen?",
+        "options": ["Reduzierung von Umweltverschmutzung", "Mehr Verkehr", "Höhere Kosten", "Mehr Stress"],
+        "answer": "Reduzierung von Umweltverschmutzung"
+      },
+      {
+        "question": "Welche Vorteile haben öffentliche Verkehrsmittel?",
+        "options": ["Günstiger, entlasten Straßenverkehr", "Teurer, langsamer", "Unbequem", "Nicht verfügbar"],
+        "answer": "Günstiger, entlasten Straßenverkehr"
+      },
+      {
+        "question": "Was fördern öffentliche Verkehrsmittel noch?",
+        "options": ["Soziale Kontakte und Entspannung", "Stress und Hektik", "Einsamkeit", "Sport"],
+        "answer": "Soziale Kontakte und Entspannung"
+      }
+    ]
+  },
+
+  {
+    "text": "Künstliche Intelligenz (KI) verändert viele Bereiche unseres Lebens. Sie wird in der Medizin, im Verkehr und in der Industrie eingesetzt. Trotzdem gibt es ethische Fragen, die diskutiert werden müssen, wie Datenschutz und Verantwortung.",
+    "questions": [
+      {
+        "question": "In welchen Bereichen wird KI eingesetzt?",
+        "options": ["Medizin, Verkehr und Industrie", "Nur in der Medizin", "Nur im Verkehr", "Nur in der Bildung"],
+        "answer": "Medizin, Verkehr und Industrie"
+      },
+      {
+        "question": "Welche Fragen müssen diskutiert werden?",
+        "options": ["Ethik, Datenschutz und Verantwortung", "Kosten und Preise", "Sport und Freizeit", "Mode und Trends"],
+        "answer": "Ethik, Datenschutz und Verantwortung"
+      },
+      {
+        "question": "Wie verändert KI unser Leben?",
+        "options": ["In vielen Bereichen", "Gar nicht", "Nur negativ", "Nur positiv"],
+        "answer": "In vielen Bereichen"
+      }
+    ]
+  },
+  {
+    "text": "Die Bedeutung von Wasser als lebenswichtige Ressource wird oft unterschätzt. Sauberes Trinkwasser ist nicht überall verfügbar. Wasserverschmutzung und Übernutzung sind große Probleme, die globale Maßnahmen erfordern.",
+    "questions": [
+      {
+        "question": "Wie wird die Bedeutung von Wasser oft behandelt?",
+        "options": ["Unterschätzt", "Überschätzt", "Nicht beachtet", "Bekannt"],
+        "answer": "Unterschätzt"
+      },
+      {
+        "question": "Was ist nicht überall verfügbar?",
+        "options": ["Sauberes Trinkwasser", "Lebensmittel", "Elektrizität", "Internet"],
+        "answer": "Sauberes Trinkwasser"
+      },
+      {
+        "question": "Welche Probleme gibt es mit Wasser?",
+        "options": ["Verschmutzung und Übernutzung", "Überschuss", "Keine", "Zu viel Wasser"],
+        "answer": "Verschmutzung und Übernutzung"
+      }
+    ]
+  },
+  {
+    "text": "Die Digitalisierung verändert auch die Bildung. Online-Kurse und digitale Lernplattformen bieten neue Möglichkeiten für Schüler und Studenten. Gleichzeitig muss der Zugang zu digitalen Medien für alle gewährleistet sein.",
+    "questions": [
+      {
+        "question": "Was verändert die Digitalisierung?",
+        "options": ["Die Bildung", "Die Landwirtschaft", "Den Sport", "Die Politik"],
+        "answer": "Die Bildung"
+      },
+      {
+        "question": "Welche Möglichkeiten bieten digitale Lernplattformen?",
+        "options": ["Online-Kurse und flexibles Lernen", "Mehr Sport", "Weniger Lernen", "Nur Unterhaltung"],
+        "answer": "Online-Kurse und flexibles Lernen"
+      },
+      {
+        "question": "Was muss gewährleistet sein?",
+        "options": ["Zugang zu digitalen Medien für alle", "Mehr Freizeit", "Weniger Schule", "Mehr Reisen"],
+        "answer": "Zugang zu digitalen Medien für alle"
+      }
+    ]
+  },
+  {
+    "text": "Nachhaltiger Konsum bedeutet, bewusster Produkte zu kaufen, die umweltfreundlich und fair produziert wurden. Dabei spielt auch das Reduzieren von Verpackungsmüll und der sparsame Umgang mit Ressourcen eine wichtige Rolle.",
+    "questions": [
+      {
+        "question": "Was bedeutet nachhaltiger Konsum?",
+        "options": ["Bewusst Produkte kaufen", "Alles kaufen", "Nur billig kaufen", "Nichts kaufen"],
+        "answer": "Bewusst Produkte kaufen"
+      },
+      {
+        "question": "Welche Produkte sollen bevorzugt werden?",
+        "options": ["Umweltfreundlich und fair produziert", "Billig", "Teuer", "Markenprodukte"],
+        "answer": "Umweltfreundlich und fair produziert"
+      },
+      {
+        "question": "Was spielt eine wichtige Rolle?",
+        "options": ["Reduzieren von Verpackungsmüll und sparsamer Umgang mit Ressourcen", "Mehr Verpackung", "Mehr Müll", "Mehr Konsum"],
+        "answer": "Reduzieren von Verpackungsmüll und sparsamer Umgang mit Ressourcen"
+      }
+    ]
+  },
+  {
+    "text": "Der demografische Wandel führt zu einer älter werdenden Gesellschaft. Dies stellt das Gesundheitssystem und die soziale Versorgung vor Herausforderungen. Gleichzeitig entstehen neue Chancen für innovative Dienstleistungen und Technologien.",
+    "questions": [
+      {
+        "question": "Was führt zu einer älter werdenden Gesellschaft?",
+        "options": ["Demografischer Wandel", "Technologie", "Bildung", "Sport"],
+        "answer": "Demografischer Wandel"
+      },
+      {
+        "question": "Was stellt der demografische Wandel vor Herausforderungen?",
+        "options": ["Gesundheitssystem und soziale Versorgung", "Sportvereine", "Verkehr", "Schulen"],
+        "answer": "Gesundheitssystem und soziale Versorgung"
+      },
+      {
+        "question": "Welche Chancen entstehen?",
+        "options": ["Innovative Dienstleistungen und Technologien", "Mehr Sport", "Weniger Arbeit", "Mehr Freizeit"],
+        "answer": "Innovative Dienstleistungen und Technologien"
+      }
+    ]
+  },
+
+  {
+    "text": "Die Arbeitswelt verändert sich durch Automatisierung und Digitalisierung. Viele repetitive Tätigkeiten werden von Maschinen übernommen, während neue Berufe mit speziellen Fähigkeiten entstehen. Weiterbildung und Anpassungsfähigkeit sind deshalb wichtig.",
+    "questions": [
+      {
+        "question": "Wie verändert sich die Arbeitswelt?",
+        "options": ["Durch Automatisierung und Digitalisierung", "Durch Sport", "Durch Reisen", "Durch Mode"],
+        "answer": "Durch Automatisierung und Digitalisierung"
+      },
+      {
+        "question": "Was übernehmen Maschinen?",
+        "options": ["Repetitive Tätigkeiten", "Kreative Aufgaben", "Management", "Kommunikation"],
+        "answer": "Repetitive Tätigkeiten"
+      },
+      {
+        "question": "Was ist wichtig für die Zukunft der Arbeit?",
+        "options": ["Weiterbildung und Anpassungsfähigkeit", "Faulheit", "Ignoranz", "Starrheit"],
+        "answer": "Weiterbildung und Anpassungsfähigkeit"
+      }
+    ]
+  },
+  {
+    "text": "Umweltfreundliche Verkehrsmittel wie Fahrräder, Busse und Bahnen helfen, CO2-Emissionen zu reduzieren. Gleichzeitig verbessern sie die Luftqualität und verringern den Verkehrslärm in Städten. Viele Menschen bevorzugen heute nachhaltige Mobilität.",
+    "questions": [
+      {
+        "question": "Welche Verkehrsmittel helfen, CO2 zu reduzieren?",
+        "options": ["Fahrräder, Busse und Bahnen", "Autos", "Flugzeuge", "Motorräder"],
+        "answer": "Fahrräder, Busse und Bahnen"
+      },
+      {
+        "question": "Was verbessern umweltfreundliche Verkehrsmittel?",
+        "options": ["Luftqualität", "Straßenqualität", "Schulbildung", "Technologie"],
+        "answer": "Luftqualität"
+      },
+      {
+        "question": "Was bevorzugen viele Menschen heute?",
+        "options": ["Nachhaltige Mobilität", "Schnelle Autos", "Flugreisen", "Fahrgemeinschaften"],
+        "answer": "Nachhaltige Mobilität"
+      }
+    ]
+  },
+  {
+    "text": "Die Bedeutung von Sprachenlernen wächst in einer globalisierten Welt. Fremdsprachenkenntnisse erleichtern den Zugang zu anderen Kulturen, verbessern die Berufschancen und fördern das Verständnis zwischen Menschen aus verschiedenen Ländern.",
+    "questions": [
+      {
+        "question": "Warum wächst die Bedeutung von Sprachenlernen?",
+        "options": ["Wegen der Globalisierung", "Wegen der Mode", "Wegen der Technologie", "Wegen der Politik"],
+        "answer": "Wegen der Globalisierung"
+      },
+      {
+        "question": "Was erleichtern Fremdsprachenkenntnisse?",
+        "options": ["Zugang zu anderen Kulturen", "Sport", "Essen", "Reisen"],
+        "answer": "Zugang zu anderen Kulturen"
+      },
+      {
+        "question": "Was fördern Fremdsprachenkenntnisse?",
+        "options": ["Berufschancen und Verständnis zwischen Menschen", "Konflikte", "Isolation", "Ignoranz"],
+        "answer": "Berufschancen und Verständnis zwischen Menschen"
+      }
+    ]
+  },
+  {
+    "text": "Technologische Innovationen revolutionieren die Medizin. Telemedizin ermöglicht Diagnosen und Behandlungen aus der Ferne. Roboter unterstützen bei Operationen, und personalisierte Medizin bietet individuell angepasste Therapien.",
+    "questions": [
+      {
+        "question": "Was revolutionieren technologische Innovationen?",
+        "options": ["Die Medizin", "Die Bildung", "Den Sport", "Die Politik"],
+        "answer": "Die Medizin"
+      },
+      {
+        "question": "Was ermöglicht Telemedizin?",
+        "options": ["Diagnosen und Behandlungen aus der Ferne", "Mehr Reisen", "Weniger Arbeit", "Mehr Freizeit"],
+        "answer": "Diagnosen und Behandlungen aus der Ferne"
+      },
+      {
+        "question": "Was bieten personalisierte Medizin?",
+        "options": ["Individuell angepasste Therapien", "Standardisierte Behandlungen", "Weniger Therapie", "Mehr Medikamente"],
+        "answer": "Individuell angepasste Therapien"
+      }
+    ]
+  },
+  {
+    "text": "Erneuerbare Energien wie Sonne, Wind und Wasser spielen eine wichtige Rolle im Kampf gegen den Klimawandel. Sie sind unerschöpflich und verursachen keine schädlichen Emissionen. Der Ausbau dieser Energien wird weltweit vorangetrieben.",
+    "questions": [
+      {
+        "question": "Welche Energien spielen eine wichtige Rolle gegen den Klimawandel?",
+        "options": ["Sonne, Wind und Wasser", "Kohle und Öl", "Gas und Atomkraft", "Holz und Kohle"],
+        "answer": "Sonne, Wind und Wasser"
+      },
+      {
+        "question": "Warum sind erneuerbare Energien wichtig?",
+        "options": ["Sie sind unerschöpflich und emissionsfrei", "Sie sind billig", "Sie sind selten", "Sie sind gefährlich"],
+        "answer": "Sie sind unerschöpflich und emissionsfrei"
+      },
+      {
+        "question": "Was passiert mit dem Ausbau erneuerbarer Energien?",
+        "options": ["Er wird weltweit vorangetrieben", "Er wird gestoppt", "Er wird vernachlässigt", "Er wird verlangsamt"],
+        "answer": "Er wird weltweit vorangetrieben"
+      }
+    ]
+  },
+
+  {
+    "text": "Die Urbanisierung führt dazu, dass immer mehr Menschen in Städten leben. Dies bringt Herausforderungen wie Wohnraumknappheit und Verkehrsprobleme mit sich, bietet aber auch Chancen für Innovation und kulturellen Austausch.",
+    "questions": [
+      {
+        "question": "Was führt zur Urbanisierung?",
+        "options": ["Immer mehr Menschen ziehen in Städte", "Immer mehr Menschen ziehen aufs Land", "Die Landwirtschaft wächst", "Die Industrie schrumpft"],
+        "answer": "Immer mehr Menschen ziehen in Städte"
+      },
+      {
+        "question": "Welche Probleme entstehen durch Urbanisierung?",
+        "options": ["Wohnraumknappheit und Verkehrsprobleme", "Mehr Freizeit", "Bessere Luftqualität", "Weniger Verkehr"],
+        "answer": "Wohnraumknappheit und Verkehrsprobleme"
+      },
+      {
+        "question": "Welche Chancen bietet die Urbanisierung?",
+        "options": ["Innovation und kultureller Austausch", "Isolation", "Konflikte", "Umweltverschmutzung"],
+        "answer": "Innovation und kultureller Austausch"
+      }
+    ]
+  },
+  {
+    "text": "Das Thema Nachhaltigkeit gewinnt immer mehr an Bedeutung. Unternehmen setzen verstärkt auf umweltfreundliche Produktion und soziale Verantwortung. Verbraucher achten zunehmend auf nachhaltige Produkte und fairen Handel.",
+    "questions": [
+      {
+        "question": "Was gewinnt immer mehr an Bedeutung?",
+        "options": ["Nachhaltigkeit", "Technologie", "Sport", "Politik"],
+        "answer": "Nachhaltigkeit"
+      },
+      {
+        "question": "Was setzen Unternehmen verstärkt um?",
+        "options": ["Umweltfreundliche Produktion und soziale Verantwortung", "Schnelle Produktion", "Billige Produkte", "Werbung"],
+        "answer": "Umweltfreundliche Produktion und soziale Verantwortung"
+      },
+      {
+        "question": "Worauf achten Verbraucher zunehmend?",
+        "options": ["Nachhaltige Produkte und fairen Handel", "Preis", "Marke", "Verfügbarkeit"],
+        "answer": "Nachhaltige Produkte und fairen Handel"
+      }
+    ]
+  },
+  {
+    "text": "Die Wissenschaft macht ständig neue Entdeckungen. Forschende arbeiten weltweit an Lösungen für Probleme wie Krankheiten, Umweltverschmutzung und Energieversorgung. Diese Entwicklungen können unser Leben nachhaltig verbessern.",
+    "questions": [
+      {
+        "question": "Was macht die Wissenschaft ständig?",
+        "options": ["Neue Entdeckungen", "Wiederholungen", "Pause", "Weniger Forschung"],
+        "answer": "Neue Entdeckungen"
+      },
+      {
+        "question": "An welchen Problemen arbeiten Forschende?",
+        "options": ["Krankheiten, Umweltverschmutzung und Energieversorgung", "Sport", "Mode", "Politik"],
+        "answer": "Krankheiten, Umweltverschmutzung und Energieversorgung"
+      },
+      {
+        "question": "Was können diese Entwicklungen bewirken?",
+        "options": ["Das Leben nachhaltig verbessern", "Das Leben verschlechtern", "Keine Veränderung", "Verwirrung"],
+        "answer": "Das Leben nachhaltig verbessern"
+      }
+    ]
+  },
+  {
+    "text": "Gesunde Ernährung ist wichtig für das Wohlbefinden. Eine ausgewogene Ernährung mit viel Obst, Gemüse und Vollkornprodukten stärkt das Immunsystem und kann Krankheiten vorbeugen. Auch ausreichend Wasser trinken ist entscheidend.",
+    "questions": [
+      {
+        "question": "Warum ist gesunde Ernährung wichtig?",
+        "options": ["Für das Wohlbefinden", "Für das Aussehen", "Für die Schule", "Für das Auto"],
+        "answer": "Für das Wohlbefinden"
+      },
+      {
+        "question": "Was stärkt das Immunsystem?",
+        "options": ["Obst, Gemüse und Vollkornprodukte", "Fast Food", "Süßigkeiten", "Alkohol"],
+        "answer": "Obst, Gemüse und Vollkornprodukte"
+      },
+      {
+        "question": "Was ist neben Ernährung wichtig?",
+        "options": ["Ausreichend Wasser trinken", "Mehr Kaffee trinken", "Wenig schlafen", "Mehr Sport vermeiden"],
+        "answer": "Ausreichend Wasser trinken"
+      }
+    ]
+  },
+  {
+    "text": "Die Globalisierung verbindet Menschen und Märkte weltweit. Dies führt zu kulturellem Austausch, wirtschaftlichem Wachstum und neuen Herausforderungen wie dem Schutz der eigenen Identität und wirtschaftlicher Ungleichheit.",
+    "questions": [
+      {
+        "question": "Was verbindet die Globalisierung?",
+        "options": ["Menschen und Märkte weltweit", "Nur Länder", "Nur Städte", "Nur Unternehmen"],
+        "answer": "Menschen und Märkte weltweit"
+      },
+      {
+        "question": "Was führt die Globalisierung?",
+        "options": ["Kulturellem Austausch und wirtschaftlichem Wachstum", "Isolation", "Konflikte", "Wirtschaftskrisen"],
+        "answer": "Kulturellem Austausch und wirtschaftlichem Wachstum"
+      },
+      {
+        "question": "Welche Herausforderungen entstehen?",
+        "options": ["Schutz der eigenen Identität und wirtschaftliche Ungleichheit", "Weniger Kommunikation", "Mehr Gleichheit", "Weniger Handel"],
+        "answer": "Schutz der eigenen Identität und wirtschaftliche Ungleichheit"
+      }
+    ]
+  },
+
+  {
+    "text": "Der Klimawandel führt zu extremen Wetterereignissen wie Dürren, Überschwemmungen und Stürmen. Diese Veränderungen bedrohen Ökosysteme, Landwirtschaft und menschliche Lebensgrundlagen weltweit.",
+    "questions": [
+      {
+        "question": "Welche Wetterereignisse führt der Klimawandel?",
+        "options": ["Dürren, Überschwemmungen und Stürme", "Nur Regen", "Nur Schnee", "Keine"],
+        "answer": "Dürren, Überschwemmungen und Stürme"
+      },
+      {
+        "question": "Was bedrohen diese Veränderungen?",
+        "options": ["Ökosysteme, Landwirtschaft und Lebensgrundlagen", "Nur Tiere", "Nur Menschen", "Nur Städte"],
+        "answer": "Ökosysteme, Landwirtschaft und Lebensgrundlagen"
+      },
+      {
+        "question": "Wie wirkt sich der Klimawandel weltweit aus?",
+        "options": ["Negativ auf Natur und Menschen", "Nur positiv", "Keine Auswirkung", "Unklar"],
+        "answer": "Negativ auf Natur und Menschen"
+      }
+    ]
+  },
+  {
+    "text": "Bildung ist ein Schlüssel zur persönlichen und gesellschaftlichen Entwicklung. Sie fördert Wissen, kritisches Denken und soziale Fähigkeiten. Investitionen in Bildung tragen zu mehr Chancengleichheit und wirtschaftlichem Fortschritt bei.",
+    "questions": [
+      {
+        "question": "Was ist Bildung?",
+        "options": ["Ein Schlüssel zur Entwicklung", "Nur Schule", "Nur Freizeit", "Nur Arbeit"],
+        "answer": "Ein Schlüssel zur Entwicklung"
+      },
+      {
+        "question": "Was fördert Bildung?",
+        "options": ["Wissen, kritisches Denken und soziale Fähigkeiten", "Nur Wissen", "Nur Sport", "Nur Technik"],
+        "answer": "Wissen, kritisches Denken und soziale Fähigkeiten"
+      },
+      {
+        "question": "Wozu tragen Investitionen in Bildung bei?",
+        "options": ["Mehr Chancengleichheit und wirtschaftlicher Fortschritt", "Weniger Chancen", "Mehr Ungleichheit", "Weniger Fortschritt"],
+        "answer": "Mehr Chancengleichheit und wirtschaftlicher Fortschritt"
+      }
+    ]
+  },
+  {
+    "text": "Digitale Medien verändern die Art und Weise, wie wir kommunizieren und Informationen konsumieren. Sie bieten neue Möglichkeiten für Bildung, Unterhaltung und soziale Vernetzung, bergen aber auch Risiken wie Datenschutzprobleme und Informationsüberflutung.",
+    "questions": [
+      {
+        "question": "Was verändern digitale Medien?",
+        "options": ["Kommunikation und Informationskonsum", "Nur Bildung", "Nur Unterhaltung", "Nur Sport"],
+        "answer": "Kommunikation und Informationskonsum"
+      },
+      {
+        "question": "Welche Möglichkeiten bieten digitale Medien?",
+        "options": ["Bildung, Unterhaltung und soziale Vernetzung", "Keine", "Nur Arbeit", "Nur Technik"],
+        "answer": "Bildung, Unterhaltung und soziale Vernetzung"
+      },
+      {
+        "question": "Welche Risiken bergen digitale Medien?",
+        "options": ["Datenschutzprobleme und Informationsüberflutung", "Keine Risiken", "Mehr Freiheit", "Mehr Sicherheit"],
+        "answer": "Datenschutzprobleme und Informationsüberflutung"
+      }
+    ]
+  },
+  {
+    "text": "Die Ernährungstrends ändern sich ständig. Viele Menschen achten heute auf biologische und regionale Produkte. Vegetarische und vegane Ernährung wird immer beliebter, da sie als gesünder und nachhaltiger gilt.",
+    "questions": [
+      {
+        "question": "Wie ändern sich Ernährungstrends?",
+        "options": ["Ständig", "Gar nicht", "Selten", "Langsam"],
+        "answer": "Ständig"
+      },
+      {
+        "question": "Auf welche Produkte achten viele Menschen heute?",
+        "options": ["Biologische und regionale Produkte", "Nur Fast Food", "Nur Süßigkeiten", "Nur Fleisch"],
+        "answer": "Biologische und regionale Produkte"
+      },
+      {
+        "question": "Warum wird vegetarische und vegane Ernährung beliebter?",
+        "options": ["Sie gilt als gesünder und nachhaltiger", "Sie ist billiger", "Sie ist schneller", "Sie ist beliebter bei Kindern"],
+        "answer": "Sie gilt als gesünder und nachhaltiger"
+      }
+    ]
+  },
+  {
+    "text": "Der demografische Wandel stellt viele Länder vor Herausforderungen. Die Bevölkerung wird immer älter, und es gibt weniger junge Menschen. Dies wirkt sich auf das Rentensystem, die Gesundheitsversorgung und den Arbeitsmarkt aus.",
+    "questions": [
+      {
+        "question": "Was stellt der demografische Wandel dar?",
+        "options": ["Herausforderungen für Länder", "Keine Veränderungen", "Mehr junge Menschen", "Mehr Geburten"],
+        "answer": "Herausforderungen für Länder"
+      },
+      {
+        "question": "Wie verändert sich die Bevölkerung?",
+        "options": ["Sie wird älter", "Sie wird jünger", "Sie bleibt gleich", "Sie schrumpft"],
+        "answer": "Sie wird älter"
+      },
+      {
+        "question": "Worauf wirkt sich der demografische Wandel aus?",
+        "options": ["Renten-, Gesundheits- und Arbeitsmarkt", "Nur Bildung", "Nur Verkehr", "Nur Umwelt"],
+        "answer": "Renten-, Gesundheits- und Arbeitsmarkt"
+      }
+    ]
+  },
+
+  {
+    "text": "Künstliche Intelligenz (KI) verändert viele Bereiche unseres Lebens. Sie kann große Datenmengen analysieren, Prozesse automatisieren und neue Lösungen schaffen. Gleichzeitig gibt es ethische Diskussionen über Datenschutz und Arbeitsplatzverlust.",
+    "questions": [
+      {
+        "question": "Was verändert Künstliche Intelligenz?",
+        "options": ["Viele Bereiche unseres Lebens", "Nur die Industrie", "Nur die Medizin", "Nur den Verkehr"],
+        "answer": "Viele Bereiche unseres Lebens"
+      },
+      {
+        "question": "Was kann KI tun?",
+        "options": ["Daten analysieren und Prozesse automatisieren", "Nur reden", "Nur schreiben", "Nichts"],
+        "answer": "Daten analysieren und Prozesse automatisieren"
+      },
+      {
+        "question": "Welche ethischen Diskussionen gibt es?",
+        "options": ["Datenschutz und Arbeitsplatzverlust", "Keine", "Nur Politik", "Nur Bildung"],
+        "answer": "Datenschutz und Arbeitsplatzverlust"
+      }
+    ]
+  },
+  {
+    "text": "Tourismus bringt wirtschaftlichen Nutzen, kann aber auch Umweltschäden verursachen. Nachhaltiger Tourismus versucht, diese negativen Auswirkungen zu reduzieren und gleichzeitig den kulturellen Austausch zu fördern.",
+    "questions": [
+      {
+        "question": "Was bringt Tourismus?",
+        "options": ["Wirtschaftlichen Nutzen", "Nur Probleme", "Keine Veränderungen", "Weniger Reisen"],
+        "answer": "Wirtschaftlichen Nutzen"
+      },
+      {
+        "question": "Was kann Tourismus verursachen?",
+        "options": ["Umweltschäden", "Nur Freude", "Keine Probleme", "Mehr Arbeit"],
+        "answer": "Umweltschäden"
+      },
+      {
+        "question": "Was versucht nachhaltiger Tourismus?",
+        "options": ["Negative Auswirkungen reduzieren", "Mehr Touristen anziehen", "Nichts ändern", "Weniger Kultur"],
+        "answer": "Negative Auswirkungen reduzieren"
+      }
+    ]
+  },
+  {
+    "text": "Sport fördert die Gesundheit und das soziale Miteinander. Regelmäßige Bewegung hilft, Krankheiten vorzubeugen und das Wohlbefinden zu steigern. Mannschaftssportarten stärken zudem Teamgeist und Kommunikation.",
+    "questions": [
+      {
+        "question": "Was fördert Sport?",
+        "options": ["Gesundheit und soziales Miteinander", "Nur Muskelaufbau", "Nur Wettkampf", "Nur Spaß"],
+        "answer": "Gesundheit und soziales Miteinander"
+      },
+      {
+        "question": "Was hilft regelmäßige Bewegung?",
+        "options": ["Krankheiten vorzubeugen", "Schlechter fühlen", "Faul werden", "Keine Wirkung"],
+        "answer": "Krankheiten vorzubeugen"
+      },
+      {
+        "question": "Was stärken Mannschaftssportarten?",
+        "options": ["Teamgeist und Kommunikation", "Alleinsein", "Konkurrenz", "Schwäche"],
+        "answer": "Teamgeist und Kommunikation"
+      }
+    ]
+  },
+  {
+    "text": "Kulturelle Vielfalt bereichert Gesellschaften. Sie fördert Kreativität, Toleranz und gegenseitiges Verständnis. Gleichzeitig kann sie aber auch Herausforderungen wie Integrationsprobleme mit sich bringen.",
+    "questions": [
+      {
+        "question": "Was bereichert kulturelle Vielfalt?",
+        "options": ["Gesellschaften", "Nur einzelne Menschen", "Nur Länder", "Nur Städte"],
+        "answer": "Gesellschaften"
+      },
+      {
+        "question": "Was fördert kulturelle Vielfalt?",
+        "options": ["Kreativität, Toleranz und Verständnis", "Konflikte", "Isolation", "Vorurteile"],
+        "answer": "Kreativität, Toleranz und Verständnis"
+      },
+      {
+        "question": "Welche Herausforderungen kann kulturelle Vielfalt bringen?",
+        "options": ["Integrationsprobleme", "Keine", "Nur Vorteile", "Nur Geld"],
+        "answer": "Integrationsprobleme"
+      }
+    ]
+  },
+  {
+    "text": "Die Digitalisierung verändert das Bildungssystem. Online-Lernen ermöglicht flexiblen Zugang zu Wissen, digitale Werkzeuge unterstützen den Unterricht. Gleichzeitig müssen Datenschutz und digitale Kompetenzen beachtet werden.",
+    "questions": [
+      {
+        "question": "Was verändert die Digitalisierung?",
+        "options": ["Das Bildungssystem", "Die Landwirtschaft", "Den Verkehr", "Die Politik"],
+        "answer": "Das Bildungssystem"
+      },
+      {
+        "question": "Was ermöglicht Online-Lernen?",
+        "options": ["Flexiblen Zugang zu Wissen", "Mehr Kosten", "Weniger Lernen", "Keine Vorteile"],
+        "answer": "Flexiblen Zugang zu Wissen"
+      },
+      {
+        "question": "Was muss beachtet werden?",
+        "options": ["Datenschutz und digitale Kompetenzen", "Nur Technik", "Nichts", "Nur Schüler"],
+        "answer": "Datenschutz und digitale Kompetenzen"
+      }
+    ]
+  },
+
+  {
+    "text": "Die Energiewende ist eine wichtige Herausforderung für viele Länder. Der Umstieg auf erneuerbare Energien wie Sonne, Wind und Wasser soll den Klimawandel stoppen und die Abhängigkeit von fossilen Brennstoffen verringern.",
+    "questions": [
+      {
+        "question": "Was ist die Energiewende?",
+        "options": ["Umstieg auf erneuerbare Energien", "Mehr fossile Brennstoffe", "Weniger Energieverbrauch", "Nur Atomenergie"],
+        "answer": "Umstieg auf erneuerbare Energien"
+      },
+      {
+        "question": "Welche Energien gehören zu den erneuerbaren?",
+        "options": ["Sonne, Wind und Wasser", "Kohle und Öl", "Gas und Kohle", "Atom und Öl"],
+        "answer": "Sonne, Wind und Wasser"
+      },
+      {
+        "question": "Was soll durch die Energiewende gestoppt werden?",
+        "options": ["Klimawandel", "Wirtschaftswachstum", "Technologieentwicklung", "Politik"],
+        "answer": "Klimawandel"
+      }
+    ]
+  },
+  {
+    "text": "Die Arbeitswelt verändert sich durch Automatisierung und Digitalisierung. Viele Routinearbeiten werden von Maschinen übernommen, während neue Berufe mit technischen Fähigkeiten entstehen. Weiterbildung wird daher immer wichtiger.",
+    "questions": [
+      {
+        "question": "Was verändert die Arbeitswelt?",
+        "options": ["Automatisierung und Digitalisierung", "Nur Digitalisierung", "Nur Maschinen", "Keine Veränderung"],
+        "answer": "Automatisierung und Digitalisierung"
+      },
+      {
+        "question": "Welche Arbeiten übernehmen Maschinen?",
+        "options": ["Routinearbeiten", "Kreative Arbeiten", "Management", "Soziale Berufe"],
+        "answer": "Routinearbeiten"
+      },
+      {
+        "question": "Was wird immer wichtiger?",
+        "options": ["Weiterbildung", "Urlaub", "Schlafen", "Arbeiten"],
+        "answer": "Weiterbildung"
+      }
+    ]
+  },
+  {
+    "text": "Der öffentliche Verkehr ist eine umweltfreundliche Alternative zum Auto. Er hilft, Staus zu reduzieren und die Luftqualität zu verbessern. Investitionen in den Ausbau von Bus- und Bahnsystemen sind deshalb wichtig.",
+    "questions": [
+      {
+        "question": "Was ist eine umweltfreundliche Alternative zum Auto?",
+        "options": ["Öffentlicher Verkehr", "Fahrrad", "Flugzeug", "Motorrad"],
+        "answer": "Öffentlicher Verkehr"
+      },
+      {
+        "question": "Was hilft der öffentliche Verkehr zu reduzieren?",
+        "options": ["Staus", "Lärm", "Kosten", "Unfälle"],
+        "answer": "Staus"
+      },
+      {
+        "question": "Warum sind Investitionen in Bus- und Bahnsysteme wichtig?",
+        "options": ["Zur Verbesserung der Luftqualität", "Für mehr Autos", "Für mehr Staus", "Für mehr Flugreisen"],
+        "answer": "Zur Verbesserung der Luftqualität"
+      }
+    ]
+  },
+  {
+    "text": "Das Internet hat die Art verändert, wie Menschen Informationen suchen und miteinander kommunizieren. Soziale Netzwerke bieten Plattformen für Austausch und Nachrichten, bringen aber auch Herausforderungen wie Fake News mit sich.",
+    "questions": [
+      {
+        "question": "Was hat das Internet verändert?",
+        "options": ["Informationssuche und Kommunikation", "Nur Kommunikation", "Nur Unterhaltung", "Nichts"],
+        "answer": "Informationssuche und Kommunikation"
+      },
+      {
+        "question": "Was bieten soziale Netzwerke?",
+        "options": ["Plattformen für Austausch und Nachrichten", "Nur Spiele", "Nur Werbung", "Keine"],
+        "answer": "Plattformen für Austausch und Nachrichten"
+      },
+      {
+        "question": "Welche Herausforderung bringen soziale Netzwerke mit sich?",
+        "options": ["Fake News", "Mehr Freundschaften", "Mehr Informationen", "Mehr Sicherheit"],
+        "answer": "Fake News"
+      }
+    ]
+  },
+  {
+    "text": "Migration ist ein komplexes Thema, das sowohl Chancen als auch Herausforderungen mit sich bringt. Migranten tragen zur Vielfalt bei, können aber auch Integrationsprobleme verursachen. Eine offene Gesellschaft fördert Zusammenhalt und gegenseitigen Respekt.",
+    "questions": [
+      {
+        "question": "Was bringt Migration mit sich?",
+        "options": ["Chancen und Herausforderungen", "Nur Chancen", "Nur Probleme", "Nichts"],
+        "answer": "Chancen und Herausforderungen"
+      },
+      {
+        "question": "Was tragen Migranten bei?",
+        "options": ["Vielfalt", "Konflikte", "Isolation", "Geld"],
+        "answer": "Vielfalt"
+      },
+      {
+        "question": "Was fördert eine offene Gesellschaft?",
+        "options": ["Zusammenhalt und gegenseitigen Respekt", "Konflikte", "Ausgrenzung", "Ignoranz"],
+        "answer": "Zusammenhalt und gegenseitigen Respekt"
+      }
+    ]
   }
 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
