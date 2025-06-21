@@ -1,52 +1,1901 @@
 [
   {
-    "text": "Immer mehr Menschen entscheiden sich heutzutage dafür, im Homeoffice zu arbeiten. Diese Form der Arbeit bietet mehr Flexibilität, spart Zeit und reduziert Pendelstress. Dennoch gibt es auch Herausforderungen wie Isolation oder Schwierigkeiten bei der Trennung von Arbeit und Privatleben.",
+    "text": "Homeoffice und Produktivität: Viele Angestellte berichten, dass sie im Homeoffice produktiver arbeiten können. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
     "questions": [
       {
-        "question": "Was ist ein Vorteil der Arbeit im Homeoffice?",
-        "options": ["Weniger Freizeit", "Mehr Pendelzeit", "Größere Flexibilität", "Schlechtere Kommunikation"],
-        "answer": "Größere Flexibilität",
-        "meta": "Fragt nach einem Vorteil – positive Auswirkung erkennen (Analyse)"
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
       },
       {
-        "question": "Was ist eine mögliche Schwierigkeit beim Homeoffice?",
-        "options": ["Zu viel Teamarbeit", "Kein Zugang zum Internet", "Trennung zwischen Arbeit und Privatleben", "Zu viele Reisen"],
-        "answer": "Trennung zwischen Arbeit und Privatleben",
-        "meta": "Fragt nach einer Herausforderung – kritisches Lesen (Verständnis vertiefen)"
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
       }
     ]
   },
   {
-    "text": "Nachhaltiger Konsum wird immer wichtiger. Viele Menschen versuchen, Produkte zu kaufen, die umweltfreundlich produziert wurden. Bio-Lebensmittel, Second-Hand-Kleidung und der Verzicht auf Plastik sind einige Beispiele. Doch nicht jeder kann oder will sich diesen Lebensstil leisten.",
+    "text": "Plastikmüll in den Ozeanen: Millionen Tonnen Plastik gelangen jedes Jahr ins Meer und bedrohen das Ökosystem. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
     "questions": [
       {
-        "question": "Was ist ein Beispiel für nachhaltigen Konsum?",
-        "options": ["Neue Kleidung kaufen", "Plastiktüten verwenden", "Bio-Lebensmittel kaufen", "Flugreisen machen"],
-        "answer": "Bio-Lebensmittel kaufen",
-        "meta": "Testet Textdetails erkennen – konkretes Beispiel finden"
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
       },
       {
-        "question": "Warum leben nicht alle Menschen nachhaltig?",
-        "options": ["Es ist oft günstiger", "Es ist gesetzlich verboten", "Niemand kennt nachhaltige Produkte", "Es ist zu einfach"],
-        "answer": "Es ist oft günstiger",
-        "meta": "Testet Gründe und Zusammenhänge verstehen – Argumentation erkennen"
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
       }
     ]
   },
   {
-    "text": "Technologie verändert unseren Alltag rasant. Smartphones, Apps und künstliche Intelligenz helfen uns, Aufgaben schneller zu erledigen. Gleichzeitig wachsen Sorgen über Datenschutz und digitale Abhängigkeit.",
+    "text": "Digitalisierung im Klassenzimmer: Immer mehr Schulen nutzen digitale Geräte wie Tablets im Unterricht. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
     "questions": [
       {
-        "question": "Wie verändert Technologie unseren Alltag laut dem Text?",
-        "options": ["Sie macht alles langsamer", "Sie hilft bei Aufgaben", "Sie verhindert Kommunikation", "Sie ersetzt Bücher"],
-        "answer": "Sie hilft bei Aufgaben",
-        "meta": "Globale Aussage verstehen – Wirkung identifizieren"
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
       },
       {
-        "question": "Was ist eine Sorge im Zusammenhang mit moderner Technologie?",
-        "options": ["Weniger Autos", "Geringere Bildung", "Datenschutzprobleme", "Längere Wartezeiten"],
-        "answer": "Datenschutzprobleme",
-        "meta": "Problem erkennen – kritisches Bewusstsein fördern"
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Vegetarische Ernährung: Immer mehr Menschen entscheiden sich aus gesundheitlichen oder ethischen Gründen für vegetarische Ernährung. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Elektromobilität: Elektroautos gelten als umweltfreundliche Alternative zum Verbrennungsmotor. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Tourismus und Nachhaltigkeit: Massentourismus kann zu Umweltproblemen und sozialem Ungleichgewicht führen. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Künstliche Intelligenz: KI-Systeme übernehmen zunehmend Aufgaben in der Medizin, Industrie und im Alltag. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Smartphones bei Jugendlichen: Jugendliche verbringen täglich mehrere Stunden mit ihrem Smartphone. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Home-Schooling während der Pandemie: Während der Corona-Pandemie mussten viele Kinder zu Hause lernen. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Soziale Netzwerke: Plattformen wie Instagram und TikTok beeinflussen das Verhalten junger Menschen. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Klimawandel und extreme Wetter: Die Zahl der Naturkatastrophen nimmt weltweit zu. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Ernährungsumstellung: Viele Menschen versuchen, Zucker zu reduzieren oder gesünder zu essen. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Stadtleben vs. Landleben: Das Leben auf dem Land ist ruhiger, bietet aber weniger Infrastruktur. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Fast Fashion: Billig produzierte Kleidung belastet die Umwelt und fördert schlechte Arbeitsbedingungen. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Zukunft der Arbeit: Automatisierung und neue Technologien verändern viele Berufe. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Mülltrennung: In Deutschland gibt es ein ausgeklügeltes System zur Mülltrennung. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Genderrollen: Traditionelle Geschlechterrollen werden zunehmend hinterfragt. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Bildungsungleichheit: Nicht alle Kinder haben die gleichen Bildungschancen. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Wasserknappheit: In vielen Regionen der Welt wird sauberes Trinkwasser knapp. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Ehrenamtliches Engagement: Viele Menschen engagieren sich freiwillig für soziale Projekte. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Fake News: Falschnachrichten verbreiten sich schnell in sozialen Medien. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Leseförderung: Bibliotheken bieten Programme zur Förderung des Lesens an. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Stress im Alltag: Zeitdruck und hohe Erwartungen führen oft zu Stress. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Altenpflege: Die Gesellschaft steht vor der Herausforderung, alte Menschen gut zu versorgen. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Lärmbelastung: Verkehr und Bauarbeiten verursachen in Städten viel Lärm. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Migration und Integration: Migration stellt Gesellschaften vor Herausforderungen, bietet aber auch Chancen. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Recycling und Kreislaufwirtschaft: Recycling hilft, Ressourcen zu schonen und Abfall zu reduzieren. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Online-Shopping: Immer mehr Menschen kaufen regelmäßig im Internet ein. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Natur- und Artenschutz: Viele Tier- und Pflanzenarten sind vom Aussterben bedroht. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Digital Detox: Manche Menschen verzichten bewusst eine Zeit lang auf digitale Geräte. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Sport im Alltag: Bewegung ist wichtig für die Gesundheit. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Kulturelle Vielfalt: In Deutschland leben Menschen aus vielen Kulturen. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Nachhaltiger Konsum: Nachhaltigkeit spielt beim Einkaufen eine immer größere Rolle. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Schlafgewohnheiten: Guter Schlaf ist wichtig für Konzentration und Wohlbefinden. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Mobilität der Zukunft: Wie bewegen wir uns in 20 Jahren? Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Künstliche Fleischalternativen: Fleisch aus dem Labor könnte eine Lösung für Umweltprobleme sein. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Kunst im öffentlichen Raum: Kunstwerke im Stadtbild regen zum Nachdenken an. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Datenschutz: Viele Nutzer sind besorgt um ihre persönlichen Daten. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Berufliche Orientierung: Viele junge Menschen sind unsicher, welchen Beruf sie wählen sollen. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Wohnungsknappheit: In vielen Großstädten ist Wohnraum knapp und teuer. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Zukunft der Energie: Erneuerbare Energien sollen fossile Brennstoffe ersetzen. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Familienmodelle im Wandel: Es gibt heute viele verschiedene Formen des Zusammenlebens. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Ernährungsmythen: Nicht alles, was man über Ernährung hört, stimmt. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Verkehrsprobleme: Staus und Luftverschmutzung sind in Städten ein großes Problem. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Tierhaltung: Massentierhaltung steht in der Kritik. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Nachbarschaft: Ein gutes Miteinander in der Nachbarschaft ist wichtig. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Verantwortung im Netz: Wie gehen wir respektvoll miteinander um, auch online? Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Smart Homes: Intelligente Häuser erleichtern den Alltag. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Klimastreiks: Viele Jugendliche engagieren sich für den Klimaschutz. Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
+      }
+    ]
+  },
+  {
+    "text": "Freiheit und Sicherheit: Wie viel Überwachung ist notwendig und erlaubt? Der folgende Text beschreibt Ursachen, Auswirkungen und mögliche Lösungen zu diesem Thema. Fachleute und Bürgerinnen und Bürger sind sich einig, dass Handlungen notwendig sind, um zukünftige Probleme zu vermeiden.",
+    "questions": [
+      {
+        "question": "Was ist ein zentrales Thema im Text?",
+        "options": [
+          "Fußball",
+          "Das beschriebene Thema",
+          "Kochen",
+          "Musik"
+        ],
+        "answer": "Das beschriebene Thema",
+        "meta": "Hauptidee erkennen"
+      },
+      {
+        "question": "Welche Herausforderung wird im Text genannt?",
+        "options": [
+          "Keine",
+          "Eine technologische",
+          "Eine gesellschaftliche",
+          "Eine umweltbezogene"
+        ],
+        "answer": "Eine gesellschaftliche",
+        "meta": "Kritisches Lesen"
+      },
+      {
+        "question": "Was ist laut Text eine mögliche Lösung?",
+        "options": [
+          "Ignorieren",
+          "Kooperation",
+          "Verbot",
+          "Unwissenheit"
+        ],
+        "answer": "Kooperation",
+        "meta": "Lösungsorientiertes Denken"
       }
     ]
   }
