@@ -317,12 +317,8 @@
         "answer": "Sie gießt die Pflanzen"
       }
     ]
-  }
-]
-
-//////////////////
-
-[
+  },
+  
   {
     "id": 16,
     "text": "Jan besucht jeden Samstag einen Sprachkurs. Er lernt Deutsch, weil er in Deutschland arbeiten möchte. Der Kurs ist dreistündig und macht ihm viel Spaß.",
@@ -428,12 +424,7 @@
       }
     ]
   }
-]
-
-
-///////////////////////////
-
-[
+,
   {
     "id": 21,
     "text": "Anna besucht jeden Morgen den Yoga-Kurs. Sie findet es entspannend und gut für ihre Gesundheit.",
@@ -644,13 +635,7 @@
       }
     ]
   }
-]
-
-
-/////////////////////////////////
-
-
-[
+,
   {
     "id": 31,
     "text": "Maria lebt seit drei Jahren in Berlin. Sie arbeitet als Lehrerin an einer Grundschule und unterrichtet Deutsch und Mathematik. In ihrer Freizeit liest sie gerne Romane und trifft sich mit Freunden im Park. Außerdem geht sie regelmäßig ins Fitnessstudio, um fit zu bleiben. Am Wochenende besucht Maria oft Museen oder kulturelle Veranstaltungen in der Stadt, weil sie sich für Kunst und Geschichte interessiert.",
@@ -738,15 +723,7 @@
       }
     ]
   }
-]
-
-
-
-//////////////////////////////////////
-
-
-
-[
+,
   {
     "id": 34,
     "text": "Jan und seine Familie wohnen in einem kleinen Haus am Stadtrand. Jeden Morgen frühstücken sie zusammen und danach fährt Jan mit dem Bus zur Arbeit. Seine Frau arbeitet als Krankenschwester im Krankenhaus, und ihre beiden Kinder gehen zur Schule. Am Wochenende unternehmen sie oft Ausflüge in die Natur oder besuchen Verwandte. Jan liebt es, im Garten zu arbeiten und Gemüse anzupflanzen, während seine Frau gerne kocht und backt.",
@@ -1008,12 +985,7 @@
       }
     ]
   }
-]
-
-
-/////////////////////////
-
-[
+,
   {
     "id": 43,
     "text": "Helena ist Architektin und arbeitet in einem großen Büro in der Stadt. Sie entwirft moderne Häuser und sorgt dafür, dass alle Bauvorschriften eingehalten werden. Helena liebt es, kreative Lösungen zu finden und mit Kunden zusammenzuarbeiten. In ihrer Freizeit malt sie gern und besucht Kunstausstellungen. Außerdem nimmt sie an einem Yogakurs teil, um sich zu entspannen.",
@@ -1304,12 +1276,7 @@
       }
     ]
   }
-]
-
-
-//////////////////////////
-
-[
+,
   {
     "id": 53,
     "text": "Laura arbeitet als Flugbegleiterin bei einer großen internationalen Fluggesellschaft. Sie liebt es, neue Länder zu entdecken und mit Menschen aus verschiedenen Kulturen zu sprechen. Ihre Arbeit bringt sie oft an exotische Orte, aber sie muss auch mit Jetlag und unregelmäßigen Arbeitszeiten umgehen. Trotz der Herausforderungen genießt sie den Kontakt mit Passagieren und das Reisen sehr.",
@@ -1455,14 +1422,7 @@
       }
     ]
   }
-]
-
-
-
-//////////////////////
-
-
-[
+,
   {
     "id": 88,
     "text": "Person 1 arbeitet als Teil eines internationalen Teams und nutzt täglich verschiedene Sprachen. Sie nimmt an Videokonferenzen teil, schreibt Berichte und präsentiert Ergebnisse. Die Arbeit fordert viel Flexibilität und kulturelles Verständnis. Nach Feierabend kocht sie gerne oder trifft Freunde zum Austausch.",
@@ -1505,11 +1465,8 @@
       }
     ]
   }
-  // يمكنك تكرار نفس البنية للأشخاص من 3 إلى 15 مع تغيير "id" و"Person N"
-]
-/////////////////////
-
-[
+ 
+,
   {
     "id": 90,
     "text": "Person 3 arbeitet als Teil eines internationalen Teams und nutzt täglich verschiedene Sprachen. Sie nimmt an Videokonferenzen teil, schreibt Berichte und präsentiert Ergebnisse. Die Arbeit fordert viel Flexibilität und kulturelles Verständnis. Nach Feierabend kocht sie gerne oder trifft Freunde zum Austausch.",
@@ -1552,13 +1509,7 @@
       }
     ]
   }
-]
-
-
-///////////////////////
-
-
-[
+,
   {
     "id": 128,
     "text": "Reisen erweitert den Horizont. Viele Menschen möchten neue Länder entdecken, andere Kulturen kennenlernen und verschiedene Sprachen hören. Oft plant man eine Reise sorgfältig, bucht Flüge und Hotels und stellt eine Packliste zusammen. Reisen kann aufregend, aber auch anstrengend sein, besonders bei langen Flügen oder Zeitumstellungen.",
@@ -1704,12 +1655,7 @@
       }
     ]
   }
-]
-
-/////////////////////
-
-
-[
+,
   {
     "id": 133,
     "text": "Sport ist eine wichtige Aktivität für Körper und Geist. Regelmäßige Bewegung stärkt das Herz-Kreislauf-System, verbessert die Ausdauer und hilft beim Stressabbau. Viele Menschen treiben Sport im Verein oder alleine. Beliebte Sportarten sind Fußball, Joggen, Schwimmen und Yoga. Neben der körperlichen Fitness fördert Sport auch den Teamgeist und die soziale Interaktion.",
@@ -1855,11 +1801,7 @@
       }
     ]
   }
-]
-
-/////////////
-
-[
+,
   {
     "id": 138,
     "text": "Essen spielt eine wichtige Rolle im Alltag und der Kultur vieler Länder. Traditionelle Gerichte werden oft von Generation zu Generation weitergegeben. Gesunde Ernährung bedeutet, ausgewogen zu essen und frische Zutaten zu verwenden. Außerdem ist gemeinsames Essen eine Gelegenheit für soziale Kontakte und Gemeinschaft.",
@@ -2005,11 +1947,7 @@
       }
     ]
   }
-]
-
-/////////////////////
-
-[
+,
   {
     "id": 143,
     "text": "Reisen erweitert den Horizont und fördert das Verständnis für andere Kulturen. Beim Reisen kann man neue Sprachen lernen, verschiedene Essensarten probieren und historische Sehenswürdigkeiten besuchen. Viele Menschen nutzen den Urlaub, um sich zu erholen, aber auch um Abenteuer zu erleben. Nachhaltiges Reisen wird immer wichtiger, um die Umwelt zu schützen.",
@@ -2155,11 +2093,7 @@
       }
     ]
   }
-]
-
-/////////////////////////
-
-[
+,
   {
     "id": 148,
     "text": "Sport ist wichtig für die körperliche und geistige Gesundheit. Regelmäßige Bewegung stärkt das Herz-Kreislauf-System, verbessert die Ausdauer und hilft beim Stressabbau. Mannschaftssportarten fördern außerdem Teamarbeit und soziale Fähigkeiten. Viele Menschen finden durch Sport neue Freunde und ein besseres Lebensgefühl.",
@@ -2305,12 +2239,7 @@
       }
     ]
   }
-]
-
-///////////////
-
-
-[
+,
   {
     "id": 153,
     "text": "Nachhaltigkeit bedeutet, Ressourcen so zu nutzen, dass sie auch für zukünftige Generationen erhalten bleiben. Viele Menschen achten heute auf umweltfreundliche Produkte, vermeiden Plastikmüll und nutzen erneuerbare Energien. Unternehmen setzen vermehrt auf nachhaltige Produktion und Recycling. Jeder kann einen Beitrag leisten, um die Umwelt zu schützen.",
@@ -2496,12 +2425,7 @@
       }
     ]
   }
-]
-
-
-//////////////////////////
-
-[
+,
   {
     "id": 158,
     "text": "Die Digitalisierung verändert die Art, wie wir kommunizieren. Soziale Medien ermöglichen es, mit Menschen auf der ganzen Welt in Kontakt zu bleiben. Gleichzeitig entstehen neue Herausforderungen wie Datenschutz und Cybermobbing. Es ist wichtig, Medienkompetenz zu entwickeln, um sicher und verantwortungsvoll im Internet zu agieren.",
@@ -2613,11 +2537,7 @@
       }
     ]
   }
-]
-
-/////////////////
-
-[
+,
   {
     "id": 161,
     "text": "Das Thema Klimawandel ist aktuell sehr wichtig. Die Erde erwärmt sich durch den Ausstoß von Treibhausgasen, was zu extremen Wetterbedingungen führt. Um die Erderwärmung zu stoppen, sind internationale Abkommen und individuelle Maßnahmen notwendig. Jeder kann Energie sparen und nachhaltiger leben.",
@@ -2951,12 +2871,7 @@
       }
     ]
   }
-]
-
-///////////////////
-
-
-[
+,
   {
     "id": 171,
     "text": "Gesunde Ernährung ist wichtig für ein langes und aktives Leben. Eine ausgewogene Ernährung beinhaltet viele verschiedene Lebensmittel, wie Obst, Gemüse, Vollkornprodukte und Proteine. Auch regelmäßige Mahlzeiten helfen, den Blutzuckerspiegel stabil zu halten. Man sollte Zucker und Fett möglichst reduzieren, um Krankheiten vorzubeugen. Wasser trinken ist genauso wichtig, da es den Körper mit Flüssigkeit versorgt.",
@@ -3142,12 +3057,7 @@
       }
     ]
   }
-]
-
-
-////////////////////////
-
-[
+,
   {
     "id": 176,
     "text": "Das Thema „Arbeitswelt“ beschäftigt viele Menschen. Die Anforderungen am Arbeitsplatz verändern sich durch Technik und Globalisierung. Flexible Arbeitszeiten, Homeoffice und ständige Weiterbildung sind heute wichtig. Viele Menschen möchten Arbeit und Privatleben besser verbinden. Dabei spielt auch die Gesundheit am Arbeitsplatz eine große Rolle.",
@@ -3333,11 +3243,7 @@
       }
     ]
   }
-]
-
-////////////////////////
-
-[
+,
   {
     "id": 181,
     "text": "Die Bedeutung von Fremdsprachenkenntnissen wächst in der heutigen globalen Welt. Viele Menschen lernen Englisch, Spanisch oder andere Sprachen, um bessere Chancen im Beruf zu haben. Sprachkurse, Tandempartner und Reisen helfen beim Lernen. Auch das Ansehen von Filmen oder Lesen von Büchern in der Fremdsprache verbessert die Fähigkeiten.",
@@ -3523,12 +3429,7 @@
       }
     ]
   }
-]
-
-
-////////////////////
-
-[
+,
   {
     "id": 186,
     "text": "Gesundes Essen wird immer wichtiger. Viele Menschen achten heute auf eine ausgewogene Ernährung, um fit und gesund zu bleiben. Frisches Obst, Gemüse, Vollkornprodukte und wenig Zucker sind empfehlenswert. Fast Food und zu viel Fett sollten vermieden werden. Auch regelmäßiges Trinken von Wasser unterstützt den Körper.",
@@ -3714,11 +3615,7 @@
       }
     ]
   }
-]
-
-///////////////////
-
-[
+,
   {
     "id": 191,
     "text": "Das Thema Haustiere ist für viele Menschen wichtig. Tiere wie Hunde, Katzen oder Vögel sind treue Begleiter. Sie brauchen viel Aufmerksamkeit und Pflege. Haustiere können helfen, Stress abzubauen und Freude zu bringen. Aber man sollte sich gut informieren, bevor man ein Tier anschafft.",
@@ -3904,12 +3801,7 @@
       }
     ]
   }
-]
-
-
-///////////////////////
-
-[
+,
   {
     "id": 196,
     "text": "Das Thema Verkehr und Mobilität betrifft unser tägliches Leben. Viele Menschen fahren mit dem Auto, aber auch öffentliche Verkehrsmittel wie Bus und Bahn sind wichtig. Fahrradfahren ist umweltfreundlich und gesund. In Großstädten gibt es oft Staus, deshalb versuchen viele, andere Verkehrsmittel zu nutzen.",
@@ -4095,12 +3987,7 @@
       }
     ]
   }
-]
-
-//////////////////////
-
-
-[
+,
   {
     "id": 201,
     "text": "Das Thema Urlaub ist für viele Menschen wichtig, um sich zu erholen und neue Erfahrungen zu sammeln. Manche reisen ans Meer, andere bevorzugen Berge oder Städte. Wichtig ist eine gute Planung, damit der Urlaub entspannt und schön wird. Auch das Wetter spielt eine große Rolle bei der Wahl des Reiseziels.",
@@ -4286,11 +4173,7 @@
       }
     ]
   }
-]
-
-/////////////////////
-
-[
+,
   {
     "id": 206,
     "text": "Das Thema Wohnungssuche beschäftigt viele Menschen, besonders in Großstädten. Es ist oft schwer, eine passende und bezahlbare Wohnung zu finden. Wichtige Kriterien sind Lage, Größe und Preis. Manchmal hilft es, früh zu suchen und Kontakte zu nutzen, um Chancen zu verbessern.",
@@ -4476,12 +4359,7 @@
       }
     ]
   }
-]
-
-
-////////////////
-
-[
+,
   {
     "id": 211,
     "text": "Das Thema Umweltverschmutzung ist weltweit ein großes Problem. Luft, Wasser und Boden werden durch Abgase, Müll und Chemikalien belastet. Viele Menschen setzen sich für den Schutz der Umwelt ein, zum Beispiel durch Recycling oder die Nutzung erneuerbarer Energien. Jeder kann durch kleine Veränderungen im Alltag helfen.",
@@ -4667,12 +4545,7 @@
       }
     ]
   }
-]
-
-
-////////////////
-
-[
+,
   {
     "id": 216,
     "text": "Das Thema Reisen erweitert den Horizont vieler Menschen. Man lernt neue Kulturen kennen, probiert anderes Essen und sammelt wertvolle Erfahrungen. Dabei ist es wichtig, respektvoll mit der Natur und den Menschen vor Ort umzugehen. Nachhaltiges Reisen wird immer beliebter.",
@@ -4858,11 +4731,7 @@
       }
     ]
   }
-]
-
-/////////////////
-
-[
+,
   {
     "id": 221,
     "text": "Das Thema Wohnungssuche ist für viele Menschen wichtig. Es ist oft nicht einfach, eine passende Wohnung zu finden, die bezahlbar und gut gelegen ist. Viele schauen online nach Angeboten, aber manchmal helfen auch Kontakte oder Makler. Ein guter Mietvertrag schützt vor Problemen.",
@@ -5048,11 +4917,7 @@
       }
     ]
   }
-]
-
-/////////////////
-
-[
+,
   {
     "id": 226,
     "text": "Das Thema Gesundheit und Vorsorge wird immer wichtiger. Regelmäßige Arztbesuche, gesunde Ernährung und ausreichend Bewegung helfen, Krankheiten vorzubeugen. Viele Menschen achten heute auch auf mentale Gesundheit und suchen Entspannung im Alltag.",
