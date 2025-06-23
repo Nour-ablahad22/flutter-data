@@ -1,1 +1,1316 @@
 
+[
+  {
+    "id": 1,
+    "text": "Anna möchte im Sommer nach Berlin reisen. Sie interessiert sich sehr für Kultur und Geschichte. Sie plant, drei Museen zu besuchen und eine Stadtführung zu machen. Außerdem möchte sie typische Berliner Gerichte wie Currywurst und Döner probieren.",
+    "translation": "آنا ترغب في السفر إلى برلين في الصيف. إنها مهتمة جدًا بالثقافة والتاريخ. تخطط لزيارة ثلاثة متاحف والمشاركة في جولة سياحية في المدينة. بالإضافة إلى ذلك، ترغب في تجربة الأطعمة البرلينية التقليدية مثل كاري وورست والدونر.",
+    "questions": [
+      {
+        "question": "Anna reist im Winter nach Berlin.",
+        "question_ar": "آنا ستسافر إلى برلين في الشتاء.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Was möchte Anna in Berlin besuchen?",
+        "question_ar": "ما الذي ترغب آنا في زيارته في برلين؟",
+        "options": ["Den Zoo", "Drei Museen und eine Stadtführung", "Ein Fußballstadion"],
+        "options_ar": ["حديقة الحيوانات", "ثلاثة متاحف وجولة في المدينة", "ملعب كرة القدم"],
+        "answer": "Drei Museen und eine Stadtführung"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Peter wohnt in Köln und fährt jeden Tag mit dem Fahrrad zur Arbeit. Er braucht etwa 20 Minuten. Im Winter trägt er eine warme Jacke, im Sommer eine leichte, damit er sich wohl fühlt.",
+    "translation": "يعيش بيتر في كولونيا ويذهب إلى العمل كل يوم بالدراجة. يستغرق حوالي 20 دقيقة. في الشتاء يرتدي سترة دافئة، وفي الصيف يرتدي واحدة خفيفة ليشعر بالراحة.",
+    "questions": [
+      {
+        "question": "Peter fährt mit dem Auto zur Arbeit.",
+        "question_ar": "بيتر يذهب إلى العمل بالسيارة.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Wie lange dauert Peters Fahrt zur Arbeit?",
+        "question_ar": "كم تستغرق رحلة بيتر إلى العمل؟",
+        "options": ["10 Minuten", "20 Minuten", "30 Minuten"],
+        "options_ar": ["10 دقائق", "20 دقيقة", "30 دقيقة"],
+        "answer": "20 Minuten"
+      }
+    ]
+  },
+
+  {
+    "id": 3,
+    "text": "Maria kocht gern. Jeden Sonntag bereitet sie ein großes Familienessen vor. Sie macht oft Pasta mit frischen Tomaten und Salat. Nach dem Essen trinken alle zusammen Kaffee.",
+    "translation": "ماريا تحب الطبخ. كل يوم أحد تحضر وجبة عائلية كبيرة. غالبًا ما تطبخ باستا مع طماطم طازجة وسلطة. بعد الطعام يشرب الجميع القهوة معًا.",
+    "questions": [
+      {
+        "question": "Maria kocht nur unter der Woche.",
+        "question_ar": "ماريا تطبخ فقط خلال أيام الأسبوع.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Was macht Maria jeden Sonntag?",
+        "question_ar": "ماذا تفعل ماريا كل يوم أحد؟",
+        "options": ["Sie geht spazieren", "Sie bereitet ein Familienessen vor", "Sie besucht ein Restaurant"],
+        "options_ar": ["تذهب في نزهة", "تحضر وجبة عائلية", "تزور مطعماً"],
+        "answer": "Sie bereitet ein Familienessen vor"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Thomas lernt seit drei Monaten Spanisch. Er benutzt eine App und lernt jeden Tag neue Vokabeln. Am Wochenende spricht er mit einer Tandempartnerin online, um seine Sprachkenntnisse zu verbessern.",
+    "translation": "توماس يتعلم الإسبانية منذ ثلاثة أشهر. يستخدم تطبيقًا ويتعلم كلمات جديدة كل يوم. في عطلة نهاية الأسبوع يتحدث مع شريك تبادل لغة عبر الإنترنت لتحسين مهاراته اللغوية.",
+    "questions": [
+      {
+        "question": "Thomas lernt seit einem Jahr Spanisch.",
+        "question_ar": "توماس يتعلم الإسبانية منذ سنة.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Wie verbessert Thomas seine Sprachkenntnisse?",
+        "question_ar": "كيف يحسن توماس مهاراته اللغوية؟",
+        "options": ["Mit einem Buch", "Mit einem Lehrer in der Schule", "Mit einer Tandempartnerin online"],
+        "options_ar": ["بكتاب", "مع مدرس في المدرسة", "مع شريك تبادل لغة عبر الإنترنت"],
+        "answer": "Mit einer Tandempartnerin online"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Claudia arbeitet im Supermarkt. Sie beginnt um 7 Uhr und endet um 15 Uhr. Ihre Aufgaben sind das Auffüllen von Regalen, das Kassieren und die Beratung von Kunden. Sie mag ihren Job sehr.",
+    "translation": "كلوديا تعمل في السوبرماركت. تبدأ العمل في الساعة 7 صباحًا وتنتهي في الساعة 3 عصرًا. مهامها هي تعبئة الرفوف، العمل على الصندوق، ومساعدة الزبائن. هي تحب عملها كثيرًا.",
+    "questions": [
+      {
+        "question": "Claudia arbeitet nur am Abend.",
+        "question_ar": "كلوديا تعمل فقط في المساء.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Was macht Claudia im Supermarkt?",
+        "question_ar": "ماذا تفعل كلوديا في السوبرماركت؟",
+        "options": ["Sie putzt Fenster", "Sie berät Kunden und kassiert", "Sie fährt den LKW"],
+        "options_ar": ["تنظف النوافذ", "تساعد الزبائن وتعمل على الصندوق", "تقود الشاحنة"],
+        "answer": "Sie berät Kunden und kassiert"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Oliver und seine Familie machen jeden Monat einen Ausflug. Sie fahren gern in den Wald und machen ein Picknick. Die Kinder spielen und die Erwachsenen entspannen sich.",
+    "translation": "أوليفر وعائلته يقومون برحلة مرة كل شهر. يحبون الذهاب إلى الغابة وعمل نزهة. الأطفال يلعبون والكبار يسترخون.",
+    "questions": [
+      {
+        "question": "Olivers Familie macht jeden Tag einen Ausflug.",
+        "question_ar": "عائلة أوليفر تقوم برحلة كل يوم.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Was machen sie im Wald?",
+        "question_ar": "ماذا يفعلون في الغابة؟",
+        "options": ["Sie schwimmen", "Sie machen ein Picknick", "Sie fahren Fahrrad"],
+        "options_ar": ["يسبحون", "يعملون نزهة", "يركبون الدراجة"],
+        "answer": "Sie machen ein Picknick"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Sabine fährt gern Fahrrad. Morgens besucht sie den Markt und kauft frisches Obst und Gemüse. Danach fährt sie zur Arbeit im Stadtzentrum.",
+    "translation": "سابينه تحب ركوب الدراجة. في الصباح تزور السوق وتشتري فواكه وخضروات طازجة. بعدها تذهب إلى عملها في وسط المدينة.",
+    "questions": [
+      {
+        "question": "Sabine kauft morgens Kleidung.",
+        "question_ar": "سابينه تشتري الملابس في الصباح.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Was kauft Sabine auf dem Markt?",
+        "question_ar": "ماذا تشتري سابينه من السوق؟",
+        "options": ["Obst und Gemüse", "Fleisch und Fisch", "Bücher"],
+        "options_ar": ["فواكه وخضروات", "لحم وسمك", "كتب"],
+        "answer": "Obst und Gemüse"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Max liest gern Bücher. Er liest am liebsten Krimis und Fantasy-Romane. Letzte Woche hat er einen spannenden Roman beendet und beginnt nun ein neues Buch.",
+    "translation": "ماكس يحب قراءة الكتب. يفضل قراءة الروايات البوليسية وروايات الفانتازيا. في الأسبوع الماضي أنهى رواية مثيرة وبدأ الآن بقراءة كتاب جديد.",
+    "questions": [
+      {
+        "question": "Max liest nicht gern.",
+        "question_ar": "ماكس لا يحب القراءة.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Was liest Max am liebsten?",
+        "question_ar": "ما الذي يفضله ماكس للقراءة؟",
+        "options": ["Zeitungen", "Krimis und Fantasy", "Sachbücher"],
+        "options_ar": ["الصحف", "روايات بوليسية وفانتازيا", "كتب علمية"],
+        "answer": "Krimis und Fantasy"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Lisa macht jeden Mittwoch Yoga. Sie fühlt sich danach entspannt und energisch. Nach dem Yoga trinkt sie einen grünen Smoothie.",
+    "translation": "ليزا تمارس اليوغا كل أربعاء. تشعر بعدها بالاسترخاء والنشاط. بعد اليوغا تشرب عصير سموزي أخضر.",
+    "questions": [
+      {
+        "question": "Lisa macht Yoga am Wochenende.",
+        "question_ar": "ليزا تمارس اليوغا في عطلة نهاية الأسبوع.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Was trinkt Lisa nach dem Yoga?",
+        "question_ar": "ماذا تشرب ليزا بعد اليوغا؟",
+        "options": ["Kaffee", "Einen grünen Smoothie", "Wasser"],
+        "options_ar": ["قهوة", "سموزي أخضر", "ماء"],
+        "answer": "Einen grünen Smoothie"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Jürgen hat nächste Woche Geburtstag. Er lädt Freunde und Familie ein. Sie feiern im Garten mit Grillen und Musik. Er freut sich sehr auf den Tag.",
+    "translation": "يورغن لديه عيد ميلاد الأسبوع القادم. يدعو الأصدقاء والعائلة. يحتفلون في الحديقة مع الشواء والموسيقى. هو متحمس جدًا لهذا اليوم.",
+    "questions": [
+      {
+        "question": "Jürgen feiert seinen Geburtstag allein.",
+        "question_ar": "يورغن يحتفل بعيد ميلاده بمفرده.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Wo feiert Jürgen seinen Geburtstag?",
+        "question_ar": "أين يحتفل يورغن بعيد ميلاده؟",
+        "options": ["Im Restaurant", "Im Garten", "Im Büro"],
+        "options_ar": ["في المطعم", "في الحديقة", "في المكتب"],
+        "answer": "Im Garten"
+      }
+    ]
+  },
+
+  {
+    "id": 11,
+    "text": "Sabine arbeitet als Lehrerin an einer Grundschule. Sie mag es, mit Kindern zu arbeiten und neue Dinge zu erklären. In ihrer Freizeit liest sie gern Bücher und geht joggen.",
+    "translation": "سابينه تعمل كمعلمة في مدرسة ابتدائية. تحب العمل مع الأطفال وشرح أشياء جديدة. في أوقات فراغها تحب قراءة الكتب والجري.",
+    "questions": [
+      {
+        "question": "Sabine arbeitet in einem Büro.",
+        "question_ar": "سابينه تعمل في مكتب.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Was macht Sabine in ihrer Freizeit?",
+        "question_ar": "ماذا تفعل سابينه في أوقات فراغها؟",
+        "options": ["Sie liest und joggt", "Sie schaut Fernsehen", "Sie kocht"],
+        "options_ar": ["تقرأ وتجري", "تشاهد التلفاز", "تطبخ"],
+        "answer": "Sie liest und joggt"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Markus fährt jeden Tag mit dem Bus zur Arbeit. Manchmal liest er dabei Zeitung oder hört Musik. Er arbeitet in einer großen Firma und ist dort für die Buchhaltung zuständig.",
+    "translation": "ماركوس يذهب إلى عمله يوميًا بالحافلة. أحيانًا يقرأ الصحيفة أو يستمع إلى الموسيقى أثناء ذلك. يعمل في شركة كبيرة وهو مسؤول عن المحاسبة هناك.",
+    "questions": [
+      {
+        "question": "Markus fährt mit dem Fahrrad zur Arbeit.",
+        "question_ar": "ماركوس يذهب إلى العمل بالدراجة.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Was macht Markus oft im Bus?",
+        "question_ar": "ماذا يفعل ماركوس غالبًا في الحافلة؟",
+        "options": ["Er schläft", "Er liest Zeitung oder hört Musik", "Er telefoniert"],
+        "options_ar": ["ينام", "يقرأ الصحيفة أو يستمع إلى الموسيقى", "يتصل هاتفيًا"],
+        "answer": "Er liest Zeitung oder hört Musik"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Clara hat eine Katze und einen Hund. Sie geht jeden Tag mit dem Hund spazieren. Die Katze bleibt meistens zu Hause und schläft viel.",
+    "translation": "كلارا لديها قطة وكلب. تخرج مع الكلب في نزهة يوميًا. القطة تبقى في المنزل عادة وتنام كثيرًا.",
+    "questions": [
+      {
+        "question": "Clara hat nur einen Hund.",
+        "question_ar": "كلارا لديها كلب فقط.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Was macht Clara jeden Tag?",
+        "question_ar": "ماذا تفعل كلارا يوميًا؟",
+        "options": ["Sie geht mit dem Hund spazieren", "Sie füttert die Katze draußen", "Sie putzt das Haus"],
+        "options_ar": ["تخرج مع الكلب في نزهة", "تطعم القطة في الخارج", "تنظف المنزل"],
+        "answer": "Sie geht mit dem Hund spazieren"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Tim und Lisa spielen gern Tennis. Am Wochenende treffen sie sich oft mit Freunden und spielen mehrere Stunden auf dem Tennisplatz.",
+    "translation": "تيم وليزا يحبان لعب التنس. في عطلة نهاية الأسبوع غالبًا ما يلتقيان مع الأصدقاء ويلعبون لساعات طويلة في ملعب التنس.",
+    "questions": [
+      {
+        "question": "Tim und Lisa spielen Fußball.",
+        "question_ar": "تيم وليزا يلعبان كرة القدم.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Wie verbringen Tim und Lisa das Wochenende?",
+        "question_ar": "كيف يقضي تيم وليزا عطلة نهاية الأسبوع؟",
+        "options": ["Sie spielen Tennis mit Freunden", "Sie gehen ins Kino", "Sie machen Hausaufgaben"],
+        "options_ar": ["يلعبون التنس مع الأصدقاء", "يذهبون إلى السينما", "يقومون بالواجبات المنزلية"],
+        "answer": "Sie spielen Tennis mit Freunden"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Eva mag Blumen. In ihrem Garten pflanzt sie viele bunte Blumen. Jeden Frühling gießt sie die Pflanzen und freut sich über die schönen Farben.",
+    "translation": "إيفا تحب الزهور. في حديقتها تزرع العديد من الزهور الملونة. كل ربيع تسقي النباتات وتفرح بالألوان الجميلة.",
+    "questions": [
+      {
+        "question": "Eva mag keine Blumen.",
+        "question_ar": "إيفا لا تحب الزهور.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Was macht Eva jeden Frühling?",
+        "question_ar": "ماذا تفعل إيفا كل ربيع؟",
+        "options": ["Sie gießt die Pflanzen", "Sie verkauft Blumen", "Sie fährt in den Urlaub"],
+        "options_ar": ["تسقي النباتات", "تبيع الزهور", "تذهب في إجازة"],
+        "answer": "Sie gießt die Pflanzen"
+      }
+    ]
+  }
+]
+
+//////////////////
+
+[
+  {
+    "id": 16,
+    "text": "Jan besucht jeden Samstag einen Sprachkurs. Er lernt Deutsch, weil er in Deutschland arbeiten möchte. Der Kurs ist dreistündig und macht ihm viel Spaß.",
+    "translation": "يان يحضر دورة لغة كل يوم سبت. يتعلم الألمانية لأنه يريد العمل في ألمانيا. الدورة تستمر ثلاث ساعات وهو يستمتع بها كثيرًا.",
+    "questions": [
+      {
+        "question": "Jan besucht den Sprachkurs täglich.",
+        "question_ar": "يان يحضر دورة اللغة يوميًا.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Warum lernt Jan Deutsch?",
+        "question_ar": "لماذا يتعلم يان الألمانية؟",
+        "options": ["Weil er in Deutschland arbeiten möchte", "Weil er nach Spanien reisen will", "Weil er gerne Bücher liest"],
+        "options_ar": ["لأنه يريد العمل في ألمانيا", "لأنه يريد السفر إلى إسبانيا", "لأنه يحب قراءة الكتب"],
+        "answer": "Weil er in Deutschland arbeiten möchte"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Sophie backt gern Kuchen. Jeden Freitag bringt sie einen Kuchen mit zur Arbeit und teilt ihn mit ihren Kollegen.",
+    "translation": "صوفي تحب خبز الكعك. كل يوم جمعة تحضر كعكة إلى العمل وتشاركها مع زملائها.",
+    "questions": [
+      {
+        "question": "Sophie bringt Kuchen jeden Montag mit.",
+        "question_ar": "صوفي تحضر الكعك كل يوم اثنين.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Was macht Sophie am Freitag?",
+        "question_ar": "ماذا تفعل صوفي يوم الجمعة؟",
+        "options": ["Sie backt Kuchen und bringt ihn zur Arbeit", "Sie geht ins Kino", "Sie macht Sport"],
+        "options_ar": ["تخبز كعكة وتحضرها للعمل", "تذهب إلى السينما", "تمارس الرياضة"],
+        "answer": "Sie backt Kuchen und bringt ihn zur Arbeit"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Paul spielt in einer Band. Er spielt Gitarre und singt. Jeden Donnerstag hat die Band Probe und sie bereiten sich auf ein Konzert vor.",
+    "translation": "بول يعزف في فرقة موسيقية. يعزف على الجيتار ويغني. كل يوم خميس تتدرب الفرقة ويستعدون لحفل موسيقي.",
+    "questions": [
+      {
+        "question": "Paul spielt Schlagzeug.",
+        "question_ar": "بول يعزف على الطبول.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Wann hat die Band Probe?",
+        "question_ar": "متى تتدرب الفرقة؟",
+        "options": ["Jeden Donnerstag", "Jeden Montag", "Jeden Sonntag"],
+        "options_ar": ["كل يوم خميس", "كل يوم اثنين", "كل يوم أحد"],
+        "answer": "Jeden Donnerstag"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Eva geht jeden Morgen schwimmen. Sie findet das sehr gesund und entspannend. Nach dem Schwimmen frühstückt sie im Café neben dem Schwimmbad.",
+    "translation": "إيفا تذهب للسباحة كل صباح. تجد ذلك صحيًا جدًا ومريحًا. بعد السباحة تفطر في المقهى المجاور للمسبح.",
+    "questions": [
+      {
+        "question": "Eva schwimmt abends.",
+        "question_ar": "إيفا تسبح في المساء.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Wo frühstückt Eva nach dem Schwimmen?",
+        "question_ar": "أين تفطر إيفا بعد السباحة؟",
+        "options": ["Im Café neben dem Schwimmbad", "Zu Hause", "Im Restaurant am See"],
+        "options_ar": ["في المقهى بجانب المسبح", "في المنزل", "في المطعم عند البحيرة"],
+        "answer": "Im Café neben dem Schwimmbad"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Lukas arbeitet als Mechaniker in einer Werkstatt. Er repariert Autos und überprüft die Motoren. Am Wochenende fährt er gern Motorrad.",
+    "translation": "لوكاس يعمل ميكانيكيًا في ورشة. يصلح السيارات ويفحص المحركات. في عطلة نهاية الأسبوع يحب قيادة الدراجة النارية.",
+    "questions": [
+      {
+        "question": "Lukas arbeitet als Lehrer.",
+        "question_ar": "لوكاس يعمل كمعلم.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Was macht Lukas am Wochenende gern?",
+        "question_ar": "ماذا يحب لوكاس أن يفعل في عطلة نهاية الأسبوع؟",
+        "options": ["Er fährt Motorrad", "Er geht wandern", "Er spielt Fußball"],
+        "options_ar": ["يقود الدراجة النارية", "يذهب للتنزه", "يلعب كرة القدم"],
+        "answer": "Er fährt Motorrad"
+      }
+    ]
+  }
+]
+
+
+///////////////////////////
+
+[
+  {
+    "id": 21,
+    "text": "Anna besucht jeden Morgen den Yoga-Kurs. Sie findet es entspannend und gut für ihre Gesundheit.",
+    "translation": "آنا تحضر دورة اليوغا كل صباح. تجدها مريحة وجيدة لصحتها.",
+    "questions": [
+      {
+        "question": "Anna geht abends zum Yoga.",
+        "question_ar": "آنا تذهب إلى اليوغا في المساء.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Warum besucht Anna den Yoga-Kurs?",
+        "question_ar": "لماذا تحضر آنا دورة اليوغا؟",
+        "options": ["Weil es entspannend ist", "Weil sie tanzen möchte", "Weil sie schwimmen will"],
+        "options_ar": ["لأنه مريح", "لأنها تريد الرقص", "لأنها تريد السباحة"],
+        "answer": "Weil es entspannend ist"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Thomas arbeitet als Koch in einem Restaurant. Er bereitet gern neue Gerichte zu und probiert verschiedene Rezepte aus.",
+    "translation": "توماس يعمل طاهياً في مطعم. يحب تحضير أطباق جديدة وتجربة وصفات مختلفة.",
+    "questions": [
+      {
+        "question": "Thomas arbeitet als Kellner.",
+        "question_ar": "توماس يعمل كنادل.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Was macht Thomas gern?",
+        "question_ar": "ماذا يحب توماس أن يفعل؟",
+        "options": ["Er bereitet neue Gerichte zu", "Er repariert Autos", "Er schreibt Bücher"],
+        "options_ar": ["يعد أطباق جديدة", "يصلح السيارات", "يكتب الكتب"],
+        "answer": "Er bereitet neue Gerichte zu"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Lisa fährt jeden Tag mit dem Fahrrad zur Arbeit. Das ist umweltfreundlich und hält sie fit.",
+    "translation": "ليزا تذهب إلى العمل يوميًا بالدراجة. هذا صديق للبيئة ويحافظ على لياقتها.",
+    "questions": [
+      {
+        "question": "Lisa fährt mit dem Auto zur Arbeit.",
+        "question_ar": "ليزا تذهب إلى العمل بالسيارة.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Warum fährt Lisa Fahrrad?",
+        "question_ar": "لماذا تذهب ليزا بالدراجة؟",
+        "options": ["Weil es umweltfreundlich ist", "Weil sie kein Auto hat", "Weil es schneller ist"],
+        "options_ar": ["لأنه صديق للبيئة", "لأنها لا تملك سيارة", "لأنه أسرع"],
+        "answer": "Weil es umweltfreundlich ist"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Max liest gern Bücher über Geschichte. Am Wochenende besucht er oft Museen, um mehr zu lernen.",
+    "translation": "ماكس يحب قراءة كتب التاريخ. في عطلة نهاية الأسبوع غالبًا ما يزور المتاحف ليتعلم أكثر.",
+    "questions": [
+      {
+        "question": "Max besucht Museen jeden Tag.",
+        "question_ar": "ماكس يزور المتاحف يوميًا.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Was macht Max am Wochenende?",
+        "question_ar": "ماذا يفعل ماكس في عطلة نهاية الأسبوع؟",
+        "options": ["Er besucht Museen", "Er spielt Fußball", "Er geht schwimmen"],
+        "options_ar": ["يزور المتاحف", "يلعب كرة القدم", "يذهب للسباحة"],
+        "answer": "Er besucht Museen"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Julia kocht gern italienisches Essen. Sie probiert oft neue Rezepte aus und lädt Freunde zum Essen ein.",
+    "translation": "جوليا تحب طهي الطعام الإيطالي. غالبًا ما تجرب وصفات جديدة وتدعو الأصدقاء لتناول الطعام.",
+    "questions": [
+      {
+        "question": "Julia kocht gern asiatisches Essen.",
+        "question_ar": "جوليا تحب طهي الطعام الآسيوي.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Was macht Julia gern?",
+        "question_ar": "ماذا تحب جوليا أن تفعل؟",
+        "options": ["Sie kocht italienisches Essen", "Sie macht Sport", "Sie malt Bilder"],
+        "options_ar": ["تطبخ الطعام الإيطالي", "تمارس الرياضة", "ترسم لوحات"],
+        "answer": "Sie kocht italienisches Essen"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Peter spielt gerne Schach. Er nimmt oft an Turnieren teil und trainiert regelmäßig.",
+    "translation": "بيتر يحب لعب الشطرنج. يشارك غالبًا في البطولات ويدرب بانتظام.",
+    "questions": [
+      {
+        "question": "Peter spielt Fußball.",
+        "question_ar": "بيتر يلعب كرة القدم.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Was macht Peter oft?",
+        "question_ar": "ماذا يفعل بيتر غالبًا؟",
+        "options": ["Er nimmt an Schachturnieren teil", "Er fährt Fahrrad", "Er liest Bücher"],
+        "options_ar": ["يشارك في بطولات الشطرنج", "يركب الدراجة", "يقرأ الكتب"],
+        "answer": "Er nimmt an Schachturnieren teil"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Nina arbeitet als Ärztin im Krankenhaus. Sie hilft den Patienten und arbeitet oft lange Schichten.",
+    "translation": "نينا تعمل طبيبة في المستشفى. تساعد المرضى وغالبًا ما تعمل ورديات طويلة.",
+    "questions": [
+      {
+        "question": "Nina arbeitet als Lehrerin.",
+        "question_ar": "نينا تعمل كمعلمة.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Wo arbeitet Nina?",
+        "question_ar": "أين تعمل نينا؟",
+        "options": ["Im Krankenhaus", "In der Schule", "Im Büro"],
+        "options_ar": ["في المستشفى", "في المدرسة", "في المكتب"],
+        "answer": "Im Krankenhaus"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Oliver fährt gern Ski im Winter. Er verbringt seinen Urlaub oft in den Bergen.",
+    "translation": "أوليفر يحب التزلج على الجليد في الشتاء. يقضي عطلته غالبًا في الجبال.",
+    "questions": [
+      {
+        "question": "Oliver fährt im Sommer Ski.",
+        "question_ar": "أوليفر يتزلج في الصيف.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Wo verbringt Oliver oft seinen Urlaub?",
+        "question_ar": "أين يقضي أوليفر غالبًا عطلته؟",
+        "options": ["In den Bergen", "Am Strand", "In der Stadt"],
+        "options_ar": ["في الجبال", "على الشاطئ", "في المدينة"],
+        "answer": "In den Bergen"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Sandra malt gern Bilder. Ihre Lieblingsfarben sind blau und grün.",
+    "translation": "ساندرا تحب رسم الصور. ألوانها المفضلة هي الأزرق والأخضر.",
+    "questions": [
+      {
+        "question": "Sandra malt gern Bilder.",
+        "question_ar": "ساندرا تحب رسم الصور.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Was sind Sandras Lieblingsfarben?",
+        "question_ar": "ما هي ألوان ساندرا المفضلة؟",
+        "options": ["Blau und Grün", "Rot und Gelb", "Schwarz und Weiß"],
+        "options_ar": ["الأزرق والأخضر", "الأحمر والأصفر", "الأسود والأبيض"],
+        "answer": "Blau und Grün"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Daniel liest jeden Abend vor dem Schlafengehen ein Buch. Er findet das beruhigend und entspannend.",
+    "translation": "دانيال يقرأ كتابًا كل مساء قبل النوم. يجد ذلك مهدئًا ومريحًا.",
+    "questions": [
+      {
+        "question": "Daniel liest morgens ein Buch.",
+        "question_ar": "دانيال يقرأ كتابًا في الصباح.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Wann liest Daniel ein Buch?",
+        "question_ar": "متى يقرأ دانيال كتابًا؟",
+        "options": ["Abends vor dem Schlafengehen", "Mittags", "Nachmittags"],
+        "options_ar": ["مساءً قبل النوم", "منتصف النهار", "بعد الظهر"],
+        "answer": "Abends vor dem Schlafengehen"
+      }
+    ]
+  }
+]
+
+
+/////////////////////////////////
+
+
+[
+  {
+    "id": 31,
+    "text": "Maria lebt seit drei Jahren in Berlin. Sie arbeitet als Lehrerin an einer Grundschule und unterrichtet Deutsch und Mathematik. In ihrer Freizeit liest sie gerne Romane und trifft sich mit Freunden im Park. Außerdem geht sie regelmäßig ins Fitnessstudio, um fit zu bleiben. Am Wochenende besucht Maria oft Museen oder kulturelle Veranstaltungen in der Stadt, weil sie sich für Kunst und Geschichte interessiert.",
+    "translation": "ماريا تعيش في برلين منذ ثلاث سنوات. تعمل كمعلمة في مدرسة ابتدائية وتدرس اللغة الألمانية والرياضيات. في أوقات فراغها تحب قراءة الروايات واللقاء مع أصدقائها في الحديقة. بالإضافة إلى ذلك، تذهب بانتظام إلى النادي الرياضي للحفاظ على لياقتها. في عطلة نهاية الأسبوع تزور ماريا غالبًا المتاحف أو الفعاليات الثقافية في المدينة لأنها مهتمة بالفن والتاريخ.",
+    "questions": [
+      {
+        "question": "Maria arbeitet als Ärztin.",
+        "question_ar": "ماريا تعمل طبيبة.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Was macht Maria in ihrer Freizeit?",
+        "question_ar": "ماذا تفعل ماريا في وقت فراغها؟",
+        "options": [
+          "Sie liest Romane und trifft Freunde",
+          "Sie arbeitet im Krankenhaus",
+          "Sie fährt gern Fahrrad"
+        ],
+        "options_ar": [
+          "تقرأ الروايات وتلتقي بالأصدقاء",
+          "تعمل في المستشفى",
+          "تحب ركوب الدراجة"
+        ],
+        "answer": "Sie liest Romane und trifft Freunde"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Thomas ist Ingenieur und arbeitet bei einer großen Firma, die umweltfreundliche Technologien entwickelt. Jeden Tag fährt er mit dem Zug zur Arbeit, weil er die Umwelt schützen möchte. Seine Arbeit ist sehr abwechslungsreich: Er plant neue Projekte, trifft sich mit Kunden und überprüft technische Zeichnungen. Nach der Arbeit entspannt sich Thomas oft mit einem Spaziergang im Wald oder beim Kochen zu Hause. Er liebt es, neue Rezepte auszuprobieren und seine Familie zu bekochen.",
+    "translation": "توماس مهندس ويعمل في شركة كبيرة تطور تقنيات صديقة للبيئة. يذهب إلى العمل يوميًا بالقطار لأنه يريد حماية البيئة. عمله متنوع جدًا: يخطط لمشاريع جديدة، يجتمع مع الزبائن، ويفحص الرسومات التقنية. بعد العمل يسترخي توماس غالبًا بالمشي في الغابة أو الطبخ في المنزل. يحب تجربة وصفات جديدة وطهي الطعام لعائلته.",
+    "questions": [
+      {
+        "question": "Thomas fährt jeden Tag mit dem Auto zur Arbeit.",
+        "question_ar": "توماس يذهب إلى العمل يوميًا بالسيارة.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Was macht Thomas nach der Arbeit?",
+        "question_ar": "ماذا يفعل توماس بعد العمل؟",
+        "options": [
+          "Er geht spazieren oder kocht",
+          "Er sieht fern",
+          "Er spielt Fußball"
+        ],
+        "options_ar": [
+          "يمشي أو يطبخ",
+          "يشاهد التلفاز",
+          "يلعب كرة القدم"
+        ],
+        "answer": "Er geht spazieren oder kocht"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Sabine liebt Tiere und arbeitet als Tierärztin in einer kleinen Praxis. Jeden Tag kümmert sie sich um kranke und verletzte Tiere, führt Untersuchungen durch und gibt Impfungen. Neben der Arbeit engagiert sich Sabine in einem Tierschutzverein und hilft bei der Organisation von Spendenaktionen. In ihrer Freizeit geht sie gern wandern und verbringt Zeit mit ihrer Familie und ihrem Hund im Garten.",
+    "translation": "سابين تحب الحيوانات وتعمل طبيبة بيطرية في عيادة صغيرة. تعتني يوميًا بالحيوانات المريضة والمصابة، تجري الفحوصات وتعطي اللقاحات. بجانب العمل، تشارك في جمعية لحماية الحيوانات وتساعد في تنظيم حملات التبرع. في وقت فراغها تحب التنزه وتقضي وقتًا مع عائلتها وكلبها في الحديقة.",
+    "questions": [
+      {
+        "question": "Sabine arbeitet als Lehrerin.",
+        "question_ar": "سابين تعمل كمعلمة.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Womit beschäftigt sich Sabine außerhalb der Arbeit?",
+        "question_ar": "بماذا تهتم سابين خارج العمل؟",
+        "options": [
+          "Sie engagiert sich im Tierschutzverein",
+          "Sie spielt Tennis",
+          "Sie malt Bilder"
+        ],
+        "options_ar": [
+          "تشارك في جمعية حماية الحيوانات",
+          "تلعب التنس",
+          "ترسم لوحات"
+        ],
+        "answer": "Sie engagiert sich im Tierschutzverein"
+      }
+    ]
+  }
+]
+
+
+
+//////////////////////////////////////
+
+
+
+[
+  {
+    "id": 34,
+    "text": "Jan und seine Familie wohnen in einem kleinen Haus am Stadtrand. Jeden Morgen frühstücken sie zusammen und danach fährt Jan mit dem Bus zur Arbeit. Seine Frau arbeitet als Krankenschwester im Krankenhaus, und ihre beiden Kinder gehen zur Schule. Am Wochenende unternehmen sie oft Ausflüge in die Natur oder besuchen Verwandte. Jan liebt es, im Garten zu arbeiten und Gemüse anzupflanzen, während seine Frau gerne kocht und backt.",
+    "translation": "يان وعائلته يعيشون في بيت صغير على مشارف المدينة. كل صباح يتناولون الفطور معًا وبعدها يذهب يان إلى العمل بالباص. زوجته تعمل ممرضة في المستشفى، وأطفالهما الاثنان يذهبان إلى المدرسة. في عطلة نهاية الأسبوع غالبًا ما يقومون برحلات إلى الطبيعة أو يزورون الأقارب. يان يحب العمل في الحديقة وزراعة الخضروات، بينما زوجته تحب الطبخ والخبز.",
+    "questions": [
+      {
+        "question": "Jan fährt mit dem Auto zur Arbeit.",
+        "question_ar": "يان يذهب إلى العمل بالسيارة.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Was macht Jan am Wochenende gern?",
+        "question_ar": "ماذا يحب يان أن يفعل في عطلة نهاية الأسبوع؟",
+        "options": [
+          "Er arbeitet im Garten",
+          "Er spielt Fußball",
+          "Er geht schwimmen"
+        ],
+        "options_ar": [
+          "يعمل في الحديقة",
+          "يلعب كرة القدم",
+          "يذهب للسباحة"
+        ],
+        "answer": "Er arbeitet im Garten"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "text": "Sophie hat vor kurzem ein neues Hobby entdeckt: das Fotografieren. Sie liebt es, Landschaften und Menschen zu fotografieren. Am liebsten geht sie an Wochenenden mit ihrer Kamera in die Stadt oder in den Park, um schöne Motive zu finden. Sophie möchte gerne einen Fotokurs besuchen, um ihre Technik zu verbessern. Außerdem plant sie, einige ihrer besten Bilder in einer Ausstellung zu zeigen.",
+    "translation": "صوفي اكتشفت مؤخرًا هواية جديدة: التصوير الفوتوغرافي. تحب تصوير المناظر الطبيعية والناس. في عطلات نهاية الأسبوع تحب الذهاب بالكاميرا إلى المدينة أو الحديقة للعثور على مشاهد جميلة. ترغب صوفي في حضور دورة تصوير لتحسين مهاراتها. كما تخطط لعرض بعض أفضل صورها في معرض.",
+    "questions": [
+      {
+        "question": "Sophie fotografiert gern Tiere.",
+        "question_ar": "صوفي تحب تصوير الحيوانات.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Was möchte Sophie machen?",
+        "question_ar": "ماذا ترغب صوفي أن تفعل؟",
+        "options": [
+          "Einen Fotokurs besuchen",
+          "Einen Tanzkurs machen",
+          "Einen Kochkurs besuchen"
+        ],
+        "options_ar": [
+          "حضور دورة تصوير",
+          "حضور دورة رقص",
+          "حضور دورة طبخ"
+        ],
+        "answer": "Einen Fotokurs besuchen"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "text": "Michael arbeitet als Ingenieur in einer Firma, die Windkraftanlagen herstellt. Er ist für die Planung und Konstruktion neuer Anlagen verantwortlich. Die Arbeit ist anspruchsvoll, aber Michael findet sie sehr interessant. In seiner Freizeit spielt er gerne Tennis und trifft sich mit Freunden zum Abendessen. Außerdem reist er gern und möchte im nächsten Jahr eine große Reise nach Asien machen.",
+    "translation": "مايكل يعمل مهندسًا في شركة تصنع توربينات الرياح. هو مسؤول عن تخطيط وتصميم التوربينات الجديدة. العمل متطلب لكنه يجده ممتعًا جدًا. في أوقات فراغه يحب لعب التنس والالتقاء بالأصدقاء لتناول العشاء. كما يحب السفر ويريد القيام برحلة كبيرة إلى آسيا في العام المقبل.",
+    "questions": [
+      {
+        "question": "Michael arbeitet als Lehrer.",
+        "question_ar": "مايكل يعمل كمعلم.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Was plant Michael für nächstes Jahr?",
+        "question_ar": "ماذا يخطط مايكل للسنة القادمة؟",
+        "options": [
+          "Eine Reise nach Asien",
+          "Ein neues Auto kaufen",
+          "Ein Haus bauen"
+        ],
+        "options_ar": [
+          "رحلة إلى آسيا",
+          "شراء سيارة جديدة",
+          "بناء منزل"
+        ],
+        "answer": "Eine Reise nach Asien"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "text": "Laura liebt Musik und spielt seit ihrer Kindheit Klavier. Sie gibt auch Klavierunterricht für Kinder und Erwachsene. Jedes Jahr nimmt sie an Wettbewerben teil und gibt Konzerte in ihrer Stadt. Neben der Musik studiert Laura Literatur an der Universität. Sie hat viele Freunde, mit denen sie gerne ins Kino oder ins Café geht.",
+    "translation": "لورا تحب الموسيقى وتعزف على البيانو منذ طفولتها. كما تعطي دروس بيانو للأطفال والكبار. كل عام تشارك في مسابقات وتعطي حفلات في مدينتها. بجانب الموسيقى تدرس الأدب في الجامعة. لديها أصدقاء كثيرون تحب الذهاب معهم إلى السينما أو المقهى.",
+    "questions": [
+      {
+        "question": "Laura spielt Geige.",
+        "question_ar": "لورا تعزف على الكمان.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Was studiert Laura an der Universität?",
+        "question_ar": "ماذا تدرس لورا في الجامعة؟",
+        "options": [
+          "Literatur",
+          "Musik",
+          "Mathematik"
+        ],
+        "options_ar": [
+          "الأدب",
+          "الموسيقى",
+          "الرياضيات"
+        ],
+        "answer": "Literatur"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "text": "Stefan ist seit zehn Jahren Polizist. Er arbeitet in der Innenstadt und kümmert sich um Verkehrskontrollen und Sicherheit. Stefan findet seinen Beruf wichtig, weil er Menschen helfen kann. In seiner Freizeit fährt er gern Fahrrad und liest Kriminalromane. Außerdem engagiert er sich ehrenamtlich in einer Jugendorganisation, die Kindern und Jugendlichen hilft.",
+    "translation": "ستيفان يعمل كشرطي منذ عشر سنوات. يعمل في وسط المدينة ويتولى مراقبة المرور والأمن. يجد ستيفان عمله مهمًا لأنه يمكنه مساعدة الناس. في أوقات فراغه يحب ركوب الدراجة وقراءة روايات الجريمة. كما يشارك تطوعياً في منظمة شبابية تساعد الأطفال والشباب.",
+    "questions": [
+      {
+        "question": "Stefan arbeitet als Feuerwehrmann.",
+        "question_ar": "ستيفان يعمل كرجل إطفاء.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Wie hilft Stefan außerhalb der Arbeit?",
+        "question_ar": "كيف يساعد ستيفان خارج العمل؟",
+        "options": [
+          "Er arbeitet ehrenamtlich in einer Jugendorganisation",
+          "Er organisiert Sportveranstaltungen",
+          "Er unterrichtet Musik"
+        ],
+        "options_ar": [
+          "يشارك تطوعياً في منظمة شبابية",
+          "ينظم فعاليات رياضية",
+          "يدرس الموسيقى"
+        ],
+        "answer": "Er arbeitet ehrenamtlich in einer Jugendorganisation"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "text": "Eva ist Designerin und arbeitet in einer Modefirma. Sie entwirft Kleidung und Accessoires für Frauen. Eva liebt ihren Beruf, weil sie kreativ sein kann. Jeden Tag arbeitet sie an neuen Kollektionen und besucht Modemessen, um sich inspirieren zu lassen. In ihrer Freizeit macht sie Yoga und geht oft ins Theater.",
+    "translation": "إيفا مصممة وتعمل في شركة أزياء. تصمم الملابس والإكسسوارات للنساء. تحب إيفا عملها لأنها تستطيع أن تكون مبدعة. تعمل كل يوم على مجموعات جديدة وتحضر معارض الأزياء لتستلهم أفكارًا. في أوقات فراغها تمارس اليوغا وغالبًا ما تذهب إلى المسرح.",
+    "questions": [
+      {
+        "question": "Eva arbeitet als Ärztin.",
+        "question_ar": "إيفا تعمل طبيبة.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Was macht Eva in ihrer Freizeit?",
+        "question_ar": "ماذا تفعل إيفا في وقت فراغها؟",
+        "options": [
+          "Yoga und Theater besuchen",
+          "Fußball spielen",
+          "Kochen"
+        ],
+        "options_ar": [
+          "اليوغا وزيارة المسرح",
+          "لعب كرة القدم",
+          "الطبخ"
+        ],
+        "answer": "Yoga und Theater besuchen"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "text": "Markus ist ein begeisterter Koch und arbeitet in einem renommierten Restaurant. Er liebt es, neue Rezepte zu entwickeln und seine Gäste zu überraschen. Markus ist auch für die Menüplanung und die Bestellung der Zutaten verantwortlich. Nach der Arbeit entspannt er sich gern beim Lesen oder trifft sich mit Freunden in einem Café.",
+    "translation": "ماركوس طباخ متحمس ويعمل في مطعم مرموق. يحب ابتكار وصفات جديدة ومفاجأة ضيوفه. كما أنه مسؤول عن تخطيط القائمة وطلب المكونات. بعد العمل يسترخي بالقراءة أو بلقاء أصدقائه في المقهى.",
+    "questions": [
+      {
+        "question": "Markus arbeitet als Kellner.",
+        "question_ar": "ماركوس يعمل كنادل.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Was macht Markus gern nach der Arbeit?",
+        "question_ar": "ماذا يحب ماركوس أن يفعل بعد العمل؟",
+        "options": [
+          "Er liest oder trifft Freunde",
+          "Er geht schwimmen",
+          "Er fährt Fahrrad"
+        ],
+        "options_ar": [
+          "يقرأ أو يلتقي بالأصدقاء",
+          "يذهب للسباحة",
+          "يركب الدراجة"
+        ],
+        "answer": "Er liest oder trifft Freunde"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "text": "Claudia arbeitet als Journalistin für eine große Zeitung. Sie schreibt Berichte über Politik und Gesellschaft. Claudia reist oft zu verschiedenen Orten, um Interviews zu führen und über aktuelle Ereignisse zu berichten. Sie liebt ihren Beruf, weil sie täglich Neues lernt und interessante Menschen trifft. In ihrer Freizeit liest sie gerne Romane und macht Yoga.",
+    "translation": "كلوديا تعمل كصحفية في صحيفة كبيرة. تكتب تقارير عن السياسة والمجتمع. تسافر كثيرًا إلى أماكن مختلفة لإجراء مقابلات والتحدث عن الأحداث الجارية. تحب عملها لأنها تتعلم أشياء جديدة يوميًا وتلتقي بأشخاص مثيرين للاهتمام. في وقت فراغها تحب قراءة الروايات وممارسة اليوغا.",
+    "questions": [
+      {
+        "question": "Claudia arbeitet als Lehrerin.",
+        "question_ar": "كلوديا تعمل كمعلمة.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Worüber schreibt Claudia?",
+        "question_ar": "عن ماذا تكتب كلوديا؟",
+        "options": [
+          "Über Politik und Gesellschaft",
+          "Über Sport",
+          "Über Mode"
+        ],
+        "options_ar": [
+          "عن السياسة والمجتمع",
+          "عن الرياضة",
+          "عن الموضة"
+        ],
+        "answer": "Über Politik und Gesellschaft"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "text": "Jürgen liebt es, am Wochenende zu angeln. Er fährt dann oft an einen nahegelegenen See oder Fluss und verbringt dort den ganzen Tag. Angeln ist für ihn ein schöner Ausgleich zum stressigen Alltag. Jürgen nimmt auch an Angelwettbewerben teil und tauscht sich gern mit anderen Anglern aus. Außerdem kocht er die Fische, die er fängt, selbst zu Hause.",
+    "translation": "يورغن يحب صيد السمك في عطلة نهاية الأسبوع. يذهب غالبًا إلى بحيرة أو نهر قريب ويقضي هناك اليوم كله. الصيد بالنسبة له توازن جميل مع الحياة اليومية المجهدة. يشارك يورغن أيضًا في مسابقات الصيد ويحب تبادل الخبرات مع الصيادين الآخرين. كما يطبخ الأسماك التي يصيدها بنفسه في المنزل.",
+    "questions": [
+      {
+        "question": "Jürgen fährt am Wochenende oft zum Wandern.",
+        "question_ar": "يورغن يذهب غالبًا في عطلة نهاية الأسبوع للتنزه.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Was macht Jürgen mit den Fischen?",
+        "question_ar": "ماذا يفعل يورغن بالأسماك؟",
+        "options": [
+          "Er kocht sie zu Hause",
+          "Er verkauft sie",
+          "Er verschenkt sie"
+        ],
+        "options_ar": [
+          "يطبخها في المنزل",
+          "يبيعها",
+          "يهديها"
+        ],
+        "answer": "Er kocht sie zu Hause"
+      }
+    ]
+  }
+]
+
+
+/////////////////////////
+
+[
+  {
+    "id": 43,
+    "text": "Helena ist Architektin und arbeitet in einem großen Büro in der Stadt. Sie entwirft moderne Häuser und sorgt dafür, dass alle Bauvorschriften eingehalten werden. Helena liebt es, kreative Lösungen zu finden und mit Kunden zusammenzuarbeiten. In ihrer Freizeit malt sie gern und besucht Kunstausstellungen. Außerdem nimmt sie an einem Yogakurs teil, um sich zu entspannen.",
+    "translation": "هيلينا مهندسة معمارية وتعمل في مكتب كبير في المدينة. تصمم منازل حديثة وتتأكد من الالتزام بكل قوانين البناء. تحب هيلينا إيجاد حلول إبداعية والعمل مع العملاء. في وقت فراغها تحب الرسم وزيارة معارض الفن. كما تشارك في دورة يوجا للاسترخاء.",
+    "questions": [
+      {
+        "question": "Helena arbeitet als Architektin.",
+        "question_ar": "هيلينا تعمل كمهندسة معمارية.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Was macht Helena in ihrer Freizeit?",
+        "question_ar": "ماذا تفعل هيلينا في وقت فراغها؟",
+        "options": [
+          "Sie malt und besucht Kunstausstellungen",
+          "Sie spielt Tennis",
+          "Sie liest Bücher"
+        ],
+        "options_ar": [
+          "ترسم وتزور معارض الفن",
+          "تلعب التنس",
+          "تقرأ الكتب"
+        ],
+        "answer": "Sie malt und besucht Kunstausstellungen"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "text": "Tobias arbeitet als Programmierer in einem Start-up-Unternehmen. Er entwickelt Software für mobile Apps und Webseiten. Tobias liebt die Herausforderungen seiner Arbeit und arbeitet oft auch abends, um Projekte rechtzeitig fertigzustellen. In seiner Freizeit spielt er Videospiele und trifft sich mit Freunden zum Kochen. Er möchte in Zukunft seine eigene App veröffentlichen.",
+    "translation": "توبياس يعمل مبرمجًا في شركة ناشئة. يطور برامج لتطبيقات الهاتف والمواقع الإلكترونية. يحب تحديات عمله وغالبًا ما يعمل مساءً لإنهاء المشاريع في الوقت المناسب. في وقت فراغه يلعب ألعاب فيديو ويلتقي بالأصدقاء للطبخ. يرغب في المستقبل أن ينشر تطبيقه الخاص.",
+    "questions": [
+      {
+        "question": "Tobias arbeitet als Arzt.",
+        "question_ar": "توبياس يعمل طبيبًا.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Was möchte Tobias in Zukunft machen?",
+        "question_ar": "ماذا يريد توبياس أن يفعل في المستقبل؟",
+        "options": [
+          "Seine eigene App veröffentlichen",
+          "Ein Restaurant eröffnen",
+          "Eine Band gründen"
+        ],
+        "options_ar": [
+          "نشر تطبيقه الخاص",
+          "فتح مطعم",
+          "تأسيس فرقة موسيقية"
+        ],
+        "answer": "Seine eigene App veröffentlichen"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "text": "Anna arbeitet als Ärztin in einem Krankenhaus. Sie liebt ihren Beruf, weil sie Menschen helfen kann. Jeden Tag untersucht sie Patienten, schreibt Berichte und berät Familien. Anna arbeitet oft im Schichtdienst, aber sie schafft es, Familie und Beruf gut zu kombinieren. In ihrer Freizeit liest sie gerne medizinische Bücher und geht joggen.",
+    "translation": "آنا تعمل طبيبة في مستشفى. تحب مهنتها لأنها تستطيع مساعدة الناس. تفحص المرضى يوميًا، تكتب تقارير وتقدم المشورة للعائلات. تعمل آنا غالبًا بنظام الورديات لكنها توازن جيدًا بين العمل والأسرة. في وقت فراغها تحب قراءة الكتب الطبية والجري.",
+    "questions": [
+      {
+        "question": "Anna arbeitet im Büro.",
+        "question_ar": "آنا تعمل في المكتب.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Was macht Anna gerne in ihrer Freizeit?",
+        "question_ar": "ماذا تحب آنا أن تفعل في وقت فراغها؟",
+        "options": [
+          "Sie liest medizinische Bücher und geht joggen",
+          "Sie sieht fern",
+          "Sie spielt Fußball"
+        ],
+        "options_ar": [
+          "تقرأ الكتب الطبية وتجري",
+          "تشاهد التلفاز",
+          "تلعب كرة القدم"
+        ],
+        "answer": "Sie liest medizinische Bücher und geht joggen"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "text": "Peter ist Lehrer an einer Gesamtschule und unterrichtet Mathe und Physik. Er bereitet seine Unterrichtsstunden sorgfältig vor und verwendet gerne neue Lehrmethoden. Peter mag seinen Beruf sehr, weil er die Schüler motivieren und unterstützen kann. Nach der Arbeit liest er gern Fachbücher und trifft sich mit Kollegen zum Austausch.",
+    "translation": "بيتر مدرس في مدرسة شاملة ويُدرّس الرياضيات والفيزياء. يُحضّر دروسه بعناية ويحب استخدام طرق تدريس جديدة. يحب بيتر عمله كثيرًا لأنه يستطيع تحفيز ودعم الطلاب. بعد العمل يحب قراءة الكتب المتخصصة والالتقاء بالزملاء للتبادل.",
+    "questions": [
+      {
+        "question": "Peter unterrichtet Geschichte.",
+        "question_ar": "بيتر يدرس التاريخ.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Was macht Peter nach der Arbeit?",
+        "question_ar": "ماذا يفعل بيتر بعد العمل؟",
+        "options": [
+          "Er liest Fachbücher und trifft Kollegen",
+          "Er geht ins Kino",
+          "Er macht Sport"
+        ],
+        "options_ar": [
+          "يقرأ الكتب المتخصصة ويلتقي بالزملاء",
+          "يذهب إلى السينما",
+          "يمارس الرياضة"
+        ],
+        "answer": "Er liest Fachbücher und trifft Kollegen"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "text": "Nina ist Studentin und studiert Biologie an der Universität. Sie interessiert sich besonders für Pflanzen und deren Wachstum. Neben dem Studium arbeitet sie in einem Labor und hilft bei Experimenten. Nina plant, nach dem Studium in der Forschung zu arbeiten. In ihrer Freizeit treibt sie Sport und trifft sich mit Freunden.",
+    "translation": "نينا طالبة وتدرس علم الأحياء في الجامعة. تهتم بشكل خاص بالنباتات ونموها. بجانب الدراسة تعمل في مختبر وتساعد في التجارب. تخطط نينا للعمل في البحث العلمي بعد التخرج. في وقت فراغها تمارس الرياضة وتلتقي بالأصدقاء.",
+    "questions": [
+      {
+        "question": "Nina studiert Medizin.",
+        "question_ar": "نينا تدرس الطب.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Was macht Nina neben dem Studium?",
+        "question_ar": "ماذا تفعل نينا بجانب الدراسة؟",
+        "options": [
+          "Sie arbeitet in einem Labor",
+          "Sie arbeitet im Krankenhaus",
+          "Sie arbeitet als Lehrerin"
+        ],
+        "options_ar": [
+          "تعمل في مختبر",
+          "تعمل في المستشفى",
+          "تعمل كمعلمة"
+        ],
+        "answer": "Sie arbeitet in einem Labor"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "text": "David ist Journalist und schreibt für eine Sportzeitschrift. Er berichtet über Fußballspiele und interviewt Spieler und Trainer. David reist oft zu Sportveranstaltungen und arbeitet auch am Wochenende. In seiner Freizeit spielt er selbst gern Fußball und schaut sich Spiele im Fernsehen an.",
+    "translation": "ديفيد صحفي ويكتب في مجلة رياضية. يكتب تقارير عن مباريات كرة القدم ويجري مقابلات مع اللاعبين والمدربين. يسافر ديفيد كثيرًا إلى الفعاليات الرياضية ويعمل أيضًا في عطلات نهاية الأسبوع. في وقت فراغه يحب لعب كرة القدم ومشاهدة المباريات على التلفاز.",
+    "questions": [
+      {
+        "question": "David schreibt für eine Modezeitschrift.",
+        "question_ar": "ديفيد يكتب في مجلة أزياء.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Was macht David in seiner Freizeit?",
+        "question_ar": "ماذا يفعل ديفيد في وقت فراغه؟",
+        "options": [
+          "Er spielt und schaut Fußball",
+          "Er spielt Tennis",
+          "Er liest Bücher"
+        ],
+        "options_ar": [
+          "يلعب ويشاهد كرة القدم",
+          "يلعب التنس",
+          "يقرأ الكتب"
+        ],
+        "answer": "Er spielt und schaut Fußball"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "text": "Sabine arbeitet als Köchin in einem Restaurant. Sie bereitet täglich frische Gerichte zu und achtet auf gesunde Ernährung. Sabine liebt es, mit verschiedenen Zutaten zu experimentieren und neue Rezepte zu entwickeln. Nach der Arbeit entspannt sie gern beim Lesen oder beim Spaziergang mit ihrem Hund.",
+    "translation": "سابين تعمل طاهية في مطعم. تحضر أطباقًا طازجة يوميًا وتهتم بالتغذية الصحية. تحب سابين تجربة مكونات مختلفة وابتكار وصفات جديدة. بعد العمل تسترخي بالقراءة أو التنزه مع كلبها.",
+    "questions": [
+      {
+        "question": "Sabine arbeitet in einem Büro.",
+        "question_ar": "سابين تعمل في مكتب.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Wie entspannt sich Sabine nach der Arbeit?",
+        "question_ar": "كيف تسترخي سابين بعد العمل؟",
+        "options": [
+          "Beim Lesen oder Spaziergang mit dem Hund",
+          "Beim Fernsehen",
+          "Beim Einkaufen"
+        ],
+        "options_ar": [
+          "بالقراءة أو التنزه مع الكلب",
+          "بمشاهدة التلفاز",
+          "بالتسوق"
+        ],
+        "answer": "Beim Lesen oder Spaziergang mit dem Hund"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "text": "Michael arbeitet als Mechaniker in einer Autowerkstatt. Er repariert Autos und prüft die Technik. Michael mag seinen Beruf, weil er praktisch arbeitet und jeden Tag etwas Neues lernt. Am Wochenende fährt er gerne Motorrad und besucht Freunde. Er plant, bald einen eigenen Betrieb zu eröffnen.",
+    "translation": "ميشائيل يعمل ميكانيكيًا في ورشة سيارات. يصلح السيارات ويفحص التقنيات. يحب ميشائيل عمله لأنه عملي ويتعلم شيئًا جديدًا كل يوم. في عطلات نهاية الأسبوع يحب ركوب الدراجة النارية وزيارة الأصدقاء. يخطط لفتح ورشة خاصة به قريبًا.",
+    "questions": [
+      {
+        "question": "Michael arbeitet als Lehrer.",
+        "question_ar": "ميشائيل يعمل مدرسًا.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Falsch"
+      },
+      {
+        "question": "Was macht Michael am Wochenende?",
+        "question_ar": "ماذا يفعل ميشائيل في عطلة نهاية الأسبوع؟",
+        "options": [
+          "Er fährt Motorrad und besucht Freunde",
+          "Er liest Bücher",
+          "Er bleibt zu Hause"
+        ],
+        "options_ar": [
+          "يركب الدراجة النارية ويزور الأصدقاء",
+          "يقرأ الكتب",
+          "يبقى في المنزل"
+        ],
+        "answer": "Er fährt Motorrad und besucht Freunde"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "text": "Lisa ist Grafikdesignerin und arbeitet in einer Werbeagentur. Sie gestaltet Logos, Flyer und Webseiten. Lisa mag kreative Arbeit und arbeitet gern im Team. Sie nimmt oft an Workshops teil, um neue Techniken zu lernen. In ihrer Freizeit fotografiert sie gern und reist viel, um Inspiration zu sammeln.",
+    "translation": "ليزا مصممة جرافيك وتعمل في وكالة إعلانات. تصمم شعارات ونشرات ومواقع إلكترونية. تحب ليزا العمل الإبداعي وتحب العمل ضمن فريق. تشارك كثيرًا في ورش عمل لتعلم تقنيات جديدة. في وقت فراغها تحب التصوير وتسافر كثيرًا لجمع الإلهام.",
+    "questions": [
+      {
+        "question": "Lisa arbeitet als Grafikdesignerin.",
+        "question_ar": "ليزا تعمل كمصممة جرافيك.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Was macht Lisa in ihrer Freizeit?",
+        "question_ar": "ماذا تفعل ليزا في وقت فراغها؟",
+        "options": [
+          "Sie fotografiert und reist",
+          "Sie kocht gern",
+          "Sie spielt Gitarre"
+        ],
+        "options_ar": [
+          "تصور وتسافر",
+          "تحب الطبخ",
+          "تعزف الغيتار"
+        ],
+        "answer": "Sie fotografiert und reist"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "text": "Jonas arbeitet als Elektriker und installiert elektrische Anlagen in Gebäuden. Er überprüft Leitungen und repariert Geräte. Jonas mag es, technische Probleme zu lösen und arbeitet gern im Team. Am Abend besucht er oft einen Sprachkurs, weil er seine Deutschkenntnisse verbessern möchte.",
+    "translation": "يوناس يعمل كهربائيًا ويركب أنظمة كهربائية في المباني. يفحص الأسلاك ويصلح الأجهزة. يحب يوناس حل المشاكل التقنية ويحب العمل ضمن فريق. في المساء غالبًا ما يحضر دورة لغة لأنه يريد تحسين معرفته بالألمانية.",
+    "questions": [
+      {
+        "question": "Jonas arbeitet als Elektriker.",
+        "question_ar": "يوناس يعمل كهربائيًا.",
+        "options": ["Richtig", "Falsch"],
+        "options_ar": ["صحيح", "خطأ"],
+        "answer": "Richtig"
+      },
+      {
+        "question": "Warum besucht Jonas einen Sprachkurs?",
+        "question_ar": "لماذا يحضر يوناس دورة لغة؟",
+        "options": [
+          "Um seine Deutschkenntnisse zu verbessern",
+          "Um Englisch zu lernen",
+          "Um kochen zu lernen"
+        ],
+        "options_ar": [
+          "لتحسين معرفته بالألمانية",
+          "لتعلم الإنجليزية",
+          "لتعلم الطبخ"
+        ],
+        "answer": "Um seine Deutschkenntnisse zu verbessern"
+      }
+    ]
+  }
+]
+
+
+//////////////////////////
+
+
+
+
+
+
+
