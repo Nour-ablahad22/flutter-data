@@ -1,24 +1,47 @@
-
 [
   {
     "id": 1,
-    "title": "Führerschein verloren",
+    "title": "Kfz-Formalitäten",               // عنوان الموضوع الرئيسي
     "level": "B1",
-    "text": "Sehr geehrte Damen und Herren,\n\nich habe vor einigen Tagen meinen Führerschein verloren und möchte nun einen neuen beantragen. Leider weiß ich nicht genau, wie das Verfahren abläuft. Können Sie mir bitte mitteilen, welche Unterlagen ich mitbringen muss und ob ich einen Termin brauche? Außerdem wüsste ich gern, wie lange die Ausstellung eines neuen Führerscheins dauert und ob zusätzliche Kosten auf mich zukommen.\n\nIch bin auf den Führerschein angewiesen, weil ich täglich zur Arbeit pendle. Daher bitte ich um eine schnelle Bearbeitung meines Anliegens.\n\nVielen Dank im Voraus für Ihre Hilfe.\n\nMit freundlichen Grüßen\n\nAhmad Ali",
-    "text_ar": "السيدات والسادة المحترمون،\n\nلقد فقدت رخصة القيادة الخاصة بي قبل بضعة أيام وأرغب الآن في تقديم طلب للحصول على رخصة جديدة. للأسف لا أعرف تمامًا كيف تتم هذه الإجراءات. هل يمكنكم إخباري ما هي الوثائق التي يجب أن أحضرها وهل أحتاج إلى موعد؟ كما أود أن أعرف كم من الوقت يستغرق إصدار رخصة جديدة وهل هناك تكاليف إضافية؟\n\nأنا بحاجة إلى الرخصة لأنني أتنقل يوميًا إلى العمل، لذا أرجو معالجة طلبي بسرعة.\n\nشكرًا جزيلًا لمساعدتكم.\n\nمع أطيب التحيات،\n\nأحمد علي"
+    "subtopics": [
+      {
+        "id": 101,
+        "title": "Führerschein verloren",     // موضوع فرعي 1
+        "text": "Sehr geehrte Damen und Herren, ...",
+        "text_ar": "السيدات والسادة المحترمون، ..."
+      },
+      {
+        "id": 102,
+        "title": "Auto verkaufen",            // موضوع فرعي 2
+        "text": "Hallo Karim, ich möchte mein altes Auto verkaufen ...",
+        "text_ar": "مرحباً كريم، أريد بيع سيارتي القديمة ..."
+      }
+    ]
   },
+
   {
     "id": 2,
-    "title": "Beschwerde über kaputten Fernseher",
+    "title": "Beschwerden & Reklamationen",   // موضوع رئيسي ثانٍ
     "level": "B1",
-    "text": "Sehr geehrte Damen und Herren,\n\nam 10. Juni habe ich über Ihre Internetseite einen Fernseher bestellt (Modell Samsung XY123). Leider war das Gerät bei der Lieferung beschädigt. Der Bildschirm ist zerkratzt und das Bild funktioniert nicht richtig. Ich bin sehr enttäuscht, da ich mich auf ein funktionierendes Gerät gefreut habe.\n\nIch bitte Sie daher, das Gerät entweder kostenlos auszutauschen oder mir den vollen Kaufpreis zurückzuerstatten. Die Rechnung liegt diesem Schreiben bei. Bitte melden Sie sich so schnell wie möglich bei mir.\n\nMit freundlichen Grüßen\n\nLeila Hassan",
-    "text_ar": "السيدات والسادة المحترمون،\n\nفي العاشر من يونيو، طلبت من خلال موقعكم الإلكتروني تلفازاً (موديل سامسونغ XY123). وللأسف كان الجهاز تالفاً عند التوصيل. الشاشة مخدوشة والصورة لا تعمل بشكل جيد. أشعر بخيبة أمل كبيرة، لأنني كنت أتوقع جهازاً يعمل بشكل سليم.\n\nلذلك أرجو منكم استبدال الجهاز مجاناً أو إعادة المبلغ المدفوع بالكامل. أرفقت مع هذه الرسالة الفاتورة. الرجاء التواصل معي بأسرع وقت ممكن.\n\nمع أطيب التحيات،\n\nليلى حسن"
-  },
-  {
-    "id": 3,
-    "title": "Informationen über Gesundheitskurs",
-    "level": "B1",
-    "text": "Sehr geehrte Damen und Herren,\n\nich habe auf Ihrer Webseite gelesen, dass Sie einen Gesundheitskurs anbieten. Ich interessiere mich sehr dafür und hätte einige Fragen dazu. Wann genau beginnt der nächste Kurs und wie viele Stunden umfasst er? Gibt es bestimmte Voraussetzungen für die Teilnahme? Ich möchte auch wissen, ob der Kurs am Abend stattfindet, da ich tagsüber arbeite. Wie hoch sind die Kosten?\n\nIch möchte mehr über gesunde Ernährung und Bewegung lernen und freue mich auf Ihre Antwort.\n\nMit freundlichen Grüßen\n\nOmar Yilmaz",
-    "text_ar": "السيدات والسادة المحترمون،\n\nقرأت على موقعكم الإلكتروني أنكم تقدمون دورة صحية. أنا مهتم جداً بهذه الدورة ولدي بعض الأسئلة. متى تبدأ الدورة القادمة وكم عدد الساعات التي تشملها؟ هل هناك شروط معينة للمشاركة؟ أود أن أعرف أيضاً إن كانت الدورة تقام في المساء، لأنني أعمل خلال النهار. كم تبلغ تكاليف الدورة؟\n\nأرغب في معرفة المزيد عن التغذية الصحية والحركة، وأتطلع إلى ردكم.\n\nمع أطيب التحيات،\n\nعمر يلماز"
+    "subtopics": [
+      {
+        "id": 201,
+        "title": "Kaputter Fernseher reklamieren",
+        "text": "Sehr geehrte Damen und Herren, ich habe bei Ihnen ...",
+        "text_ar": "السيدات والسادة المحترمون، لقد طلبت منكم تلفازاً ..."
+      },
+      {
+        "id": 202,
+        "title": "Licht im Treppenhaus defekt",
+        "text": "Sehr geehrter Hausverwalter, das Licht im Treppenhaus ...",
+        "text_ar": "السيد مسؤول العقار المحترم، إن إنارة الدرج لا تعمل ..."
+      },
+      {
+        "id": 203,
+        "title": "Fahrraddiebstahl melden",
+        "text": "Sehr geehrter Hausmeister, leider wurde mein Fahrrad ...",
+        "text_ar": "السيد المشرف المحترم، للأسف تم سرقة دراجتي ..."
+      }
+    ]
   }
 ]
