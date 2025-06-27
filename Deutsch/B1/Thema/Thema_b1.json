@@ -1,18 +1,18 @@
 [
   {
     "id": 1,
-    "title": "Kfz-Formalitäten",               // عنوان الموضوع الرئيسي
+    "title": "Kfz-Formalitäten",               
     "level": "B1",
     "subtopics": [
       {
         "id": 101,
-        "title": "Führerschein verloren",     // موضوع فرعي 1
+        "title": "Führerschein verloren",   
         "text": "Sehr geehrte Damen und Herren, ...",
         "text_ar": "السيدات والسادة المحترمون، ..."
       },
       {
         "id": 102,
-        "title": "Auto verkaufen",            // موضوع فرعي 2
+        "title": "Auto verkaufen",           
         "text": "Hallo Karim, ich möchte mein altes Auto verkaufen ...",
         "text_ar": "مرحباً كريم، أريد بيع سيارتي القديمة ..."
       }
@@ -21,7 +21,7 @@
 
   {
     "id": 2,
-    "title": "Beschwerden & Reklamationen",   // موضوع رئيسي ثانٍ
+    "title": "Beschwerden & Reklamationen",   
     "level": "B1",
     "subtopics": [
       {
