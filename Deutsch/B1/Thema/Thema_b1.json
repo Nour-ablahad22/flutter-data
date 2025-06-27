@@ -1,66 +1,28 @@
 [
   {
-    "id": 1,
-    "title": "Kfz-Formalitäten",
-    "level": "B1",
+    "title": "Führerschein verloren",
+    "level": "A2",
     "subtopics": [
       {
-        "id": 101,
-        "title": "Führerschein verloren",
+        "title": "Verlustmeldung",
         "text": "Sehr geehrte Damen und Herren, ich habe meinen Führerschein verloren ...",
         "text_ar": "السيدات والسادة المحترمون، لقد فقدت رخصة القيادة الخاصة بي ..."
       },
       {
-        "id": 102,
-        "title": "Auto verkaufen",
-        "text": "Hallo Karim, ich möchte mein altes Auto verkaufen ...",
-        "text_ar": "مرحباً كريم، أريد بيع سيارتي القديمة ..."
+        "title": "Neuer Antrag",
+        "text": "Ich möchte einen neuen Führerschein beantragen ...",
+        "text_ar": "أود التقدم بطلب للحصول على رخصة قيادة جديدة ..."
       }
     ]
   },
-
   {
-    "id": 2,
-    "title": "Beschwerden & Reklamationen",
-    "level": "B1",
+    "title": "Arzttermin vereinbaren",
+    "level": "A1",
     "subtopics": [
       {
-        "id": 201,
-        "title": "Kaputter Fernseher reklamieren",
-        "text": "Sehr geehrte Damen und Herren, ich habe bei Ihnen über das Internet ...",
-        "text_ar": "السيدات والسادة المحترمون، لقد طلبت منكم تلفازاً عبر الإنترنت ..."
-      },
-      {
-        "id": 202,
-        "title": "Licht im Treppenhaus defekt",
-        "text": "Sehr geehrter Hausverwalter, das Licht im Treppenhaus funktioniert ...",
-        "text_ar": "السيد مسؤول العقار المحترم، إن إنارة الدرج لا تعمل منذ أسبوع ..."
-      },
-      {
-        "id": 203,
-        "title": "Fahrraddiebstahl melden",
-        "text": "Sehr geehrter Hausmeister, leider wurde mein Fahrrad ...",
-        "text_ar": "السيد المشرف المحترم، للأسف تم سرقة دراجتي ..."
-      }
-    ]
-  },
-
-  {
-    "id": 3,
-    "title": "Kurse & Bildung",
-    "level": "B1",
-    "subtopics": [
-      {
-        "id": 301,
-        "title": "Informationen über Gesundheitskurs",
-        "text": "Sehr geehrte Damen und Herren, ich interessiere mich für Ihren Gesundheitskurs ...",
-        "text_ar": "السيدات والسادة المحترمون، أنا مهتم بكورس الصحة الذي تقدّمونه ..."
-      },
-      {
-        "id": 302,
-        "title": "Praktikum im Geschäft",
-        "text": "Sehr geehrte Damen und Herren, ich interessiere mich für ein Praktikum ...",
-        "text_ar": "السيدات والسادة المحترمون، أنا مهتم بالتدريب العملي في متجركم ..."
+        "title": "Termin anrufen",
+        "text": "Ich möchte einen Termin beim Arzt vereinbaren ...",
+        "text_ar": "أود تحديد موعد مع الطبيب ..."
       }
     ]
   }
