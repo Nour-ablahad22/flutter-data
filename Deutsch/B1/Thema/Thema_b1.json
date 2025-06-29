@@ -6,15 +6,70 @@
     "subtopics": [
       {
         "id": 101,
-        "title": "Verlustmeldung",
-        "text": "Sehr geehrte Damen und Herren, ich habe meinen Führerschein verloren ...",
-        "text_ar": "السيدات والسادة المحترمون، لقد فقدت رخصة القيادة الخاصة بي ..."
+        "title": "Verlust der Fahrerlaubnis",
+        "text": "Sehr geehrte Damen und Herren, ich habe meinen Führerschein verloren und bin sehr besorgt. Ich erinnere mich nicht genau, wo ich ihn zuletzt gesehen habe. Es könnte im Bus oder im Café gewesen sein. Ich habe zu Hause, im Auto und in meinen Taschen nachgesehen, aber ohne Erfolg. Ich weiß, dass ich nun den Verlust offiziell melden muss. Der Führerschein ist für meinen Arbeitsweg sehr wichtig. Ich hoffe, dass ich schnell eine Lösung finde. Vielleicht hat jemand ihn gefunden und bei der Polizei abgegeben. Ich bin für jede Hilfe dankbar.",
+        "text_ar": "السيدات والسادة المحترمون، لقد فقدت رخصة القيادة الخاصة بي وأنا قلق جدًا. لا أتذكر بالضبط أين رأيتها آخر مرة. ربما فقدتها في الحافلة أو في المقهى. لقد بحثت في المنزل، وفي السيارة، وفي حقائبي، ولكن دون جدوى. أعلم أنه يجب علي الآن الإبلاغ رسميًا عن الفقدان. رخصة القيادة مهمة جدًا لطريقي إلى العمل. آمل أن أجد حلًا سريعًا. ربما وجدها شخص ما وسلّمها إلى الشرطة. أنا ممتن لأي مساعدة."
       },
       {
         "id": 102,
-        "title": "Neuer Antrag",
-        "text": "Ich möchte einen neuen Führerschein beantragen ...",
-        "text_ar": "أود التقدم بطلب للحصول على رخصة قيادة جديدة ..."
+        "title": "Anzeige bei der Polizei",
+        "text": "...",
+        "text_ar": "..."
+      },
+      {
+        "id": 103,
+        "title": "Antrag auf Ersatzführerschein",
+        "text": "...",
+        "text_ar": "..."
+      },
+      {
+        "id": 104,
+        "title": "Vorläufiger Führerschein",
+        "text": "...",
+        "text_ar": "..."
+      },
+      {
+        "id": 105,
+        "title": "Vorsichtsmaßnahmen für die Zukunft",
+        "text": "...",
+        "text_ar": "..."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Beschwerde über Online-Fernsehbestellung",
+    "level": "A2",
+    "subtopics": [
+      {
+        "id": 201,
+        "title": "Defekter Fernseher geliefert",
+        "text": "Sehr geehrte Damen und Herren, ich habe bei Ihnen einen Fernseher über das Internet bestellt. Die Lieferung kam gestern an, aber leider war das Gerät beschädigt. Der Bildschirm hat einen großen Riss, und das Gerät funktioniert nicht. Ich bin sehr enttäuscht. Ich habe den Fernseher sofort nicht benutzt und Fotos gemacht. Ich bitte Sie, den Fernseher auszutauschen oder mir mein Geld zurückzuerstatten. Ich hoffe auf eine schnelle Lösung. Bitte melden Sie sich so bald wie möglich. Vielen Dank im Voraus.",
+        "text_ar": "السيدات والسادة المحترمون، لقد طلبت منكم تلفازًا عبر الإنترنت. وصلت الشحنة أمس، ولكن للأسف كان الجهاز تالفًا. الشاشة تحتوي على كسر كبير، والجهاز لا يعمل. أشعر بخيبة أمل كبيرة. لم أستخدم التلفاز، وقمت فورًا بتصوير العيب. أرجو منكم استبدال الجهاز أو إعادة المال. آمل في حل سريع. يرجى التواصل معي في أقرب وقت ممكن. شكرًا مقدمًا."
+      },
+      {
+        "id": 202,
+        "title": "Falsches Modell erhalten",
+        "text": "Sehr geehrte Damen und Herren, ich habe am 10. Juni einen Fernseher bestellt, Modell XY-500. Heute habe ich die Lieferung erhalten, aber es handelt sich um das falsche Modell. Ich habe Modell ZY-300 bekommen, das kleiner und billiger ist. Ich bin mit der Lieferung nicht zufrieden und bitte um eine Korrektur. Ich erwarte, dass Sie mir das richtige Modell ohne weitere Kosten zusenden. Den falschen Fernseher kann ich zurücksenden. Bitte teilen Sie mir mit, wie wir weiter vorgehen. Mit freundlichen Grüßen.",
+        "text_ar": "السيدات والسادة المحترمون، لقد طلبت يوم 10 يونيو تلفازًا من نوع XY-500. اليوم وصلتني الشحنة، لكنها كانت من نوع مختلف ZY-300، وهو أصغر وأرخص. أنا غير راضٍ عن هذه الشحنة، وأطلب تصحيح الخطأ. أرجو إرسال الجهاز الصحيح دون تكاليف إضافية. يمكنني إعادة الجهاز الخطأ. الرجاء إعلامي بالخطوات التالية. مع التحية."
+      },
+      {
+        "id": 203,
+        "title": "Lieferung stark verspätet",
+        "text": "Sehr geehrte Damen und Herren, ich habe vor drei Wochen einen Fernseher bestellt. Die Lieferzeit sollte 5 Werktage betragen, aber ich habe den Fernseher bis heute nicht erhalten. Ich habe bereits zwei E-Mails geschickt, aber keine Antwort bekommen. Ich finde das sehr unprofessionell. Bitte informieren Sie mich, wann die Lieferung endlich ankommt. Wenn es noch länger dauert, möchte ich meine Bestellung stornieren und mein Geld zurück. Ich hoffe, dass sich das Problem bald klärt. Vielen Dank.",
+        "text_ar": "السيدات والسادة المحترمون، لقد طلبت تلفازًا منذ ثلاثة أسابيع. وقت التوصيل كان من المفترض أن يكون 5 أيام عمل، لكن حتى اليوم لم أتسلم الجهاز. أرسلت بريدين إلكترونيين، ولم أتلقَ أي رد. أجد هذا غير مهني. الرجاء إخباري متى ستصل الشحنة. إذا تأخرت أكثر، أود إلغاء الطلب واسترجاع المال. آمل أن يتم حل المشكلة قريبًا. شكرًا لكم."
+      },
+      {
+        "id": 204,
+        "title": "Keine Rechnung erhalten",
+        "text": "Sehr geehrte Damen und Herren, vielen Dank für die Lieferung des Fernsehers. Leider habe ich bisher keine Rechnung per E-Mail oder im Paket erhalten. Ich brauche die Rechnung dringend für meine Unterlagen und eventuell für eine Rücksendung. Bitte senden Sie mir die Rechnung schnellstmöglich zu. Es wäre gut, wenn Sie mir diese auch in PDF-Format schicken könnten. Ich danke Ihnen für Ihre Unterstützung und warte auf Ihre Rückmeldung.",
+        "text_ar": "السيدات والسادة المحترمون، شكرًا على توصيل التلفاز. للأسف لم أستلم فاتورة لا عبر البريد الإلكتروني ولا داخل الطرد. أحتاج الفاتورة بشكل عاجل من أجل أوراقي وربما للإرجاع. أرجو إرسال الفاتورة بأسرع وقت ممكن، ويفضل أن تكون بصيغة PDF. أشكركم على تعاونكم، وأنتظر ردكم."
+      },
+      {
+        "id": 205,
+        "title": "Fernseher funktioniert nicht richtig",
+        "text": "Sehr geehrte Damen und Herren, ich habe den bestellten Fernseher ausgepackt und angeschlossen, aber leider funktioniert er nicht richtig. Das Bild ist unscharf und der Ton sehr leise, auch bei maximaler Lautstärke. Ich habe bereits verschiedene Einstellungen ausprobiert, aber es hat sich nichts verbessert. Ich bitte Sie um einen Techniker oder um einen Austausch des Geräts. Ich habe das Produkt neu und funktionsfähig erwartet. Bitte melden Sie sich mit einer Lösung. Vielen Dank für Ihre Hilfe.",
+        "text_ar": "السيدات والسادة المحترمون، بعد توصيل التلفاز الذي طلبته، اكتشفت أنه لا يعمل بشكل جيد. الصورة غير واضحة، والصوت ضعيف جدًا حتى عند رفعه إلى الحد الأقصى. جربت إعدادات مختلفة ولكن لم يتحسن شيء. أرجو إرسال فني أو استبدال الجهاز. كنت أتوقع منتجًا جديدًا وسليمًا. الرجاء التواصل معي بحل للمشكلة. شكرًا على مساعدتكم."
       }
     ]
   }
