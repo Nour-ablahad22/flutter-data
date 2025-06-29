@@ -102,5 +102,1223 @@
         "text_ar": "السيدات والسادة المحترمون، لدي التلفاز منذ أسبوع. أحيانًا يعمل بشكل جيد، ولكن كثيرًا ما لا يشتغل أو تبقى الشاشة سوداء. جربت كل شيء: تغيير الكابلات، إعادة التشغيل، إعادة ضبط الإعدادات. لكن المشكلة مستمرة. أرجو استبداله أو إصلاحه. إنه جهاز جديد، وأنا محبط. الرجاء الرد بحل قريبًا."
       }
     ]
-  }
+  },
+
+  
+  {
+    "id": 3,
+    "title": "Anfrage zu einem Gesundheitskurs",
+    "level": "A2",
+    "subtopics": [
+      {
+        "id": 301,
+        "title": "Allgemeine Anfrage zum Kurs",
+        "text": "Sehr geehrte Damen und Herren,\n ich interessiere mich für Ihren Gesundheitskurs. Ich habe auf Ihrer Website gelesen, dass es verschiedene Angebote gibt. Könnten Sie mir bitte mehr Informationen senden? Besonders interessiert mich, wann der Kurs beginnt, wie lange er dauert und wie hoch die Kosten sind. Gibt es auch einen Online-Kurs? Ich freue mich auf Ihre Antwort. Vielen Dank im Voraus.",
+        "text_ar": "السيدات والسادة المحترمون،\n أنا مهتم بدورتكم الصحية. قرأت على موقعكم أن لديكم عروضًا مختلفة. هل يمكنكم إرسال المزيد من المعلومات؟ يهمني بشكل خاص معرفة موعد بدء الدورة، مدتها، وتكلفتها. هل هناك دورة عبر الإنترنت أيضًا؟ بانتظار ردكم. شكرًا مقدمًا."
+      },
+      {
+        "id": 302,
+        "title": "Frage nach Kursinhalten",
+        "text": "Sehr geehrte Damen und Herren,\n ich habe großes Interesse an Ihrem Gesundheitskurs. Bevor ich mich anmelde, möchte ich gern wissen, welche Themen im Kurs behandelt werden. Geht es um Ernährung, Bewegung oder Entspannung? Gibt es auch praktische Übungen? Ich möchte sicherstellen, dass der Kurs zu meinen Zielen passt. Vielen Dank für Ihre Auskunft.",
+        "text_ar": "السيدات والسادة المحترمون،\n لدي اهتمام كبير بدورتكم الصحية. قبل أن أسجل، أود معرفة المواضيع التي يتم تناولها في الدورة. هل هي عن التغذية أو الرياضة أو الاسترخاء؟ وهل تشمل تمارين عملية؟ أود التأكد من أن الدورة تناسب أهدافي. شكرًا لمعلوماتكم."
+      },
+      {
+        "id": 303,
+        "title": "Anfrage zur Kursleitung",
+        "text": "Sehr geehrte Damen und Herren,\n ich möchte mich über den Gesundheitskurs informieren. Wer leitet den Kurs? Welche Qualifikationen hat die Kursleitung? Ich finde es wichtig, dass erfahrene Fachleute den Kurs durchführen. Außerdem interessiert mich, ob persönliche Beratung möglich ist. Ich freue mich auf Ihre Rückmeldung.",
+        "text_ar": "السيدات والسادة المحترمون،\n أود الاستفسار عن دورة الصحة. من هو المسؤول عن تقديم الدورة؟ ما هي مؤهلات المدرب؟ أعتقد أنه من المهم أن يكون مقدم الدورة متخصصًا وذو خبرة. كما يهمني معرفة إن كانت هناك استشارة شخصية متاحة. بانتظار ردكم."
+      },
+      {
+        "id": 304,
+        "title": "Frage zur Anmeldung",
+        "text": "Sehr geehrte Damen und Herren,\n ich interessiere mich für Ihren Gesundheitskurs und möchte mich anmelden. Wie funktioniert die Anmeldung? Muss ich online ein Formular ausfüllen oder persönlich ins Büro kommen? Gibt es eine Anmeldefrist? Ich möchte keinen Platz verpassen. Vielen Dank für Ihre Hilfe.",
+        "text_ar": "السيدات والسادة المحترمون،\n أنا مهتم بدورتكم الصحية وأرغب في التسجيل. كيف تتم عملية التسجيل؟ هل يجب تعبئة نموذج عبر الإنترنت أم الحضور إلى المكتب؟ هل هناك موعد نهائي للتسجيل؟ لا أريد أن أفقد مكاني. شكرًا لمساعدتكم."
+      },
+      {
+        "id": 305,
+        "title": "Frage zur Kursförderung",
+        "text": "Sehr geehrte Damen und Herren,\n ich habe Interesse an Ihrem Gesundheitskurs. Ich möchte gern wissen, ob der Kurs von der Krankenkasse gefördert wird. Übernimmt meine Versicherung einen Teil der Kosten? Wenn ja, welche Unterlagen muss ich einreichen? Vielen Dank für Ihre Information.",
+        "text_ar": "السيدات والسادة المحترمون،\n لدي اهتمام بدورتكم الصحية. أود معرفة ما إذا كانت شركة التأمين الصحي تغطي جزءًا من تكاليف الدورة. هل تدعم شركتي التأمينية هذه الدورة؟ وإذا كان الجواب نعم، فما هي المستندات المطلوبة؟ شكرًا لمعلوماتكم."
+      }
+    ]
+  },
+
+  
+  {
+    "id": 4,
+    "title": "Hilfe bei der Arztsuche",
+    "level": "A2",
+    "subtopics": [
+      {
+        "id": 401,
+        "title": "Empfehlung für einen Arzt",
+        "text": "Liebe Anna,\nmein Freund sucht einen guten Hausarzt in der Stadt. Du hast mir mal von deinem Arzt erzählt, mit dem du sehr zufrieden bist. Könntest du mir bitte den Namen und die Adresse geben? Weißt du auch, ob er neue Patienten aufnimmt? Vielen Dank für deine Hilfe!\nLiebe Grüße,\nSara",
+        "text_ar": "عزيزتي آنا،\n صديقي يبحث عن طبيب عام جيد في المدينة. لقد أخبرتني من قبل عن طبيبك الذي كنتِ راضية عنه كثيرًا. هل يمكنك إعطائي اسمه وعنوانه؟ وهل تعلمين إن كان يستقبل مرضى جدد؟ شكرًا جزيلًا على مساعدتك!\n تحياتي،\n سارة"
+      },
+      {
+        "id": 402,
+        "title": "Anfrage per E-Mail",
+        "text": "Sehr geehrter Herr Dr. Müller,\nmein Name ist Ahmad, und ich schreibe Ihnen im Namen meines Freundes Ali. Er ist neu in der Stadt und sucht einen guten Hausarzt. Ich habe gehört, dass Sie sehr freundlich und kompetent sind. Haben Sie momentan freie Termine oder nehmen Sie neue Patienten auf? Vielen Dank für Ihre Rückmeldung.\nMit freundlichen Grüßen,\nAhmad",
+        "text_ar": "السيد الدكتور مولر المحترم،\n اسمي أحمد، وأكتب إليكم نيابة عن صديقي علي. هو جديد في المدينة ويبحث عن طبيب عام جيد. لقد سمعت أنكم ودودون وماهرون. هل لديكم مواعيد متاحة حاليًا أو تستقبلون مرضى جدد؟ شكرًا جزيلًا لردكم.\n مع أطيب التحيات،\n أحمد"
+      },
+      {
+        "id": 403,
+        "title": "Empfehlung persönlich mitteilen",
+        "text": "Hallo Tom,\nmein Onkel braucht einen Zahnarzt, und ich weiß, dass du einen guten kennst. Du hast mir mal von einer Praxis in der Nähe vom Bahnhof erzählt. Kannst du mir bitte den Namen und die Telefonnummer schicken? Das wäre super nett. Danke dir!\nViele Grüße,\nNina",
+        "text_ar": "مرحبًا توم،\n عمي بحاجة إلى طبيب أسنان، وأعلم أنك تعرف واحدًا جيدًا. لقد أخبرتني سابقًا عن عيادة قريبة من المحطة. هل يمكنك إرسال الاسم ورقم الهاتف؟ سيكون ذلك لطيفًا جدًا منك. شكرًا لك!\n تحياتي،\n نينا"
+      }
+    ]
+  },
+
+
+  {
+  "id": 5,
+  "title": "Entschuldigung wegen wichtiger Termine",
+  "level": "A2",
+  "subtopics": [
+    {
+      "id": 501,
+      "title": "Termin bei der Konsulat",
+      "text": "Sehr geehrte Frau Müller,\nleider kann ich am Dienstag nicht am Unterricht teilnehmen. Ich habe einen Termin bei der Konsulat wegen meiner Aufenthaltserlaubnis. Der Termin ist sehr wichtig und wurde mir kurzfristig gegeben. Ich hoffe auf Ihr Verständnis.\nMit freundlichen Grüßen,\nAli",
+      "text_ar": "السيدة مولر المحترمة،\n للأسف لا أستطيع حضور الدرس يوم الثلاثاء. لدي موعد في القنصلية بخصوص تصريح الإقامة. الموعد مهم جدًا وتم تحديده في وقت قصير. أرجو تفهمكم.\n مع أطيب التحيات،\n علي"
+    },
+    {
+      "id": 502,
+      "title": "Arzttermin",
+      "text": "Sehr geehrter Herr Becker,\nich möchte mich entschuldigen, dass ich am Mittwoch nicht zum Unterricht kommen kann. Ich habe einen wichtigen Arzttermin, den ich nicht verschieben kann. Ich werde den verpassten Stoff nachholen.\nMit freundlichen Grüßen,\nSara",
+      "text_ar": "السيد بيكر المحترم،\n أود أن أعتذر عن عدم حضوري للدرس يوم الأربعاء. لدي موعد طبي مهم لا يمكن تأجيله. سأقوم بتعويض ما فاتني.\n مع التحية،\n سارة"
+    },
+    {
+      "id": 503,
+      "title": "Termin im Ausländeramt",
+      "text": "Sehr geehrte Frau Klein,\nam Donnerstag kann ich leider nicht zum Kurs kommen, weil ich einen Termin im Ausländeramt habe. Ich muss wichtige Dokumente abgeben. Ich hoffe, dass Sie das verstehen.\nMit freundlichen Grüßen,\nMustafa",
+      "text_ar": "السيدة كلاين المحترمة،\n يوم الخميس لا يمكنني الحضور إلى الدورة لأن لدي موعدًا في دائرة الأجانب. يجب أن أقدّم مستندات مهمة. أرجو أن تتفهموا.\n مع التحية،\n مصطفى"
+    },
+    {
+      "id": 504,
+      "title": "Familientermin",
+      "text": "Sehr geehrter Herr Schmitt,\nbitte entschuldigen Sie meine Abwesenheit am Freitag. Ich habe einen Termin mit meiner Familie bei der Botschaft. Ich werde den Unterrichtsstoff zu Hause nachholen.\nMit freundlichen Grüßen,\nLina",
+      "text_ar": "السيد شميت المحترم،\n أرجو أن تعذر غيابي يوم الجمعة. لدي موعد عائلي في السفارة. سأقوم بمراجعة دروس اليوم في المنزل.\n مع التحية،\n لينا"
+    },
+    {
+      "id": 505,
+      "title": "Wichtiger Behördentermin",
+      "text": "Sehr geehrte Frau Weber,\nheute konnte ich leider nicht zum Unterricht kommen. Ich hatte einen Termin im Rathaus wegen meiner Anmeldung. Ich werde meine Hausaufgaben trotzdem machen und alles nachholen.\nMit freundlichen Grüßen,\nHassan",
+      "text_ar": "السيدة فيبر المحترمة،\n للأسف لم أستطع الحضور إلى الصف اليوم. كان لدي موعد في البلدية لتسجيل عنواني. سأقوم بواجباتي وسأعوض ما فاتني.\n مع أطيب التحيات،\n حسن"
+    }
+  ]
+},
+
+
+  {
+  "id": 6,
+  "title": "Bewerbung um ein Praktikum",
+  "level": "A2",
+  "subtopics": [
+    {
+      "id": 601,
+      "title": "Praktikum im Supermarkt",
+      "text": "Sehr geehrte Damen und Herren,\nich interessiere mich für ein Praktikum in Ihrem Supermarkt. Ich möchte gerne Erfahrungen im Verkauf und im Kundenservice sammeln. Zurzeit besuche ich einen Deutschkurs und möchte meine Sprachkenntnisse verbessern. Das Praktikum kann ich ab dem 10. Juli beginnen. Über eine Einladung zum Gespräch freue ich mich sehr.\nMit freundlichen Grüßen,\nYousef Ahmad",
+      "text_ar": "السادة المحترمون،\nأنا مهتم بالحصول على تدريب عملي في سوبرماركتكم. أود أن أكتسب خبرة في مجال البيع وخدمة الزبائن. أنا حالياً أتابع دورة لغة ألمانية وأرغب في تحسين مهاراتي اللغوية. يمكنني بدء التدريب ابتداءً من 10 يوليو. سأكون سعيدًا بالحصول على دعوة للمقابلة.\nمع التحية،\nيوسف أحمد"
+    },
+    {
+      "id": 602,
+      "title": "Praktikum in der Bäckerei",
+      "text": "Sehr geehrte Damen und Herren,\nich möchte mich um ein Praktikum in Ihrer Bäckerei bewerben. Ich interessiere mich für die Arbeit mit Lebensmitteln und habe Spaß am Umgang mit Menschen. Ich bin pünktlich, freundlich und arbeite gern im Team. Das Praktikum soll zwei Wochen dauern. Ich freue mich auf Ihre Rückmeldung.\nMit freundlichen Grüßen,\nNour Al-Khalil",
+      "text_ar": "السادة المحترمون،\nأود التقدم للحصول على تدريب عملي في مخبزكم. أنا مهتم بالعمل في مجال المواد الغذائية وأستمتع بالتعامل مع الناس. أنا شخص ملتزم، ودود، وأحب العمل ضمن فريق. مدة التدريب أسبوعان. أترقب ردكم الكريم.\nمع التحية،\nنور الخليل"
+    },
+    {
+      "id": 603,
+      "title": "Praktikum im Bekleidungsgeschäft",
+      "text": "Sehr geehrte Damen und Herren,\nich suche ein Praktikum in einem Bekleidungsgeschäft, um den Beruf im Einzelhandel besser kennenzulernen. Ich bin modeinteressiert und helfe gerne Kunden. Ich bin flexibel und belastbar. Das Praktikum kann ab dem 1. August beginnen. Vielen Dank im Voraus.\nMit freundlichen Grüßen,\nAli Mansour",
+      "text_ar": "السادة المحترمون،\nأبحث عن تدريب عملي في محل لبيع الملابس لكي أتعرف بشكل أفضل على مجال العمل في التجارة. أنا مهتم بالموضة وأحب مساعدة الزبائن. أنا مرن وقادر على التحمل. يمكنني بدء التدريب ابتداءً من 1 أغسطس. شكرًا مقدمًا.\nمع التحية،\nعلي منصور"
+    },
+    {
+      "id": 604,
+      "title": "Praktikum in der Apotheke",
+      "text": "Sehr geehrte Damen und Herren,\nich möchte gern ein Praktikum in Ihrer Apotheke machen. Ich interessiere mich für Gesundheit und möchte in der Zukunft im medizinischen Bereich arbeiten. Ich bin zuverlässig, freundlich und lerne schnell. Das Praktikum soll im September stattfinden. Ich freue mich auf Ihre Antwort.\nMit freundlichen Grüßen,\nRana Taha",
+      "text_ar": "السادة المحترمون،\nأرغب في القيام بتدريب عملي في صيدليتكم. أنا مهتمة بمجال الصحة وأرغب في العمل لاحقًا في المجال الطبي. أنا موثوقة، ودودة، وأتعلم بسرعة. أرغب في أن يكون التدريب في شهر سبتمبر. بانتظار ردكم الكريم.\nمع التحية،\nرنا طه"
+    },
+    {
+      "id": 605,
+      "title": "Praktikum in der Bibliothek",
+      "text": "Sehr geehrte Damen und Herren,\nich interessiere mich sehr für ein Praktikum in Ihrer Bibliothek. Bücher und Medien finde ich spannend, und ich helfe gerne anderen Menschen. Ich bin organisiert und arbeite sorgfältig. Ich kann das Praktikum im Oktober machen. Ich danke Ihnen für Ihre Zeit.\nMit freundlichen Grüßen,\nFadi Suleiman",
+      "text_ar": "السادة المحترمون،\nأنا مهتم جدًا بالحصول على تدريب عملي في مكتبتكم. الكتب والوسائط تثير اهتمامي، وأحب مساعدة الآخرين. أنا منظم وأعمل بدقة. يمكنني إجراء التدريب في شهر أكتوبر. أشكركم على وقتكم.\nمع التحية،\nفادي سليمان"
+    }
+  ]
+},
+
+
+  
+  {
+    "id": 7,
+    "title": "Hilfe beim Autoverkauf",
+    "level": "A2",
+    "subtopics": [
+      {
+        "id": 701,
+        "title": "Bitte um Hilfe beim Autoverkauf",
+        "text": "Hallo Ahmed,\nich hoffe, es geht dir gut. Ich möchte mein altes Auto verkaufen, aber ich weiß nicht genau, wie ich das machen soll. Du hast doch schon einmal ein Auto verkauft, oder? Kannst du mir bitte helfen? Vielleicht kennst du jemanden, der ein Auto sucht. Es ist ein VW Golf, Baujahr 2008. Ich freue mich auf deine Antwort.\nViele Grüße,\nTariq",
+        "text_ar": "مرحبًا أحمد،\nأتمنى أن تكون بخير. أود بيع سيارتي القديمة، لكنني لا أعرف بالضبط كيف يمكنني القيام بذلك. أنت قمت ببيع سيارة من قبل، أليس كذلك؟ هل يمكنك مساعدتي من فضلك؟ ربما تعرف أحدًا يبحث عن سيارة. إنها سيارة فولكسفاغن غولف، موديل 2008. في انتظار ردك.\nتحياتي،\nطارق"
+      },
+      {
+        "id": 702,
+        "title": "Frage nach Online-Plattformen",
+        "text": "Hallo Sarah,\nich möchte mein Auto verkaufen und suche gute Internetseiten dafür. Du hast doch viel Erfahrung mit Online-Verkäufen. Kannst du mir eine Plattform empfehlen? Ich möchte, dass es schnell und sicher geht. Danke für deine Hilfe!\nLiebe Grüße,\nOmar",
+        "text_ar": "مرحبًا سارة،\nأرغب في بيع سيارتي وأبحث عن مواقع إنترنت جيدة لذلك. لديك خبرة في البيع عبر الإنترنت، أليس كذلك؟ هل يمكنك أن تنصحي بمنصة جيدة؟ أريد أن يتم البيع بسرعة وأمان. شكرًا لمساعدتك!\nمع التحية،\nعمر"
+      },
+      {
+        "id": 703,
+        "title": "Bitte um Hilfe beim Inserat",
+        "text": "Hallo Yusuf,\nich will mein Auto verkaufen und ein Online-Inserat schreiben. Du schreibst doch immer so gute Texte. Kannst du mir helfen, einen kurzen, klaren Text zu schreiben? Ich gebe dir alle Informationen zum Auto. Danke im Voraus!\nViele Grüße,\nHassan",
+        "text_ar": "مرحبًا يوسف،\nأريد بيع سيارتي وكتابة إعلان على الإنترنت. أنت دائمًا تكتب نصوصًا جيدة. هل يمكنك مساعدتي في كتابة نص قصير وواضح؟ سأعطيك كل المعلومات عن السيارة. شكرًا مقدمًا!\nتحياتي،\nحسن"
+      },
+      {
+        "id": 704,
+        "title": "Auto vor dem Verkauf prüfen lassen",
+        "text": "Hallo Layla,\nich möchte mein Auto verkaufen, aber zuerst prüfen lassen, ob alles in Ordnung ist. Du kennst doch eine gute Werkstatt. Kannst du mir die Adresse geben oder vielleicht mit mir hingehen? Ich will sicher sein, dass alles funktioniert. Danke dir!\nLiebe Grüße,\nAli",
+        "text_ar": "مرحبًا ليلى،\nأود بيع سيارتي، لكن أريد أولاً التأكد من أنها بحالة جيدة. أنت تعرفين ورشة جيدة، أليس كذلك؟ هل يمكنك إعطائي العنوان أو ربما الذهاب معي؟ أريد أن أتأكد أن كل شيء يعمل جيدًا. شكرًا لك!\nمع التحية،\nعلي"
+      },
+      {
+        "id": 705,
+        "title": "Nach Preis fragen",
+        "text": "Hallo Karim,\nich will mein altes Auto verkaufen, aber ich weiß nicht, wie viel ich verlangen kann. Du kennst dich gut mit Autos aus. Kannst du es dir mal ansehen und mir sagen, was ein fairer Preis wäre? Danke für deine Zeit!\nViele Grüße,\nNour",
+        "text_ar": "مرحبًا كريم،\nأريد بيع سيارتي القديمة، لكنني لا أعرف كم يمكنني أن أطلب مقابلها. أنت لديك معرفة جيدة بالسيارات. هل يمكنك رؤيتها وإخباري بالسعر المناسب؟ شكرًا على وقتك!\nتحياتي،\nنور"
+      }
+    ]
+  },
+
+
+  
+  {
+    "id": 100,
+    "title": "Informationen über Klavier",
+    "level": "A2",
+    "subtopics": [
+      {
+        "id": 101,
+        "title": "Frage nach einem guten Klavier für Anfänger",
+        "text": "Hallo Lena,\nich möchte mit dem Klavierspielen anfangen und suche ein gutes Klavier für Anfänger. Es sollte nicht zu teuer sein, aber trotzdem eine gute Qualität haben. Kannst du mir ein Modell empfehlen, das sich besonders gut für Einsteiger eignet? Ich habe gehört, dass digitale Klaviere oft besser für den Anfang sind, weiß aber nicht genau, ob das stimmt. Außerdem interessieren mich Tipps, wo ich ein Klavier günstig kaufen kann – gebraucht oder neu. Ich freue mich sehr auf deine Antwort und danke dir schon im Voraus für deine Hilfe.\nLiebe Grüße,\nSami",
+        "text_ar": "مرحبًا لينا،\nأرغب في البدء بتعلم العزف على البيانو وأبحث عن بيانو جيد للمبتدئين. يجب ألا يكون غاليًا جدًا، ولكن يجب أن يكون ذو جودة جيدة. هل يمكنك أن تنصحي بيانو معين يناسب المبتدئين؟ سمعت أن البيانو الرقمي أفضل للمبتدئين، لكنني لست متأكدًا. كما أود معرفة نصائحك عن أماكن شراء بيانو بسعر مناسب، سواء جديد أو مستعمل. أتطلع إلى ردك وأشكرك مقدمًا على مساعدتك.\nمع تحياتي،\nسامي"
+      },
+      {
+        "id": 102,
+        "title": "Frage nach Klavierunterricht in der Nähe",
+        "text": "Hallo Paul,\nich interessiere mich sehr für Klavierunterricht und möchte gerne wissen, ob du eine Musikschule oder einen privaten Klavierlehrer in der Nähe kennst. Es wäre super, wenn der Unterricht nicht zu teuer ist und auch für Anfänger geeignet ist. Außerdem möchte ich wissen, wie oft die Stunden stattfinden und ob man auch an Wochenenden Unterricht bekommen kann. Wenn du mir Kontakte oder Empfehlungen geben kannst, wäre ich dir sehr dankbar. Ich freue mich auf deine Antwort.\nViele Grüße,\nRania",
+        "text_ar": "مرحبًا بول،\nأنا مهتمة جدًا بتعلم العزف على البيانو وأريد أن أعرف إذا كنت تعرف مدرسة موسيقى أو مدرس خاص بالقرب من هنا. من الأفضل أن تكون الدروس ليست مكلفة وأن تناسب المبتدئين. كما أود أن أعرف عدد الدروس الأسبوعية وإذا كان بالإمكان أخذها في عطلة نهاية الأسبوع. إذا كان بإمكانك إعطائي معلومات أو توصيات، سأكون شاكرة جدًا. أتطلع إلى ردك.\nتحياتي،\nرانية"
+      },
+      {
+        "id": 103,
+        "title": "Frage nach einem gebrauchten Klavier zum Kauf",
+        "text": "Hallo Jonas,\nich suche ein gebrauchtes Klavier, das ich zu einem guten Preis kaufen kann. Vielleicht weißt du, ob es in unserer Gegend jemanden gibt, der ein Klavier verkaufen möchte. Es sollte in gutem Zustand sein, weil ich es für das Üben zuhause brauche. Außerdem interessiere ich mich für Tipps, worauf ich beim Kauf achten muss, z. B. ob ich einen Fachmann zur Begutachtung mitnehmen sollte. Ich wäre dir sehr dankbar, wenn du mir weiterhelfen könntest.\nLiebe Grüße,\nMaya",
+        "text_ar": "مرحبًا يوناس،\nأنا أبحث عن بيانو مستعمل يمكنني شراؤه بسعر جيد. هل تعرف إذا كان هناك أحد في منطقتنا يريد بيع بيانو؟ يجب أن يكون بحالة جيدة لأنني أحتاجه للتدريب في المنزل. كما أريد نصائح حول ما يجب الانتباه إليه عند الشراء، مثل هل من الأفضل أن يأخذ خبير للفحص؟ سأكون ممتنة جدًا لمساعدتك.\nمع تحياتي،\nمايا"
+      },
+      {
+        "id": 104,
+        "title": "Frage nach Erfahrungen mit digitalem Klavier",
+        "text": "Hallo Anna,\nich überlege, mir ein digitales Klavier zu kaufen, bin mir aber unsicher, ob es eine gute Wahl ist. Hast du Erfahrung mit einem digitalen Klavier? Wie ist der Klang im Vergleich zu einem akustischen Klavier? Ist es einfach zu bedienen und gut für Anfänger geeignet? Außerdem möchte ich wissen, ob es viel Platz braucht und ob man Kopfhörer anschließen kann. Deine Meinung wäre mir sehr wichtig, da ich mich noch nicht entscheiden kann. Vielen Dank für deine Hilfe!\nViele Grüße,\nFadi",
+        "text_ar": "مرحبًا آنا،\nأفكر في شراء بيانو رقمي، ولكني غير متأكد إذا كان خيارًا جيدًا. هل لديك خبرة مع البيانو الرقمي؟ كيف يكون الصوت مقارنة بالبيانو العادي؟ هل هو سهل الاستخدام ومناسب للمبتدئين؟ كما أريد أن أعرف إذا كان يحتاج إلى مساحة كبيرة وإذا كان يمكن توصيل سماعات الرأس به. رأيك مهم جدًا لي لأنني لم أقرر بعد. شكرًا لمساعدتك!\nتحياتي،\nفادي"
+      },
+      {
+        "id": 105,
+        "title": "Frage nach Mietmöglichkeiten für Klavier",
+        "text": "Hallo Sofia,\nich möchte Klavier lernen, bin mir aber nicht sicher, ob ich langfristig dabei bleibe. Deshalb überlege ich, ob man ein Klavier für einige Monate mieten kann, bevor ich eins kaufe. Weißt du, ob es in unserer Stadt oder online solche Mietangebote gibt? Wie teuer ist das ungefähr? Gibt es besondere Bedingungen, die man beachten muss? Ich freue mich über deine Tipps und danke dir sehr für deine Unterstützung.\nLiebe Grüße,\nNader",
+        "text_ar": "مرحبًا صوفيا،\nأريد أن أتعلم العزف على البيانو، ولكني غير متأكد إذا سأستمر لفترة طويلة. لذلك أفكر في استئجار بيانو لبضعة أشهر قبل الشراء. هل تعرفين إذا كانت هناك عروض استئجار في مدينتنا أو عبر الإنترنت؟ كم يكون السعر تقريبًا؟ هل هناك شروط خاصة يجب معرفتها؟ سأكون شاكرًا لنصائحك وأشكرك على دعمك.\nمع تحياتي،\nنادر"
+      }
+    ]
+  },
+
+
+  {
+    "id": 101,
+    "title": "Informationen über Klavier",
+    "level": "A2",
+    "subtopics": [
+      {
+        "id": 106,
+        "title": "Frage nach einem guten Klavier für Anfänger",
+        "text": "Hallo Lena,\nich möchte gerne mit dem Klavierspielen anfangen und suche ein Klavier, das besonders gut für Anfänger geeignet ist. Es sollte nicht zu teuer sein, aber dennoch eine gute Qualität bieten, damit ich gut üben kann. Ich habe gehört, dass digitale Klaviere oft für Einsteiger besser sind, da sie leiser sind und Kopfhöreranschlüsse haben. Allerdings bin ich mir nicht sicher, ob das wirklich stimmt. Kannst du mir vielleicht ein bestimmtes Modell empfehlen, das sich bewährt hat? Außerdem interessiert mich, wo ich am besten ein neues oder gebrauchtes Klavier zu einem guten Preis kaufen kann. Ich freue mich auf deine Tipps und danke dir sehr.\nLiebe Grüße,\nSami",
+        "text_ar": "مرحبًا لينا،\nأرغب في البدء بتعلم العزف على البيانو وأبحث عن بيانو يناسب المبتدئين بشكل خاص. يجب ألا يكون غاليًا جدًا، ولكنه ذو جودة جيدة ليتمكن من التدرب بشكل جيد. سمعت أن البيانو الرقمي غالبًا ما يكون أفضل للمبتدئين لأنه أقل إزعاجًا وله مدخل سماعات. مع ذلك، لست متأكدًا من صحة ذلك. هل يمكنك أن تنصحي بيانو معين أثبت جودته؟ كما أود معرفة أين يمكنني شراء بيانو جديد أو مستعمل بسعر مناسب. أتطلع لنصائحك وشكرًا جزيلاً.\nمع تحياتي،\nسامي"
+      },
+      {
+        "id": 107,
+        "title": "Frage nach Klavierunterricht in der Nähe",
+        "text": "Hallo Paul,\nich interessiere mich sehr für Klavierunterricht und möchte gerne wissen, ob du eine Musikschule oder einen privaten Klavierlehrer in der Nähe kennst. Wichtig ist für mich, dass der Unterricht auch für Anfänger geeignet ist und nicht zu teuer ist. Außerdem würde ich gerne wissen, wie oft die Unterrichtsstunden stattfinden und ob es auch die Möglichkeit gibt, am Wochenende zu lernen. Wenn du mir Kontakte oder Empfehlungen geben könntest, wäre ich dir sehr dankbar. Ich freue mich auf deine Antwort und danke dir schon im Voraus für deine Hilfe.\nViele Grüße,\nRania",
+        "text_ar": "مرحبًا بول،\nأنا مهتمة جدًا بتعلم العزف على البيانو وأريد معرفة إذا كنت تعرف مدرسة موسيقى أو مدرس خاص قريب من هنا. يهمني أن تكون الدروس مناسبة للمبتدئين وليست مكلفة جدًا. كما أود معرفة عدد الدروس الأسبوعية وإذا كان بالإمكان أخذ دروس في عطلة نهاية الأسبوع. إذا كان بإمكانك إعطائي معلومات أو توصيات، سأكون ممتنة جدًا. أتطلع لردك وشكرًا مقدمًا على مساعدتك.\nتحياتي،\nرانية"
+      },
+      {
+        "id": 108,
+        "title": "Frage nach einem gebrauchten Klavier zum Kauf",
+        "text": "Hallo Jonas,\nich suche ein gebrauchtes Klavier, das ich zu einem vernünftigen Preis kaufen kann. Vielleicht weißt du, ob jemand in unserer Gegend ein Klavier verkaufen möchte. Wichtig ist, dass das Klavier in gutem Zustand ist, weil ich es zu Hause zum Üben brauche. Außerdem interessiere ich mich für Tipps, worauf ich beim Kauf achten muss, beispielsweise ob ich einen Experten mitnehmen sollte, der das Klavier prüft. Ich wäre dir sehr dankbar, wenn du mir weiterhelfen könntest. Vielen Dank im Voraus.\nLiebe Grüße,\nMaya",
+        "text_ar": "مرحبًا يوناس،\nأنا أبحث عن بيانو مستعمل يمكنني شراؤه بسعر معقول. هل تعرف إذا كان هناك أحد في منطقتنا يريد بيع بيانو؟ من المهم أن يكون البيانو بحالة جيدة لأنني أحتاجه للتدريب في المنزل. كما أريد نصائح حول ما يجب الانتباه إليه عند الشراء، مثل هل من الأفضل أن يصاحبني خبير للفحص؟ سأكون ممتنة جدًا لمساعدتك. شكرًا مقدمًا.\nمع تحياتي،\nمايا"
+      },
+      {
+        "id": 109,
+        "title": "Frage nach Erfahrungen mit digitalem Klavier",
+        "text": "Hallo Anna,\nich spiele mit dem Gedanken, mir ein digitales Klavier zu kaufen, bin mir aber unsicher, ob das die richtige Wahl ist. Hast du Erfahrung mit digitalen Klavieren? Wie ist der Klang im Vergleich zu einem akustischen Klavier? Ist es einfach zu bedienen und besonders für Anfänger geeignet? Außerdem interessiert mich, ob ein digitales Klavier viel Platz braucht und ob man Kopfhörer anschließen kann. Deine Meinung ist mir sehr wichtig, da ich mich noch nicht entschieden habe. Vielen Dank für deine Unterstützung!\nViele Grüße,\nFadi",
+        "text_ar": "مرحبًا آنا،\nأفكر في شراء بيانو رقمي، لكني غير متأكد إذا كان خيارًا جيدًا. هل لديك خبرة مع البيانو الرقمي؟ كيف يكون الصوت مقارنة بالبيانو العادي؟ هل هو سهل الاستخدام ومناسب للمبتدئين؟ كما أود أن أعرف إذا كان يحتاج إلى مساحة كبيرة وإذا يمكن توصيل سماعات الرأس به. رأيك مهم جدًا لي لأنني لم أقرر بعد. شكرًا لدعمك!\nتحياتي،\nفادي"
+      },
+      {
+        "id": 110,
+        "title": "Frage nach Mietmöglichkeiten für Klavier",
+        "text": "Hallo Sofia,\nich möchte gerne Klavier lernen, bin mir aber noch unsicher, ob ich langfristig dabei bleibe. Deshalb überlege ich, ob man ein Klavier für einige Monate mieten kann, bevor ich eins kaufe. Weißt du, ob es in unserer Stadt oder online solche Mietangebote gibt? Wie teuer sind diese Mietmöglichkeiten ungefähr? Gibt es besondere Bedingungen oder Einschränkungen, die man beachten sollte? Ich freue mich über deine Tipps und danke dir sehr für deine Unterstützung. Liebe Grüße, Nader",
+        "text_ar": "مرحبًا صوفيا،\nأريد أن أتعلم العزف على البيانو، لكنني غير متأكد من استمرار ذلك لفترة طويلة. لذلك أفكر في استئجار بيانو لبضعة أشهر قبل الشراء. هل تعرفين إذا كانت هناك عروض استئجار في مدينتنا أو عبر الإنترنت؟ كم تكون تكلفة الإيجار تقريبًا؟ هل هناك شروط أو قيود خاصة يجب معرفتها؟ سأكون شاكرًا لنصائحك وأشكرك كثيرًا على دعمك.\nمع تحياتي،\nنادر"
+      }
+    ]
+  },
+
+  {
+  "id": 111,
+  "title": "Beschwerde wegen gestohlener Fahrrad",
+  "level": "A2",
+  "subtopics": [
+    {
+      "id": 1111,
+      "title": "Beschwerde an den Hausmeister wegen Diebstahl",
+      "text": "Sehr geehrter Herr Müller,\nleider wurde gestern mein Fahrrad vor dem Haus gestohlen. Ich hatte es mit einem guten Schloss gesichert, trotzdem wurde es entwendet. Das Fahrrad ist mein wichtigstes Verkehrsmittel, deshalb bitte ich Sie, die Sicherheit im Hausbereich zu verbessern. Vielleicht durch bessere Beleuchtung oder eine Kamera. Vielen Dank für Ihre Hilfe.\nMit freundlichen Grüßen,\nAhmed",
+      "text_ar": "السيد المحترم السيد مولر،\nللأسف سُرقت دراجتي أمس أمام المنزل. لقد قمت بتأمينها بقفل جيد، لكنها سرقت مع ذلك. الدراجة هي وسيلة التنقل الأساسية لي، لذلك أرجو منكم تحسين الأمن في محيط المنزل، ربما من خلال إضاءة أفضل أو كاميرا مراقبة. شكرًا جزيلاً لمساعدتكم.\nمع أطيب التحيات،\nأحمد"
+    },
+    {
+      "id": 1112,
+      "title": "Anfrage zur Verbesserung der Sicherheit am Fahrradständer",
+      "text": "Hallo Herr Schmidt,\nich möchte mich erkundigen, ob es Pläne gibt, die Sicherheit am Fahrradständer zu erhöhen. In letzter Zeit gab es mehrere Diebstähle, auch mein Fahrrad wurde gestohlen. Eine bessere Beleuchtung oder Kameras könnten helfen. Ich hoffe auf eine positive Rückmeldung.\nViele Grüße,\nLea",
+      "text_ar": "مرحبًا سيد شميت،\nأود أن أعرف إذا كانت هناك خطط لتحسين الأمن عند موقف الدراجات. في الفترة الأخيرة حدثت عدة سرقات، حتى أن دراجتي سُرقت. إضاءة أفضل أو كاميرات يمكن أن تساعد. أتمنى ردًا إيجابيًا.\nمع التحية،\nليا"
+    },
+    {
+      "id": 1113,
+      "title": "Bitte um Unterstützung nach Fahrraddiebstahl",
+      "text": "Sehr geehrte Damen und Herren,\nmein Fahrrad wurde letzte Woche vor dem Haus gestohlen. Ich bitte um Unterstützung bei der Suche oder Hinweise, wie ich mich schützen kann. Gibt es eine Möglichkeit, den Bereich sicherer zu machen?\nMit freundlichen Grüßen,\nSamir",
+      "text_ar": "السادة الأعزاء،\nلقد سُرقت دراجتي الأسبوع الماضي أمام المنزل. أطلب المساعدة في البحث عنها أو نصائح لحماية نفسي. هل هناك طريقة لجعل المنطقة أكثر أمانًا؟\nمع التحية،\nسمير"
+    },
+    {
+      "id": 1114,
+      "title": "Anfrage nach Videoüberwachung zur Diebstahlprävention",
+      "text": "Hallo Herr Meier,\nich möchte vorschlagen, eine Videoüberwachung am Hauseingang zu installieren. Das könnte helfen, Diebstähle zu verhindern. Mein Fahrrad wurde kürzlich gestohlen, und ich denke, das wäre eine gute Maßnahme.\nViele Grüße,\nFatima",
+      "text_ar": "مرحبًا سيد ماير،\nأود أن أقترح تركيب كاميرات مراقبة عند مدخل المنزل. هذا قد يساعد في منع السرقات. لقد سُرقت دراجتي مؤخرًا وأعتقد أن هذه ستكون خطوة جيدة.\nمع التحية،\nفاطمة"
+    },
+    {
+      "id": 1115,
+      "title": "Beschwerde über mangelnde Sicherheit auf dem Grundstück",
+      "text": "Sehr geehrte Verwaltung,\nich möchte mich über die mangelnde Sicherheit auf unserem Grundstück beschweren. Es gab mehrere Diebstähle von Fahrrädern, und es fühlt sich unsicher an. Ich bitte um Maßnahmen zur Verbesserung der Sicherheit.\nMit freundlichen Grüßen,\nOmar",
+      "text_ar": "الإدارة المحترمة،\nأود أن أقدم شكوى بخصوص ضعف الأمن في ممتلكاتنا. حدثت عدة سرقات للدراجات، والأمر يشعرنا بعدم الأمان. أرجو اتخاذ إجراءات لتحسين الأمن.\nمع أطيب التحيات،\nعمر"
+    }
+  ]
+},
+
+  {
+  "id": 201,
+  "title": "Beschwerde wegen defekter Treppenhausbeleuchtung",
+  "level": "A2",
+  "subtopics": [
+    {
+      "id": 2011,
+      "title": "Beschwerde an den Hausmeister wegen defekter Beleuchtung",
+      "text": "Sehr geehrter Herr Müller,\nleider ist die Beleuchtung im Treppenhaus seit mehreren Tagen ausgefallen. Das führt zu unsicheren Situationen, besonders in den Abendstunden. Ich bitte Sie, die Lampen schnellstmöglich zu reparieren, um Unfälle zu vermeiden. Vielen Dank für Ihre Unterstützung.\nMit freundlichen Grüßen,\nAhmed",
+      "text_ar": "السيد المحترم السيد مولر،\nللأسف إنارة الدرج معطلة منذ عدة أيام. هذا يسبب ظروفًا غير آمنة، خاصة في ساعات المساء. أرجو منكم إصلاح المصابيح في أقرب وقت لتجنب الحوادث. شكرًا لتعاونكم.\nمع أطيب التحيات،\nأحمد"
+    },
+    {
+      "id": 2012,
+      "title": "Bitte um Reparatur der Treppenhausbeleuchtung",
+      "text": "Hallo Herr Schmidt,\ndie Beleuchtung im Treppenhaus funktioniert nicht mehr. Besonders nachts ist es sehr dunkel und gefährlich. Ich bitte darum, dass die Beleuchtung schnell repariert wird. Vielen Dank im Voraus.\nViele Grüße,\nLea",
+      "text_ar": "مرحبًا سيد شميت،\nإنارة الدرج لا تعمل بعد الآن. خاصة في الليل، الوضع مظلم جدًا وخطير. أرجو إصلاح الإنارة بسرعة. شكرًا مقدمًا.\nمع التحية،\nليا"
+    },
+    {
+      "id": 2013,
+      "title": "Beschwerde über Sicherheitsrisiko durch defekte Beleuchtung",
+      "text": "Sehr geehrte Damen und Herren,\nseit mehreren Tagen ist die Beleuchtung im Treppenhaus defekt. Dies stellt ein Sicherheitsrisiko dar, da viele Bewohner im Dunkeln laufen müssen. Ich bitte um schnelle Abhilfe.\nMit freundlichen Grüßen,\nSamir",
+      "text_ar": "السادة الأعزاء،\nإنارة الدرج معطلة منذ عدة أيام. هذا يشكل خطرًا أمنيًا لأن العديد من السكان يضطرون للمشي في الظلام. أرجو الإسراع في إصلاح المشكلة.\nمع التحية،\nسمير"
+    },
+    {
+      "id": 2014,
+      "title": "Anfrage zur Behebung der Beleuchtungsstörung im Treppenhaus",
+      "text": "Hallo Herr Meier,\nich möchte Sie bitten, die defekte Treppenhausbeleuchtung zu reparieren. Die Dunkelheit führt zu Unsicherheit und Unfällen könnten passieren. Vielen Dank für Ihre Mühe.\nViele Grüße,\nFatima",
+      "text_ar": "مرحبًا سيد ماير،\nأود طلب إصلاح إنارة الدرج المعطلة. الظلام يسبب شعورًا بعدم الأمان وقد تحدث حوادث. شكرًا لجهودكم.\nمع التحية،\nفاطمة"
+    },
+    {
+      "id": 2015,
+      "title": "Beschwerde wegen fehlender Beleuchtung im Treppenhaus",
+      "text": "Sehr geehrte Verwaltung,\ndie Beleuchtung im Treppenhaus ist seit Tagen ausgefallen. Das ist sehr unangenehm und gefährlich. Ich bitte um schnelle Reparatur und Verbesserung der Sicherheitsmaßnahmen.\nMit freundlichen Grüßen,\nOmar",
+      "text_ar": "الإدارة المحترمة،\nإنارة الدرج متوقفة منذ أيام. هذا مزعج جدًا وخطير. أرجو إصلاحها بسرعة وتحسين إجراءات الأمان.\nمع أطيب التحيات،\nعمر"
+    }
+  ]
+},
+
+  {
+  "id": 202,
+  "title": "Beschwerde wegen mangelnder Sauberkeit im Treppenhaus",
+  "level": "A2",
+  "subtopics": [
+    {
+      "id": 2021,
+      "title": "Beschwerde an den Hausmeister wegen schmutzigem Treppenhaus",
+      "text": "Sehr geehrter Herr Müller,\nich möchte mich über die mangelnde Sauberkeit im Treppenhaus beschweren. Es liegt viel Müll und Staub auf den Stufen, was nicht nur unansehnlich, sondern auch unhygienisch ist. Ich bitte Sie, die Reinigung häufiger durchzuführen, damit sich alle Bewohner wohler fühlen können. Vielen Dank für Ihre Unterstützung.\nMit freundlichen Grüßen,\nAhmed",
+      "text_ar": "السيد المحترم السيد مولر،\nأود أن أشتكي من قلة النظافة في الدرج. هناك الكثير من القمامة والغبار على الدرج، وهذا ليس فقط غير جميل ولكنه غير صحي أيضًا. أرجو منكم زيادة عدد مرات التنظيف ليشعر جميع السكان بالراحة. شكرًا لدعمكم.\nمع أطيب التحيات،\nأحمد"
+    },
+    {
+      "id": 2022,
+      "title": "Bitte um bessere Reinigung des Treppenhauses",
+      "text": "Hallo Herr Schmidt,\ndas Treppenhaus ist oft schmutzig und es wird nicht regelmäßig gereinigt. Besonders der Boden ist staubig und voller Abfälle. Ich bitte darum, die Reinigung zu verbessern und öfter durchzuführen. Vielen Dank.\nViele Grüße,\nLea",
+      "text_ar": "مرحبًا سيد شميت،\nالدرج كثيرًا ما يكون متسخًا ولا يتم تنظيفه بانتظام. خاصة الأرضية مغطاة بالغبار وبقايا القمامة. أرجو تحسين التنظيف وزيادة تكراره. شكرًا.\nمع التحية،\nليا"
+    },
+    {
+      "id": 2023,
+      "title": "Beschwerde über unzureichende Sauberkeit im Treppenhaus",
+      "text": "Sehr geehrte Damen und Herren,\ndas Treppenhaus wird nicht sauber gehalten. Es gibt viel Schmutz und es sieht ungepflegt aus. Ich bitte darum, die Reinigung häufiger und gründlicher durchzuführen. Vielen Dank für Ihre Bemühungen.\nMit freundlichen Grüßen,\nSamir",
+      "text_ar": "السادة الأعزاء،\nالدرج لا يتم تنظيفه بشكل جيد. هناك الكثير من الأوساخ ويبدو غير مرتب. أرجو زيادة وتيرة التنظيف وجعله أكثر دقة. شكرًا لجهودكم.\nمع التحية،\nسمير"
+    },
+    {
+      "id": 2024,
+      "title": "Anfrage zur Verbesserung der Treppenhausreinigung",
+      "text": "Hallo Herr Meier,\nich möchte Sie bitten, die Reinigung im Treppenhaus zu verbessern. Es gibt oft Müll und Staub, was das Treppenhaus ungemütlich macht. Vielen Dank für Ihre Unterstützung.\nViele Grüße,\nFatima",
+      "text_ar": "مرحبًا سيد ماير،\nأود أن أطلب منكم تحسين تنظيف الدرج. هناك غالبًا قمامة وغبار مما يجعل الدرج غير مريح. شكرًا لدعمكم.\nمع التحية،\nفاطمة"
+    },
+    {
+      "id": 2025,
+      "title": "Beschwerde wegen schlechter Sauberkeit im Treppenhaus",
+      "text": "Sehr geehrte Verwaltung,\ndas Treppenhaus ist oft schmutzig und wird nicht regelmäßig gereinigt. Dies beeinträchtigt das Wohngefühl und die Hygiene. Ich bitte um schnelle Verbesserung der Reinigungsmaßnahmen.\nMit freundlichen Grüßen,\nOmar",
+      "text_ar": "الإدارة المحترمة،\nالدرج غالبًا ما يكون متسخًا ولا يتم تنظيفه بانتظام. هذا يؤثر على راحة السكن والنظافة. أرجو تحسين إجراءات التنظيف بسرعة.\nمع أطيب التحيات،\nعمر"
+    }
+  ]
+},
+
+  {
+  "id": 301,
+  "title": "Anfragen an die Lehrerin wegen der schulischen Leistungen",
+  "level": "A2",
+  "subtopics": [
+    {
+      "id": 3011,
+      "title": "Bitte um Informationen zum Elternabend",
+      "text": "Sehr geehrte Frau Schmidt,\nich möchte gerne wissen, ob es bald einen Elternabend gibt, um über die schlechten Noten meines Sohnes zu sprechen. Mir ist wichtig, wie ich ihn zu Hause besser unterstützen kann. Könnten Sie mir bitte das Datum und die Uhrzeit des Treffens mitteilen? Vielen Dank für Ihre Hilfe.\nMit freundlichen Grüßen,\nOmar",
+      "text_ar": "السيدة المحترمة الآنسة شميت،\nأود أن أعرف إذا كان هناك اجتماع أولياء أمور قريب لمناقشة علامات ابني السيئة. من المهم لي أن أعرف كيف أساعده في المنزل بشكل أفضل. هل يمكنك من فضلك إعلامي بتاريخ ووقت الاجتماع؟ شكراً جزيلاً لمساعدتك.\nمع أطيب التحيات،\nعمر"
+    },
+    {
+      "id": 3012,
+      "title": "Nachfrage zu Terminen für ein Gespräch",
+      "text": "Liebe Frau Becker,\nich habe gehört, dass es bald ein Gespräch über die schulischen Schwierigkeiten meines Sohnes geben soll. Können Sie mir bitte sagen, wann und wo das Treffen stattfindet? Ich möchte gerne teilnehmen und mehr über seine Situation erfahren. Vielen Dank im Voraus.\nHerzliche Grüße,\nSara",
+      "text_ar": "العزيزة السيدة بيكر،\nسمعت أن هناك اجتماع قريب لمناقشة صعوبات ابني الدراسية. هل يمكن أن تخبريني متى وأين سيعقد الاجتماع؟ أود الحضور والتعرف على وضعه أكثر. شكراً مقدماً.\nمع أطيب التحيات،\nسارة"
+    },
+    {
+      "id": 3013,
+      "title": "Bitte um Tipps zur Unterstützung des Kindes",
+      "text": "Hallo Frau Meier,\nich mache mir Sorgen wegen der schlechten Noten meines Sohnes. Könnten Sie mir bitte Ratschläge geben, wie ich ihn besser beim Lernen unterstützen kann? Vielleicht gibt es auch besondere Angebote oder Nachhilfe? Ich danke Ihnen sehr für Ihre Unterstützung.\nViele Grüße,\nKhalid",
+      "text_ar": "مرحباً السيدة ماير،\nأنا قلقة بسبب علامات ابني السيئة. هل يمكنك من فضلك أن تعطيني نصائح حول كيفية مساعدته في التعلم بشكل أفضل؟ ربما هناك دروس تقوية؟ أشكرك كثيراً على دعمك.\nمع تحياتي،\nخالد"
+    },
+    {
+      "id": 3014,
+      "title": "Anfrage nach schriftlichen Informationen über die Leistungen",
+      "text": "Sehr geehrte Frau Wagner,\nich würde gerne schriftliche Informationen über die schulischen Leistungen meines Sohnes erhalten, da ich nicht immer an den Treffen teilnehmen kann. Gibt es eine Möglichkeit, Berichte oder Notenübersichten per E-Mail zu bekommen? Vielen Dank für Ihre Rückmeldung.\nMit freundlichen Grüßen,\nLaila",
+      "text_ar": "السيدة المحترمة الآنسة فاغنر،\nأود الحصول على معلومات مكتوبة حول أداء ابني الدراسي، لأنني لا أستطيع دائماً حضور الاجتماعات. هل يمكنني استلام تقارير أو ملخصات الدرجات عبر البريد الإلكتروني؟ شكراً لردك.\nمع أطيب التحيات،\nليلى"
+    },
+    {
+      "id": 3015,
+      "title": "Bitte um telefonisches Gespräch wegen der Noten",
+      "text": "Hallo Frau Klein,\naufgrund der schlechten Noten meines Sohnes möchte ich gerne ein telefonisches Gespräch mit Ihnen führen. Wann hätten Sie Zeit, um kurz über seine schulische Situation zu sprechen? Ich hoffe, dass wir gemeinsam eine Lösung finden. Vielen Dank im Voraus.\nBeste Grüße,\nYusuf",
+      "text_ar": "مرحباً السيدة كلاين،\nبسبب علامات ابني السيئة، أود التحدث معك هاتفياً. متى يناسبك أن نتحدث قليلاً عن وضعه الدراسي؟ آمل أن نجد حلاً معاً. شكراً مقدماً.\nمع أطيب التحيات،\nيوسف"
+    }
+  ]
+},
+
+  {
+  "id": 401,
+  "title": "Anfragen zur Vertragskündigung",
+  "level": "A2",
+  "subtopics": [
+    {
+      "id": 4011,
+      "title": "Kündigung des Handyvertrags",
+      "text": "Sehr geehrte Damen und Herren,\nhiermit möchte ich meinen Handyvertrag mit der Kundennummer 123456 zum nächstmöglichen Zeitpunkt kündigen. Bitte bestätigen Sie mir die Kündigung schriftlich und teilen Sie mir das Vertragsende mit. Vielen Dank für Ihre Unterstützung.\nMit freundlichen Grüßen,\nAhmed Saleh",
+      "text_ar": "السادة المحترمون،\nأرغب في إلغاء عقد الهاتف الخاص بي برقم العميل 123456 في أقرب وقت ممكن. يرجى تأكيد إلغاء العقد كتابةً وإبلاغي بتاريخ انتهاء العقد. شكراً لدعمكم.\nمع تحياتي،\nأحمد صالح"
+    },
+    {
+      "id": 4012,
+      "title": "Frage zur Kündigungsfrist",
+      "text": "Sehr geehrtes Team,\nich möchte meinen Handyvertrag kündigen, bin mir aber unsicher wegen der Kündigungsfrist. Können Sie mir bitte mitteilen, wie lange die Frist ist und wann der Vertrag endet? Vielen Dank für Ihre Hilfe.\nFreundliche Grüße,\nNoura",
+      "text_ar": "فريق العمل المحترم،\nأرغب في إلغاء عقد الهاتف الخاص بي، لكنني غير متأكدة من مدة فترة الإلغاء. هل يمكنكم إخباري بمدة الإلغاء وتاريخ انتهاء العقد؟ شكراً لمساعدتكم.\nمع التحية،\nنورة"
+    },
+    {
+      "id": 4013,
+      "title": "Bestätigung der Vertragskündigung anfordern",
+      "text": "Hallo,\nbitte bestätigen Sie mir schriftlich die Kündigung meines Handyvertrags mit der Nummer 654321. Ich möchte sicherstellen, dass der Vertrag zum gewünschten Termin endet. Vielen Dank im Voraus.\nMit freundlichen Grüßen,\nSaid",
+      "text_ar": "مرحباً،\nيرجى تأكيد إلغاء عقد الهاتف الخاص بي برقم 654321 كتابةً. أريد التأكد من انتهاء العقد في الوقت المطلوب. شكراً مقدماً.\nمع تحياتي،\nسعيد"
+    },
+    {
+      "id": 4014,
+      "title": "Rückgabe des Handys nach Vertragskündigung",
+      "text": "Sehr geehrte Damen und Herren,\nich habe meinen Handyvertrag gekündigt und möchte wissen, wie ich das Handy zurückgeben kann. Gibt es bestimmte Bedingungen oder Fristen, die ich beachten muss? Vielen Dank für Ihre Auskunft.\nMit freundlichen Grüßen,\nFatima",
+      "text_ar": "السادة المحترمون،\nلقد ألغيت عقد الهاتف وأود معرفة كيفية إعادة الجهاز. هل هناك شروط أو مهل يجب الالتزام بها؟ شكراً لإفادتكم.\nمع تحياتي،\nفاطمة"
+    },
+    {
+      "id": 4015,
+      "title": "Frage zu möglichen Kosten bei Vertragskündigung",
+      "text": "Hallo,\nich möchte meinen Handyvertrag kündigen und frage mich, ob dabei Kosten entstehen. Können Sie mir bitte Informationen dazu geben? Ich danke Ihnen sehr.\nBeste Grüße,\nOmar",
+      "text_ar": "مرحباً،\nأرغب في إلغاء عقد الهاتف وأريد معرفة إذا كانت هناك أي تكاليف على ذلك. هل يمكنكم تزويدي بالمعلومات؟ شكراً جزيلاً.\nمع أطيب التحيات،\nعمر"
+    }
+  ]
+},
+
+  {
+  "id": 501,
+  "title": "Beschwerden an die Zuggesellschaft",
+  "level": "A2",
+  "subtopics": [
+    {
+      "id": 5011,
+      "title": "Verspätung des Zuges",
+      "text": "Sehr geehrte Damen und Herren,\nich möchte mich über die starke Verspätung des Zuges Nummer 123 am 25. Juni beschweren. Durch die Verspätung habe ich meinen Anschlusszug verpasst und musste lange warten. Ich bitte um eine Erklärung und mögliche Entschädigung.\nMit freundlichen Grüßen,\nKhaled",
+      "text_ar": "السادة المحترمون،\nأود تقديم شكوى بشأن تأخير القطار رقم 123 بتاريخ 25 يونيو. بسبب التأخير فاتني القطار الواصل واضطررت للانتظار لفترة طويلة. أرجو توضيح السبب وتعويضي إذا أمكن.\nمع تحياتي،\nخالد"
+    },
+    {
+      "id": 5012,
+      "title": "Unsauberer Zug",
+      "text": "Sehr geehrte Damen und Herren,\nich war gestern mit dem Zug Nummer 456 unterwegs und musste feststellen, dass der Zug sehr schmutzig war. Die Sitze und der Boden waren verschmutzt, was die Fahrt unangenehm machte. Bitte verbessern Sie die Reinigung der Züge.\nMit freundlichen Grüßen,\nSara",
+      "text_ar": "السادة المحترمون،\nكنت أمس على متن القطار رقم 456 ولاحظت أن القطار كان غير نظيف. المقاعد والأرضية كانت متسخة مما جعل الرحلة غير مريحة. الرجاء تحسين نظافة القطارات.\nمع تحياتي،\nسارة"
+    },
+    {
+      "id": 5013,
+      "title": "Probleme mit Fahrkartenautomat",
+      "text": "Sehr geehrte Damen und Herren,\nich hatte gestern Probleme mit dem Fahrkartenautomat am Bahnhof. Der Automat hat meine Karte nicht akzeptiert und ich konnte kein Ticket kaufen. Das führte zu viel Stress und Unannehmlichkeiten. Bitte beheben Sie das Problem so schnell wie möglich.\nMit freundlichen Grüßen,\nMohamed",
+      "text_ar": "السادة المحترمون،\nواجهت أمس مشاكل مع ماكينة بيع التذاكر في المحطة. الماكينة لم تقبل بطاقتي ولم أتمكن من شراء تذكرة. تسبب هذا في ضغط وإزعاج كبيرين. الرجاء إصلاح المشكلة بأسرع وقت.\nمع تحياتي،\nمحمد"
+    },
+    {
+      "id": 5014,
+      "title": "Unfreundliches Personal im Zug",
+      "text": "Sehr geehrte Damen und Herren,\nich möchte mich über das unfreundliche Verhalten eines Mitarbeiters im Zug beschweren. Der Mitarbeiter war sehr unhöflich und hat keine Hilfe angeboten. Das war enttäuschend und nicht professionell.\nMit freundlichen Grüßen,\nLayla",
+      "text_ar": "السادة المحترمون،\nأرغب في تقديم شكوى بشأن سلوك غير ودود من أحد موظفي القطار. كان الموظف غير لطيف ولم يقدم أي مساعدة. كان ذلك مخيباً وغير مهني.\nمع تحياتي،\nليلى"
+    },
+    {
+      "id": 5015,
+      "title": "Probleme mit der Klimaanlage im Zug",
+      "text": "Sehr geehrte Damen und Herren,\nbei meiner letzten Zugfahrt funktionierte die Klimaanlage nicht richtig. Es war sehr heiß im Wagen, was die Fahrt sehr unangenehm machte. Ich bitte Sie, dieses Problem zu beheben.\nMit freundlichen Grüßen,\nTariq",
+      "text_ar": "السادة المحترمون،\nأثناء رحلتي الأخيرة في القطار لم تعمل مكيفات الهواء بشكل جيد. كان الجو حارًا جدًا داخل العربة مما جعل الرحلة غير مريحة للغاية. أرجو معالجة هذه المشكلة.\nمع تحياتي،\nطارق"
+    }
+  ]
+},
+
+  {
+  "id": 602,
+  "title": "Beschwerden und Anfragen im Wohnhaus",
+  "level": "A2",
+  "subtopics": [
+    {
+      "id": 6021,
+      "title": "Beschwerde über die Parkplatzsituation",
+      "text": "Sehr geehrter Herr Schmidt,\nich möchte mich über den Parkplatz im Gebäude beschweren. Oft gibt es keine freien Plätze, und einige Bewohner parken falsch. Das verursacht Stress und Ärger. Außerdem fehlen klare Markierungen. Ich bitte um schnelle Lösung, damit alle sicher parken können.\nMit freundlichen Grüßen,\nKlara",
+      "text_ar": "السيد المحترم شميت،\nأود أن أشتكي من موقف السيارات في المبنى. كثيرًا ما لا توجد أماكن فارغة ويقوم بعض السكان بالوقوف بشكل خاطئ. هذا يسبب التوتر والانزعاج. بالإضافة إلى ذلك، لا توجد علامات واضحة. أرجو حل هذه المشكلة سريعًا لكي يتمكن الجميع من الوقوف بأمان.\nمع تحياتي،\nكلارا"
+    },
+    {
+      "id": 6022,
+      "title": "Beschwerde wegen mangelnder Sauberkeit im Treppenhaus",
+      "text": "Sehr geehrte Frau Meier,\ndas Treppenhaus im Gebäude ist oft schmutzig und wird nicht regelmäßig gereinigt. Das stört viele Bewohner und sieht schlecht aus. Bitte organisieren Sie eine häufigere Reinigung, damit die Sauberkeit gewährleistet ist. Vielen Dank für Ihre Unterstützung.\nMit freundlichen Grüßen,\nSami",
+      "text_ar": "السيدة المحترمة ماير،\nدرج المبنى غالبًا ما يكون متسخًا ولا يتم تنظيفه بانتظام. هذا يزعج الكثير من السكان ويبدو سيئًا. يرجى تنظيم تنظيف أكثر تكرارًا للحفاظ على النظافة. شكرًا لدعمكم.\nمع تحياتي،\nسامي"
+    },
+    {
+      "id": 6023,
+      "title": "Anfrage zur Reparatur der Treppenhausbeleuchtung",
+      "text": "Sehr geehrter Herr Becker,\ndie Beleuchtung im Treppenhaus funktioniert seit einigen Tagen nicht richtig. Das macht das Treppenhaus dunkel und unsicher, besonders nachts. Ich bitte Sie, die Beleuchtung so schnell wie möglich reparieren zu lassen. Vielen Dank für Ihre Hilfe.\nMit freundlichen Grüßen,\nLeila",
+      "text_ar": "السيد المحترم بيكر،\nإنارة درج المبنى لا تعمل بشكل جيد منذ عدة أيام. هذا يجعل الدرج مظلمًا وغير آمن، خاصة في الليل. أرجو إصلاح الإنارة في أسرع وقت ممكن. شكرًا لمساعدتك.\nمع تحياتي،\nليلى"
+    },
+    {
+      "id": 6024,
+      "title": "Anfrage zur Installation eines neuen Briefkastens",
+      "text": "Sehr geehrte Damen und Herren,\nich möchte anfragen, ob im Haus ein neuer Briefkasten installiert werden kann. Der alte Briefkasten ist beschädigt und Briefe gehen manchmal verloren. Ein neuer Briefkasten würde die Postzustellung sicherer machen. Ich danke Ihnen für die Berücksichtigung meines Anliegens.\nMit freundlichen Grüßen,\nYusuf",
+      "text_ar": "السادة الأعزاء،\nأود الاستفسار عما إذا كان يمكن تركيب صندوق بريد جديد في المبنى. صندوق البريد القديم تالف وأحيانًا تضيع الرسائل. صندوق جديد سيجعل تسليم البريد أكثر أمانًا. أشكركم على النظر في طلبي.\nمع تحياتي،\nيوسف"
+    },
+    {
+      "id": 6025,
+      "title": "Beschwerde über laute Bauarbeiten im Gebäude",
+      "text": "Sehr geehrte Frau Schulz,\nseit einigen Tagen gibt es laute Bauarbeiten im Gebäude. Der Lärm beginnt sehr früh und stört viele Bewohner, besonders ältere und Kinder. Bitte informieren Sie uns über die Dauer der Arbeiten oder finden Sie eine Lösung, um die Störung zu reduzieren. Vielen Dank.\nMit freundlichen Grüßen,\nNadia",
+      "text_ar": "السيدة المحترمة شولز،\nمنذ عدة أيام هناك أعمال بناء صاخبة في المبنى. يبدأ الضجيج مبكرًا ويزعج الكثير من السكان، خاصة كبار السن والأطفال. يرجى إعلامنا بمدة الأعمال أو إيجاد حل لتقليل الإزعاج. شكرًا جزيلاً.\nمع تحياتي،\nنادية"
+    }
+  ]
+},
+
+  {
+  "id": 604,
+  "title": "Beschwerden und Anfragen an Institutionen",
+  "level": "A2",
+  "subtopics": [
+    {
+      "id": 6041,
+      "title": "Protestbrief an die Schule wegen falscher Rechnung",
+      "text": "Sehr geehrte Damen und Herren,\nich habe kürzlich eine Rechnung von Ihrer Schule erhalten, die offensichtlich ein Irrtum ist. Ich habe keine zusätzlichen Gebühren oder Materialien bestellt, die diese Kosten rechtfertigen. Bitte überprüfen Sie den Vorgang und senden Sie mir keine weiteren falschen Rechnungen. Vielen Dank für Ihre schnelle Klärung.\nMit freundlichen Grüßen,\nAhmed",
+      "text_ar": "السادة الأعزاء،\nلقد استلمت مؤخرًا فاتورة من مدرستكم والتي تبدو خطأً واضحًا. لم أطلب أي رسوم إضافية أو مواد تبرر هذه التكاليف. أرجو مراجعة الأمر وعدم إرسال فواتير خاطئة أخرى. شكرًا لتعاونكم السريع.\nمع تحياتي،\nأحمد"
+    },
+    {
+      "id": 6042,
+      "title": "Beschwerde über laute Nachbarn",
+      "text": "Hallo,\nich möchte mich über die lauten Geräusche von meinen Nachbarn beschweren. Es passiert oft spät abends, dass Musik sehr laut ist und es stört meinen Schlaf. Ich habe sie schon mehrmals freundlich gebeten, leiser zu sein, aber leider ohne Erfolg. Bitte helfen Sie mir, dieses Problem zu lösen. Vielen Dank.\nMit freundlichen Grüßen,\nSarah",
+      "text_ar": "مرحبًا،\nأود تقديم شكوى بشأن الضوضاء العالية من جيراني. يحدث ذلك كثيرًا في ساعات متأخرة من الليل والموسيقى عالية جدًا وتؤثر على نومي. لقد طلبت منهم عدة مرات بلطف أن يخفضوا الصوت، لكن دون جدوى. أرجو مساعدتي في حل هذه المشكلة. شكرًا جزيلاً.\nمع تحياتي،\nسارة"
+    },
+    {
+      "id": 6043,
+      "title": "Anfrage nach Reparatur der Straßenbeleuchtung",
+      "text": "Sehr geehrte Damen und Herren,\nin unserer Straße ist die Straßenbeleuchtung seit mehreren Tagen defekt. Es ist sehr dunkel und unsicher, besonders nachts. Ich bitte Sie, die Beleuchtung so schnell wie möglich zu reparieren, um Unfälle zu vermeiden. Vielen Dank für Ihre Unterstützung.\nMit freundlichen Grüßen,\nKhaled",
+      "text_ar": "السادة الأعزاء،\nإن إنارة الشارع في منطقتنا معطلة منذ عدة أيام. الوضع مظلم جدًا وغير آمن خاصة في الليل. أرجو إصلاح الإنارة في أسرع وقت لتجنب الحوادث. شكرًا لدعمكم.\nمع تحياتي،\nخالد"
+    },
+    {
+      "id": 6044,
+      "title": "Beschwerde wegen unzureichender Müllentsorgung",
+      "text": "Hallo,\nich möchte mich über die unregelmäßige Müllabfuhr in unserem Viertel beschweren. Der Müll bleibt oft mehrere Tage stehen und verursacht unangenehme Gerüche. Das beeinträchtigt die Sauberkeit und das Wohlbefinden der Bewohner. Bitte sorgen Sie für eine regelmäßige Abholung. Danke.\nViele Grüße,\nLeila",
+      "text_ar": "مرحبًا،\nأود تقديم شكوى بخصوص عدم انتظام جمع النفايات في منطقتنا. يبقى القمامة أحيانًا لأيام عديدة مما يسبب روائح كريهة. هذا يؤثر على نظافة وسلامة السكان. أرجو توفير جمع منتظم. شكرًا.\nمع تحياتي،\nليلى"
+    },
+    {
+      "id": 6045,
+      "title": "Anfrage nach Informationen zum Kursangebot",
+      "text": "Sehr geehrte Damen und Herren,\nich interessiere mich für Ihre Sprachkurse und möchte gerne wissen, wann der nächste Kurs beginnt und wie die Kosten sind. Außerdem würde ich gerne erfahren, ob es auch Abendkurse für Berufstätige gibt. Ich freue mich auf Ihre Antwort. Vielen Dank.\nMit freundlichen Grüßen,\nFatima",
+      "text_ar": "السادة الأعزاء،\nأنا مهتمة بدورات اللغة التي تقدمونها وأود معرفة موعد بدء الدورة القادمة وتكاليفها. كما أود معرفة إذا كانت هناك دورات مسائية للموظفين. أتطلع إلى ردكم. شكراً جزيلاً.\nمع تحياتي،\nفاطمة"
+    }
+  ]
+},
+
+  {
+  "id": 702,
+  "title": "Verschiedene Alltagsanliegen",
+  "level": "A2",
+  "subtopics": [
+    {
+      "id": 7021,
+      "title": "Bitte um Hilfe bei Empfang einer Reparaturwerkstatt",
+      "text": "Liebe Amina,\nich hoffe, es geht dir gut. Morgen wird eine Werkstatt zu mir kommen, um den Ofen in meiner Küche zu reparieren. Da ich den ganzen Tag arbeiten muss, wollte ich dich bitten, ob du die Handwerker bei mir reinlassen und ihnen kurz zeigen könntest, wo der Ofen steht. Das wäre eine große Hilfe für mich. Vielen Dank im Voraus für deine Unterstützung!\nHerzliche Grüße,\nSara",
+      "text_ar": "عزيزتي أمينة،\nأتمنى أن تكوني بخير. غدًا ستأتي ورشة لصيانة فرن المطبخ عندي. بما أنني سأكون في العمل طوال اليوم، أردت أن أطلب منك مساعدتي باستقبال العمال وإرشادهم إلى مكان الفرن. سيكون ذلك عونًا كبيرًا لي. شكرًا جزيلاً مقدمًا على دعمك!\nمع أطيب التحيات،\nسارة"
+    },
+    {
+      "id": 7022,
+      "title": "Beschwerde über Müll im Treppenhaus",
+      "text": "Sehr geehrter Herr Müller,\nleider ist das Treppenhaus oft verschmutzt und es liegen Müllsäcke herum. Das ist nicht nur unschön, sondern auch unhygienisch. Ich bitte Sie, dafür zu sorgen, dass das Treppenhaus regelmäßig gereinigt wird, damit alle Bewohner sich wohlfühlen können. Vielen Dank für Ihr Verständnis und Ihre Hilfe.\nMit freundlichen Grüßen,\nFrau Becker",
+      "text_ar": "عزيزي السيد مولر،\nللأسف، درج المبنى غالبًا ما يكون غير نظيف ويوجد أكياس نفايات متناثرة. هذا ليس فقط غير لطيف بل غير صحي أيضًا. أرجو منك التأكد من تنظيف الدرج بانتظام حتى يشعر جميع السكان بالراحة. شكرًا لتفهمك ومساعدتك.\nمع تحياتي،\nالسيدة بيكر"
+    },
+    {
+      "id": 7023,
+      "title": "Anfrage zum Termin für Elternsprechtag",
+      "text": "Hallo Frau Schmidt,\nich wollte fragen, wann der nächste Elternsprechtag stattfindet. Mein Sohn hat einige Schwierigkeiten in der Schule, und ich würde gerne mit Ihnen darüber sprechen. Gibt es bestimmte Termine, die Sie empfehlen? Vielen Dank für Ihre Rückmeldung.\nFreundliche Grüße,\nHerr Wagner",
+      "text_ar": "مرحبًا السيدة شميت،\nأود أن أسأل متى سيكون موعد اجتماع أولياء الأمور القادم. يعاني ابني من بعض الصعوبات في المدرسة وأود التحدث معك حول ذلك. هل هناك مواعيد معينة تنصحين بها؟ شكرًا لردك.\nمع أطيب التحيات،\nالسيد فاغنر"
+    },
+    {
+      "id": 7024,
+      "title": "Bitte um Verlängerung der Frist für Steuererklärung",
+      "text": "Sehr geehrte Damen und Herren,\naufgrund unvorhergesehener Umstände kann ich meine Steuererklärung nicht rechtzeitig einreichen. Daher bitte ich höflich um eine Fristverlängerung von zwei Wochen. Ich hoffe auf Ihr Verständnis und bedanke mich im Voraus.\nMit freundlichen Grüßen,\nMaximilian Klein",
+      "text_ar": "السيدات والسادة المحترمون،\nبسبب ظروف غير متوقعة، لا أستطيع تقديم إقراري الضريبي في الوقت المحدد. لذا أرجو منكم تمديد المهلة لمدة أسبوعين. آمل في تفهمكم وشكرًا مقدمًا.\nمع أطيب التحيات،\nماكسيميليان كلاين"
+    },
+    {
+      "id": 7025,
+      "title": "Anfrage nach Öffnungszeiten der Bibliothek",
+      "text": "Guten Tag,\nich möchte mich erkundigen, wie die Öffnungszeiten der Stadtbibliothek sind. Besonders interessiert mich, ob die Bibliothek auch am Wochenende geöffnet hat. Vielen Dank für Ihre Auskunft.\nMit freundlichen Grüßen,\nJulia Meier",
+      "text_ar": "مرحبًا،\nأود الاستفسار عن أوقات عمل مكتبة المدينة. أود معرفة خصوصًا إذا كانت المكتبة مفتوحة في عطلة نهاية الأسبوع. شكرًا لكم على المعلومات.\nمع أطيب التحيات،\nجوليا ماير"
+    }
+  ]
+},
+{
+  "id": 704,
+  "title": "Beschwerden und Anfragen im Alltag",
+  "level": "A2",
+  "subtopics": [
+    {
+      "id": 7041,
+      "title": "Beschwerde wegen Müllproblem im Gebäude",
+      "text": "Sehr geehrter Herr Müller,\nseit einigen Wochen gibt es ein Problem mit der Müllentsorgung in unserem Gebäude. Die Müllcontainer sind oft überfüllt, und der Müll wird nicht regelmäßig abgeholt. Es entsteht dadurch ein unangenehmer Geruch und Ungeziefer ist zu sehen. Ich bitte Sie, dieses Problem schnell zu beheben, damit das Wohnumfeld sauber bleibt. Vielen Dank für Ihre Hilfe.\nMit freundlichen Grüßen,\nKarin Weber",
+      "text_ar": "عزيزي السيد مولر،\nمنذ عدة أسابيع هناك مشكلة في جمع القمامة في مبنانا. حاويات القمامة غالبًا ما تكون ممتلئة ولا يتم جمع القمامة بانتظام. هذا يسبب روائح كريهة ويجذب الحشرات. أرجو منك حل هذه المشكلة سريعًا للحفاظ على نظافة المكان. شكرًا لمساعدتك.\nمع تحياتي،\nكارين ويبر"
+    },
+    {
+      "id": 7042,
+      "title": "Anfrage zur Verlängerung eines Mietvertrags",
+      "text": "Sehr geehrte Frau Schmidt,\nmein Mietvertrag läuft bald ab, und ich möchte gerne wissen, ob eine Verlängerung möglich ist. Ich wohne sehr gerne in der Wohnung und würde gerne weitere zwei Jahre bleiben. Bitte teilen Sie mir mit, welche Schritte ich dafür unternehmen muss. Ich danke Ihnen im Voraus für Ihre Rückmeldung.\nMit freundlichen Grüßen,\nThomas Becker",
+      "text_ar": "عزيزتي السيدة شميت،\nسينتهي عقد إيجاري قريبًا وأود معرفة إذا كان من الممكن تمديده. أحب العيش في الشقة وأرغب بالبقاء لمدة سنتين إضافيتين. أرجو إعلامي بالإجراءات المطلوبة. شكرًا مقدمًا على ردك.\nمع تحياتي،\nتوماس بيكر"
+    },
+    {
+      "id": 7043,
+      "title": "Beschwerde über Lärm im Hausflur",
+      "text": "Sehr geehrter Herr Meier,\nich möchte mich über den Lärm im Hausflur beschweren. Besonders abends ist es oft sehr laut, und das stört mich beim Entspannen. Ich bitte Sie, Maßnahmen zu ergreifen, damit die Ruhezeiten eingehalten werden. Vielen Dank für Ihr Verständnis.\nMit freundlichen Grüßen,\nAnna Fischer",
+      "text_ar": "عزيزي السيد ماير،\nأريد أن أشكو من الضوضاء في ممر المبنى. خاصة في المساء يكون الصوت مرتفعًا وهذا يزعجني أثناء الاسترخاء. أرجو اتخاذ إجراءات للحفاظ على هدوء الأوقات. شكرًا لتفهمك.\nمع تحياتي،\nآنا فيشر"
+    },
+    {
+      "id": 7044,
+      "title": "Anfrage nach einem Termin beim Hausmeister",
+      "text": "Hallo Herr Schulz,\nich habe ein Problem mit der Heizung in meiner Wohnung. Könnten Sie bitte einen Termin vereinbaren, damit jemand das Problem überprüft und repariert? Ich wäre dankbar, wenn das bald möglich wäre, da es jetzt kalt wird. Vielen Dank im Voraus.\nMit freundlichen Grüßen,\nMarkus Lang",
+      "text_ar": "مرحبًا سيد شولز،\nلدي مشكلة في التدفئة في شقتي. هل يمكنك تحديد موعد لفحص المشكلة وإصلاحها؟ سأكون ممتنًا إذا تم ذلك قريبًا لأن الجو بدأ يبرد. شكرًا مقدمًا.\nمع تحياتي،\nماركوس لانغ"
+    },
+    {
+      "id": 7045,
+      "title": "Beschwerde wegen defekter Beleuchtung im Treppenhaus",
+      "text": "Sehr geehrte Damen und Herren,\nseit einigen Tagen funktioniert die Beleuchtung im Treppenhaus nicht richtig. Es ist sehr dunkel und gefährlich, besonders abends. Ich bitte Sie, die Lampen schnell zu reparieren, damit niemand verletzt wird. Vielen Dank für Ihre Unterstützung.\nMit freundlichen Grüßen,\nSabine Krüger",
+      "text_ar": "السيدات والسادة الأعزاء،\nمنذ عدة أيام لا تعمل إضاءة ممر السلالم بشكل جيد. الجو مظلم جدًا وخطير خاصة في المساء. أرجو إصلاح المصابيح سريعًا حتى لا يصاب أحد. شكرًا لدعمكم.\nمع تحياتي،\nسابين كروجر"
+    }
+  ]
+},
+{
+  "id": 800,
+  "title": "Verschiedene Nachrichten",
+  "level": "A2",
+  "subtopics": [
+    {
+      "id": 801,
+      "title": "Anfrage für größere Wohnung",
+      "text": "Sehr geehrte Damen und Herren,\nich wohne derzeit in einer Ihrer Wohnungen und suche eine größere Wohnung, da meine Familie gewachsen ist. Könnten Sie mir bitte Informationen zu verfügbaren Wohnungen mit mehr Platz und besseren Bedingungen geben? Ich freue mich auf Ihre Antwort und danke Ihnen im Voraus.\nMit freundlichen Grüßen,\nMona",
+      "text_ar": "السادة الأعزاء،\nأعيش حالياً في إحدى شققكم وأبحث عن شقة أكبر لأن عائلتي ازدادت. هل يمكنكم تزويدي بمعلومات عن الشقق المتاحة التي توفر مساحة أكبر وشروط أفضل؟ أتطلع لردكم وشكراً لكم مقدماً.\nمع تحياتي،\nمنى"
+    },
+    {
+      "id": 802,
+      "title": "Bitte um Hilfe bei Einkauf",
+      "text": "Hallo Sarah,\nich hoffe, es geht dir gut. Könntest du mir bitte beim Einkaufen helfen, da ich diese Woche sehr beschäftigt bin? Es wäre toll, wenn du ein paar Sachen für mich mitbringen könntest. Danke dir im Voraus für deine Unterstützung.\nLiebe Grüße,\nAhmed",
+      "text_ar": "مرحباً سارة،\nأتمنى أن تكوني بخير. هل يمكنك مساعدتي في التسوق هذا الأسبوع لأنني مشغول جداً؟ سيكون من الرائع لو جلبت لي بعض الأشياء. شكراً جزيلاً لدعمك.\nمع تحياتي،\nأحمد"
+    },
+    {
+      "id": 803,
+      "title": "Beschwerde wegen Lärm im Haus",
+      "text": "Sehr geehrter Herr Müller,\nleider muss ich mich über den ständigen Lärm im Haus beschweren, der besonders abends sehr störend ist. Ich bitte Sie, das Problem zu überprüfen und geeignete Maßnahmen zu ergreifen. Vielen Dank für Ihr Verständnis.\nMit freundlichen Grüßen,\nJulia",
+      "text_ar": "عزيزي السيد مولر،\nللأسف أود أن أشتكي من الضوضاء المستمرة في المبنى، وخاصة في المساء، مما يزعجني كثيراً. أرجو التحقق من المشكلة واتخاذ الإجراءات المناسبة. شكراً لتفهمكم.\nمع تحياتي،\nجوليا"
+    },
+    {
+      "id": 804,
+      "title": "Anfrage für Urlaubstage",
+      "text": "Hallo Herr Schmidt,\nich möchte gerne Urlaubstage für den nächsten Monat beantragen. Bitte informieren Sie mich, ob dies möglich ist und welche Schritte ich dafür unternehmen muss. Vielen Dank für Ihre Unterstützung.\nMit freundlichen Grüßen,\nKarim",
+      "text_ar": "مرحباً سيد شميدت،\nأرغب في طلب إجازة للشهر القادم. من فضلك أخبرني إذا كان ذلك ممكنًا وما هي الخطوات التي يجب أن أتبعها. شكراً لدعمكم.\nمع تحياتي،\nكريم"
+    },
+    {
+      "id": 805,
+      "title": "Bitte um Terminvereinbarung",
+      "text": "Sehr geehrte Frau Wagner,\nich würde gerne einen Termin für ein Gespräch vereinbaren, um wichtige Themen zu besprechen. Bitte lassen Sie mich wissen, wann es Ihnen am besten passt. Ich freue mich auf Ihre Antwort.\nMit freundlichen Grüßen,\nSophie",
+      "text_ar": "عزيزتي السيدة فاغنر،\nأرغب في تحديد موعد للقاء لمناقشة مواضيع مهمة. أرجو إعلامي بالوقت المناسب لك. أتطلع لردك.\nمع تحياتي،\nصوفي"
+    }
+  ]
+},
+
+  {
+  "id": 1000,
+  "title": "Verschiedene Nachrichten",
+  "level": "A2",
+  "subtopics": [
+    {
+      "id": 1001,
+      "title": "Bitte um Hilfe bei der Betreuung meiner Tochter",
+      "text": "Liebe Nadia,\nich hoffe, es geht dir gut. Heute Abend findet das Elternabendtreffen in der Schule meiner Tochter statt, und ich muss unbedingt daran teilnehmen. Könntest du bitte auf meine Tochter aufpassen, bis ich zurückkomme? Das würde mir sehr helfen. Vielen Dank im Voraus für deine Unterstützung.\nLiebe Grüße,\nFatima",
+      "text_ar": "عزيزتي نادية،\nأتمنى أن تكوني بخير. مساء اليوم هناك اجتماع أولياء الأمور في مدرسة ابنتي، ويجب علي الحضور. هل يمكنك الاعتناء بابنتي حتى أعود؟ سيكون ذلك عونًا كبيرًا لي. شكراً جزيلاً لمساعدتك.\nمع تحياتي،\nفاطمة"
+    },
+    {
+      "id": 1002,
+      "title": "Beschwerde wegen Müll im Treppenhaus",
+      "text": "Sehr geehrter Hausverwalter,\nin letzter Zeit gibt es ein großes Problem mit Müll im Treppenhaus unseres Gebäudes. Die Abfälle werden nicht regelmäßig entfernt und verursachen unangenehme Gerüche. Ich bitte Sie, diese Angelegenheit schnell zu klären, damit wir wieder ein sauberes und angenehmes Wohnumfeld haben. Vielen Dank für Ihre Unterstützung.\nMit freundlichen Grüßen,\nAhmed",
+      "text_ar": "عزيزي مسؤول المبنى،\nفي الفترة الأخيرة هناك مشكلة كبيرة بسبب تراكم القمامة في درج المبنى. لم يتم تنظيفها بانتظام مما يسبب روائح كريهة. أرجو معالجة هذا الأمر بسرعة لكي نعيش في بيئة نظيفة ومريحة. شكراً لدعمكم.\nمع تحياتي،\nأحمد"
+    },
+    {
+      "id": 1003,
+      "title": "Anfrage zur Kündigung eines Telefonvertrags",
+      "text": "Sehr geehrte Damen und Herren,\nich möchte meinen Telefonvertrag bei Ihnen zum nächstmöglichen Zeitpunkt kündigen. Bitte bestätigen Sie mir die Kündigung schriftlich und teilen Sie mir das Vertragsende mit. Falls noch offene Zahlungen bestehen, informieren Sie mich bitte ebenfalls. Vielen Dank für die bisherige Zusammenarbeit.\nMit freundlichen Grüßen,\nSami",
+      "text_ar": "السادة المحترمون،\nأرغب في إلغاء عقد الهاتف الخاص بي معكم في أقرب وقت ممكن. أرجو تأكيد الإلغاء كتابيًا وإعلامي بتاريخ انتهاء العقد. إذا كانت هناك مبالغ مستحقة، أرجو إعلامي أيضًا. شكرًا لتعاونكم.\nمع تحياتي،\nسامي"
+    },
+    {
+      "id": 1004,
+      "title": "Anfrage nach einer größeren Wohnung",
+      "text": "Sehr geehrter Vermieter,\nich wohne derzeit in einer kleinen Wohnung in Ihrem Gebäude und suche eine größere Wohnung, da meine Familie wächst. Können Sie mir bitte mitteilen, ob eine passende Wohnung verfügbar ist und wie die Mietkonditionen sind? Ich freue mich auf Ihre Antwort und danke Ihnen im Voraus.\nMit freundlichen Grüßen,\nLina",
+      "text_ar": "عزيزي المؤجر،\nأعيش حاليًا في شقة صغيرة في المبنى وأبحث عن شقة أكبر لأن عائلتي تكبر. هل يمكنك إخباري إذا كانت هناك شقة مناسبة متوفرة وما هي شروط الإيجار؟ أتطلع لردكم وشكرًا مقدمًا.\nمع تحياتي،\nلينا"
+    },
+    {
+      "id": 1005,
+      "title": "Bitte um Informationen zum Elternabend",
+      "text": "Liebe Frau Schmidt,\nich möchte mich erkundigen, wann der nächste Elternabend stattfindet. Es ist wichtig für mich, teilzunehmen, da ich die schulischen Leistungen meines Sohnes besprechen möchte. Bitte informieren Sie mich über Datum und Uhrzeit. Vielen Dank für Ihre Hilfe.\nMit freundlichen Grüßen,\nKhalid",
+      "text_ar": "عزيزتي السيدة شميت،\nأود الاستفسار عن موعد اجتماع أولياء الأمور القادم. من المهم بالنسبة لي الحضور لمناقشة أداء ابني الدراسي. أرجو إبلاغي بالتاريخ والوقت. شكراً لمساعدتكم.\nمع تحياتي،\nخالد"
+    }
+  ]
+},
+
+  {
+  "id": 1020,
+  "title": "Verschiedene Nachrichten",
+  "level": "A2",
+  "subtopics": [
+    {
+      "id": 1021,
+      "title": "Bitte um Geschenk und Besuch für Kollegin mit Baby",
+      "text": "Liebe Kursteilnehmer,\nunsere Kollegin Sarah hat ein Baby bekommen. Wir wollen eine Geschenkbox vorbereiten und sie besuchen, um ihr zu gratulieren. Jeder kann einen kleinen Beitrag leisten. Wer möchte mitkommen? Bitte gebt Bescheid, damit wir alles planen können.\nViele Grüße,\nMona",
+      "text_ar": "أعزائي زملاء الكورس،\nرزقت زميلتنا سارة بطفل. نريد تجهيز صندوق هدايا وزيارتها لتهنئتها. يمكن لكل واحد أن يساهم بقليل. من يرغب في المجيء؟ رجاءً أخبروني لتنظيم الأمور.\nمع تحياتي،\nمنى"
+    },
+    {
+      "id": 1022,
+      "title": "Anfrage nach Reinigung des Treppenhauses",
+      "text": "Sehr geehrter Hausmeister,\ndas Treppenhaus im Gebäude ist seit einigen Tagen sehr schmutzig. Wir bitten Sie freundlich, die Reinigung zu veranlassen, damit die Wohnqualität erhalten bleibt. Vielen Dank für Ihre Unterstützung und schnelle Rückmeldung.\nMit freundlichen Grüßen,\nMieter der Wohnung 3B",
+      "text_ar": "عزيزي مسؤول المبنى،\nالدرج في المبنى متسخ منذ عدة أيام. نرجو منك ترتيب تنظيفه للحفاظ على جودة السكن. شكرًا لدعمك وسرعة الرد.\nمع تحياتي،\nسكان الشقة 3ب"
+    },
+    {
+      "id": 1023,
+      "title": "Beschwerde wegen defekter Straßenbeleuchtung",
+      "text": "Sehr geehrte Damen und Herren,\nseit über einer Woche funktioniert die Straßenbeleuchtung vor unserem Haus nicht. Dies stellt ein Sicherheitsrisiko dar, besonders nachts. Wir bitten um schnelle Reparatur der Beleuchtung. Vielen Dank für Ihr Verständnis.\nMit freundlichen Grüßen,\nAnwohner der Musterstraße 12",
+      "text_ar": "السادة الأعزاء،\nلم تعمل إنارة الشارع أمام منزلنا منذ أكثر من أسبوع. هذا يشكل خطرًا أمنيًا، خصوصًا في الليل. نرجو إصلاح الإنارة بسرعة. شكرًا لتفهمكم.\nمع تحياتي،\nسكان شارع المثال 12"
+    },
+    {
+      "id": 1024,
+      "title": "Anfrage zur Verfügbarkeit einer größeren Wohnung",
+      "text": "Sehr geehrte Damen und Herren,\nich wohne derzeit in einer kleinen Wohnung und suche eine größere mit mindestens drei Zimmern. Könnten Sie mir bitte mitteilen, ob Sie aktuell passende Wohnungen zur Verfügung haben? Ich freue mich auf Ihre Antwort.\nMit freundlichen Grüßen,\nFrau Müller",
+      "text_ar": "السادة الأعزاء،\nأسكن حاليًا في شقة صغيرة وأبحث عن شقة أكبر بثلاث غرف على الأقل. هل يمكنكم إخباري إذا كان لديكم شقق مناسبة متاحة؟ أتطلع لردكم.\nمع تحياتي،\nالسيدة مولر"
+    },
+    {
+      "id": 1025,
+      "title": "Bitte um Unterstützung bei Kinderbetreuung",
+      "text": "Liebe Nachbarin,\nich habe nächste Woche einen wichtigen Termin und kann meine Tochter nicht betreuen. Könntest du mir bitte helfen und auf sie aufpassen? Ich wäre dir sehr dankbar. Bitte gib mir Bescheid, ob es möglich ist.\nViele Grüße,\nSabine",
+      "text_ar": "عزيزتي الجارة،\nلدي موعد مهم الأسبوع المقبل ولا أستطيع رعاية ابنتي. هل يمكنك مساعدتي والاعتناء بها؟ سأكون ممتنة جدًا. رجاءً أخبريني إذا كان ذلك ممكنًا.\nمع تحياتي،\nسابين"
+    }
+  ]
+},
+
+  {
+  "id": 1030,
+  "title": "Beschwerden und Anfragen",
+  "level": "A2",
+  "subtopics": [
+    {
+      "id": 1031,
+      "title": "Beschwerde über defekten Backofen und Reparaturbitte",
+      "text": "Sehr geehrte Damen und Herren,\nich möchte mich über meinen Backofen beschweren, der seit einigen Tagen nicht richtig funktioniert. Die Heizfunktion ist schwach, und das Essen wird nicht richtig gebacken. Bitte senden Sie so schnell wie möglich einen Techniker zur Reparatur. Vielen Dank für Ihre Unterstützung.\nMit freundlichen Grüßen,\nAhmed Khaled",
+      "text_ar": "السادة الأعزاء،\nأود أن أشتكي من فرن الطعام الخاص بي الذي لا يعمل بشكل جيد منذ عدة أيام. وظيفة التسخين ضعيفة والطعام لا يُطهى جيدًا. أرجو إرسال فني للصيانة بأسرع وقت ممكن. شكرًا لدعمكم.\nمع تحياتي،\nأحمد خالد"
+    },
+    {
+      "id": 1032,
+      "title": "Anfrage zur Vertragskündigung des Handyvertrags",
+      "text": "Sehr geehrte Damen und Herren,\nich möchte meinen Handyvertrag zum nächstmöglichen Zeitpunkt kündigen. Bitte bestätigen Sie mir die Kündigung schriftlich und informieren Sie mich über die weiteren Schritte. Ich danke Ihnen für die bisherige Zusammenarbeit.\nMit freundlichen Grüßen,\nSara Müller",
+      "text_ar": "السادة الأعزاء،\nأرغب في إلغاء عقد الهاتف الخاص بي في أقرب وقت ممكن. يرجى تأكيد الإلغاء كتابيًا وإبلاغي بالإجراءات اللازمة. أشكركم على التعاون السابق.\nمع تحياتي،\nسارة مولر"
+    },
+    {
+      "id": 1033,
+      "title": "Beschwerde wegen mangelhafter Sauberkeit im Treppenhaus",
+      "text": "Sehr geehrter Hausverwalter,\ndas Treppenhaus in unserem Gebäude ist seit einiger Zeit nicht sauber. Es gibt viel Müll und Staub, was die Bewohner sehr stört. Ich bitte Sie, die Reinigung häufiger und gründlicher durchzuführen. Vielen Dank für Ihr Verständnis.\nMit freundlichen Grüßen,\nKhalid Ahmed",
+      "text_ar": "عزيزي مسؤول المبنى،\nلم يتم تنظيف الدرج في المبنى لفترة طويلة، وهناك الكثير من القمامة والغبار مما يزعج السكان. أرجو زيادة وتنظيم أعمال التنظيف بشكل أفضل. شكرًا لتفهمكم.\nمع تحياتي،\nخالد أحمد"
+    },
+    {
+      "id": 1034,
+      "title": "Anfrage für größere Wohnung beim Vermieter",
+      "text": "Sehr geehrte Damen und Herren,\nich wohne derzeit in einer kleinen Wohnung und interessiere mich für eine größere Wohnung in Ihrem Haus. Können Sie mir bitte mitteilen, ob aktuell eine größere Wohnung verfügbar ist und welche Konditionen gelten? Ich freue mich auf Ihre Antwort.\nMit freundlichen Grüßen,\nLina Hassan",
+      "text_ar": "السادة الأعزاء،\nأنا أعيش حاليًا في شقة صغيرة وأرغب في معرفة إذا كانت هناك شقة أكبر متاحة في نفس المبنى وشروط الإيجار الخاصة بها. أتطلع لردكم.\nمع تحياتي،\nلينا حسن"
+    },
+    {
+      "id": 1035,
+      "title": "Bitte um Hilfe von Nachbarin wegen Kinderbetreuung",
+      "text": "Liebe Frau Schmidt,\nich möchte Sie bitten, heute Abend auf meine Tochter aufzupassen, da ich an einem Elternabend in der Schule teilnehmen muss. Es würde mir sehr helfen, wenn Sie mir dabei unterstützen könnten. Vielen Dank im Voraus für Ihre Hilfe.\nHerzliche Grüße,\nMaria Weber",
+      "text_ar": "عزيزتي السيدة شميت،\nأود طلب مساعدتك في رعاية ابنتي مساء اليوم لأنني سأحضر اجتماع أولياء الأمور في المدرسة. سأكون ممتنة جدًا لمساعدتك. شكرًا مقدمًا.\nمع خالص تحياتي،\nماريا ويبر"
+    }
+  ]
+},
+
+  {
+  "id": 1040,
+  "title": "Anfragen und Bitten zur Kinderbetreuung",
+  "level": "A2",
+  "subtopics": [
+    {
+      "id": 1041,
+      "title": "Anfrage zur Verfügbarkeit der Kinderbetreuung",
+      "text": "Liebe Frau Müller,\nich interessiere mich für Ihre Kinderbetreuungsdienste und möchte wissen, ob Sie in den kommenden Monaten noch Plätze frei haben. Es wäre wichtig für mich zu erfahren, welche Zeiten Sie anbieten und ob eine flexible Betreuung möglich ist. Außerdem interessiert mich, wie Sie mit den Kindern spielen und lernen. Ich freue mich auf Ihre Antwort.\nMit freundlichen Grüßen,\nSamir Hassan",
+      "text_ar": "عزيزتي السيدة مولر،\nأنا مهتم بخدمات رعاية الأطفال التي تقدمينها وأود معرفة إذا كان لديك أماكن متاحة في الأشهر القادمة. من المهم لي معرفة الأوقات التي تقدمينها وإذا كانت الرعاية مرنة. كما أريد أن أعرف كيف تلعبين مع الأطفال وتعلميهم. أتطلع لردك.\nمع تحياتي،\nسمير حسن"
+    },
+    {
+      "id": 1042,
+      "title": "Bitte um Informationen zu Preisen und Leistungen",
+      "text": "Sehr geehrte Frau Müller,\nbitte senden Sie mir Informationen zu Ihren Preisen und den angebotenen Leistungen in der Kinderbetreuung. Besonders interessiert mich, ob Sie auch Mahlzeiten und Hausaufgabenbetreuung anbieten. Ich möchte sicherstellen, dass mein Kind gut versorgt wird. Danke im Voraus für Ihre Rückmeldung.\nMit besten Grüßen,\nSamir Hassan",
+      "text_ar": "السيدة مولر المحترمة،\nيرجى تزويدي بمعلومات عن أسعارك والخدمات التي تقدمينها في رعاية الأطفال. يهمني خاصة إذا كنت تقدمين وجبات ورعاية للواجبات المنزلية. أريد التأكد من أن طفلي سيكون في رعاية جيدة. شكرًا مقدمًا على ردك.\nمع أطيب التحيات،\nسمير حسن"
+    },
+    {
+      "id": 1043,
+      "title": "Anfrage nach Referenzen und Erfahrung",
+      "text": "Liebe Frau Müller,\nbevor ich Ihre Dienste in Anspruch nehme, möchte ich gern etwas mehr über Ihre Erfahrung und Referenzen erfahren. Haben Sie bereits mit Kindern in meinem Alter gearbeitet? Können Sie mir einige Empfehlungen von anderen Eltern geben? Ich lege großen Wert auf eine vertrauensvolle Betreuung. Vielen Dank für Ihre Auskunft.\nHerzliche Grüße,\nSamir Hassan",
+      "text_ar": "عزيزتي السيدة مولر،\nقبل أن أستخدم خدماتك، أود أن أعرف المزيد عن خبرتك ومراجعك. هل عملت مع أطفال في عمري من قبل؟ هل يمكنك تزويدي بتوصيات من أولياء أمور آخرين؟ أُعطي أهمية كبيرة لرعاية موثوقة. شكرًا على المعلومات.\nمع أطيب التحيات،\nسمير حسن"
+    },
+    {
+      "id": 1044,
+      "title": "Anfrage zu Betreuungszeiten und Flexibilität",
+      "text": "Sehr geehrte Frau Müller,\nich würde gerne wissen, welche Betreuungszeiten Sie anbieten und ob es möglich ist, diese flexibel zu gestalten. Mein Arbeitsplan ändert sich manchmal, daher brauche ich eine Betreuung, die sich anpassen lässt. Außerdem interessiert mich, ob Sie auch an Wochenenden verfügbar sind. Vielen Dank für Ihre Antwort.\nMit freundlichen Grüßen,\nSamir Hassan",
+      "text_ar": "السيدة مولر المحترمة،\nأود معرفة مواعيد الرعاية التي تقدمينها وإذا كان من الممكن أن تكون مرنة. أوقات عملي تتغير أحيانًا، لذلك أحتاج لرعاية تتكيف مع ذلك. كما أريد معرفة إذا كنت متاحة في عطلات نهاية الأسبوع. شكرًا على ردك.\nمع تحياتي،\nسمير حسن"
+    },
+    {
+      "id": 1045,
+      "title": "Bitte um Besichtigung und persönliches Gespräch",
+      "text": "Liebe Frau Müller,\nich möchte gerne einen Termin vereinbaren, um Ihre Räumlichkeiten zu besichtigen und Sie persönlich kennenzulernen. Mir ist es wichtig, dass mein Kind sich wohlfühlt und ich möchte alle Details mit Ihnen besprechen. Bitte teilen Sie mir mit, wann ein Treffen möglich wäre. Vielen Dank für Ihre Zeit.\nHerzliche Grüße,\nSamir Hassan",
+      "text_ar": "عزيزتي السيدة مولر،\nأرغب في تحديد موعد لزيارة المكان والتعرف عليك شخصيًا. من المهم لي أن يشعر طفلي بالراحة وأريد مناقشة جميع التفاصيل معك. يرجى إعلامي بموعد مناسب للقاء. شكرًا على وقتك.\nمع أطيب التحيات،\nسمير حسن"
+    }
+  ]
+},
+  {
+  "id": 2001,
+  "title": "Verschiedene Briefe und Beschwerden",
+  "level": "A2",
+  "subtopics": [
+    {
+      "id": 2002,
+      "title": "Beschwerde über falsche Stromrechnung",
+      "text": "Sehr geehrte Damen und Herren, ich habe eine Stromrechnung erhalten, die nicht meiner tatsächlichen Nutzung entspricht. Der Betrag ist viel zu hoch. Bitte überprüfen Sie die Rechnung und senden Sie mir eine korrigierte Version. Ich hoffe auf schnelle Klärung und danke Ihnen im Voraus für Ihre Hilfe. Mit freundlichen Grüßen, Ahmed.",
+      "text_ar": "السادة الأعزاء، لقد استلمت فاتورة كهرباء لا تتوافق مع استهلاكي الحقيقي. المبلغ مرتفع جدًا. أرجو التحقق من الفاتورة وإرسال نسخة مصححة لي. أتمنى حل المشكلة سريعًا وأشكركم مقدمًا على مساعدتكم. مع تحياتي، أحمد."
+    },
+    {
+      "id": 2003,
+      "title": "Anfrage für größere Wohnung",
+      "text": "Sehr geehrter Vermieter, ich interessiere mich für eine größere Wohnung in Ihrem Gebäude. Meine aktuelle Wohnung ist zu klein für meine Familie. Können Sie mir Informationen über verfügbare Wohnungen geben? Ich würde mich über eine baldige Rückmeldung freuen. Vielen Dank im Voraus. Mit freundlichen Grüßen, Sarah.",
+      "text_ar": "السيد المؤجر، أنا مهتمة بشقة أكبر في المبنى. شقتي الحالية صغيرة لعائلتي. هل يمكنك تزويدي بمعلومات عن الشقق المتاحة؟ سأكون ممتنة لردك قريبًا. شكرًا مقدمًا. مع تحياتي، سارة."
+    },
+    {
+      "id": 2004,
+      "title": "Bitte um Hilfe bei Kinderbetreuung",
+      "text": "Liebe Nachbarin, ich hoffe, es geht dir gut. Ich wollte dich bitten, mir zu helfen, auf meine Tochter aufzupassen, während ich abends zum Elternabend gehe. Es dauert nicht lange und ich würde mich sehr über deine Unterstützung freuen. Vielen Dank im Voraus! Herzliche Grüße, Lena.",
+      "text_ar": "عزيزتي الجارة، أتمنى أن تكوني بخير. أود أن أطلب منك المساعدة في رعاية ابنتي أثناء ذهابي لاجتماع أولياء الأمور مساءً. لن يطول الأمر وأكون شاكرة لدعمك. شكرًا مقدمًا! مع أطيب التحيات، لينا."
+    },
+    {
+      "id": 2005,
+      "title": "Beschwerde über Müllproblem im Gebäude",
+      "text": "Sehr geehrter Vermieter, in unserem Gebäude gibt es ein Müllproblem, das dringend behoben werden muss. Die Mülltonnen werden nicht regelmäßig geleert, und es entstehen unangenehme Gerüche. Ich bitte Sie, sich darum zu kümmern, damit das Wohnumfeld sauber bleibt. Vielen Dank für Ihr Verständnis. Mit freundlichen Grüßen, Karim.",
+      "text_ar": "السيد المؤجر، لدينا مشكلة في القمامة بالمبنى تحتاج إلى حل عاجل. الحاويات لا تفرغ بانتظام وتنتشر الروائح الكريهة. أرجو الاهتمام بالأمر للحفاظ على نظافة المكان. شكرًا لتفهمكم. مع تحياتي، كريم."
+    },
+    {
+      "id": 2006,
+      "title": "Anfrage für eine Wartung des Backofens",
+      "text": "Sehr geehrte Damen und Herren, unser Backofen funktioniert nicht richtig und ich möchte eine Reparatur beantragen. Bitte teilen Sie mir mit, wann ein Techniker kommen kann, um das Gerät zu überprüfen. Ich hoffe auf eine schnelle Antwort, da ich den Backofen dringend benötige. Vielen Dank für Ihre Unterstützung. Mit freundlichen Grüßen, Fatima.",
+      "text_ar": "السادة الأعزاء، فرن الطعام لدينا لا يعمل بشكل جيد وأرغب في طلب صيانة. أرجو إخباري بموعد قدوم الفني لفحص الجهاز. أتمنى ردًا سريعًا لأنني أحتاج الفرن بشدة. شكرًا لدعمكم. مع تحياتي، فاطمة."
+    }
+  ]
+},
+{
+  "id": 3000,
+  "title": "Anfragen und Beschwerden zu verschiedenen Themen",
+  "level": "A2",
+  "subtopics": [
+    {
+      "id": 3001,
+      "title": "Anfrage zu einem Altenpflegekurs",
+      "text": "Sehr geehrte Damen und Herren, ich interessiere mich für den Altenpflegekurs in Ihrer Schule. Bitte senden Sie mir Informationen über Kursinhalte, Dauer, Termine und Kosten. Ich möchte gerne wissen, ob es Voraussetzungen für die Teilnahme gibt und wie die Anmeldung abläuft. Vielen Dank für Ihre Unterstützung. Mit freundlichen Grüßen, Ahmed.",
+      "text_ar": "السادة الأعزاء، أنا مهتم بدورة رعاية المسنين في مدرستكم. يرجى إرسال معلومات عن محتوى الدورة، المدة، المواعيد والتكاليف. أود معرفة إذا كانت هناك شروط للمشاركة وكيفية التسجيل. شكرًا لدعمكم. مع تحياتي، أحمد."
+    },
+    {
+      "id": 3002,
+      "title": "Beschwerde wegen fehlerhafter Stromrechnung",
+      "text": "Sehr geehrte Damen und Herren, ich habe eine Stromrechnung erhalten, die meiner Meinung nach nicht korrekt ist. Der Betrag ist viel höher als üblich, obwohl mein Verbrauch nicht gestiegen ist. Bitte überprüfen Sie die Rechnung und korrigieren Sie den Fehler schnellstmöglich. Ich danke Ihnen im Voraus für Ihre Hilfe. Mit freundlichen Grüßen, Sara.",
+      "text_ar": "السادة الأعزاء، استلمت فاتورة كهرباء أعتقد أنها غير صحيحة. المبلغ أعلى بكثير من المعتاد رغم أن استهلاكي لم يزد. يرجى مراجعة الفاتورة وتصحيح الخطأ بأسرع وقت. شكراً لمساعدتكم. مع تحياتي، سارة."
+    },
+    {
+      "id": 3003,
+      "title": "Anfrage zur Wohnung mit mehr Platz",
+      "text": "Sehr geehrter Vermieter, ich interessiere mich für eine größere Wohnung als meine jetzige. Können Sie mir bitte Informationen zu verfügbaren Wohnungen mit mehr Zimmern und größerer Fläche geben? Außerdem würde ich gerne wissen, wie hoch die Miete und die Nebenkosten sind. Ich freue mich auf Ihre Antwort. Mit freundlichen Grüßen, Khaled.",
+      "text_ar": "عزيزي المؤجر، أنا مهتم بشقة أكبر من شقتي الحالية. هل يمكنكم تزويدي بمعلومات عن الشقق المتوفرة التي تحتوي على غرف ومساحة أكبر؟ وأود معرفة قيمة الإيجار والمصاريف الإضافية. أتطلع لردكم. مع تحياتي، خالد."
+    },
+    {
+      "id": 3004,
+      "title": "Bitte um Hilfe bei Kinderbetreuung",
+      "text": "Liebe Nachbarin, ich möchte Sie um einen Gefallen bitten. Könnten Sie auf meine Tochter aufpassen, während ich am Abend an einem wichtigen Treffen der Elternteilversammlung teilnehme? Es wäre nur für ein paar Stunden, und ich würde mich sehr über Ihre Unterstützung freuen. Vielen Dank im Voraus. Herzliche Grüße, Fatima.",
+      "text_ar": "عزيزتي الجارة، أود طلب مساعدة منك. هل يمكنك العناية بابنتي أثناء حضوري اجتماع هام لأولياء الأمور مساءً؟ سيكون لبضع ساعات فقط، وسأكون ممتنة لدعمك. شكراً جزيلاً مقدماً. تحياتي، فاطمة."
+    },
+    {
+      "id": 3005,
+      "title": "Beschwerde über mangelnde Sauberkeit im Treppenhaus",
+      "text": "Sehr geehrter Hausverwalter, ich möchte mich über die Sauberkeit im Treppenhaus beschweren. Seit einigen Wochen wird das Treppenhaus nicht regelmäßig gereinigt, was zu einem unansehnlichen und unangenehmen Geruch führt. Bitte veranlassen Sie schnellstmöglich eine gründliche Reinigung. Vielen Dank für Ihr Verständnis. Mit freundlichen Grüßen, Youssef.",
+      "text_ar": "عزيزي مسؤول المبنى، أود تقديم شكوى بخصوص نظافة الدرج. منذ عدة أسابيع لا يتم تنظيف الدرج بانتظام، مما أدى إلى منظر غير لائق ورائحة مزعجة. يرجى ترتيب تنظيف شامل في أقرب وقت. شكراً لتفهمكم. مع تحياتي، يوسف."
+    }
+  ]
+},
+  {
+  "id": 4000,
+  "title": "Anfragen und Beschwerden im Alltag",
+  "level": "A2",
+  "subtopics": [
+    {
+      "id": 4001,
+      "title": "Anfrage an ein Fitnessstudio",
+      "text": "Sehr geehrte Damen und Herren, ich interessiere mich für eine Mitgliedschaft in Ihrem Fitnessstudio. Bitte senden Sie mir Informationen über Preise, Öffnungszeiten und angebotene Kurse. Gibt es eine Möglichkeit für eine kostenlose Probewoche? Vielen Dank für Ihre Antwort. Mit freundlichen Grüßen, Layla.",
+      "text_ar": "السادة الأعزاء، أنا مهتمة بعضوية في ناديكم الرياضي. الرجاء تزويدي بمعلومات عن الأسعار، ساعات العمل، والدورات المتوفرة. هل يمكنني تجربة النادي مجاناً لمدة أسبوع؟ شكراً لردكم. مع تحياتي، ليلى."
+    },
+    {
+      "id": 4002,
+      "title": "Beschwerde über laute Nachbarn",
+      "text": "Sehr geehrter Hausverwalter, ich möchte mich über die lauten Nachbarn in meiner Wohnung beschweren. Besonders abends ist der Lärm sehr störend und beeinträchtigt meinen Schlaf. Ich bitte Sie, das Problem zu überprüfen und geeignete Maßnahmen zu ergreifen. Vielen Dank für Ihre Unterstützung. Mit freundlichen Grüßen, Ahmed.",
+      "text_ar": "السيد مدير العقار المحترم، أود أن أشتكي من جيراني المزعجين في شقتي. خاصةً في المساء يكون الضجيج مزعجًا جدًا ويؤثر على نومي. أرجو منكم متابعة المشكلة واتخاذ الإجراءات اللازمة. شكراً لدعمكم. مع تحياتي، أحمد."
+    },
+    {
+      "id": 4003,
+      "title": "Anfrage für Kinderbetreuung",
+      "text": "Sehr geehrte Damen und Herren, ich suche eine zuverlässige Kinderbetreuung für meinen Sohn. Können Sie mir bitte Informationen über Ihre Dienstleistungen, Preise und verfügbare Zeiten schicken? Ich würde mich über eine schnelle Antwort freuen. Vielen Dank und freundliche Grüße, Sara.",
+      "text_ar": "السادة الأعزاء، أبحث عن رعاية أطفال موثوقة لابني. هل يمكنكم تزويدي بمعلومات عن خدماتكم، الأسعار، وأوقات العمل؟ سأكون ممتنة لردكم السريع. شكراً وتحياتي، سارة."
+    },
+    {
+      "id": 4004,
+      "title": "Beschwerde über verspäteten Bus",
+      "text": "Sehr geehrte Damen und Herren, ich möchte mich über den regelmäßig verspäteten Bus in meiner Gegend beschweren. Die Verspätungen verursachen Probleme bei der Arbeit und anderen Terminen. Ich bitte Sie, die Situation zu verbessern und pünktlichere Fahrten anzubieten. Vielen Dank für Ihre Bemühungen. Mit freundlichen Grüßen, Karim.",
+      "text_ar": "السادة الأعزاء، أود أن أشتكي من تأخير الحافلة بشكل منتظم في منطقتي. هذه التأخيرات تسبب مشاكل في عملي ومواعيدي الأخرى. أرجو منكم تحسين الوضع وتوفير رحلات في الوقت المحدد. شكراً لجهودكم. مع تحياتي، كريم."
+    },
+    {
+      "id": 4005,
+      "title": "Anfrage zur Wohnungssanierung",
+      "text": "Sehr geehrter Vermieter, ich möchte mich erkundigen, ob eine Renovierung der Wohnung geplant ist. Die Wände haben Risse und die Fenster sind alt. Ich würde mich freuen, wenn Sie mir mitteilen könnten, wann die Arbeiten beginnen. Vielen Dank für Ihre Antwort. Mit freundlichen Grüßen, Mona.",
+      "text_ar": "السيد المؤجر المحترم، أود الاستفسار عما إذا كانت هناك خطة لتجديد الشقة. الجدران بها تشققات والنوافذ قديمة. سأكون سعيدة لو أخبرتموني بموعد بدء الأعمال. شكراً لردكم. مع تحياتي، منى."
+    }
+  ]
+}
+,
+  {
+  "id": 6000,
+  "title": "دعوات وشكر وأحداث شخصية",
+  "level": "A2",
+  "subtopics": [
+    {
+      "id": 6001,
+      "title": "دعوة الأصدقاء بعد المساعدة في النقل",
+      "text": "Hallo liebe Freunde,\nich möchte mich ganz herzlich bei euch für eure Hilfe beim Umzug in mein neues Zuhause bedanken. Eure Unterstützung hat den Umzug viel einfacher gemacht. Als Dankeschön lade ich euch zu einer kleinen Feier am Samstag um 18 Uhr ein. Bitte sagt mir Bescheid, ob ihr kommen könnt. Ich freue mich auf euch!\nLiebe Grüße,\nAli",
+      "text_ar": "أصدقائي الأعزاء،\nأود أن أشكركم جزيل الشكر على مساعدتكم في نقل أثاثي إلى البيت الجديد. دعمكم جعل النقل أسهل بكثير. وكتعبير عن امتناني، أدعوكم إلى حفلة صغيرة يوم السبت الساعة السادسة مساءً. رجاءً أخبروني إذا كنتم قادرين على الحضور. أتطلع لرؤيتكم!\nمع تحياتي،\nعلي"
+    },
+    {
+      "id": 6002,
+      "title": "شكر للأصدقاء على دعمهم في وقت صعب",
+      "text": "Hallo zusammen,\nich möchte mich bei euch bedanken, dass ihr in der schwierigen Zeit für mich da wart. Eure Hilfe und Unterstützung haben mir sehr geholfen. Es ist schön, so gute Freunde zu haben. Ich hoffe, wir sehen uns bald wieder und können zusammen Zeit verbringen.\nViele Grüße,\nSara",
+      "text_ar": "مرحبًا جميعًا،\nأود أن أشكركم على وجودكم بجانبي في الوقت الصعب. مساعدتكم ودعمكم كان له أثر كبير علي. من الجميل أن يكون لدي أصدقاء جيدون مثلكم. أتمنى أن نلتقي قريبًا ونقضي وقتًا معًا.\nتحياتي،\nسارة"
+    },
+    {
+      "id": 6003,
+      "title": "دعوة لحضور حفل عيد ميلاد",
+      "text": "Hallo liebe Freunde,\nich möchte euch herzlich zu meinem Geburtstag am Freitag um 19 Uhr einladen. Es wird Musik, Essen und gute Stimmung geben. Bitte gebt mir Bescheid, ob ihr kommen könnt, damit ich besser planen kann. Ich freue mich sehr auf euer Kommen!\nLiebe Grüße,\nAhmed",
+      "text_ar": "أصدقائي الأعزاء،\nأود أن أدعوكم بحفاوة إلى عيد ميلادي يوم الجمعة الساعة السابعة مساءً. سيكون هناك موسيقى وطعام وأجواء جميلة. رجاءً أخبروني إذا كنتم قادرين على الحضور لكي أتمكن من التنظيم بشكل أفضل. أتطلع جدًا لرؤيتكم!\nمع تحياتي،\nأحمد"
+    },
+    {
+      "id": 6004,
+      "title": "رسالة شكر لمعلم بعد انتهاء دورة تدريبية",
+      "text": "Hallo Herr Müller,\nvielen Dank für den großartigen Unterricht in den letzten Wochen. Ich habe viel gelernt und fühle mich jetzt sicherer in dem Thema. Ihre Erklärungen waren immer klar und hilfreich. Ich hoffe, dass ich bald wieder einen Kurs bei Ihnen besuchen kann.\nMit freundlichen Grüßen,\nLina",
+      "text_ar": "مرحبًا أستاذ مولر،\nشكرًا جزيلاً على الدروس الرائعة خلال الأسابيع الماضية. تعلمت الكثير وأشعر الآن بثقة أكبر في الموضوع. كانت شروحاتك دائمًا واضحة ومفيدة. آمل أن أحضر دورة أخرى معك قريبًا.\nمع أطيب التحيات،\nلينا"
+    },
+    {
+      "id": 6005,
+      "title": "طلب نصيحة من صديق بشأن شراء سيارة مستعملة",
+      "text": "Hallo Tom,\nich überlege, mir ein gebrauchtes Auto zu kaufen, bin mir aber unsicher, worauf ich achten soll. Kannst du mir Tipps geben, welche Modelle gut sind und worauf ich beim Kauf achten muss? Es wäre toll, wenn du mir auch sagen könntest, ob ich besser einen Experten zur Begutachtung mitnehmen soll. Vielen Dank im Voraus für deine Hilfe!\nLiebe Grüße,\nJana",
+      "text_ar": "مرحبًا توم،\nأفكر في شراء سيارة مستعملة، لكنني لست متأكدة من الأشياء التي يجب الانتباه لها. هل يمكنك أن تعطيني نصائح عن الموديلات الجيدة وما الذي يجب مراعاته عند الشراء؟ سيكون رائعًا لو أخبرتني إذا من الأفضل اصطحاب خبير لفحص السيارة. شكرًا مقدمًا على مساعدتك!\nمع تحياتي،\nجانا"
+    }
+  ]
+}
+,
+  {
+  "id": 7001,
+  "title": "Beschwerde über verspätete Lieferung bei Online-Shop",
+  "level": "A2",
+  "subtopics": [
+    {
+      "id": 7002,
+      "title": "Verspätete Lieferung eines bestellten Produkts",
+      "text": "Sehr geehrtes Team,\nich habe vor vier Wochen ein Produkt bei Ihnen bestellt und warte immer noch auf die Lieferung. Das Produkt ist für mich sehr wichtig, und ich bin enttäuscht, dass es noch nicht angekommen ist. Ich bitte Sie, den Status meiner Bestellung zu überprüfen und mir schnellstmöglich mitzuteilen, wann ich mit der Lieferung rechnen kann. Vielen Dank für Ihre Unterstützung.\nMit freundlichen Grüßen,\nKhaled",
+      "text_ar": "فريق العمل المحترم،\nلقد طلبت منتجًا من عندكم منذ أربعة أسابيع وما زلت أنتظر وصوله. هذا المنتج مهم جدًا بالنسبة لي، وأنا أشعر بخيبة أمل لأنه لم يصل بعد. أرجو منكم التحقق من حالة طلبي وإبلاغي بأسرع وقت ممكن متى يمكنني توقع استلامه. شكرًا لدعمكم.\nمع تحياتي،\nخالد"
+    },
+    {
+      "id": 7003,
+      "title": "Produkt beschädigt angekommen",
+      "text": "Sehr geehrtes Kundenservice-Team,\nich habe letzte Woche ein Produkt von Ihnen erhalten, aber leider ist es beschädigt angekommen. Das beeinträchtigt die Nutzung erheblich. Ich bitte um eine schnelle Lösung, entweder durch Ersatz oder Rückerstattung. Bitte informieren Sie mich über die nächsten Schritte. Vielen Dank für Ihre Hilfe.\nMit freundlichen Grüßen,\nSara",
+      "text_ar": "فريق خدمة العملاء المحترم،\nتلقيت منتجًا منكم الأسبوع الماضي، لكنه وصل معيبًا للأسف. هذا يؤثر بشكل كبير على استخدامي له. أرجو حلًا سريعًا، إما بالاستبدال أو الاسترجاع. أرجو إبلاغي بالخطوات القادمة. شكرًا لمساعدتكم.\nمع تحياتي،\nسارة"
+    },
+    {
+      "id": 7004,
+      "title": "Falsches Produkt geliefert",
+      "text": "Sehr geehrtes Team,\nleider habe ich ein falsches Produkt erhalten. Ich hatte ein anderes Modell bestellt, aber das gelieferte entspricht nicht meiner Bestellung. Ich bitte Sie, mir das richtige Produkt schnell zu schicken und das falsche abzuholen. Bitte bestätigen Sie den Erhalt dieser Nachricht. Vielen Dank.\nMit freundlichen Grüßen,\nOmar",
+      "text_ar": "فريق العمل المحترم،\nللأسف وصلتني منتج غير صحيح. لقد طلبت موديلًا مختلفًا، لكن المنتج المرسل لا يتطابق مع طلبي. أرجو إرسال المنتج الصحيح سريعًا واستلام المنتج الخطأ. يرجى تأكيد استلام هذه الرسالة. شكرًا لكم.\nمع تحياتي،\nعمر"
+    },
+    {
+      "id": 7005,
+      "title": "Verspätete Rückerstattung nach Rückgabe",
+      "text": "Sehr geehrtes Service-Team,\nich habe ein Produkt zurückgeschickt und warte nun seit drei Wochen auf die Rückerstattung. Bitte überprüfen Sie den Status und veranlassen Sie die Rückzahlung so schnell wie möglich. Es ist wichtig für mich, dass das Geld bald zurückkommt. Vielen Dank für Ihre Mühe.\nMit freundlichen Grüßen,\nLayla",
+      "text_ar": "فريق الخدمة المحترم،\nلقد أعدت منتجًا وأنتظر الآن منذ ثلاثة أسابيع لاسترداد المبلغ. أرجو التحقق من الحالة وتسريع عملية الدفع. من المهم بالنسبة لي أن أستلم المال قريبًا. شكرًا لجهودكم.\nمع تحياتي،\nليلى"
+    },
+    {
+      "id": 7006,
+      "title": "Schlechte Qualität des Produkts",
+      "text": "Sehr geehrtes Team,\nich bin enttäuscht von der Qualität des Produkts, das ich bei Ihnen gekauft habe. Es entspricht nicht den Erwartungen und weist mehrere Mängel auf. Bitte teilen Sie mir mit, wie wir das Problem lösen können, entweder durch Umtausch oder Rückerstattung. Vielen Dank für Ihre Unterstützung.\nMit freundlichen Grüßen,\nAhmed",
+      "text_ar": "فريق العمل المحترم،\nأنا مستاء من جودة المنتج الذي اشتريته منكم. المنتج لا يفي بالتوقعات وله عيوب كثيرة. أرجو إبلاغي بكيفية حل المشكلة، سواء بالتبديل أو الاسترجاع. شكرًا لدعمكم.\nمع تحياتي،\nأحمد"
+    }
+  ]
+}
+,
+  {
+  "id": 9000,
+  "title": "Anfragen an die Schulsekretärin zur Anmeldung",
+  "level": "A2",
+  "subtopics": [
+    {
+      "id": 9001,
+      "title": "Anmeldung meines Sohnes für das neue Schuljahr",
+      "text": "Sehr geehrte Frau Schmidt,\nich möchte meinen Sohn für das kommende Schuljahr an Ihrer Schule anmelden. Bitte senden Sie mir Informationen zu den Anmeldefristen, erforderlichen Unterlagen und dem genauen Ablauf. Außerdem interessiert mich, ob es besondere Programme für neue Schüler gibt. Vielen Dank für Ihre Unterstützung.\nMit freundlichen Grüßen,\nAhmed",
+      "text_ar": "السيدة المحترمة السيدة شميدت،\nأرغب في تسجيل ابني للسنة الدراسية القادمة في مدرستكم. يرجى تزويدي بمعلومات عن مواعيد التسجيل، الأوراق المطلوبة، والإجراءات بالتفصيل. كما أود معرفة إذا كانت هناك برامج خاصة للطلاب الجدد. شكرًا لدعمكم.\nمع تحياتي،\nأحمد"
+    },
+    {
+      "id": 9002,
+      "title": "Bitte um Auskunft über Schulgebühren und Termine",
+      "text": "Liebe Frau Becker,\nich interessiere mich für die Anmeldung meines Sohnes und möchte wissen, welche Schulgebühren anfallen und bis wann die Anmeldung spätestens möglich ist. Auch Informationen über mögliche Schulanlässe oder Elternabende wären sehr hilfreich. Vielen Dank für Ihre Zeit.\nBeste Grüße,\nSara",
+      "text_ar": "السيدة العزيزة السيدة بيكر،\nأرغب في تسجيل ابني وأود معرفة الرسوم الدراسية وتاريخ آخر موعد للتسجيل. كما أنني مهتمة بمعرفة مواعيد الفعاليات المدرسية واجتماعات أولياء الأمور. شكرًا لوقتكم.\nتحياتي،\nسارة"
+    },
+    {
+      "id": 9003,
+      "title": "Erkundigung zu den Unterrichtszeiten und Schulangeboten",
+      "text": "Hallo Frau Meier,\nbitte informieren Sie mich über die Unterrichtszeiten und ob es spezielle Förderkurse oder AGs für Schüler gibt. Ich plane, meinen Sohn bei Ihnen anzumelden und möchte alle wichtigen Details wissen, damit wir gut vorbereitet sind. Vielen Dank für Ihre Hilfe.\nHerzliche Grüße,\nMohamed",
+      "text_ar": "مرحبًا السيدة ماير،\nيرجى تزويدي بمعلومات حول أوقات الدروس وهل توجد دورات تقوية أو أنشطة لامنهجية للطلاب. أخطط لتسجيل ابني عندكم وأود معرفة جميع التفاصيل المهمة للاستعداد جيدًا. شكرًا لمساعدتكم.\nمع أطيب التحيات،\nمحمد"
+    },
+    {
+      "id": 9004,
+      "title": "Frage nach den erforderlichen Unterlagen für die Anmeldung",
+      "text": "Sehr geehrte Frau Schulze,\nich möchte wissen, welche Dokumente für die Anmeldung meines Sohnes benötigt werden. Gibt es ein Anmeldeformular zum Ausdrucken oder kann man das auch online erledigen? Ich wäre dankbar für eine kurze Übersicht der notwendigen Unterlagen und Termine. Vielen Dank im Voraus.\nFreundliche Grüße,\nLayla",
+      "text_ar": "السيدة المحترمة السيدة شولزه،\nأود معرفة الأوراق المطلوبة لتسجيل ابني. هل يوجد استمارة تسجيل يمكن طباعتها أم يمكن التسجيل إلكترونيًا؟ أكون شاكرة إذا أرسلتم لي قائمة مختصرة بالأوراق والمواعيد المهمة. شكرًا مقدمًا.\nمع تحياتي،\nليلى"
+    },
+    {
+      "id": 9005,
+      "title": "Informationen zu den Elternabenden und Schulveranstaltungen",
+      "text": "Guten Tag Frau Fischer,\nich würde gerne wissen, wann die nächsten Elternabende stattfinden und ob es wichtige Schulveranstaltungen gibt, die ich beachten sollte. Mein Sohn soll an Ihrer Schule angemeldet werden, deshalb möchte ich mich bestmöglich informieren. Vielen Dank für Ihre Rückmeldung.\nMit besten Grüßen,\nOmar",
+      "text_ar": "تحية طيبة للسيدة فيشر،\nأود معرفة مواعيد اجتماعات أولياء الأمور القادمة وإذا كانت هناك فعاليات مدرسية مهمة يجب عليّ معرفتها. أريد تسجيل ابني في مدرستكم وأرغب في الحصول على أكبر قدر من المعلومات. شكرًا على ردكم.\nمع أطيب التحيات،\nعمر"
+    }
+  ]
+}
+,
+
+  {
+  "id": 9100,
+  "title": "Anfragen zu Computerkursen",
+  "level": "A2",
+  "subtopics": [
+    {
+      "id": 9101,
+      "title": "Informationen über den Computerkurs für Anfänger",
+      "text": "Sehr geehrte Damen und Herren,\nich interessiere mich für Ihren Computerkurs für Anfänger und möchte mehr über die Inhalte und den Zeitplan erfahren. Wie lange dauert der Kurs und welche Vorkenntnisse sind nötig? Gibt es auch Online-Angebote? Ich freue mich auf Ihre Antwort.\nMit freundlichen Grüßen,\nKhaled",
+      "text_ar": "السيدات والسادة المحترمون،\nأنا مهتم بدورة الكمبيوتر للمبتدئين وأود معرفة المزيد عن محتوى الدورة والجدول الزمني. كم مدة الدورة وما هي الخبرات السابقة المطلوبة؟ هل توجد دورات عبر الإنترنت أيضًا؟ أتطلع لردكم.\nمع تحياتي،\nخالد"
+    },
+    {
+      "id": 9102,
+      "title": "Frage nach Kursgebühren und Anmeldung",
+      "text": "Hallo,\nich möchte mich über die Kosten für den Computerkurs informieren und wissen, wie ich mich anmelden kann. Gibt es Rabatte oder spezielle Angebote? Welche Zahlungsmethoden werden akzeptiert? Vielen Dank für Ihre Unterstützung.\nBeste Grüße,\nMona",
+      "text_ar": "مرحبًا،\nأود معرفة رسوم دورة الكمبيوتر وكيفية التسجيل. هل توجد تخفيضات أو عروض خاصة؟ وما هي طرق الدفع المقبولة؟ شكرًا لدعمكم.\nتحياتي،\nمنى"
+    },
+    {
+      "id": 9103,
+      "title": "Erkundigung zu Kurszeiten und Dauer",
+      "text": "Guten Tag,\nbitte teilen Sie mir mit, wann der nächste Computerkurs beginnt und wie oft die Unterrichtsstunden stattfinden. Wie lange dauert jede Stunde und wie viele Wochen umfasst der Kurs? Ich freue mich auf Ihre Informationen.\nMit freundlichen Grüßen,\nFaisal",
+      "text_ar": "تحية طيبة،\nيرجى إعلامي بموعد بدء دورة الكمبيوتر القادمة وعدد مرات الدروس أسبوعيًا. كم مدة كل حصة وعدد أسابيع الدورة؟ أتطلع لمعلوماتكم.\nمع تحياتي،\nفيصل"
+    },
+    {
+      "id": 9104,
+      "title": "Frage nach Kursinhalten und Zertifikat",
+      "text": "Sehr geehrte Damen und Herren,\nich möchte wissen, welche Themen im Computerkurs behandelt werden und ob am Ende ein Zertifikat ausgestellt wird. Sind Programmierkenntnisse Teil des Kurses? Ich wäre dankbar für detaillierte Informationen.\nMit freundlichen Grüßen,\nLayla",
+      "text_ar": "السيدات والسادة المحترمون،\nأود معرفة المواضيع التي يتم تناولها في دورة الكمبيوتر وهل يصدر شهادة بعد الانتهاء. هل يشمل الدورة تعليم البرمجة؟ أكون شاكرة لمعلومات مفصلة.\nمع تحياتي،\nليلى"
+    },
+    {
+      "id": 9105,
+      "title": "Anfrage zu Online- und Präsenzkursen",
+      "text": "Hallo,\nich interessiere mich für Computerkurse und möchte wissen, ob Sie sowohl Online- als auch Präsenzkurse anbieten. Gibt es Unterschiede im Ablauf oder Preis? Welche technischen Voraussetzungen brauche ich für den Online-Kurs? Vielen Dank für Ihre Antwort.\nBeste Grüße,\nSara",
+      "text_ar": "مرحبًا،\nأنا مهتم بدورات الكمبيوتر وأريد معرفة إذا كنتم تقدمون دورات عبر الإنترنت وأيضًا دورات حضورية. هل توجد اختلافات في طريقة التدريس أو الأسعار؟ ما هي المتطلبات التقنية للدورة عبر الإنترنت؟ شكرًا لردكم.\nتحياتي،\nسارة"
+    }
+  ]
+}
+,
+
+  {
+  "id": 9200,
+  "title": "Anfrage zu Musikunterricht",
+  "level": "A2",
+  "subtopics": [
+    {
+      "id": 9201,
+      "title": "Informationen zu einem Musikkurs",
+      "text": "Hallo Herr Müller,\nich interessiere mich für Ihren Musikkurs und möchte gerne mehr darüber erfahren. Können Sie mir bitte mitteilen, welche Instrumente unterrichtet werden und wie oft der Unterricht stattfindet? Gibt es besondere Voraussetzungen oder Altersbeschränkungen? Ich freue mich auf Ihre Antwort.\nMit freundlichen Grüßen,\nAhmed",
+      "text_ar": "مرحبًا أستاذ مولر،\nأنا مهتم بدورة الموسيقى الخاصة بك وأود معرفة المزيد عنها. هل يمكنك أن تخبرني ما هي الآلات الموسيقية التي تُدرّس وعدد مرات الدروس؟ هل توجد شروط أو حدود عمرية؟ أتطلع لردك.\nمع تحياتي،\nأحمد"
+    },
+    {
+      "id": 9202,
+      "title": "Frage nach Kursdauer und Kosten",
+      "text": "Sehr geehrter Herr Müller,\nich möchte mich über die Dauer und die Kosten des Musikkurses informieren. Gibt es Rabatte für Schüler oder längere Buchungen? Wie melde ich mich an? Vielen Dank im Voraus für Ihre Hilfe.\nBeste Grüße,\nSara",
+      "text_ar": "السيد مولر المحترم،\nأود معرفة مدة وتكلفة دورة الموسيقى. هل توجد تخفيضات للطلاب أو للحجوزات الطويلة؟ كيف يمكنني التسجيل؟ شكرًا مقدمًا على مساعدتك.\nتحياتي،\nسارة"
+    },
+    {
+      "id": 9203,
+      "title": "Erkundigung zu Unterrichtszeiten",
+      "text": "Hallo Herr Müller,\nkönnten Sie mir bitte die Unterrichtszeiten für den Musikkurs mitteilen? Ich würde gerne wissen, ob es auch Abendkurse oder Wochenendstunden gibt. Vielen Dank für Ihre Auskunft.\nMit freundlichen Grüßen,\nLayla",
+      "text_ar": "مرحبًا أستاذ مولر،\nهل يمكنك أن تخبرني بأوقات دروس الموسيقى؟ أود أن أعرف إذا كانت هناك دروس مسائية أو في عطلة نهاية الأسبوع. شكرًا على معلوماتك.\nمع تحياتي،\nليلى"
+    },
+    {
+      "id": 9204,
+      "title": "Frage nach Vorkenntnissen und Kursniveau",
+      "text": "Sehr geehrter Herr Müller,\nich möchte wissen, ob der Musikkurs auch für Anfänger geeignet ist oder ob Vorkenntnisse erforderlich sind. Gibt es verschiedene Schwierigkeitsstufen? Ich freue mich auf Ihre Antwort.\nMit freundlichen Grüßen,\nKhaled",
+      "text_ar": "السيد مولر المحترم،\nأود معرفة إذا كانت دورة الموسيقى مناسبة للمبتدئين أم يلزم وجود خبرة سابقة. هل توجد مستويات صعوبة مختلفة؟ أتطلع لردك.\nمع تحياتي،\nخالد"
+    },
+    {
+      "id": 9205,
+      "title": "Anfrage zu Unterrichtsort und Materialien",
+      "text": "Hallo Herr Müller,\nkönnten Sie mir bitte mitteilen, wo der Musikunterricht stattfindet und ob Unterrichtsmaterialien bereitgestellt werden? Benötige ich ein eigenes Instrument? Vielen Dank für Ihre Hilfe.\nBeste Grüße,\nMona",
+      "text_ar": "مرحبًا أستاذ مولر،\nهل يمكنك أن تخبرني أين تُقام دروس الموسيقى وهل توفرون المواد التعليمية؟ هل أحتاج لإحضار آلة موسيقية خاصة بي؟ شكرًا لمساعدتك.\nتحياتي،\nمنى"
+    }
+  ]
+}
+,
+
+  {
+  "id": 9300,
+  "title": "Anfrage zu Kinderkleidung",
+  "level": "A2",
+  "subtopics": [
+    {
+      "id": 9301,
+      "title": "Informationen über Kinderkleidung",
+      "text": "Sehr geehrte Damen und Herren,\nich interessiere mich für Ihre Kinderkleidung und möchte gerne mehr darüber erfahren. Können Sie mir bitte mitteilen, welche Größen und Arten von Kleidung Sie anbieten? Gibt es auch besondere Angebote oder Rabatte? Ich freue mich auf Ihre Antwort.\nMit freundlichen Grüßen,\nFatima",
+      "text_ar": "السيدات والسادة المحترمون،\nأنا مهتمة بملابس الأطفال التي تقدمونها وأود معرفة المزيد عنها. هل يمكنكم إعلامي ما هي المقاسات وأنواع الملابس المتوفرة؟ هل توجد عروض أو تخفيضات خاصة؟ أتطلع لردكم.\nمع تحياتي،\nفاطمة"
+    },
+    {
+      "id": 9302,
+      "title": "Frage nach Material und Qualität",
+      "text": "Hallo,\nich möchte wissen, aus welchen Materialien Ihre Kinderkleidung besteht und ob sie für empfindliche Haut geeignet ist. Wie pflegeleicht sind die Kleidungsstücke? Vielen Dank für die Informationen.\nFreundliche Grüße,\nOmar",
+      "text_ar": "مرحبًا،\nأود معرفة من أي خامات تصنع ملابس الأطفال لديكم وهل هي مناسبة للبشرة الحساسة؟ كيف يمكن العناية بها؟ شكرًا على المعلومات.\nتحياتي،\nعمر"
+    },
+    {
+      "id": 9303,
+      "title": "Frage nach Preisen und Versand",
+      "text": "Sehr geehrtes Team,\nbitte informieren Sie mich über die Preise Ihrer Kinderkleidung und die Versandkosten. Gibt es eine Möglichkeit, die Kleidung umzutauschen, falls die Größe nicht passt? Ich danke Ihnen im Voraus.\nBeste Grüße,\nLayla",
+      "text_ar": "فريق العمل المحترم،\nيرجى إعلامي بأسعار ملابس الأطفال وتكاليف الشحن. هل يمكنني استبدال الملابس إذا لم تناسب المقاسات؟ أشكركم مقدمًا.\nمع أطيب التحيات،\nليلى"
+    },
+    {
+      "id": 9304,
+      "title": "Erkundigung zu neuen Kollektionen",
+      "text": "Hallo,\nich würde gerne wissen, ob Sie neue Kollektionen für Kinderkleidung geplant haben. Wann erscheinen diese und gibt es besondere Highlights? Ich freue mich auf Ihre Antwort.\nViele Grüße,\nKhaled",
+      "text_ar": "مرحبًا،\nأود معرفة إذا كان لديكم مجموعات جديدة من ملابس الأطفال قيد الإعداد. متى ستصدر هذه وهل توجد ميزات خاصة؟ أتطلع لردكم.\nمع تحياتي،\nخالد"
+    },
+    {
+      "id": 9305,
+      "title": "Frage nach Rückgabebedingungen",
+      "text": "Sehr geehrte Damen und Herren,\nbitte teilen Sie mir Ihre Rückgabebedingungen für Kinderkleidung mit. Wie lange habe ich Zeit, um Artikel zurückzugeben, und welche Voraussetzungen gelten? Vielen Dank für Ihre Unterstützung.\nMit freundlichen Grüßen,\nMona",
+      "text_ar": "السيدات والسادة المحترمون،\nيرجى إعلامي بشروط إعادة ملابس الأطفال. كم من الوقت يسمح لي بإرجاع المنتجات وما هي الشروط؟ شكرًا لدعمكم.\nمع تحياتي،\nمنى"
+    }
+  ]
+}
+,
+
+  {
+  "id": 9400,
+  "title": "Anfrage um Hilfe wegen Nachbarschaftsproblemen",
+  "level": "A2",
+  "subtopics": [
+    {
+      "id": 9401,
+      "title": "Bitte um Unterstützung bei Nachbarschaftsstreit",
+      "text": "Sehr geehrte Damen und Herren,\nich habe seit einiger Zeit Probleme mit meinen Nachbarn. Es gibt häufig laute Geräusche und andere Störungen, die das Wohnen sehr schwierig machen. Ich bitte um Ihre Hilfe und Beratung, wie ich mit dieser Situation umgehen kann. Vielen Dank im Voraus für Ihre Unterstützung.\nMit freundlichen Grüßen,\nAhmad",
+      "text_ar": "السيدات والسادة المحترمون،\nأعاني منذ فترة من مشاكل مع جيراني. هناك ضوضاء مستمرة وإزعاجات أخرى تجعل السكن صعبًا جدًا. أرجو مساعدتكم ونصائحكم حول كيفية التعامل مع هذه المشكلة. شكرًا مقدمًا على دعمكم.\nمع تحياتي،\nأحمد"
+    },
+    {
+      "id": 9402,
+      "title": "Anfrage wegen Ruhestörung durch Nachbarn",
+      "text": "Hallo,\nich möchte mich wegen wiederholter Ruhestörung durch meine Nachbarn beschweren. Trotz mehrmaliger Bitten hat sich nichts geändert. Bitte informieren Sie mich über meine Rechte und mögliche Schritte. Vielen Dank.\nFreundliche Grüße,\nSana",
+      "text_ar": "مرحبًا،\nأود تقديم شكوى بسبب الإزعاج المتكرر من جيراني. رغم عدة طلبات لم يتغير الوضع. أرجو إعلامي بحقوقي والخطوات الممكنة. شكرًا.\nتحياتي،\nسناء"
+    },
+    {
+      "id": 9403,
+      "title": "Hilfe bei Konflikten mit Nachbarn",
+      "text": "Sehr geehrte Damen und Herren,\nich habe Konflikte mit meinen Nachbarn wegen gemeinsamer Bereiche und Müllentsorgung. Die Situation verschlechtert sich und ich benötige Rat, wie ich vorgehen soll. Vielen Dank für Ihre Unterstützung.\nBeste Grüße,\nKhalid",
+      "text_ar": "السيدات والسادة المحترمون،\nأواجه مشاكل مع جيراني بسبب الأماكن المشتركة والتخلص من النفايات. الوضع يتدهور وأحتاج نصيحة عن كيفية التصرف. شكرًا لدعمكم.\nمع أطيب التحيات،\nخالد"
+    },
+    {
+      "id": 9404,
+      "title": "Anfrage zur Mediation bei Nachbarschaftsstreit",
+      "text": "Hallo,\nich suche Unterstützung für eine Mediation, um den Streit mit meinen Nachbarn zu lösen. Können Sie mir bitte Informationen über diesen Service geben und wie ich ihn nutzen kann? Danke sehr.\nViele Grüße,\nLayla",
+      "text_ar": "مرحبًا،\nأبحث عن دعم لوساطة لحل الخلاف مع جيراني. هل يمكنكم تزويدي بمعلومات عن هذه الخدمة وكيفية الاستفادة منها؟ شكراً جزيلاً.\nمع تحياتي،\nليلى"
+    },
+    {
+      "id": 9405,
+      "title": "Beratung bei Belästigung durch Nachbarn",
+      "text": "Sehr geehrte Damen und Herren,\nich werde von meinen Nachbarn ständig belästigt, was mein Wohlbefinden stark beeinträchtigt. Ich bitte um Beratung und mögliche rechtliche Schritte, die ich unternehmen kann. Vielen Dank für Ihre Hilfe.\nMit freundlichen Grüßen,\nMona",
+      "text_ar": "السيدات والسادة المحترمون،\nأتعرض لمضايقات مستمرة من جيراني تؤثر كثيرًا على راحتي. أرجو تقديم النصيحة والإجراءات القانونية الممكنة. شكراً لمساعدتكم.\nمع تحياتي،\nمنى"
+    }
+  ]
+}
+
+  
+  
+
 ]
+
+
