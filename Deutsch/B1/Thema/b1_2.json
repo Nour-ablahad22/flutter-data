@@ -1,42 +1,6 @@
 [
-{
-  "topic": "Verlust des Führerscheins",
-  "level": "B1",
-  "texts": [
-    {
-      "id": 1,
-      "title": "Führerschein im Urlaub verloren",
-      "text": "Sehr geehrte Damen und Herren, ich habe meinen Führerschein während meines Urlaubs verloren. Ich war in einer fremden Stadt und habe ihn wahrscheinlich in einem Restaurant liegen lassen. Nach meiner Rückkehr habe ich sofort die Polizei informiert und eine Verlustanzeige gemacht. Die Beamten waren sehr hilfsbereit und erklärten mir die nächsten Schritte. Da ich den Führerschein dringend für die Arbeit brauche, möchte ich möglichst schnell einen Ersatz beantragen. Leider dauert die Bearbeitung einige Wochen, aber ich hoffe, dass ich bis dahin ohne Probleme fahren darf. Außerdem habe ich mir vorgenommen, in Zukunft besser auf meine wichtigen Dokumente zu achten. Ich danke Ihnen für Ihre Unterstützung und hoffe auf eine schnelle Lösung.",
-      "text_ar": "السيدات والسادة المحترمون، لقد فقدت رخصة القيادة الخاصة بي أثناء عطلتي. كنت في مدينة جديدة وربما تركتها في أحد المطاعم. بعد عودتي أبلغت الشرطة فوراً وقدمت بلاغاً عن الفقدان. كان الضباط متعاونين للغاية وشرحوا لي الخطوات القادمة. بما أنني أحتاج رخصة القيادة للعمل، أرغب في طلب بدل بأسرع وقت ممكن. للأسف تستغرق المعالجة عدة أسابيع، لكني آمل أن أتمكن من القيادة بدون مشاكل حتى ذلك الوقت. كما قررت أن أكون أكثر حرصاً على مستنداتي المهمة في المستقبل. أشكركم على دعمكم وأتمنى حلاً سريعاً."
-    },
-    {
-      "id": 2,
-      "title": "Führerschein im Alltag verloren",
-      "text": "Sehr geehrte Damen und Herren, vor einigen Tagen habe ich meinen Führerschein verloren. Ich weiß nicht genau, wann das passiert ist, aber ich habe alle Orte durchsucht, an denen ich gewesen bin. Ich habe zu Hause, im Auto und in meiner Tasche nachgesehen, jedoch ohne Erfolg. Danach habe ich bei der Polizei eine Verlustanzeige gemacht. Die Bearbeitung hat einige Zeit gedauert, aber jetzt kann ich einen neuen Führerschein beantragen. Ich hoffe, dass ich bald wieder fahren darf, da ich auf mein Auto angewiesen bin. In Zukunft werde ich besser auf meine Dokumente achten, damit mir so etwas nicht noch einmal passiert.",
-      "text_ar": "السيدات والسادة المحترمون، فقدت رخصة القيادة قبل عدة أيام. لا أعلم بالضبط متى حدث ذلك، لكنني فتشت جميع الأماكن التي زرتها. بحثت في المنزل، السيارة وحقيبتي، لكن بدون نتيجة. بعد ذلك قدمت بلاغاً عن الفقدان لدى الشرطة. استغرقت المعالجة بعض الوقت، ولكن الآن يمكنني طلب رخصة جديدة. آمل أن أتمكن من القيادة قريباً، لأنني أعتمد على سيارتي. في المستقبل سأحرص أكثر على مستنداتي حتى لا يحدث لي هذا مرة أخرى."
-    },
-    {
-      "id": 3,
-      "title": "Anzeige bei der Polizei wegen Führerscheinverlust",
-      "text": "Sehr geehrte Damen und Herren, ich habe meinen Führerschein verloren und heute eine Anzeige bei der Polizei gemacht. Der Polizist war sehr freundlich und hat mir geholfen, das Formular auszufüllen. Ich musste meinen Namen, Geburtsdatum und den vermutlichen Ort des Verlustes angeben. Außerdem habe ich erklärt, wann ich den Führerschein zuletzt benutzt habe. Nach der Anmeldung erhielt ich eine Bescheinigung, die ich bei der Führerscheinstelle vorlegen muss. Die Mitarbeiter dort haben mir erklärt, welche Dokumente ich für den Ersatzführerschein benötige. Ich hoffe, dass ich den neuen Führerschein bald bekomme, da ich ihn dringend brauche.",
-      "text_ar": "السيدات والسادة المحترمون، فقدت رخصة قيادتي وقدمت اليوم بلاغاً لدى الشرطة. كان الشرطي ودوداً للغاية وساعدني في ملء الاستمارة. كان عليّ كتابة اسمي، تاريخ ميلادي والمكان المحتمل للفقدان. كما شرحت متى استخدمت الرخصة آخر مرة. بعد التسجيل حصلت على شهادة أحتاجها لتقديمها في مكتب الرخص. هناك شرح لي الموظفون الوثائق المطلوبة للحصول على بدل. آمل أن أحصل على رخصة جديدة قريباً لأنني أحتاجها بشدة."
-    },
-    {
-      "id": 4,
-      "title": "Ersatzführerschein beantragen",
-      "text": "Sehr geehrte Damen und Herren, nachdem ich den Verlust meines Führerscheins gemeldet habe, habe ich einen Termin bei der Führerscheinstelle gemacht. Ich musste meinen Personalausweis, ein aktuelles Passfoto und die Verlustanzeige mitbringen. Im Amt habe ich ein Formular ausgefüllt und unterschrieben. Die Bearbeitung des Ersatzführerscheins dauert etwa zwei bis drei Wochen. Leider darf ich in dieser Zeit nicht fahren, was für mich ein großes Problem ist, da ich auf das Auto angewiesen bin. Ich hoffe, dass der neue Führerschein bald fertig ist. Die Mitarbeiter waren freundlich und haben mir alle Fragen beantwortet.",
-      "text_ar": "السيدات والسادة المحترمون، بعد أن أبلغت عن فقدان رخصة القيادة، حجزت موعداً في مكتب الرخص. كان عليّ إحضار بطاقة هويتي، صورة شخصية حديثة وإثبات البلاغ. في المكتب ملأت استمارة ووقعتها. تستغرق معالجة بدل الرخصة حوالي أسبوعين إلى ثلاثة أسابيع. للأسف لا يُسمح لي بالقيادة خلال هذه الفترة، وهذا مشكلة كبيرة لي لأنني أعتمد على السيارة. آمل أن تكون الرخصة الجديدة جاهزة قريباً. كان الموظفون لطفاء وأجابوا على جميع أسئلتي."
-    },
-    {
-      "id": 5,
-      "title": "Vorsichtsmaßnahmen nach Führerscheinverlust",
-      "text": "Sehr geehrte Damen und Herren, nach dem Verlust meines Führerscheins habe ich beschlossen, in Zukunft vorsichtiger zu sein. Ich bewahre meine wichtigen Dokumente jetzt an einem sicheren und festen Ort auf. Wenn ich unterwegs bin, überprüfe ich regelmäßig, ob ich alle meine Papiere dabei habe. Außerdem habe ich Kopien meiner wichtigsten Ausweise gemacht und digital gespeichert. Das gibt mir Sicherheit, falls ich etwas verliere. Der Verlust meines Führerscheins war eine unangenehme Erfahrung, aber ich habe daraus gelernt. Ich hoffe, dass ich in Zukunft besser organisiert bin und solche Probleme vermeide.",
-      "text_ar": "السيدات والسادة المحترمون، بعد فقدان رخصة القيادة قررت أن أكون أكثر حرصاً في المستقبل. الآن أحتفظ بمستنداتي المهمة في مكان آمن وثابت. عندما أكون خارج المنزل أتحقق بانتظام من وجود جميع أوراقي معي. كما قمت بعمل نسخ من أهم بطاقاتي واحتفظت بها رقمياً. هذا يعطيني شعوراً بالأمان إذا فقدت شيئاً ما. كان فقدان رخصة القيادة تجربة مزعجة، لكنني تعلمت منها. آمل أن أكون أكثر تنظيماً في المستقبل وأتجنب مثل هذه المشاكل."
-    }
-  ]
-}
 
-####################################################
+
 
 {
   "id": 2,
@@ -74,8 +38,8 @@
       "text_ar": "أشكركم على الوقت الذي خصصتموه لطلبي. سأكون سعيدًا جدًا بدعوتكم لإجراء مقابلة شخصية لأعرض نفسي ودوافعي بشكل أفضل. إذا كانت لديكم أي أسئلة، فأنا متاح دائمًا للرد عليها. يمكنكم التواصل معي عبر الهاتف على الرقم 0123-456789 أو البريد الإلكتروني max.mueller@email.de. شكرًا لكم على اهتمامكم.\n مع أطيب التحيات،\n ماكس مولر"
     }
   ]
-}
-########################################
+},
+
 
 {
   "id": 3,
@@ -114,7 +78,7 @@
     }
   ]
 }
-######################################
+,
 
 
 {
@@ -154,7 +118,7 @@
     }
   ]
 }
-###############################
+,
 
 {
   "id": 5,
@@ -193,7 +157,7 @@
     }
   ]
 }
-#################################
+,
 
 {
   "id": 6,
@@ -232,7 +196,7 @@
     }
   ]
 }
-####################################
+,
 
 {
   "id": 7,
@@ -271,7 +235,7 @@
     }
   ]
 }
-#########################################
+,
 
 
 
@@ -314,7 +278,7 @@
     }
   ]
 }
-###########################
+,
 
 {
   "id": 9,
@@ -353,7 +317,7 @@
     }
   ]
 }
-#######################
+,
 
 {
   "id": 10,
@@ -392,7 +356,7 @@
     }
   ]
 }
-################################
+,
 {
   "id": 11,
   "title": "Entschuldigung an die Lehrerin wegen Hochzeit der Schwester",
@@ -430,7 +394,7 @@
     }
   ]
 }
-####################################
+,
 
 {
   "id": 12,
@@ -469,8 +433,9 @@
     }
   ]
 }
-######################{
-  "id": 20,
+,
+  {
+  "id": 13,
   "title": "Bitte um Hilfe von der Nachbarin zur Betreuung der Tochter",
   "level": "B1",
   "subtopics": [
@@ -506,10 +471,10 @@
     }
   ]
 }
-#####
+,
 
 {
-  "id": 21,
+  "id": 14,
   "title": "Anfrage an den Vermieter wegen einer größeren Wohnung",
   "level": "B1",
   "subtopics": [
@@ -546,9 +511,9 @@
   ]
 }
 
-##########################
+,
 {
-  "id": 30,
+  "id": 15,
   "title": "Nachricht an Kurskollegen wegen Geschenk und Besuch",
   "level": "B1",
   "subtopics": [
@@ -584,12 +549,12 @@
     }
   ]
 }
-###################
+,
 
 
 
 {
-  "id": 40,
+  "id": 16,
   "title": "Entschuldigung und Informationsanfrage an Klassenlehrer",
   "level": "B1",
   "subtopics": [
@@ -625,11 +590,11 @@
     }
   ]
 }
-#######################
+,
 
 
 {
-  "id": 41,
+  "id": 17,
   "title": "Beschwerde über Müllproblem",
   "level": "B1",
   "subtopics": [
@@ -665,10 +630,10 @@
     }
   ]
 }
-################
+,
 
 {
-  "id": 42,
+  "id": 18,
   "title": "Anfrage an eine Tagesmutter",
   "level": "B1",
   "subtopics": [
@@ -704,10 +669,10 @@
     }
   ]
 }
-####################
+,
 
 {
-  "id": 51,
+  "id": 19,
   "title": "Anfrage zur Altenpflegeausbildung",
   "level": "B1",
   "subtopics": [
@@ -743,10 +708,10 @@
     }
   ]
 }
-##########################
+,
 
 {
-  "id": 61,
+  "id": 20,
   "title": "Einladung zur Einzugsfeier",
   "level": "B1",
   "subtopics": [
@@ -782,10 +747,10 @@
     }
   ]
 }
-#########################
+,
 
 {
-  "id": 62,
+  "id": 21,
   "title": "Anfrage zur Schulanmeldung",
   "level": "B1",
   "subtopics": [
@@ -821,10 +786,10 @@
     }
   ]
 }
-###########################
+,
 
 {
-  "id": 63,
+  "id": 21,
   "title": "Anfrage an Musiklehrer zum Musikkurs",
   "level": "B1",
   "subtopics": [
@@ -860,10 +825,10 @@
     }
   ]
 }
-#####################################
+,
 
 {
-  "id": 71,
+  "id": 23,
   "title": "Bitte um Hilfe wegen Nachbarschaftsproblemen",
   "level": "B1",
   "subtopics": [
@@ -899,10 +864,10 @@
     }
   ]
 }
-#########################
+,
 
 {
-  "id": 72,
+  "id": 24,
   "title": "Beschwerde über falsche Schuhlieferung",
   "level": "B1",
   "subtopics": [
@@ -938,10 +903,10 @@
     }
   ]
 }
-##########################
+,
 
 {
-  "id": 81,
+  "id": 25,
   "title": "Beschwerde über laute Musik von Nachbarn",
   "level": "B1",
   "subtopics": [
@@ -977,11 +942,11 @@
     }
   ]
 }
-#############################
+,
 
 
 {
-  "id": 91,
+  "id": 26,
   "title": "Entschuldigung an den Nachbarn wegen geplatzter Hilfe",
   "level": "B1",
   "subtopics": [
@@ -1017,11 +982,11 @@
     }
   ]
 }
-##########################
+,
 
 
 {
-  "id": 92,
+  "id": 27,
   "title": "Entschuldigung für die nicht geleistete Hilfe beim Sofa-Transport",
   "level": "B1",
   "subtopics": [
@@ -1059,7 +1024,7 @@
 }
 ##########################
 {
-  "id": 93,
+  "id": 28,
   "title": "Bewerbung um eine Stelle bei der Agentur für Arbeit",
   "level": "B1",
   "subtopics": [
@@ -1095,10 +1060,10 @@
     }
   ]
 }
-###########################
+,
 
 {
-  "id": 94,
+  "id": 29,
   "title": "Kündigung des Mietvertrags mit neuem Mieter",
   "level": "B1",
   "subtopics": [
@@ -1137,7 +1102,7 @@
 ##############################
 
 {
-  "id": 95,
+  "id": 30,
   "title": "Anfrage wegen Ersatzkarte bei verlorenem Versicherungsausweis",
   "level": "B1",
   "subtopics": [
@@ -1175,7 +1140,7 @@
 }
 ##############################
 {
-  "id": 96,
+  "id": 31,
   "title": "Anfrage zu Informationen über ein Praktikum",
   "level": "B1",
   "subtopics": [
@@ -1215,7 +1180,7 @@
 
 
 {
-  "id": 97,
+  "id": 32,
   "title": "Bewerbung für eine Stelle im Supermarkt",
   "level": "B1",
   "subtopics": [
@@ -1254,7 +1219,7 @@
 ###############################
 
 {
-  "id": 102,
+  "id": 33,
   "title": "Nachricht an die Versicherung wegen Schaden durch meine Kinder",
   "level": "B1",
   "subtopics": [
@@ -1292,7 +1257,7 @@
 }
 ###############################
 {
-  "id": 103,
+  "id": 34,
   "title": "Nachrichten an eine Sprachschule wegen Kursinformationen",
   "level": "B1",
   "subtopics": [
@@ -1331,7 +1296,7 @@
 ################################
 
 {
-  "id": 201,
+  "id": 35,
   "title": "Beschwerdebriefe an einen Online-Verkauf wegen falscher Stühle",
   "level": "B1",
   "subtopics": [
@@ -1371,7 +1336,7 @@
 
 
 {
-  "id": 301,
+  "id": 36,
   "title": "Bewerbungsschreiben für eine Arbeit im Restaurant",
   "level": "B1",
   "subtopics": [
@@ -1410,7 +1375,7 @@
 ##########################
 
 {
-  "id": 401,
+  "id": 37,
   "title": "Nachricht an eine Bekannte: Anfrage zu Büchern und CDs zum Verkauf",
   "level": "B1",
   "subtopics": [
@@ -1448,7 +1413,7 @@
 }
 ############
 {
-  "id": 402,
+  "id": 38,
   "title": "Nachricht an eine Person, die eine Wohnung sucht – Beschreibung meiner kleinen Wohnung",
   "level": "B1",
   "subtopics": [
@@ -1487,7 +1452,7 @@
 ########################
 
 {
-  "id": 503,
+  "id": 39,
   "title": "Beschwerdebrief wegen nicht gelieferter Online-Bestellung",
   "level": "B1",
   "texts": [
@@ -1521,7 +1486,7 @@
 #####################
 
 {
-  "id": 601,
+  "id": 40,
   "title": "Beschwerdebrief wegen falscher Lieferung einer Kaffeemaschine",
   "level": "B1",
   "texts": [
@@ -1554,7 +1519,7 @@
 }
 ######################
 {
-  "id": 701,
+  "id": 41,
   "title": "Nachricht an das Fundbüro wegen verlorener Geldbörse im Bus",
   "level": "B1",
   "texts": [
@@ -1587,7 +1552,7 @@
 }
 ####################################
 {
-  "id": 802,
+  "id": 42,
   "title": "Antwort auf die Anfrage eines Freundes zum Englischkurs",
   "level": "B1",
   "texts": [
@@ -1620,7 +1585,7 @@
 }
 ##########################################
 {
-  "id": 903,
+  "id": 43,
   "title": "Anfrage zu einem gebrauchten Kinderwagen",
   "level": "B1",
   "subtopics": ["Kinderwagen", "gebraucht", "Anfrage", "Kauf"],
@@ -1659,7 +1624,7 @@
 }
 ############################
 {
-  "id": 904,
+  "id": 44,
   "title": "Beschwerde wegen Heizungsproblemen im Gebäude",
   "level": "B1",
   "subtopics": ["Heizung", "Beschwerde", "Gebäude", "Wärme", "Problem"],
@@ -1699,7 +1664,7 @@
 #####################################
 
 {
-  "id": 1001,
+  "id": 45,
   "title": "Einladung zur Kindergartenfeier",
   "level": "B1",
   "subtopics": ["Einladung", "Kindergarten", "Feier", "Eltern", "Kinder"],
@@ -1738,7 +1703,7 @@
 }
 ######################
 {
-  "id": 2001,
+  "id": 46,
   "title": "Nachrichten an Arbeitskollegen über Abwesenheit und Hilfe",
   "level": "B1",
   "subtopics": ["Abwesenheit", "Arbeit", "Kollegen", "Hilfe", "Kommunikation"],
@@ -1777,7 +1742,7 @@
 }
 ############################
 {
-  "id": 3001,
+  "id": 47,
   "title": "Einladung an Nachbarn zur Feier des neuen Hauses",
   "level": "B1",
   "subtopics": ["Einladung", "Nachbarn", "Haus", "Feier", "Nachbarschaft"],
@@ -1816,7 +1781,7 @@
 }
 ###################################
 {
-  "id": 4001,
+  "id": 48,
   "title": "Nachrichten an Bankberater: Anfrage zu einem Kredit",
   "level": "B1",
   "subtopics": ["Bank", "Kredit", "Finanzen", "Anfrage", "Beratung"],
@@ -1856,7 +1821,7 @@
 #############################
 
 {
-  "id": 5001,
+  "id": 49,
   "title": "Beschwerdebriefe an Online-Verkaufshändler wegen nicht gelieferter Produkte",
   "level": "B1",
   "subtopics": ["Beschwerde", "Online-Shopping", "Lieferprobleme", "Kundendienst"],
@@ -1897,7 +1862,7 @@
 
 
 {
-  "id": 6001,
+  "id": 50,
   "title": "رسائل طلب العناية بالشقة خلال السفر",
   "level": "B1",
   "subtopics": ["طلب مساعدة", "السفر", "العناية بالشقة", "الجيران"],
@@ -1936,7 +1901,7 @@
 }
 ##############################
 {
-  "id": 7001,
+  "id": 51,
   "title": "رسائل طلب معلومات عن كورس إلى مدير المعهد",
   "level": "B1",
   "subtopics": ["طلب معلومات", "كورسات", "التعليم", "الاتصال بالمعهد"],
@@ -1975,7 +1940,7 @@
 }
 ############################
 {
-  "id": 8001,
+  "id": 52,
   "title": "رسائل شكوى حول جرس عالي في المبنى",
   "level": "B1",
   "subtopics": ["شكوى", "المبنى", "الضوضاء", "التواصل مع المسؤول"],
@@ -2014,7 +1979,7 @@
 }
 ###############################
 {
-  "id": 9001,
+  "id": 53,
   "title": "الرد على طلب زميل في العمل لتغطية غيابه بسبب المرض",
   "level": "B1",
   "subtopics": ["العمل", "المساعدة", "المرض", "التواصل مع الزملاء"],
@@ -2053,7 +2018,7 @@
 }
 #####################################
 {
-  "id": 10001,
+  "id": 54,
   "title": "طلب معلومات عن براد مستعمل",
   "level": "B1",
   "subtopics": ["طلب معلومات", "أجهزة منزلية", "شراء مستعمل"],
@@ -2093,7 +2058,7 @@
 ########################################
 
 {
-  "id": 20001,
+  "id": 55,
   "title": "رسائل احتجاج لشركة مبيعات على النت بسبب تأخر وصول كتاب",
   "level": "B1",
   "subtopics": ["رسالة احتجاج", "تأخر الشحن", "مبيعات على النت"],
@@ -2133,7 +2098,7 @@
 ######################
 
 {
-  "id": 30001,
+  "id": 56,
   "title": "رسائل شكوى إلى مسؤول المبنى حول الملعب القريب",
   "level": "B1",
   "subtopics": ["شكوى", "مشكلة في الملعب", "سكان المبنى"],
@@ -2173,7 +2138,7 @@
 ######################
 
 {
-  "id": 40001,
+  "id": 57,
   "title": "رسائل التقدم لطلب عمل تدريب مهني",
   "level": "B1",
   "subtopics": ["طلب عمل", "تدريب مهني", "التقديم"],
@@ -2213,7 +2178,7 @@
 ####################
 
 {
-  "id": 50001,
+  "id": 58,
   "title": "رسائل طلب الاهتمام بالقطط أثناء الإجازة",
   "level": "B1",
   "subtopics": ["رعاية الحيوانات", "طلب مساعدة", "إجازة"],
@@ -2253,7 +2218,7 @@
 ######################
 
 {
-  "id": 60001,
+  "id": 59,
   "title": "رسائل طلب معلومات عن دراجة",
   "level": "B1",
   "subtopics": ["طلب معلومات", "دراجة", "شراء"],
@@ -2294,7 +2259,7 @@
 
 
 {
-  "id": 70001,
+  "id": 60,
   "title": "رسائل طلب معلومات عن كورس كمبيوتر",
   "level": "B1",
   "subtopics": ["طلب معلومات", "كورسات", "كمبيوتر"],
@@ -2335,7 +2300,7 @@
 
 
 {
-  "id": 80001,
+  "id": 61,
   "title": "رسائل احتجاج لشركات مبيعات على النت بخصوص منتج لم يصل",
   "level": "B1",
   "subtopics": ["رسالة احتجاج", "شكاوى", "منتجات مفقودة"],
@@ -2375,7 +2340,7 @@
 ########################
 
 {
-  "id": 90001,
+  "id": 62,
   "title": "رسائل طلب معلومات إلى نادي رياضي",
   "level": "B1",
   "subtopics": ["طلب معلومات", "نادي رياضي", "رياضة"],
@@ -2416,7 +2381,7 @@
 
 
 {
-  "id": 91001,
+  "id": 63,
   "title": "رسائل احتجاج لشركة الكهرباء بسبب فاتورة خاطئة",
   "level": "B1",
   "subtopics": ["شكوى", "فاتورة كهرباء", "خطأ في الفاتورة"],
@@ -2458,7 +2423,7 @@
 
 
 {
-  "id": 92001,
+  "id": 64,
   "title": "رسائل احتجاج لشركة بسبب فرن طعام وطلب صيانة",
   "level": "B1",
   "subtopics": ["شكوى", "فرن طعام", "طلب صيانة"],
@@ -2499,7 +2464,7 @@
 
 
 {
-  "id": 93001,
+  "id": 65,
   "title": "رسائل طلب مساعدة لجارتك في استقبال ورشة صيانة فرن الطعام",
   "level": "B1",
   "subtopics": ["طلب مساعدة", "صيانة فرن", "جيران"],
@@ -2539,7 +2504,7 @@
 ###################
 
 {
-  "id": 94001,
+  "id": 66,
   "title": "رسائل احتجاج إلى مدرسة بسبب فاتورة خطأ",
   "level": "B1",
   "subtopics": ["شكوى", "فاتورة خاطئة", "مدرسة"],
@@ -2579,7 +2544,7 @@
 #####################
 
 {
-  "id": 95001,
+  "id": 67,
   "title": "رسائل شكوى إلى مسؤول المبنى عن كراج السيارات",
   "level": "B1",
   "subtopics": ["شكوى", "كراج السيارات", "مشاكل المبنى"],
@@ -2619,7 +2584,7 @@
 ##########################
 
 {
-  "id": 96001,
+  "id": 68,
   "title": "رسائل شكوى إلى شركة القطارات",
   "level": "B1",
   "subtopics": ["شكوى", "تأخير القطار", "خدمة العملاء"],
@@ -2658,7 +2623,7 @@
 }
 #######################
 {
-  "id": 97001,
+  "id": 69,
   "title": "رسائل إلى الشركة لإلغاء عقد الهاتف",
   "level": "B1",
   "subtopics": ["إلغاء عقد", "هاتف محمول", "خدمة العملاء"],
@@ -2699,7 +2664,7 @@
 
 
 {
-  "id": 98001,
+  "id": 70,
   "title": "رسائل طلب معلومات عن اجتماع مع معلمة الصف بخصوص علامات الابن",
   "level": "B1",
   "subtopics": ["اجتماع مع المعلمة", "مناقشة علامات الابن", "طلب معلومات"],
@@ -2738,7 +2703,7 @@
 }
 #######################
 {
-  "id": 99001,
+  "id": 71,
   "title": "رسائل شكوى لمسؤول المبنى حول عدم نظافة الدرج",
   "level": "B1",
   "subtopics": ["شكوى نظافة", "المبنى", "الدرج"],
@@ -2778,7 +2743,7 @@
 #########################
 
 {
-  "id": 99100,
+  "id": 72,
   "title": "رسائل شكوى لمسؤول المبنى بسبب عطل إنارة الدرج",
   "level": "B1",
   "subtopics": ["شكوى", "إنارة", "الدرج", "عطل", "المبنى"],
@@ -2818,7 +2783,7 @@
 ############################
 
 {
-  "id": 99200,
+  "id": 73,
   "title": "رسائل طلب معلومات عن بيانو",
   "level": "B1",
   "subtopics": ["طلب معلومات", "بيانو", "موسيقى", "شراء", "معدات موسيقية"],
@@ -2858,7 +2823,7 @@
 ############################
 
 {
-  "id": 99300,
+  "id": 74,
   "title": "رسائل طلب مساعدة لبيع سيارة قديمة",
   "level": "B1",
   "subtopics": ["طلب مساعدة", "بيع سيارة", "سيارة قديمة", "معارف"],
@@ -2898,7 +2863,7 @@
 #####################
 
 {
-  "id": 99400,
+  "id": 75,
   "title": "رسائل طلب التقدم إلى براكتيكوم في متجر",
   "level": "B1",
   "subtopics": ["طلب تدريب", "براكتيكوم", "متجر", "تقديم طلب"],
@@ -2940,7 +2905,7 @@
 
 
 {
-  "id": 100100,
+  "id": 76,
   "title": "رسائل اعتذار إلى معلم الصف بسبب موعد مع القنصلية",
   "level": "B1",
   "subtopics": ["اعتذار", "موعد", "القنصلية", "مدرسة", "غياب"],
@@ -2980,7 +2945,7 @@
 ###########################
 
 {
-  "id": 200200,
+  "id": 77,
   "title": "رسائل مساعدة في البحث عن طبيب",
   "level": "B1",
   "subtopics": ["مساعدة", "طبيب", "صحة", "معرفة", "بحث"],
@@ -3020,7 +2985,7 @@
 ######################
 
 {
-  "id": 300300,
+  "id": 78,
   "title": "رسائل طلب معلومات عن كورس صحي",
   "level": "B1",
   "subtopics": ["طلب معلومات", "كورسات", "صحة", "تعلم"],
@@ -3060,7 +3025,7 @@
 ######################
 
 {
-  "id": 400400,
+  "id": 79,
   "title": "رسائل احتجاج على تلفزيون تم طلبه من النت",
   "level": "B1",
   "subtopics": ["شكوى", "شراء عبر الانترنت", "تلفاز", "منتج خاطئ"],
@@ -3097,7 +3062,7 @@
     }
   ]
 }
-#########################
+]
 
 
 ]
