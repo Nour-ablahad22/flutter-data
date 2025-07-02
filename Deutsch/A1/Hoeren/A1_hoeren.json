@@ -1,6 +1,7 @@
 
 [
   {
+    
     "title": "Teil 1 ",
     "audioUrl": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/C1/Hoeren/8.mp3",
     "text": "Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Nummer 1 :  Liebe Fahrgäste, diese Straßenbahn hat ein Problem mit den Türen. Sie schließen nicht mehr richtig. Leider können wir nicht weiterfahren. Bitte steigen Sie an der nächsten Haltestelle aus. Dort haben Sie Anschluss an den Bus Linie 19. Nummer 2 : Liebe Kunden, heute haben wir tolle Sonderangebote bei den Badmöbeln. Kommen Sie doch mal in den dritten Stock und sehen Sie sich um. Und am Wochenende feiert unser Möbelhaus Geburtstag. Sie Sind herzlich eingeladen. Nummer 3 : Achtung. Hier spricht die Polizei. Es gibt ein großes Feuer in der Firma Chemotec. Bitte schließen Sie alle Türen und Fenster und gehen Sie nicht aus dem Haus. Nummer 4 : Willkommen in Berlin Hauptbahnhof. Ihre nächsten Züge: ICE 389 nach Dresden 18.48 Uhr, Gleis 3. Intercity nach Innsbruck 18.52 Uhr fährt heute nicht. Fahrgäste nach Innsbruck benutzen bitte den ICE 346 nach München um 19.20 Uhr und steigen dort um.  ",
@@ -69,6 +70,103 @@
     "B) Um 17:30 Uhr",
     "C) Um 18:00 Uhr"
   ]
+  },
+  {
+  "text": "Mitarbeiterin: Guten Tag. Kann ich Ihnen helfen?\nKunde: Ja, bitte. Wo finde ich die Milch?\nMitarbeiterin: Die Milch ist ganz hinten rechts, neben dem Joghurt.\nKunde: Danke. Und wo sind die Eier?\nMitarbeiterin: Die sind in der Kühlabteilung – gleich links beim Eingang.\nKunde: Super. Und haben Sie auch frisches Brot?\nMitarbeiterin: Ja, das finden Sie vorne an der Kasse.",
+  "frage_1": {
+    "frage": "Wo ist die Milch?",
+    "antworten": [
+      "A) Neben dem Brot",
+      "B) Ganz hinten rechts",
+      "C) An der Kasse"
+    ],
+    "richtige_antwort": "B"
+  },
+  "frage_2": {
+    "frage": "Wo findet man die Eier?",
+    "antworten": [
+      "A) Neben der Milch",
+      "B) Im Lager",
+      "C) In der Kühlabteilung beim Eingang"
+    ],
+    "richtige_antwort": "C"
+  },
+  "frage_3": {
+    "frage": "Was steht an der Kasse?",
+    "antworten": [
+      "A) Frisches Brot",
+      "B) Getränke",
+      "C) Käse"
+    ],
+    "richtige_antwort": "A"
   }
+},
+  {
+  "text": "Tom: Hallo Anna! Hast du am Wochenende schon etwas vor?\nAnna: Noch nicht. Warum fragst du?\nTom: Ich möchte am Samstag an den See fahren. Es soll schön und sonnig werden.\nAnna: Das klingt toll! Wer kommt noch mit?\nTom: Julia, Max und vielleicht auch Leon. Wir wollen dort schwimmen, grillen und Volleyball spielen.\nAnna: Super! Wann geht es los?\nTom: Wir treffen uns um 9 Uhr am Bahnhof und nehmen den Zug um 9:30 Uhr.\nAnna: Soll ich etwas mitbringen?\nTom: Wenn du möchtest, kannst du ein paar Getränke oder Obst mitnehmen. Ich bringe den Grill mit.\nAnna: Gut, dann bringe ich Wasser und Äpfel. Kommen wir am Abend zurück?\nTom: Ja, wir nehmen den Zug um 18 Uhr zurück. Dann sind wir gegen 19 Uhr wieder in der Stadt.\nAnna: Perfekt. Ich freue mich schon!",
+  "frage_1": {
+    "frage": "Wohin wollen Tom und seine Freunde fahren?",
+    "antworten": [
+      "A) In die Berge",
+      "B) An den See",
+      "C) In die Stadt"
+    ],
+    "richtige_antwort": "B"
+  },
+  "frage_2": {
+    "frage": "Was bringt Tom mit?",
+    "antworten": [
+      "A) Getränke",
+      "B) Obst",
+      "C) Den Grill"
+    ],
+    "richtige_antwort": "C"
+  },
+  "frage_3": {
+    "frage": "Wann treffen sie sich am Bahnhof?",
+    "antworten": [
+      "A) Um 9:00 Uhr",
+      "B) Um 9:30 Uhr",
+      "C) Um 10:00 Uhr"
+    ],
+    "richtige_antwort": "A"
+  }
+}
+,
+  
+{
+  "text": "Ärztin: Guten Tag, was kann ich für Sie tun?\nHerr Müller: Guten Tag, ich habe seit zwei Tagen starke Kopfschmerzen und fühle mich sehr müde.\nÄrztin: Haben Sie auch Fieber oder Husten?\nHerr Müller: Nein, Fieber habe ich nicht, aber manchmal huste ich ein bisschen.\nÄrztin: Hatten Sie in letzter Zeit viel Stress oder wenig Schlaf?\nHerr Müller: Ja, ich arbeite gerade sehr viel und schlafe nur fünf Stunden pro Nacht.\nÄrztin: Das kann die Ursache sein. Ich empfehle Ihnen, sich ein paar Tage auszuruhen, viel Wasser zu trinken und ausreichend zu schlafen.\nHerr Müller: Brauche ich Medikamente?\nÄrztin: Nur ein leichtes Schmerzmittel. Ich schreibe Ihnen ein Rezept. Wenn es in drei Tagen nicht besser wird, kommen Sie bitte wieder.\nHerr Müller: Danke, das mache ich.",
+  "frage_1": {
+    "frage": "Welche Beschwerden hat Herr Müller?",
+    "antworten": [
+      "A) Bauchschmerzen und Husten",
+      "B) Kopfschmerzen und Müdigkeit",
+      "C) Rückenschmerzen und Fieber"
+    ],
+    "richtige_antwort": "B"
+  },
+  "frage_2": {
+    "frage": "Was ist laut Ärztin wahrscheinlich die Ursache?",
+    "antworten": [
+      "A) Eine Erkältung",
+      "B) Stress und Schlafmangel",
+      "C) Eine Allergie"
+    ],
+    "richtige_antwort": "B"
+  },
+  "frage_3": {
+    "frage": "Was soll Herr Müller tun?",
+    "antworten": [
+      "A) Ins Krankenhaus gehen",
+      "B) Eine Woche zu Hause bleiben",
+      "C) Sich ausruhen und viel Wasser trinken"
+    ],
+    "richtige_antwort": "C"
+  }
+}
+,
+  
+
+
+  
 ]
 
