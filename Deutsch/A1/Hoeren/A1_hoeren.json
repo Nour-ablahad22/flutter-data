@@ -50,13 +50,25 @@
   },
   {
     "title": "Teil 5",
-    "text": "Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an.Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Was ist richtig ? Kreuzen Sie a,b und c. Sie hören jeden Text. Nummer 1 : Guten Tag, Sie rufen wegen der Wohnungsanzeige an? Die genaue Adresse ist Am Achterkamp 5. Bitte sprechen Sie Ihre Nummer auf den Anrufbeantworter, ich rufe Sie dann zurück und sage Ihnen wann Sie die Wohnung sehen können. Bitte keine E-Mail-Adressen!  Nummer 2 : Guten Morgen, Frau Seiler. Hier Ernst Müller. Mein Auto ist leider kaputt. Ich muss das Fahrrad nehmen und komme also ein bisschen später ins Büro. Die Straßenbahn ist zu weit weg von mir zu Hause. Bitte entschuldigen Sie mich bei Herrn Krause. Danke. ",
-    "frage_1": "Was soll man sagen? ",
-    "Antwort_1": ["A ) Die Adresse ", "B )Die  E-MAIL Adresse." ,"C ) Die Telefonnummer "],
-    "frage_2": "Wie kommt Herr Müller ins Büro? ",
-    "Antwort_2": [" A) mit dem Farrad ", " B) mit dem Straßenbahn "," C) mit dem Auto. "],    
-    "imageUrl": "assets/logo.webp"
-  }
+    "text": "Lena: Hallo Sara! Hast du schon alles für die Party am Samstag organisiert?\nSara: Fast! Ich habe Getränke gekauft und den Garten geschmückt. Aber ich brauche noch Musik.\nLena: Soll ich meine Lautsprecher mitbringen?\nSara: Ja, das wäre super. Und kannst du auch ein paar Snacks machen?\nLena: Klar! Wann soll ich kommen?\nSara: Die Party beginnt um 18 Uhr. Komm doch schon um 17:30 Uhr, damit wir zusammen vorbereiten können.\nLena: Alles klar. Ich freue mich schon!",    "frage_1": "Was soll man sagen? ",
+  "frage_1": "Wo findet die Party statt?",
+  "Antwort_1": [
+    "A) In der Wohnung",
+    "B) Im Garten",
+    "C) In der Schule"
+  ],
+  "frage_2": "Was bringt Lena mit?",
+  "Antwort_2": [
+    "A) Getränke",
+    "B) Lautsprecher und Snacks",
+    "C) Kuchen"
+  ],
+  "frage_3": "Wann soll Lena kommen?",
+  "Antwort_3": [
+    "A) Um 17:00 Uhr",
+    "B) Um 17:30 Uhr",
+    "C) Um 18:00 Uhr"
+  ]
 
 
 ]
