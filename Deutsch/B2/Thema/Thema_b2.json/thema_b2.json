@@ -1455,7 +1455,7 @@
   "id": 39,
   "title": "Beschwerdebrief wegen nicht gelieferter Online-Bestellung",
   "level": "B1",
-  "texts": [
+  "subtopics": [
     {
       "id": 50301,
       "text": "Sehr geehrte Damen und Herren,\n am 10. Mai habe ich bei Ihnen eine Bestellung aufgegeben. Leider habe ich bis heute keine Lieferung erhalten. Ich habe den Artikel dringend benötigt, aber er ist nicht angekommen. Ich bitte Sie, mir den Status meiner Bestellung mitzuteilen und die Lieferung schnellstmöglich zu veranlassen. Wenn das Produkt nicht verfügbar ist, erwarte ich eine Rückerstattung meines Geldes. Ich hoffe auf eine schnelle Antwort.\n Mit freundlichen Grüßen,\n Ahmed Al-Masri",
@@ -1489,7 +1489,7 @@
   "id": 40,
   "title": "Beschwerdebrief wegen falscher Lieferung einer Kaffeemaschine",
   "level": "B1",
-  "texts": [
+  "subtopics": [
     {
       "id": 60101,
       "text": "Sehr geehrte Damen und Herren,\n am 15. Juni habe ich bei Ihnen eine Kaffeemaschine bestellt. Leider habe ich ein anderes Gerät erhalten, das ich nicht bestellt habe. Ich bin sehr enttäuscht, weil ich die Maschine dringend brauche. Bitte senden Sie mir die richtige Kaffeemaschine schnellstmöglich zu und holen Sie das falsche Gerät wieder ab. Außerdem erwarte ich eine Bestätigung von Ihnen. Ich hoffe auf eine schnelle Lösung, da ich auf die Maschine angewiesen bin.\n Mit freundlichen Grüßen,\n Jana Becker",
@@ -1522,7 +1522,7 @@
   "id": 41,
   "title": "Nachricht an das Fundbüro wegen verlorener Geldbörse im Bus",
   "level": "B1",
-  "texts": [
+  "subtopics": [
     {
       "id": 70101,
       "text": "Sehr geehrte Damen und Herren,\n am 25. Juni habe ich meine Geldbörse im Bus Nummer 10 verloren. Ich habe den Bus gegen 17 Uhr am Hauptbahnhof verlassen. Die Geldbörse ist schwarz und enthält meinen Personalausweis, einige Kreditkarten und etwas Bargeld. Ich bitte Sie, mir mitzuteilen, ob die Geldbörse gefunden wurde. Die Verlustmeldung habe ich bereits bei der Busgesellschaft gemacht. Vielen Dank für Ihre Hilfe.\n Mit freundlichen Grüßen,\n Thomas Müller",
@@ -1555,7 +1555,7 @@
   "id": 42,
   "title": "Antwort auf die Anfrage eines Freundes zum Englischkurs",
   "level": "B1",
-  "texts": [
+  "subtopics": [
     {
       "id": 80201,
       "text": "Lieber Markus,\n vielen Dank für deine Nachricht. Ich freue mich sehr über dein Angebot, gemeinsam einen Englischkurs zu besuchen. Bevor ich mich anmelde, hätte ich gern mehr Informationen. Wie lange dauert der Kurs und an welchen Tagen findet er statt? Ist der Kurs für Anfänger oder für Leute mit Grundkenntnissen geeignet? Außerdem interessiert mich, ob der Kurs online oder in einem Sprachzentrum stattfindet. Bitte sag mir auch, wie hoch die Kosten sind und ob es eine Möglichkeit gibt, eine Probestunde zu besuchen. Ich warte gespannt auf deine Antwort. Danke nochmal für deine Einladung!\n Viele Grüße,\n Anna",
