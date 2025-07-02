@@ -3,6 +3,7 @@
   {
     "title": "Teil 1 ",
     "audioUrl": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/C1/Hoeren/8.mp3",
+    "text": "Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Nummer 1 :  Liebe Fahrgäste, diese Straßenbahn hat ein Problem mit den Türen. Sie schließen nicht mehr richtig. Leider können wir nicht weiterfahren. Bitte steigen Sie an der nächsten Haltestelle aus. Dort haben Sie Anschluss an den Bus Linie 19. Nummer 2 : Liebe Kunden, heute haben wir tolle Sonderangebote bei den Badmöbeln. Kommen Sie doch mal in den dritten Stock und sehen Sie sich um. Und am Wochenende feiert unser Möbelhaus Geburtstag. Sie Sind herzlich eingeladen. Nummer 3 : Achtung. Hier spricht die Polizei. Es gibt ein großes Feuer in der Firma Chemotec. Bitte schließen Sie alle Türen und Fenster und gehen Sie nicht aus dem Haus. Nummer 4 : Willkommen in Berlin Hauptbahnhof. Ihre nächsten Züge: ICE 389 nach Dresden 18.48 Uhr, Gleis 3. Intercity nach Innsbruck 18.52 Uhr fährt heute nicht. Fahrgäste nach Innsbruck benutzen bitte den ICE 346 nach München um 19.20 Uhr und steigen dort um.  ",
     "frage_1": "Wo wollen die Freundinnen die Party machen?",
     "Antwort_1": ["A) Im Garten", "B) Im Haus", "C) Am See"],
     "frage_2": "Wann wollen sie sich treffen?",
@@ -13,6 +14,7 @@
   },
   {
     "title": "Teil 2",
+    "text": "Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Nummer 1 :  Liebe Fahrgäste, diese Straßenbahn hat ein Problem mit den Türen. Sie schließen nicht mehr richtig. Leider können wir nicht weiterfahren. Bitte steigen Sie an der nächsten Haltestelle aus. Dort haben Sie Anschluss an den Bus Linie 19. Nummer 2 : Liebe Kunden, heute haben wir tolle Sonderangebote bei den Badmöbeln. Kommen Sie doch mal in den dritten Stock und sehen Sie sich um. Und am Wochenende feiert unser Möbelhaus Geburtstag. Sie Sind herzlich eingeladen. Nummer 3 : Achtung. Hier spricht die Polizei. Es gibt ein großes Feuer in der Firma Chemotec. Bitte schließen Sie alle Türen und Fenster und gehen Sie nicht aus dem Haus. Nummer 4 : Willkommen in Berlin Hauptbahnhof. Ihre nächsten Züge: ICE 389 nach Dresden 18.48 Uhr, Gleis 3. Intercity nach Innsbruck 18.52 Uhr fährt heute nicht. Fahrgäste nach Innsbruck benutzen bitte den ICE 346 nach München um 19.20 Uhr und steigen dort um.  ",
     "audioUrl": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/C1/Hoeren/8.mp3",
     "frage_1": "Wie lange dauern die Sommerkurse?",
     "Antwort_1": ["A) Zwei", "B) Drei Wochen.", "C ) Vier"],
