@@ -212,7 +212,89 @@
   "antwort_3_richtig": "C",
   "imageUrl": "assets/logo.webp"
 }
+,
+  {
+  "id": "164",
+  "title": "Die Diskussion über gesunde Ernährung",
+      "audioUrl": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/audio/164.mp3",
+  "text": "Jana: Hallo Paul, ich habe angefangen, mich gesünder zu ernähren.\nPaul: Das ist ja toll! Was hast du denn verändert?\nJana: Ich esse jetzt mehr Obst und Gemüse und versuche, weniger Zucker zu konsumieren.\nPaul: Das klingt vernünftig. Hast du auch schon Rezepte ausprobiert?\nJana: Ja, ich habe einige leckere Salate und Smoothies gemacht.\nPaul: Ich sollte auch mehr darauf achten. Ich esse oft Fast Food wegen der Arbeit.\nJana: Ja, das kenne ich. Manchmal ist es schwierig, im Alltag gesund zu essen.\nPaul: Gibt es Tipps, wie man trotzdem gesund bleiben kann?\nJana: Man kann zum Beispiel Mahlzeiten vorkochen und Snacks wie Nüsse mitnehmen.\nPaul: Das ist eine gute Idee. Ich werde es mal versuchen.\nJana: Super! Und viel Wasser trinken ist auch wichtig.\nPaul: Danke für die Tipps, Jana.\nJana: Gern geschehen!",
+  "frage_1": "Was hat Jana an ihrer Ernährung verändert?",
+  "Antwort_1": ["A) Sie isst mehr Fast Food", "B) Sie isst mehr Obst und Gemüse", "C) Sie isst mehr Süßigkeiten"],
+  "antwort_1_richtig": "B",
+  "frage_2": "Warum isst Paul oft Fast Food?",
+  "Antwort_2": ["A) Wegen der Arbeit", "B) Weil es gesund ist", "C) Weil er es nicht mag"],
+  "antwort_2_richtig": "A",
+  "frage_3": "Was empfiehlt Jana für gesunde Snacks?",
+  "Antwort_3": ["A) Schokolade", "B) Nüsse", "C) Kekse"],
+  "antwort_3_richtig": "B"
+}
+,
+  {
+  "id": "165",
+  "title": "Ein Gespräch über die Suche nach einem neuen Hobby",
+      "audioUrl": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/audio/165.mp3",
+  "text": "Mira: Hey Jonas, hast du eigentlich schon ein neues Hobby gefunden?\nJonas: Hallo Mira! Noch nicht wirklich. Ich überlege, ob ich mit Malen anfangen soll.\nMira: Das klingt spannend! Malst du denn gerne?\nJonas: Ja, ich habe früher als Kind viel gezeichnet, aber dann aufgehört.\nMira: Vielleicht ist jetzt ein guter Zeitpunkt, um wieder anzufangen.\nJonas: Denkst du? Ich frage mich nur, ob ich talentiert genug bin.\nMira: Talent ist nicht so wichtig. Hauptsache, es macht Spaß und entspannt.\nJonas: Stimmt. Oder vielleicht probiere ich auch Yoga aus, das soll auch gut sein.\nMira: Yoga ist super für Körper und Geist. Ich mache es schon seit Jahren.\nJonas: Wie oft gehst du denn zum Yoga?\nMira: Etwa drei Mal die Woche. Es hilft mir, Stress abzubauen.\nJonas: Das klingt wirklich gut. Ich werde es mal ausprobieren.\nMira: Wenn du möchtest, kann ich dich zum nächsten Kurs mitnehmen.\nJonas: Das wäre klasse, danke!\nMira: Kein Problem, ich freue mich drauf.",
+  "frage_1": "Welches Hobby möchte Jonas ausprobieren?",
+  "Antwort_1": ["A) Malen", "B) Schwimmen", "C) Tanzen"],
+  "antwort_1_richtig": "A",
+  "frage_2": "Was sagt Mira zum Talent beim Malen?",
+  "Antwort_2": ["A) Es ist sehr wichtig", "B) Talent ist nicht so wichtig", "C) Man braucht viel Talent"],
+  "antwort_2_richtig": "B",
+  "frage_3": "Wie oft macht Mira Yoga?",
+  "Antwort_3": ["A) Einmal im Monat", "B) Drei Mal die Woche", "C) Jeden Tag"],
+  "antwort_3_richtig": "B"
+}
+,
 
+  {
+  "id": "166",
+  "title": "Die Planung eines gemeinsamen Projekts in der Arbeit",
+      "audioUrl": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/audio/166.mp3",
+  "text": "Clara: Hallo Thomas, hast du schon Zeit, über unser neues Projekt zu sprechen?\nThomas: Hallo Clara! Ja, ich habe gestern die ersten Unterlagen gelesen.\nClara: Super. Was denkst du über die Ideen und Ziele?\nThomas: Ich finde sie gut, aber wir müssen die Deadlines genauer planen.\nClara: Stimmt. Ich habe einen Zeitplan vorbereitet, den ich dir gleich zeigen möchte.\nThomas: Perfekt. Gibt es schon ein Team für das Projekt?\nClara: Ja, wir arbeiten mit fünf Kollegen aus verschiedenen Abteilungen zusammen.\nThomas: Das klingt nach einer guten Mischung. Wie sieht es mit dem Budget aus?\nClara: Das wurde vom Management genehmigt, aber wir müssen darauf achten, dass wir es nicht überschreiten.\nThomas: Haben wir schon einen Ort für die Treffen?\nClara: Ja, die Konferenzräume sind reserviert, und wir können auch Videokonferenzen machen.\nThomas: Gut, dann sollten wir bald mit der Arbeit anfangen.\nClara: Genau. Ich schicke dir gleich den Zeitplan und die Aufgabenverteilung.\nThomas: Danke, Clara. Ich freue mich auf die Zusammenarbeit.",
+  "frage_1": "Worüber sprechen Clara und Thomas?",
+  "Antwort_1": ["A) Über ein neues Projekt bei der Arbeit", "B) Über Urlaub", "C) Über ein neues Restaurant"],
+  "antwort_1_richtig": "A",
+  "frage_2": "Wie viele Kollegen arbeiten im Team?",
+  "Antwort_2": ["A) Drei", "B) Fünf", "C) Zehn"],
+  "antwort_2_richtig": "B",
+  "frage_3": "Was hat Clara vorbereitet?",
+  "Antwort_3": ["A) Einen Zeitplan", "B) Eine Einladung", "C) Einen Vertrag"],
+  "antwort_3_richtig": "A"
+}
+,
+  {
+  "id": "167",
+  "title": "Ein Gespräch über das Lernen einer neuen Sprache",
+      "audioUrl": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/audio/167.mp3",
+  "text": "Lisa: Hallo Martin, wie läuft dein Spanischkurs?\nMartin: Hallo Lisa! Es ist spannend, aber manchmal auch schwierig.\nLisa: Ja, neue Sprachen zu lernen ist nicht einfach. Wie oft lernst du?\nMartin: Ich versuche jeden Tag mindestens eine halbe Stunde zu üben.\nLisa: Das ist gut. Nutzt du auch Apps oder nur Bücher?\nMartin: Ich kombiniere beides. Apps helfen beim Vokabelnlernen, und Bücher bei der Grammatik.\nLisa: Hast du schon Fortschritte bemerkt?\nMartin: Ja, ich kann jetzt einfache Gespräche führen und verstehe viele Texte besser.\nLisa: Toll! Hast du vor, eine Sprachreise zu machen?\nMartin: Ja, nächstes Jahr möchte ich nach Spanien reisen, um dort zu üben.\nLisa: Das wird dir sicher sehr helfen.\nMartin: Ich hoffe es. Es ist auch schön, die Kultur direkt kennenzulernen.\nLisa: Auf jeden Fall! Viel Erfolg weiterhin.\nMartin: Danke, Lisa!",
+  "frage_1": "Welche Sprache lernt Martin?",
+  "Antwort_1": ["A) Französisch", "B) Spanisch", "C) Italienisch"],
+  "antwort_1_richtig": "B",
+  "frage_2": "Wie oft lernt Martin ungefähr?",
+  "Antwort_2": ["A) Jeden Tag eine halbe Stunde", "B) Einmal pro Woche", "C) Gar nicht"],
+  "antwort_2_richtig": "A",
+  "frage_3": "Was plant Martin für nächstes Jahr?",
+  "Antwort_3": ["A) Eine Sprachreise nach Spanien", "B) Einen Umzug nach Italien", "C) Einen Sprachkurs in Frankreich"],
+  "antwort_3_richtig": "A"
+}
+,
+  {
+  "id": "168",
+  "title": "Diskussion über Umweltprobleme und Lösungen",
+      "audioUrl": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/audio/168.mp3",
+  "text": "Anna: Hallo Markus, hast du die Nachrichten über die Umweltverschmutzung gesehen?\nMarkus: Ja, das Thema wird immer wichtiger. Es ist besorgniserregend.\nAnna: Besonders der Plastikmüll in den Ozeanen macht mir Sorgen.\nMarkus: Da hast du recht. Viele Tiere leiden darunter und es zerstört das Ökosystem.\nAnna: Was denkst du, können wir als Einzelne tun, um zu helfen?\nMarkus: Ich versuche, Plastik zu vermeiden, indem ich Stofftaschen benutze und weniger Einwegprodukte kaufe.\nAnna: Das ist ein guter Anfang. Auch Recycling und bewusster Konsum helfen.\nMarkus: Und die Politik muss strengere Gesetze zum Umweltschutz verabschieden.\nAnna: Absolut. Bildung ist auch wichtig, damit mehr Menschen verstehen, wie sie die Umwelt schützen können.\nMarkus: Ja, und Unternehmen sollten nachhaltiger produzieren.\nAnna: Es gibt viele kleine Schritte, die zusammen eine große Wirkung haben können.\nMarkus: Genau. Jeder sollte seinen Beitrag leisten.\nAnna: Danke für das Gespräch, Markus.\nMarkus: Gerne, Anna!",
+  "frage_1": "Welches Umweltproblem wird besonders erwähnt?",
+  "Antwort_1": ["A) Luftverschmutzung", "B) Plastikmüll in den Ozeanen", "C) Waldrodung"],
+  "antwort_1_richtig": "B",
+  "frage_2": "Was macht Markus, um Plastik zu vermeiden?",
+  "Antwort_2": ["A) Er benutzt Stofftaschen", "B) Er kauft mehr Einwegprodukte", "C) Er recycelt nicht"],
+  "antwort_2_richtig": "A",
+  "frage_3": "Was sollte die Politik laut dem Gespräch tun?",
+  "Antwort_3": ["A) Strengere Umweltschutzgesetze verabschieden", "B) Weniger Umweltschutz fördern", "C) Keine Maßnahmen ergreifen"],
+  "antwort_3_richtig": "A"
+}
+
+  
   
 ]
 
