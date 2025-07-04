@@ -281,7 +281,7 @@
   {
   "id": "168",
   "title": "Diskussion über Umweltprobleme und Lösungen",
-      "audioUrl": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/audio/168.mp3",
+  "audioUrl": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/audio/168.mp3",
   "text": "Anna: Hallo Markus, hast du die Nachrichten über die Umweltverschmutzung gesehen?\nMarkus: Ja, das Thema wird immer wichtiger. Es ist besorgniserregend.\nAnna: Besonders der Plastikmüll in den Ozeanen macht mir Sorgen.\nMarkus: Da hast du recht. Viele Tiere leiden darunter und es zerstört das Ökosystem.\nAnna: Was denkst du, können wir als Einzelne tun, um zu helfen?\nMarkus: Ich versuche, Plastik zu vermeiden, indem ich Stofftaschen benutze und weniger Einwegprodukte kaufe.\nAnna: Das ist ein guter Anfang. Auch Recycling und bewusster Konsum helfen.\nMarkus: Und die Politik muss strengere Gesetze zum Umweltschutz verabschieden.\nAnna: Absolut. Bildung ist auch wichtig, damit mehr Menschen verstehen, wie sie die Umwelt schützen können.\nMarkus: Ja, und Unternehmen sollten nachhaltiger produzieren.\nAnna: Es gibt viele kleine Schritte, die zusammen eine große Wirkung haben können.\nMarkus: Genau. Jeder sollte seinen Beitrag leisten.\nAnna: Danke für das Gespräch, Markus.\nMarkus: Gerne, Anna!",
   "frage_1": "Welches Umweltproblem wird besonders erwähnt?",
   "Antwort_1": ["A) Luftverschmutzung", "B) Plastikmüll in den Ozeanen", "C) Waldrodung"],
@@ -296,5 +296,175 @@
 
   
   
+],
+
+#################################################
+{
+    "title": "Gesunde Ernährung",
+    "text": "Lena: Ich möchte mich gesünder ernähren.\nPaul: Das ist eine gute Idee. Was möchtest du ändern?\nLena: Ich will mehr Obst und Gemüse essen und weniger Zucker.\nPaul: Das klingt vernünftig. Trinkst du auch genug Wasser?\nLena: Manchmal vergesse ich das. Ich werde versuchen, mehr Wasser zu trinken.\nPaul: Super! Verarbeitete Lebensmittel solltest du auch reduzieren.\nLena: Ja, das habe ich vor. Frische und natürliche Lebensmittel sind besser.\nPaul: Genau. Und Sport hilft auch, sich fitter zu fühlen.\nLena: Das stimmt. Ich werde mehr Sport machen, um mich insgesamt besser zu fühlen.",
+    "questions": [
+      {
+        "frage_1": "Was möchte Lena ändern?",
+        "Antwort_1": [
+          "Mehr Zucker essen",
+          "Mehr Obst und Gemüse essen",
+          "Weniger Wasser trinken"
+        ],
+        "antwort_1_richtig": "Mehr Obst und Gemüse essen"
+      },
+      {
+        "frage_2": "Was vergisst Lena manchmal?",
+        "Antwort_2": [
+          "Genug Wasser trinken",
+          "Sport machen",
+          "Frisches Obst kaufen"
+        ],
+        "antwort_2_richtig": "Genug Wasser trinken"
+      },
+      {
+        "frage_3": "Was ist besser laut Paul?",
+        "Antwort_3": [
+          "Verarbeitete Lebensmittel",
+          "Frische und natürliche Lebensmittel",
+          "Süße Snacks"
+        ],
+        "antwort_3_richtig": "Frische und natürliche Lebensmittel"
+      }
+    ]
+  },
+  {
+    "title": "Freizeitaktivitäten in der Stadt",
+    "text": "Tom: Was machst du gerne in deiner Freizeit?\nSara: Ich gehe oft ins Kino oder treffe mich mit Freunden im Café.\nTom: Klingt schön. Gibt es auch Parks zum Entspannen?\nSara: Ja, wir haben einen großen Park mit einem See und vielen Bäumen.\nTom: Super, das klingt nach einem guten Ort für Spaziergänge.\nSara: Genau, besonders im Frühling, wenn alles blüht.\nTom: Ich gehe auch gern ins Museum, um neue Dinge zu lernen.\nSara: Das ist interessant. In unserer Stadt gibt es viele Ausstellungen und Veranstaltungen.",
+    "questions": [
+      {
+        "frage_1": "Was macht Sara gerne in ihrer Freizeit?",
+        "Antwort_1": [
+          "Ins Kino gehen und Freunde treffen",
+          "Nur zu Hause bleiben",
+          "Sport im Fitnessstudio"
+        ],
+        "antwort_1_richtig": "Ins Kino gehen und Freunde treffen"
+      },
+      {
+        "frage_2": "Was gibt es im Park?",
+        "Antwort_2": [
+          "Einen See und viele Bäume",
+          "Nur einen Spielplatz",
+          "Ein Einkaufszentrum"
+        ],
+        "antwort_2_richtig": "Einen See und viele Bäume"
+      },
+      {
+        "frage_3": "Was macht Tom gern?",
+        "Antwort_3": [
+          "Ins Museum gehen",
+          "Fahrrad fahren",
+          "Klettern"
+        ],
+        "antwort_3_richtig": "Ins Museum gehen"
+      }
+    ]
+  },
+  {
+    "title": "Technologie und Zukunft",
+    "text": "Mia: Denkst du, dass Technologie unsere Zukunft verbessert?\nLukas: Ja, in vielen Bereichen, wie Medizin und Kommunikation.\nMia: Aber gibt es auch Risiken?\nLukas: Natürlich, zum Beispiel Datenschutz und Abhängigkeit.\nMia: Wie können wir diese Probleme lösen?\nLukas: Wir brauchen klare Regeln und sollten Technologie bewusst nutzen.\nMia: Das stimmt. Bildung ist auch wichtig, damit alle mitkommen.\nLukas: Genau, damit niemand ausgeschlossen wird.",
+    "questions": [
+      {
+        "frage_1": "In welchen Bereichen verbessert Technologie die Zukunft laut Lukas?",
+        "Antwort_1": [
+          "Medizin und Kommunikation",
+          "Sport und Freizeit",
+          "Kunst und Musik"
+        ],
+        "antwort_1_richtig": "Medizin und Kommunikation"
+      },
+      {
+        "frage_2": "Welche Risiken nennt Lukas?",
+        "Antwort_2": [
+          "Datenschutz und Abhängigkeit",
+          "Wetteränderungen",
+          "Verkehrsunfälle"
+        ],
+        "antwort_2_richtig": "Datenschutz und Abhängigkeit"
+      },
+      {
+        "frage_3": "Was ist laut Mia wichtig, damit alle mitkommen?",
+        "Antwort_3": [
+          "Bildung",
+          "Sport",
+          "Reisen"
+        ],
+        "antwort_3_richtig": "Bildung"
+      }
+    ]
+  },
+  {
+    "title": "Sport und Gesundheit",
+    "text": "Nina: Wie oft machst du Sport?\nJonas: Ich versuche, dreimal pro Woche zu trainieren.\nNina: Das ist gut! Welchen Sport machst du?\nJonas: Meistens laufe ich und gehe ins Fitnessstudio.\nNina: Ich schwimme gerne, das ist gut für die Gelenke.\nJonas: Ja, und Sport hilft, Stress abzubauen.\nNina: Genau. Man fühlt sich danach immer besser und fitter.",
+    "questions": [
+      {
+        "frage_1": "Wie oft trainiert Jonas?",
+        "Antwort_1": [
+          "Dreimal pro Woche",
+          "Jeden Tag",
+          "Nie"
+        ],
+        "antwort_1_richtig": "Dreimal pro Woche"
+      },
+      {
+        "frage_2": "Welchen Sport macht Nina gerne?",
+        "Antwort_2": [
+          "Schwimmen",
+          "Laufen",
+          "Fußball"
+        ],
+        "antwort_2_richtig": "Schwimmen"
+      },
+      {
+        "frage_3": "Was hilft Sport laut Jonas?",
+        "Antwort_3": [
+          "Stress abzubauen",
+          "Schlafen zu vermeiden",
+          "Mehr zu essen"
+        ],
+        "antwort_3_richtig": "Stress abzubauen"
+      }
+    ]
+  },
+  {
+    "title": "Recycling und Umweltschutz #######",
+    "text": "Eva: Ich möchte mehr für die Umwelt tun.\nTom: Recycling ist ein guter Anfang.\nEva: Wie kann man richtig recyceln?\nTom: Man trennt Müll in Papier, Plastik, Glas und Restmüll.\nEva: Gibt es auch Recycling in der Schule?\nTom: Ja, wir haben verschiedene Container und lernen, warum es wichtig ist.\nEva: Das ist super. Jeder kann so einen Beitrag leisten.\nTom: Genau, kleine Veränderungen helfen der Umwelt.",
+    "questions": [
+      {
+        "frage_1": "Was möchte Eva tun?",
+        "Antwort_1": [
+          "Mehr für die Umwelt tun",
+          "Mehr reisen",
+          "Weniger lernen"
+        ],
+        "antwort_1_richtig": "Mehr für die Umwelt tun"
+      },
+      {
+        "frage_2": "Wie trennt man Müll richtig?",
+        "Antwort_2": [
+          "Papier, Plastik, Glas und Restmüll",
+          "Alles zusammen",
+          "Nur Plastik"
+        ],
+        "antwort_2_richtig": "Papier, Plastik, Glas und Restmüll"
+      },
+      {
+        "frage_3": "Was gibt es in der Schule zum Thema Recycling?",
+        "Antwort_3": [
+          "Verschiedene Container und Unterricht",
+          "Keine Maßnahmen",
+          "Nur einen Mülleimer"
+        ],
+        "antwort_3_richtig": "Verschiedene Container und Unterricht"
+      }
+    ]
+  }
+
 ]
+
 
