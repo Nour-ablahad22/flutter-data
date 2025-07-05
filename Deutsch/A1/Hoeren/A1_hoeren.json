@@ -21,7 +21,7 @@
   "id": "3",
   "title": "Das Fitnessstudio",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Clara geht seit einem Monat regelmäßig ins Fitnessstudio. Sie möchte fitter werden und mehr Energie haben. Im Fitnessstudio trainiert sie mit Gewichten und macht Ausdauerübungen. Clara mag die Musik und die Atmosphäre dort. Sie hat auch einen Trainer, der ihr hilft und Tipps gibt. Manchmal geht Clara mit Freunden zusammen ins Fitnessstudio. Nach dem Training fühlt sie sich immer besser und gesünder. Sie plant, das Training noch lange fortzusetzen, weil es ihr viel Spaß macht.",
-"audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/75.mp3",
+"audioUrl": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Mit/75.mp3",
     "frage_1": "Clara trainiert im Fitnessstudio.",
   "Antwort_1": ["Richtig", "Falsch"],
   "antwort_1_richtig": "Richtig",
