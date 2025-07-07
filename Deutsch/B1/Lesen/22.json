@@ -28,16 +28,16 @@
     "translation": "يعيش بيتر في كولونيا ويذهب إلى العمل كل يوم بالدراجة. يستغرق حوالي 20 دقيقة. في الشتاء يرتدي سترة دافئة، وفي الصيف يرتدي واحدة خفيفة ليشعر بالراحة.",
     "questions": [
       {
-        "question": "Peter fährt mit dem Auto zur Arbeit.",
+        "question": "Herr Khan hat sich für einen Deutschkurs angemeldet.",
         "question_ar": "بيتر يذهب إلى العمل بالسيارة.",
         "options": ["Richtig", "Falsch"],
         "options_ar": ["صحيح", "خطأ"],
         "answer": "Falsch"
       },
       {
-        "question": "Wie lange dauert Peters Fahrt zur Arbeit?",
+        "question": "Herr Khan ",
         "question_ar": "كم تستغرق رحلة بيتر إلى العمل؟",
-        "options": ["10 Minuten", "20 Minuten", "30 Minuten"],
+        "options": ["hat einen Test zur Einstufung gemacht.", "kann an "Deutsch für den für den Beruf" teilnehmen.", "spricht deutsch auf dem Niveau B2"],
         "options_ar": ["10 دقائق", "20 دقيقة", "30 دقيقة"],
         "answer": "20 Minuten"
       }
