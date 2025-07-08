@@ -2,161 +2,404 @@
   {
     "id": 3,
     "Frage": "Ihr neuer Kollege, Herr Jensch, hat Sie am Dienstag um 15 Uhr zu seiner Geburtstagfeier im Büro eingeladen. Schreiben Sie an Herr Jensch:\n\n\t-Warum schreiben Sie ?\n\t-Später kommen?\n\t-Helfen?",
-    "title": "Einladung zu einer Geburtstagsparty",
-    "level": "A1",
-    "subtopics": [
-      {
-        "id": 3001,
-        "title": "Einladung zur Party",
-        "text": "Hallo, ich möchte dich herzlich zu meiner Geburtstagsparty einladen. Die Feier findet am Samstag um 19 Uhr bei mir zu Hause statt. Es gibt leckeres Essen, Getränke und Musik. Bitte sag mir Bescheid, ob du kommen kannst. Ich freue mich auf dich!",
-        "text_ar": "مرحبًا، أود دعوتك بحرارة إلى حفلة عيد ميلادي. تقام الحفلة يوم السبت الساعة 7 مساءً في بيتي. سيكون هناك طعام لذيذ ومشروبات وموسيقى. رجاءً أخبرني إذا كنت تستطيع الحضور. أنا متحمس لرؤيتك!"
-      },
-      {
-        "id": 3002,
-        "title": "Später kommen",
-        "text": "Ich schreibe Ihnen, weil ich leider erst später kommen kann, etwa gegen 15:30 Uhr. Ich hoffe, das ist in Ordnung. Ich freue mich trotzdem sehr auf die Feier und möchte gerne helfen.",
-        "text_ar": "أكتب لك لأنني لن أتمكن من الحضور إلا متأخرًا، حوالي الساعة 15:30. آمل أن يكون ذلك مناسبًا. أنا متحمس للحفلة وأرغب في المساعدة."
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "Frage": "Ihre Nachbarin hat Sie zu einem Grillfest am Wochenende eingeladen. Schreiben Sie an Ihre Nachbarin:\n\n\t-Warum schreiben Sie ?\n\t-Später kommen?\n\t-Helfen?",
-    "title": "Einladung zum Grillfest",
+    "title": "Einladung zur Bürogeburtstagsparty",
     "level": "A2",
     "subtopics": [
       {
-        "id": 4001,
-        "title": "Grillfest Einladung",
-        "text": "Liebe Nachbarin, vielen Dank für Ihre Einladung zum Grillfest. Ich schreibe, weil ich gerne kommen möchte, aber eventuell etwas später. Es wäre toll, wenn ich beim Aufräumen helfen kann.",
-        "text_ar": "عزيزتي الجارة، شكرًا جزيلاً على دعوتك لحفلة الشواء. أكتب لأنني أود الحضور، لكن ربما سأصل متأخرًا قليلاً. سيكون من الرائع أن أساعد في التنظيف."
+        "id": 3001,
+        "title": "Dank und Zusage mit Bitte um Entschuldigung",
+        "text": "Lieber Herr Jensch, vielen Dank für Ihre Einladung zu Ihrer Geburtstagsparty im Büro. Ich schreibe Ihnen, weil ich leider erst gegen 15:30 Uhr kommen kann. Ich würde mich freuen, wenn ich Ihnen beim Aufräumen nach der Feier helfen kann.",
+        "text_ar": "السيد يينش العزيز، شكرًا جزيلاً على دعوتك لحفلة عيد ميلادك في المكتب. أكتب لك لأنني للأسف سأصل حوالي الساعة 15:30. سأكون سعيدًا إذا استطعت مساعدتك في التنظيف بعد الحفلة."
       },
       {
-        "id": 4002,
-        "title": "Später kommen und Helfen",
-        "text": "Ich komme wahrscheinlich gegen 18 Uhr und bringe gerne Salate mit. Nach der Feier helfe ich beim Aufräumen. Vielen Dank nochmals für die Einladung.",
-        "text_ar": "ربما أصل حوالي الساعة 6 مساءً وأحب إحضار السلطات. بعد الحفلة سأساعد في التنظيف. شكرًا مرة أخرى على الدعوة."
+        "id": 3002,
+        "title": "Fragen zur Feier und Mithilfe",
+        "text": "Ich wollte auch fragen, ob ich etwas zu essen oder trinken mitbringen soll. Außerdem helfe ich gern beim Vorbereiten der Getränke und beim Tischdecken, wenn Sie möchten.",
+        "text_ar": "أردت أيضًا أن أسأل هل يجب علي إحضار شيء للأكل أو الشراب. بالإضافة إلى ذلك، أحب المساعدة في تجهيز المشروبات وترتيب الطاولة إذا أردت."
+      },
+      {
+        "id": 3003,
+        "title": "Bestätigung der Teilnahme",
+        "text": "Ich freue mich sehr auf die Feier und darauf, meine Kollegen besser kennenzulernen. Vielen Dank nochmal für die nette Einladung. Bis Dienstag!",
+        "text_ar": "أنا متحمس جدًا للحفلة ولكي أتعرف على زملائي أكثر. شكراً مرة أخرى على الدعوة الجميلة. إلى الثلاثاء!"
       }
     ]
   },
+
+  
+  {
+    "id": 4,
+    "Frage": "Ihre Freundin lädt Sie zu einem Kaffeekränzchen ein. Schreiben Sie an Ihre Freundin:\n\n\t-Warum schreiben Sie ?\n\t-Später kommen?\n\t-Helfen?",
+    "title": "Einladung zum Kaffeekränzchen",
+    "level": "A1",
+    "subtopics": [
+      {
+        "id": 4001,
+        "title": "Dankeschön und Zusage",
+        "text": "Liebe Julia, vielen Dank für deine Einladung zum Kaffeekränzchen. Ich schreibe, weil ich etwas später kommen werde, etwa um 16 Uhr. Ich freue mich schon sehr darauf, mit dir Kaffee zu trinken und zu plaudern.",
+        "text_ar": "عزيزتي جوليا، شكرًا على دعوتك لجلسة القهوة. أكتب لأنني سأصل متأخرًا قليلاً حوالي الساعة 16. أنا متحمس جدًا لشرب القهوة والدردشة معك."
+      },
+      {
+        "id": 4002,
+        "title": "Mitbringen von Kuchen",
+        "text": "Ich würde gerne einen Kuchen mitbringen, wenn das in Ordnung ist. Außerdem kann ich dir beim Tischdecken helfen, falls du Unterstützung brauchst.",
+        "text_ar": "أحب إحضار كعكة إذا كان ذلك مناسبًا. كما يمكنني مساعدتك في ترتيب الطاولة إذا كنت بحاجة."
+      },
+      {
+        "id": 4003,
+        "title": "Fragen zur Uhrzeit und Treffpunkt",
+        "text": "Sag mir bitte, wann genau das Kaffeekränzchen beginnt und wo wir uns treffen. Ich freue mich sehr auf einen gemütlichen Nachmittag mit dir.",
+        "text_ar": "رجاءً أخبريني متى وأين تبدأ جلسة القهوة بالضبط. أنا متحمس لقضاء فترة بعد ظهر مريحة معك."
+      }
+    ]
+  },
+
+  
   {
     "id": 5,
-    "Frage": "Ihr Chef hat Sie zu einem wichtigen Meeting eingeladen. Schreiben Sie an Ihren Chef:\n\n\t-Warum schreiben Sie ?\n\t-Später kommen?\n\t-Helfen?",
-    "title": "Einladung zum Meeting",
+    "Frage": "Ihr Nachbar lädt Sie zu einem Filmabend ein. Schreiben Sie an Ihren Nachbarn:\n\n\t-Warum schreiben Sie ?\n\t-Später kommen?\n\t-Helfen?",
+    "title": "Einladung zum Filmabend",
     "level": "A2",
     "subtopics": [
       {
         "id": 5001,
-        "title": "Meeting Einladung",
-        "text": "Sehr geehrter Herr Müller, vielen Dank für die Einladung zum Meeting. Ich schreibe Ihnen, weil ich eventuell etwas später komme. Ich möchte außerdem bei der Vorbereitung helfen.",
-        "text_ar": "السيد مولر المحترم، شكرًا على دعوتك للاجتماع. أكتب لك لأنني قد أتأخر قليلاً. كما أود المساعدة في التحضير."
+        "title": "Bestätigung und Entschuldigung für spätes Kommen",
+        "text": "Hallo Herr Schmidt, vielen Dank für Ihre Einladung zum Filmabend. Ich schreibe Ihnen, weil ich erst gegen 20:15 Uhr kommen kann, da ich vorher noch einen Termin habe. Ich freue mich aber sehr auf den gemeinsamen Abend.",
+        "text_ar": "مرحبًا سيد شميدت، شكرًا لدعوتك لسهرة الفيلم. أكتب لأنني سأصل حوالي الساعة 20:15 بسبب موعد سابق. ولكني متحمس لقضاء الأمسية معكم."
       },
       {
         "id": 5002,
-        "title": "Später kommen und Helfen",
-        "text": "Ich plane, um 10:30 Uhr zu kommen, falls das möglich ist. Ich bringe auch die notwendigen Unterlagen mit und helfe gern bei der Präsentation.",
-        "text_ar": "أخطط للحضور الساعة 10:30 إذا كان ذلك ممكنًا. سأحضر المستندات اللازمة وأرغب في المساعدة في العرض التقديمي."
+        "title": "Angebot zur Mithilfe",
+        "text": "Falls Sie Hilfe beim Aufbau der Technik oder bei der Vorbereitung brauchen, helfe ich Ihnen gerne. Sagen Sie mir einfach Bescheid, was ich mitbringen oder tun soll.",
+        "text_ar": "إذا كنت تحتاج مساعدة في تجهيز الأجهزة أو التحضير، أنا سعيد بالمساعدة. فقط أخبرني ماذا أحضر أو أعمل."
+      },
+      {
+        "id": 5003,
+        "title": "Fragen zum Film und Snacks",
+        "text": "Ich würde auch gern wissen, welchen Film wir schauen und ob ich Snacks oder Getränke mitbringen soll. Ich freue mich auf Ihre Rückmeldung.",
+        "text_ar": "أود أيضًا معرفة الفيلم الذي سنشاهده وهل يجب علي إحضار وجبات خفيفة أو مشروبات. أتطلع لردك."
       }
     ]
   },
+  
   {
     "id": 6,
-    "Frage": "Ihre Kollegin hat Sie eingeladen, an einem Seminar teilzunehmen. Schreiben Sie an Ihre Kollegin:\n\n\t-Warum schreiben Sie ?\n\t-Später kommen?\n\t-Helfen?",
-    "title": "Einladung zum Seminar",
-    "level": "A2",
+    "Frage": "Ihre Kollegin lädt Sie zu einem gemeinsamen Mittagessen ein. Schreiben Sie an Ihre Kollegin:\n\n\t-Warum schreiben Sie ?\n\t-Später kommen?\n\t-Helfen?",
+    "title": "Einladung zum gemeinsamen Mittagessen",
+    "level": "A1",
     "subtopics": [
       {
         "id": 6001,
-        "title": "Seminar Einladung",
-        "text": "Liebe Anna, danke für deine Einladung zum Seminar. Ich schreibe dir, weil ich gern teilnehmen möchte, aber vielleicht etwas später komme. Ich kann auch beim Organisieren helfen, wenn du möchtest.",
-        "text_ar": "عزيزتي آنا، شكرًا على دعوتك لحضور الندوة. أكتب لك لأنني أود الحضور، لكن ربما سأصل متأخرًا قليلاً. يمكنني أيضًا المساعدة في التنظيم إذا أردت."
+        "title": "Dank und Entschuldigung wegen Verspätung",
+        "text": "Liebe Anna, vielen Dank für deine Einladung zum Mittagessen. Ich schreibe, weil ich leider erst um 13:30 Uhr kommen kann, da ich vorher noch ein Meeting habe. Ich freue mich sehr auf unser Treffen.",
+        "text_ar": "عزيزتي آنا، شكرًا على دعوتك للغداء. أكتب لأنني للأسف سأصل حوالي الساعة 13:30 بسبب اجتماع سابق. أنا متحمس جدًا للقائنا."
       },
       {
         "id": 6002,
-        "title": "Später kommen und Helfen",
-        "text": "Ich werde voraussichtlich gegen 14 Uhr kommen. Wenn du Hilfe bei der Vorbereitung brauchst, helfe ich gern. Vielen Dank nochmal für die Einladung!",
-        "text_ar": "سأصل على الأرجح حوالي الساعة 2 ظهرًا. إذا احتجت إلى مساعدة في التحضير، سأكون سعيدًا بالمساعدة. شكرًا مرة أخرى على الدعوة!"
+        "title": "Angebot zur Mithilfe bei der Vorbereitung",
+        "text": "Falls du Hilfe beim Einkaufen oder Kochen brauchst, helfe ich dir gerne. Bitte sag mir, ob ich etwas mitbringen soll.",
+        "text_ar": "إذا كنت تحتاجين مساعدة في التسوق أو الطهي، أنا سعيد بالمساعدة. رجاءً أخبريني إذا أردت مني إحضار شيء."
+      },
+      {
+        "id": 6003,
+        "title": "Fragen zum Treffpunkt und Menü",
+        "text": "Sag mir bitte, wo wir uns genau treffen und was es zu essen gibt. Ich freue mich auf einen schönen Mittag mit dir.",
+        "text_ar": "رجاءً أخبريني أين سنلتقي بالضبط وما هو الطعام. أنا متحمس لقضاء وقت جميل معك."
       }
     ]
   },
   {
     "id": 7,
-    "Frage": "Ihre Freundin lädt Sie zu einem Ausflug am Wochenende ein. Schreiben Sie an Ihre Freundin:\n\n\t-Warum schreiben Sie ?\n\t-Später kommen?\n\t-Helfen?",
-    "title": "Einladung zum Ausflug",
-    "level": "A1",
+    "Frage": "Ihr Chef bittet Sie, an einer Konferenz teilzunehmen. Schreiben Sie an Ihren Chef:\n\n\t-Warum schreiben Sie ?\n\t-Später kommen?\n\t-Helfen?",
+    "title": "Einladung zur Teilnahme an einer Konferenz",
+    "level": "A2",
     "subtopics": [
       {
         "id": 7001,
-        "title": "Ausflug Einladung",
-        "text": "Liebe Sarah, danke für die Einladung zum Ausflug. Ich schreibe dir, weil ich gern mitkommen möchte. Ich kann aber erst später kommen, gegen 11 Uhr. Ich helfe gern bei der Vorbereitung.",
-        "text_ar": "عزيزتي سارة، شكرًا على دعوتك للرحلة. أكتب لك لأنني أود الحضور، لكنني سأصل متأخرًا، حوالي الساعة 11. أحب المساعدة في التحضير."
+        "title": "Bestätigung und Entschuldigung wegen Verspätung",
+        "text": "Sehr geehrter Herr Müller, vielen Dank für die Einladung zur Konferenz. Ich schreibe, weil ich wegen eines anderen Termins erst um 10:30 Uhr teilnehmen kann. Ich werde mein Bestes geben, um die wichtigen Punkte zu erfassen.",
+        "text_ar": "السيد مولر المحترم، شكرًا لدعوتك لحضور المؤتمر. أكتب لأنني بسبب موعد آخر سأصل حوالي الساعة 10:30. سأبذل قصارى جهدي لفهم النقاط المهمة."
       },
       {
         "id": 7002,
-        "title": "Später kommen und Helfen",
-        "text": "Ich werde später ankommen, weil ich vorher arbeiten muss. Bitte sag mir, was ich mitbringen soll. Ich freue mich auf den Ausflug!",
-        "text_ar": "سأصل متأخرًا لأنني يجب أن أعمل قبل ذلك. رجاءً أخبريني ماذا أحضر معي. أنا متحمس للرحلة!"
+        "title": "Fragen zur Agenda und Unterstützung",
+        "text": "Bitte schicken Sie mir die Agenda der Konferenz. Falls Sie Hilfe bei der Organisation brauchen, helfe ich Ihnen gerne.",
+        "text_ar": "يرجى إرسال جدول أعمال المؤتمر لي. إذا كنت تحتاج مساعدة في التنظيم، أنا سعيد بالمساعدة."
+      },
+      {
+        "id": 7003,
+        "title": "Angebot zur Präsentation",
+        "text": "Falls gewünscht, kann ich einen kurzen Vortrag über mein aktuelles Projekt halten. Bitte geben Sie mir Bescheid, ob das erforderlich ist.",
+        "text_ar": "إذا رغبت، يمكنني تقديم عرض قصير عن مشروعي الحالي. رجاءً أخبرني إذا كان ذلك مطلوبًا."
       }
     ]
   },
   {
     "id": 8,
-    "Frage": "Ihr Sportverein lädt Sie zu einem Training ein. Schreiben Sie an den Trainer:\n\n\t-Warum schreiben Sie ?\n\t-Später kommen?\n\t-Helfen?",
-    "title": "Einladung zum Training",
-    "level": "A2",
-    "subtopics": [
-      {
-        "id": 8001,
-        "title": "Training Einladung",
-        "text": "Hallo Trainer, danke für die Einladung zum Training. Ich schreibe, weil ich wahrscheinlich etwas später komme. Ich möchte auch helfen, die Geräte vorzubereiten.",
-        "text_ar": "مرحبًا مدرب، شكرًا على دعوتك للتدريب. أكتب لأنني ربما سأصل متأخرًا قليلاً. أود أيضًا المساعدة في تجهيز المعدات."
-      },
-      {
-        "id": 8002,
-        "title": "Später kommen und Helfen",
-        "text": "Ich komme gegen 18:30 Uhr und bringe meine Sportsachen mit. Nach dem Training helfe ich gern beim Aufräumen.",
-        "text_ar": "سأصل حوالي الساعة 6:30 مساءً وسأحضر أمتعتي الرياضية. بعد التدريب سأساعد في التنظيف."
-      }
-    ]
-  },
-  {
-    "id": 9,
-    "Frage": "Ihr Freund hat Sie zum Abendessen eingeladen. Schreiben Sie an Ihren Freund:\n\n\t-Warum schreiben Sie ?\n\t-Später kommen?\n\t-Helfen?",
-    "title": "Einladung zum Abendessen",
+    "Frage": "Ihre Nachbarin lädt Sie zu einer Gartenparty ein. Schreiben Sie an Ihre Nachbarin:\n\n\t-Warum schreiben Sie ?\n\t-Später kommen?\n\t-Helfen?",
+    "title": "Einladung zur Gartenparty",
     "level": "A1",
     "subtopics": [
       {
+        "id": 8001,
+        "title": "Dank und Entschuldigung für spätes Kommen",
+        "text": "Liebe Frau Becker, vielen Dank für Ihre Einladung zur Gartenparty. Ich schreibe, weil ich wegen der Arbeit erst gegen 18 Uhr kommen kann. Ich freue mich sehr auf die Feier und die Gemeinschaft mit den Nachbarn.",
+        "text_ar": "عزيزتي السيدة بيكر، شكرًا على دعوتك لحفلة الحديقة. أكتب لأنني سأصل حوالي الساعة 18 بسبب العمل. أنا متحمس للحفلة والتعرف على الجيران."
+      },
+      {
+        "id": 8002,
+        "title": "Angebot zur Mithilfe bei der Vorbereitung",
+        "text": "Falls Sie Hilfe beim Aufbauen der Tische oder beim Grillen brauchen, helfe ich Ihnen gerne. Bitte sagen Sie mir, was ich mitbringen soll.",
+        "text_ar": "إذا كنت تحتاجين مساعدة في ترتيب الطاولات أو الشواء، أنا سعيد بالمساعدة. رجاءً أخبريني ماذا أحضر."
+      },
+      {
+        "id": 8003,
+        "title": "Fragen zur Dauer und zum Programm",
+        "text": "Könnten Sie mir bitte sagen, wie lange die Party dauert und ob es ein spezielles Programm gibt? Ich freue mich schon auf einen schönen Abend.",
+        "text_ar": "هل يمكن أن تخبريني كم ستستمر الحفلة وهل هناك برنامج خاص؟ أنا متحمس لقضاء أمسية جميلة."
+      }
+    ]
+  }
+
+,
+
+
+    
+  {
+    "id": 9,
+    "Frage": "Ihr Freund lädt Sie zu einem Wochenendausflug ein. Schreiben Sie an Ihren Freund:\n\n\t-Warum schreiben Sie ?\n\t-Später kommen?\n\t-Helfen?",
+    "title": "Einladung zum Wochenendausflug",
+    "level": "A2",
+    "subtopics": [
+      {
         "id": 9001,
-        "title": "Abendessen Einladung",
-        "text": "Lieber Tom, vielen Dank für die Einladung zum Abendessen. Ich schreibe, weil ich vielleicht später komme, gegen 20 Uhr. Ich bringe gern etwas zu essen mit.",
-        "text_ar": "عزيزي توم، شكرًا على دعوتك للعشاء. أكتب لأنني قد أصل متأخرًا، حوالي الساعة 8 مساءً. أحب أن أحضر شيئًا للأكل."
+        "title": "Dank und Erklärung für späte Ankunft",
+        "text": "Lieber Max, danke für deine Einladung zum Ausflug am Wochenende. Ich schreibe dir, weil ich erst am Samstagmittag ankommen kann, da ich am Freitag noch arbeiten muss. Ich freue mich aber sehr auf das Wochenende mit dir.",
+        "text_ar": "عزيزي ماكس، شكرًا على دعوتك للرحلة في نهاية الأسبوع. أكتب لك لأنني سأصل فقط ظهر السبت بسبب عملي يوم الجمعة. مع ذلك أنا متحمس لقضاء عطلة نهاية الأسبوع معك."
       },
       {
         "id": 9002,
-        "title": "Später kommen und Helfen",
-        "text": "Ich freue mich auf den Abend und helfe gerne beim Tischdecken oder Kochen. Danke nochmal für die Einladung!",
-        "text_ar": "أنا متحمس للسهر وأحب المساعدة في ترتيب الطاولة أو الطبخ. شكرًا مرة أخرى على الدعوة!"
+        "title": "Angebot zur Mithilfe bei der Planung",
+        "text": "Wenn du Hilfe bei der Organisation oder beim Packen brauchst, helfe ich dir gerne. Sag mir, was ich mitbringen soll oder ob ich etwas vorbereiten kann.",
+        "text_ar": "إذا كنت تحتاج مساعدة في التنظيم أو الترتيب، أنا سعيد بالمساعدة. رجاءً أخبرني ماذا أحضر أو إذا كان بإمكاني تجهيز شيء."
+      },
+      {
+        "id": 9003,
+        "title": "Fragen zur Unterkunft und Aktivitäten",
+        "text": "Kannst du mir bitte sagen, wo wir übernachten und welche Aktivitäten geplant sind? Ich freue mich schon auf den Ausflug und die gemeinsame Zeit.",
+        "text_ar": "هل يمكنك أن تخبرني أين سنبيت وما هي الأنشطة المخطط لها؟ أنا متحمس للرحلة والوقت معًا."
       }
     ]
   },
   {
     "id": 10,
-    "Frage": "Ihre Kollegin hat Sie eingeladen, an einer Feier teilzunehmen. Schreiben Sie an Ihre Kollegin:\n\n\t-Warum schreiben Sie ?\n\t-Später kommen?\n\t-Helfen?",
-    "title": "Einladung zur Feier",
+    "Frage": "Ihr Vermieter informiert Sie über Reparaturen in Ihrer Wohnung. Schreiben Sie an Ihren Vermieter:\n\n\t-Warum schreiben Sie ?\n\t-Später kommen?\n\t-Helfen?",
+    "title": "Information über Reparaturen in der Wohnung",
     "level": "A2",
     "subtopics": [
       {
         "id": 10001,
-        "title": "Feier Einladung",
-        "text": "Liebe Maria, danke für die Einladung zur Feier. Ich schreibe dir, weil ich gern kommen möchte, aber vielleicht etwas später. Ich helfe auch gern beim Aufräumen nach der Feier.",
-        "text_ar": "عزيزتي ماريا، شكرًا على دعوتك للحفلة. أكتب لك لأنني أود الحضور، لكن ربما سأصل متأخرًا قليلاً. أحب المساعدة في التنظيف بعد الحفلة."
+        "title": "Bestätigung des Termins und Bitte um Details",
+        "text": "Sehr geehrter Herr Schmidt, danke für Ihre Nachricht bezüglich der Reparaturen. Ich schreibe, um zu bestätigen, dass ich am Mittwoch zwischen 10 und 12 Uhr zu Hause bin. Bitte teilen Sie mir mit, welche Arbeiten genau durchgeführt werden.",
+        "text_ar": "السيد شميدت المحترم، شكرًا على رسالتك بخصوص الإصلاحات. أكتب لتأكيد أنني سأكون في المنزل يوم الأربعاء بين الساعة 10 و 12. رجاءً أخبرني ما هي الأعمال التي ستتم بالضبط."
       },
       {
         "id": 10002,
-        "title": "Später kommen und Helfen",
-        "text": "Ich komme gegen 21 Uhr und bringe gern etwas zu essen mit. Vielen Dank nochmals für die Einladung!",
-        "text_ar": "سأصل حوالي الساعة 9 مساءً وأحب إحضار شيء للأكل. شكرًا مرة أخرى على الدعوة!"
+        "title": "Bitte um Terminverschiebung und alternative Zeiten",
+        "text": "Leider kann ich am Mittwoch nicht zu Hause sein. Könnten wir einen anderen Termin vereinbaren? Ich bin am Donnerstag und Freitag ab 14 Uhr verfügbar.",
+        "text_ar": "للأسف لن أكون في المنزل يوم الأربعاء. هل يمكننا تحديد موعد آخر؟ أنا متاح يوم الخميس والجمعة بعد الساعة 14."
+      },
+      {
+        "id": 10003,
+        "title": "Angebot zur Unterstützung bei den Reparaturen",
+        "text": "Falls ich bei den Vorbereitungen helfen kann, lassen Sie es mich bitte wissen. Ich möchte den Ablauf so einfach wie möglich machen.",
+        "text_ar": "إذا كان بإمكاني المساعدة في التحضيرات، رجاءً أخبرني. أريد أن أسهل العملية قدر الإمكان."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "Frage": "Ihr Kollege bittet Sie um Unterstützung bei einem Projekt. Schreiben Sie an Ihren Kollegen:\n\n\t-Warum schreiben Sie ?\n\t-Später kommen?\n\t-Helfen?",
+    "title": "Unterstützung bei einem Projekt",
+    "level": "A2",
+    "subtopics": [
+      {
+        "id": 11001,
+        "title": "Zusage und Erklärung für späte Verfügbarkeit",
+        "text": "Hallo Thomas, danke für deine Nachricht. Ich schreibe, um dir mitzuteilen, dass ich dich gerne bei deinem Projekt unterstützen möchte. Leider kann ich erst ab nächster Woche anfangen, da ich diese Woche noch andere Aufgaben habe.",
+        "text_ar": "مرحبًا توماس، شكرًا على رسالتك. أكتب لأخبرك أنني سعيد بمساعدتك في مشروعك. للأسف لا أستطيع البدء إلا الأسبوع القادم بسبب مهامي الحالية."
+      },
+      {
+        "id": 11002,
+        "title": "Fragen zum Projektumfang und Aufgaben",
+        "text": "Kannst du mir bitte genauere Informationen zum Projekt geben? Welche Aufgaben soll ich übernehmen und wie lange wird die Unterstützung dauern?",
+        "text_ar": "هل يمكنك أن تعطيني معلومات أكثر عن المشروع؟ ما هي المهام التي يجب أن أقوم بها وكم ستستمر فترة الدعم؟"
+      },
+      {
+        "id": 11003,
+        "title": "Angebot zur Zusammenarbeit und Rückfragen",
+        "text": "Ich freue mich auf die Zusammenarbeit und stehe für weitere Fragen jederzeit zur Verfügung. Bitte lass mich wissen, wie ich am besten helfen kann.",
+        "text_ar": "أنا متحمس للتعاون ومستعد لأي استفسارات في أي وقت. رجاءً أخبرني كيف يمكنني المساعدة بشكل أفضل."
       }
     ]
   }
+
+,
+
+  
+  {
+    "id": 12,
+    "Frage": "Ihr Nachbar lädt Sie zu einer Grillparty ein. Schreiben Sie an Ihren Nachbarn:\n\n\t-Warum schreiben Sie ?\n\t-Später kommen?\n\t-Helfen?",
+    "title": "Einladung zur Grillparty",
+    "level": "A2",
+    "subtopics": [
+      {
+        "id": 12001,
+        "title": "Dank für die Einladung und Zusage",
+        "text": "Lieber Herr Müller, vielen Dank für die Einladung zur Grillparty am Samstag. Ich schreibe, um zu sagen, dass ich gerne komme, aber erst ab 18 Uhr dabei sein kann.",
+        "text_ar": "عزيزي السيد مولر، شكرًا جزيلاً على دعوتك لحفلة الشواء يوم السبت. أكتب لأخبرك أنني سعيد بالحضور، لكنني سأصل فقط بعد الساعة 18."
+      },
+      {
+        "id": 12002,
+        "title": "Frage nach Mitbringemöglichkeiten",
+        "text": "Kann ich etwas zum Essen oder Trinken mitbringen? Bitte sagen Sie mir Bescheid, was gebraucht wird.",
+        "text_ar": "هل يمكنني إحضار شيء من الطعام أو الشراب؟ رجاءً أخبرني ماذا تحتاج."
+      },
+      {
+        "id": 12003,
+        "title": "Angebot zur Mithilfe beim Aufbau",
+        "text": "Wenn Sie Hilfe beim Aufbauen oder Organisieren brauchen, helfe ich gerne vor der Party.",
+        "text_ar": "إذا كنت تحتاج مساعدة في الترتيب أو التنظيم قبل الحفلة، أنا جاهز للمساعدة."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "Frage": "Ihr Kollege bittet Sie, eine Präsentation vorzubereiten. Schreiben Sie an Ihren Kollegen:\n\n\t-Warum schreiben Sie ?\n\t-Später kommen?\n\t-Helfen?",
+    "title": "Präsentation vorbereiten",
+    "level": "A2",
+    "subtopics": [
+      {
+        "id": 13001,
+        "title": "Bestätigung der Unterstützung",
+        "text": "Hallo Sabine, danke für deine Nachricht. Ich schreibe, um zu sagen, dass ich dir bei der Präsentation helfen kann, aber erst ab Montag Zeit habe.",
+        "text_ar": "مرحبًا سابين، شكرًا على رسالتك. أكتب لأخبرك أنني أستطيع مساعدتك في العرض التقديمي، لكن لن أكون متاحًا إلا يوم الاثنين."
+      },
+      {
+        "id": 13002,
+        "title": "Frage zu den Details der Präsentation",
+        "text": "Kannst du mir mehr Informationen geben, zum Beispiel das Thema und die Dauer der Präsentation?",
+        "text_ar": "هل يمكنك أن تعطيني معلومات أكثر، مثل الموضوع ومدة العرض؟"
+      },
+      {
+        "id": 13003,
+        "title": "Angebot für weitere Unterstützung",
+        "text": "Ich freue mich auf die Zusammenarbeit und kann auch bei der Gestaltung der Folien helfen.",
+        "text_ar": "أنا متحمس للتعاون ويمكنني أيضًا المساعدة في تصميم الشرائح."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "Frage": "Ihr Chef informiert Sie über eine neue Arbeitsregelung. Schreiben Sie an Ihren Chef:\n\n\t-Warum schreiben Sie ?\n\t-Später kommen?\n\t-Helfen?",
+    "title": "Neue Arbeitsregelung",
+    "level": "A2",
+    "subtopics": [
+      {
+        "id": 14001,
+        "title": "Bestätigung des Empfangs der Information",
+        "text": "Sehr geehrter Herr Weber, vielen Dank für die Information über die neue Arbeitsregelung. Ich schreibe, um zu bestätigen, dass ich die Nachricht erhalten habe und die Regeln verstanden habe.",
+        "text_ar": "السيد ويبر المحترم، شكرًا على المعلومات بخصوص القواعد الجديدة في العمل. أكتب لتأكيد استلام الرسالة وفهم القواعد."
+      },
+      {
+        "id": 14002,
+        "title": "Frage zu Einzelheiten der Regelung",
+        "text": "Könnten Sie mir bitte genauer erklären, wie die neue Regelung meinen Arbeitsalltag beeinflusst?",
+        "text_ar": "هل يمكنكم أن تشرحوا لي كيف تؤثر القواعد الجديدة على يوم عملي بشكل أدق؟"
+      },
+      {
+        "id": 14003,
+        "title": "Angebot zur Mitarbeit bei der Umsetzung",
+        "text": "Ich biete meine Unterstützung an, um die Regelung gut umzusetzen. Bitte lassen Sie mich wissen, wie ich helfen kann.",
+        "text_ar": "أعرض دعمي للمساعدة في تطبيق القواعد بشكل جيد. رجاءً أخبرني كيف يمكنني المساعدة."
+      }
+    ]
+  }
+
+,
+
+
+  
+  {
+    "id": 15,
+    "Frage": "Ihr Freund kann nicht zur Party kommen. Schreiben Sie ihm:\n\n\t-Warum schreiben Sie?\n\t-Wann sehen Sie sich?\n\t-Was planen Sie zusammen?",
+    "title": "Absage zur Party",
+    "level": "A2",
+    "subtopics": [
+      {
+        "id": 15001,
+        "title": "Treffen nach der Party",
+        "text": "Hallo Markus, schade, dass du nicht zur Party kommen kannst. Ich schreibe dir, weil ich dich bald wiedersehen möchte. Wie wäre es am Sonntag? Wir könnten ins Kino gehen oder zusammen etwas essen.",
+        "text_ar": "مرحبًا ماركوس، من المؤسف أنك لا تستطيع الحضور إلى الحفلة. أكتب لك لأنني أريد أن أراك قريبًا. ما رأيك بيوم الأحد؟ يمكننا الذهاب إلى السينما أو تناول شيء معًا."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "Frage": "Ihre Freundin hat Geburtstag. Schreiben Sie ihr:\n\n\t-Warum schreiben Sie?\n\t-Was wünschen Sie?\n\t-Was schenken Sie?",
+    "title": "Geburtstagsglückwünsche",
+    "level": "A2",
+    "subtopics": [
+      {
+        "id": 16001,
+        "title": "Geburtstagswünsche",
+        "text": "Liebe Anna, ich schreibe dir, um dir alles Gute zum Geburtstag zu wünschen! Ich hoffe, du hast einen schönen Tag mit deiner Familie. Ich schenke dir ein Buch, das dir sicher gefällt!",
+        "text_ar": "عزيزتي آنا، أكتب لك لأتمنى لك عيد ميلاد سعيد! آمل أن تقضي يومًا جميلًا مع عائلتك. أهديكِ كتابًا، متأكدة أنه سيعجبك!"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "Frage": "Sie haben einen Arzttermin. Schreiben Sie an Ihren Chef:\n\n\t-Warum schreiben Sie?\n\t-Wann ist der Termin?\n\t-Kommen Sie zur Arbeit danach?",
+    "title": "Arzttermin melden",
+    "level": "A2",
+    "subtopics": [
+      {
+        "id": 17001,
+        "title": "Mitteilung über Arztbesuch",
+        "text": "Sehr geehrter Herr Meier, ich schreibe Ihnen, weil ich morgen einen Arzttermin um 9 Uhr habe. Ich komme danach direkt ins Büro und bin ab etwa 11 Uhr wieder verfügbar.",
+        "text_ar": "السيد ماير المحترم، أكتب لك لأن لدي موعدًا مع الطبيب غدًا الساعة التاسعة. سأعود إلى المكتب بعد ذلك، وسأكون متاحًا حوالي الساعة 11."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "Frage": "Sie möchten einen Sprachkurs besuchen. Schreiben Sie an eine Sprachschule:\n\n\t-Warum schreiben Sie?\n\t-Welcher Kurs interessiert Sie?\n\t-Wann haben Sie Zeit?",
+    "title": "Anfrage Sprachkurs",
+    "level": "A2",
+    "subtopics": [
+      {
+        "id": 18001,
+        "title": "Sprachkursanfrage",
+        "text": "Sehr geehrte Damen und Herren, ich interessiere mich für Ihren A2-Deutschkurs am Abend. Ich schreibe, um zu fragen, ob noch Plätze frei sind. Ich habe ab 18 Uhr Zeit. Vielen Dank!",
+        "text_ar": "السادة المحترمون، أنا مهتم بدورة اللغة الألمانية A2 المسائية. أكتب لأسأل إن كانت هناك أماكن شاغرة. لدي وقت بعد الساعة 18:00. شكرًا جزيلًا!"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "Frage": "Sie wollen mit Ihrer Freundin ins Kino gehen. Schreiben Sie ihr:\n\n\t-Warum schreiben Sie?\n\t-Welchen Film sehen?\n\t-Wann treffen?",
+    "title": "Kinoeinladung",
+    "level": "A2",
+    "subtopics": [
+      {
+        "id": 19001,
+        "title": "Kino mit einer Freundin",
+        "text": "Hallo Sara, ich habe gesehen, dass ein neuer Film im Kino läuft. Ich würde ihn gern mit dir sehen. Hast du am Freitagabend Zeit? Wir könnten uns um 18:30 Uhr am Eingang treffen.",
+        "text_ar": "مرحبًا سارة، رأيت أن فيلمًا جديدًا يُعرض في السينما. أرغب في مشاهدته معك. هل لديك وقت مساء الجمعة؟ يمكننا أن نلتقي الساعة 18:30 عند المدخل."
+      }
+    ]
+  }
+
+
 ]
