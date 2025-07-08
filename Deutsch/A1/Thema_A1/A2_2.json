@@ -35,7 +35,7 @@
       "text_ar": "مرحبًا، أخطط لحفلة مفاجأة لصديقنا. الحفلة يوم الأحد الساعة 6 مساءً في بيتي. سيكون هناك موسيقى وطعام ومشروبات. رجاءً تعال وأحضر معك مزاجًا جيدًا. أخبرني بسرعة إذا كنت تستطيع الحضور. أنا متحمس لرؤيتك وللحفلة!"
     }
   ]
-},[
+},
   {
     "id": 10000,
     "Frage": "Ihr neuer Kollege, Herr Jensch, hat Sie am Dienstag um 15 Uhr zu seiner Geburtstagfeier im Büro eingeladen. Schreiben Sie an Herr Jensch:\n - Warum schreiben Sie?\n - Später kommen?\n - Helfen?\n Schreiben Sie zu jedem Punkt ein bis zwei Sätze auf den Antwortbogen (circa 30–40 Wörter). Schreiben Sie auch eine Anrede und einen Gruß.",
@@ -74,6 +74,6 @@
       }
     ]
   }
-]
+
 
 ]
