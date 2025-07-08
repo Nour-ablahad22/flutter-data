@@ -1,1 +1,38 @@
-a
+{
+  "id": 10000,
+  "Frage": "Ihr neuer Kollege, Herr Jensch, hat Sie am Dienstag um 15 Uhr zu seiner Geburtstagfeier im Büro eingeladen. Schreiben Sie an Herr Jensch: -Warum schreiben Sie ? -Später kommen? -Helfen? Schreiben Sie zujedem Punkt ein bis zwei Sätze auf den Antwortbogen (circa 30 Wörter ). Schreiben Sie auch eine Anrede und einen Gruß.",
+  "title": "Einladung zu einer 22222 Party",
+  "level": "A2",
+  "subtopics": [
+    {
+      "id": 1501,
+      "title": "Einladung zur Geburtstagsparty",
+      "text": "Hallo mein Freund, ich möchte dich herzlich zu meiner Geburtstagsparty einladen. Die Feier findet am Samstag um 19 Uhr bei mir zu Hause statt. Es gibt leckeres Essen, Getränke und gute Musik. Bitte sag mir Bescheid, ob du kommen kannst. Du kannst gerne auch deine Freunde mitbringen. Ich freue mich sehr auf dein Kommen. Bis bald und liebe Grüße!",
+      "text_ar": "مرحبًا صديقي، أود دعوتك بحرارة إلى حفلة عيد ميلادي. تقام الحفلة يوم السبت الساعة 7 مساءً في بيتي. سيكون هناك طعام لذيذ، مشروبات وموسيقى جيدة. رجاءً أخبرني إذا كنت تستطيع الحضور. يمكنك إحضار أصدقائك أيضًا. أنا متحمس جدًا لرؤيتك. إلى اللقاء وتحياتي!"
+    },
+    {
+      "id": 1502,
+      "title": "Sommerparty Einladung",
+      "text": "Hallo, ich mache am Freitag eine Sommerparty im Garten. Die Party beginnt um 17 Uhr. Es gibt viele Snacks und kalte Getränke. Bitte komm und bring gute Laune mit. Die Party ist für Freunde und Familie. Sag mir bitte schnell, ob du dabei bist. Ich freue mich auf einen schönen Abend mit dir!",
+      "text_ar": "مرحبًا، سأقيم حفلة صيفية يوم الجمعة في الحديقة. تبدأ الحفلة الساعة 5 مساءً. سيكون هناك الكثير من الوجبات الخفيفة والمشروبات الباردة. رجاءً تعال وأحضر معك مزاجًا جيدًا. الحفلة للأصدقاء والعائلة. رجاءً أخبرني بسرعة إذا كنت قادمًا. أنا متحمس لقضاء أمسية جميلة معك!"
+    },
+    {
+      "id": 1503,
+      "title": "Einladung zur Grillparty",
+      "text": "Hallo lieber Freund, am Samstag mache ich eine Grillparty. Wir treffen uns um 18 Uhr im Garten. Es gibt leckeres Essen und erfrischende Getränke. Du kannst gerne Freunde mitbringen. Bitte gib mir Bescheid, ob du kommen kannst. Ich freue mich auf einen schönen Abend mit dir und allen Gästen. Bis bald!",
+      "text_ar": "مرحبًا صديقي العزيز، يوم السبت سأقيم حفلة شواء. نلتقي الساعة 6 مساءً في الحديقة. سيكون هناك طعام لذيذ ومشروبات منعشة. يمكنك إحضار أصدقائك أيضًا. رجاءً أخبرني إذا كنت تستطيع الحضور. أنا متحمس لقضاء أمسية جميلة معك ومع جميع الضيوف. إلى اللقاء!"
+    },
+    {
+      "id": 1504,
+      "title": "Einladung zum Filmabend",
+      "text": "Hallo, ich lade dich zu einem Filmabend am Freitag ein. Wir treffen uns um 20 Uhr bei mir zu Hause. Es gibt Popcorn und Getränke. Wir schauen einen neuen Film zusammen. Bitte sag mir Bescheid, ob du kommen kannst. Ich freue mich, mit dir einen schönen Abend zu verbringen.",
+      "text_ar": "مرحبًا، أدعوك إلى سهرة فيلم يوم الجمعة. نلتقي الساعة 8 مساءً في بيتي. سيكون هناك فشار ومشروبات. سنشاهد فيلمًا جديدًا معًا. رجاءً أخبرني إذا كنت تستطيع الحضور. أنا متحمس لقضاء أمسية جميلة معك."
+    },
+    {
+      "id": 1505,
+      "title": "Überraschungsparty Einladung",
+      "text": "Hallo, ich plane eine Überraschungsparty für unseren Freund. Die Party ist am Sonntag um 18 Uhr bei mir zu Hause. Es gibt Musik, Essen und Getränke. Bitte komm und bring gute Laune mit. Sag mir schnell, ob du kommen kannst. Ich freue mich auf dich und die Feier!",
+      "text_ar": "مرحبًا، أخطط لحفلة مفاجأة لصديقنا. الحفلة يوم الأحد الساعة 6 مساءً في بيتي. سيكون هناك موسيقى وطعام ومشروبات. رجاءً تعال وأحضر معك مزاجًا جيدًا. أخبرني بسرعة إذا كنت تستطيع الحضور. أنا متحمس لرؤيتك وللحفلة!"
+    }
+  ]
+}
