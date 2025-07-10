@@ -1,1 +1,45 @@
 
+{
+  "examples": [
+    {
+      "de": "Ich bereite mich auf die Prüfung vor.",
+      "ar": "أستعد للامتحان."
+    },
+    {
+      "de": "Sie bereitet sich auf das Vorstellungsgespräch vor.",
+      "ar": "هي تستعد لمقابلة العمل."
+    },
+    {
+      "de": "Wir bereiten uns auf die Reise vor.",
+      "ar": "نستعد للسفر."
+    },
+    {
+      "de": "Bereitest du dich auch auf den Wettkampf vor?",
+      "ar": "هل تستعد أيضًا للمنافسة؟"
+    },
+    {
+      "de": "Er bereitet sich gründlich auf die Präsentation vor.",
+      "ar": "هو يستعد جيدًا للعرض التقديمي."
+    },
+    {
+      "de": "Die Schüler bereiten sich auf das Examen vor.",
+      "ar": "الطلاب يستعدون للامتحان."
+    },
+    {
+      "de": "Ich habe mich gut auf das Meeting vorbereitet.",
+      "ar": "لقد استعددت جيدًا للاجتماع."
+    },
+    {
+      "de": "Sie bereiten sich auf das Fußballspiel vor.",
+      "ar": "هم يستعدون لمباراة كرة القدم."
+    },
+    {
+      "de": "Wir bereiten uns auf den Umzug vor.",
+      "ar": "نستعد للانتقال."
+    },
+    {
+      "de": "Bitte bereite dich rechtzeitig auf die Prüfung vor.",
+      "ar": "من فضلك استعد للامتحان في الوقت المناسب."
+    }
+  ]
+}
