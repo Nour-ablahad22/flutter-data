@@ -1,1 +1,45 @@
 
+{
+  "examples": [
+    {
+      "de": "Ich bedanke mich für das schöne Geschenk.",
+      "ar": "أشكر على الهدية الجميلة."
+    },
+    {
+      "de": "Sie hat sich herzlich für die Einladung bedankt.",
+      "ar": "لقد شكرت بحرارة على الدعوة."
+    },
+    {
+      "de": "Wir bedanken uns für Ihre Unterstützung während des Projekts.",
+      "ar": "نحن نشكركم على دعمكم أثناء المشروع."
+    },
+    {
+      "de": "Er hat sich bei seinen Eltern für die Hilfe bedankt.",
+      "ar": "شكر والديه على المساعدة."
+    },
+    {
+      "de": "Ich möchte mich für Ihre Geduld bedanken.",
+      "ar": "أود أن أشكركم على صبركم."
+    },
+    {
+      "de": "Die Schüler bedankten sich für die tolle Klassenfahrt.",
+      "ar": "شكر الطلاب على الرحلة المدرسية الرائعة."
+    },
+    {
+      "de": "Hast du dich schon für das Geschenk bedankt?",
+      "ar": "هل شكرت على الهدية؟"
+    },
+    {
+      "de": "Wir möchten uns für Ihre Aufmerksamkeit bedanken.",
+      "ar": "نود أن نشكركم على انتباهكم."
+    },
+    {
+      "de": "Sie bedankt sich bei ihrem Lehrer für die Unterstützung.",
+      "ar": "هي تشكر معلمها على الدعم."
+    },
+    {
+      "de": "Ich habe mich gestern bei meinem Freund für seine Hilfe bedankt.",
+      "ar": "شكرت صديقي البارحة على مساعدته."
+    }
+  ]
+}
