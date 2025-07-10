@@ -1,9 +1,9 @@
 [
   {
   "reflexive_verbs": [
-    {"verb": "sich abmelden", "preposition": [], "meaning": "يُسجل خروج"},
-    {"verb": "sich anziehen", "preposition": [], "meaning": "يرتدي"},
-    {"verb": "sich ausruhen", "preposition": [], "meaning": "يرتاح"},
+    {"verb": "sich abmelden", "preposition": [], "meaning": "يُسجل خروج","examples_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/Lernen/Reflexive_Verb/sich_amuesieren.json" },
+    {"verb": "sich anziehen", "preposition": [], "meaning": "يرتدي","examples_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/Lernen/Reflexive_Verb/sich_amuesieren.json" },
+    {"verb": "sich ausruhen", "preposition": [], "meaning": "يرتاح","examples_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/Lernen/Reflexive_Verb/sich_amuesieren.json" },
     {"verb": "sich bedanken", "preposition": ["für"], "meaning": "يشكر على"},
     {"verb": "sich beeilen", "preposition": [], "meaning": "يُسرع"},
     {"verb": "sich beklagen", "preposition": ["über"], "meaning": "يشكو من"},
