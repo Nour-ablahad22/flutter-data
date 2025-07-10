@@ -1,1 +1,45 @@
 
+{
+  "examples": [
+    {
+      "de": "Ich habe mich beim Kochen verletzt.",
+      "ar": "جرحت نفسي أثناء الطهي."
+    },
+    {
+      "de": "Sie hat sich am Knie verletzt, als sie gefallen ist.",
+      "ar": "هي جرحت ركبتها عندما سقطت."
+    },
+    {
+      "de": "Er verletzt sich oft beim Sport.",
+      "ar": "هو يجرح نفسه كثيرًا أثناء الرياضة."
+    },
+    {
+      "de": "Hast du dich beim Spielen verletzt?",
+      "ar": "هل جرحت نفسك أثناء اللعب؟"
+    },
+    {
+      "de": "Wir haben uns beim Wandern nicht verletzt.",
+      "ar": "لم نجرح أنفسنا أثناء التنزه."
+    },
+    {
+      "de": "Die Kinder verletzen sich manchmal beim Toben.",
+      "ar": "الأطفال يجرحون أنفسهم أحيانًا أثناء اللعب."
+    },
+    {
+      "de": "Ich habe mich gestern beim Rasieren verletzt.",
+      "ar": "جرحت نفسي أثناء الحلاقة أمس."
+    },
+    {
+      "de": "Sie verletzen sich selten bei der Arbeit.",
+      "ar": "هم نادرًا ما يجرحون أنفسهم في العمل."
+    },
+    {
+      "de": "Wir haben uns nicht ernsthaft verletzt.",
+      "ar": "لم نجرح أنفسنا بجروح خطيرة."
+    },
+    {
+      "de": "Pass auf dich auf, damit du dich nicht verletzt.",
+      "ar": "احرص على نفسك حتى لا تجرح."
+    }
+  ]
+}
