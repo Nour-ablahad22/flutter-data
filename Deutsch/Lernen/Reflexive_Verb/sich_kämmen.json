@@ -1,1 +1,45 @@
 
+{
+  "examples": [
+    {
+      "de": "Ich kämme mich jeden Morgen vor der Arbeit.",
+      "ar": "أمشط شعري كل صباح قبل العمل."
+    },
+    {
+      "de": "Sie kämmt sich vor dem Spiegel.",
+      "ar": "هي تمشط شعرها أمام المرآة."
+    },
+    {
+      "de": "Wir kämmen uns nach dem Duschen.",
+      "ar": "نمشط شعورنا بعد الاستحمام."
+    },
+    {
+      "de": "Kämmst du dich jeden Tag?",
+      "ar": "هل تمشط شعرك كل يوم؟"
+    },
+    {
+      "de": "Er kämmt sich sorgfältig, bevor er das Haus verlässt.",
+      "ar": "هو يمشط شعره بعناية قبل أن يخرج من المنزل."
+    },
+    {
+      "de": "Die Kinder kämmen sich vor dem Schlafengehen.",
+      "ar": "الأطفال يمشطون شعرهم قبل النوم."
+    },
+    {
+      "de": "Ich habe mich heute Morgen schnell gekämmt.",
+      "ar": "مشطت شعري بسرعة هذا الصباح."
+    },
+    {
+      "de": "Sie kämmen sich regelmäßig, um Verwicklungen zu vermeiden.",
+      "ar": "هم يمشطون شعورهم بانتظام لتجنب التشابك."
+    },
+    {
+      "de": "Wir kämmen uns immer vor besonderen Anlässen.",
+      "ar": "نمشط شعرنا دائمًا في المناسبات الخاصة."
+    },
+    {
+      "de": "Bitte kämme dich, bevor wir ausgehen.",
+      "ar": "من فضلك امشط شعرك قبل أن نخرج."
+    }
+  ]
+}
