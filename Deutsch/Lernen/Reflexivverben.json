@@ -1,4 +1,4 @@
-
+[
   {
   "reflexive_verbs": [
     {"verb": "sich abmelden", "preposition": [], "meaning": "يُسجل خروج","examples_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/Lernen/Reflexive_Verb/sich_amuesieren.json" },
@@ -80,3 +80,4 @@
   ]
 }
 
+]
