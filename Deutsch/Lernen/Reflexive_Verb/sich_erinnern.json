@@ -1,1 +1,45 @@
 
+{
+  "examples": [
+    {
+      "de": "Ich erinnere mich an meinen ersten Schultag.",
+      "ar": "أتذكر يومي الأول في المدرسة."
+    },
+    {
+      "de": "Sie erinnert sich an das schöne Ferienhaus am Meer.",
+      "ar": "هي تتذكر بيت العطلات الجميل على البحر."
+    },
+    {
+      "de": "Wir erinnern uns gerne an die gemeinsamen Abenteuer.",
+      "ar": "نحن نحب أن نتذكر المغامرات المشتركة."
+    },
+    {
+      "de": "Er erinnert sich nicht mehr an den Namen des Films.",
+      "ar": "هو لم يعد يتذكر اسم الفيلم."
+    },
+    {
+      "de": "Erinnert ihr euch an unseren Ausflug letzten Sommer?",
+      "ar": "هل تتذكرون رحلتنا الصيف الماضي؟"
+    },
+    {
+      "de": "Ich habe mich an die Regeln erinnert, bevor ich angefangen habe.",
+      "ar": "تذكرت القواعد قبل أن أبدأ."
+    },
+    {
+      "de": "Sie erinnert sich oft an ihre Kindheit.",
+      "ar": "هي تتذكر طفولتها كثيرًا."
+    },
+    {
+      "de": "Wir erinnern uns an die wichtigen Momente im Leben.",
+      "ar": "نحن نتذكر اللحظات المهمة في الحياة."
+    },
+    {
+      "de": "Ich erinnere mich nicht an diese Situation.",
+      "ar": "لا أتذكر هذه الحالة."
+    },
+    {
+      "de": "Bitte erinnere dich an den Termin nächste Woche.",
+      "ar": "من فضلك تذكر الموعد الأسبوع القادم."
+    }
+  ]
+}
