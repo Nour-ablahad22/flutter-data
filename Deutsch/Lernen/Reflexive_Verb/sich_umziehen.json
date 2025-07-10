@@ -1,1 +1,45 @@
 
+{
+  "examples": [
+    {
+      "de": "Ich ziehe mich nach der Arbeit um.",
+      "ar": "أغير ملابسي بعد العمل."
+    },
+    {
+      "de": "Sie zieht sich schnell um, bevor sie ausgeht.",
+      "ar": "هي تغير ملابسها بسرعة قبل أن تخرج."
+    },
+    {
+      "de": "Wir ziehen uns für die Party um.",
+      "ar": "نغير ملابسنا من أجل الحفلة."
+    },
+    {
+      "de": "Ziehst du dich auch um, bevor du ins Fitnessstudio gehst?",
+      "ar": "هل تغير ملابسك أيضًا قبل الذهاب إلى صالة الألعاب الرياضية؟"
+    },
+    {
+      "de": "Er zieht sich immer nach dem Sport um.",
+      "ar": "هو يغير ملابسه دائمًا بعد الرياضة."
+    },
+    {
+      "de": "Die Kinder ziehen sich vor dem Schwimmbad um.",
+      "ar": "الأطفال يغيرون ملابسهم قبل الذهاب إلى المسبح."
+    },
+    {
+      "de": "Ich habe mich gestern Abend umgezogen.",
+      "ar": "لقد غيرت ملابسي مساء أمس."
+    },
+    {
+      "de": "Sie ziehen sich für das Theaterstück um.",
+      "ar": "هم يغيرون ملابسهم من أجل المسرحية."
+    },
+    {
+      "de": "Wir ziehen uns schnell um, weil wir spät sind.",
+      "ar": "نغير ملابسنا بسرعة لأننا متأخرون."
+    },
+    {
+      "de": "Bitte zieh dich um, bevor wir gehen.",
+      "ar": "من فضلك غير ملابسك قبل أن نذهب."
+    }
+  ]
+}
