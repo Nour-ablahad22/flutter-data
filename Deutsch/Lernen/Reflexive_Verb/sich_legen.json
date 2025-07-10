@@ -1,1 +1,45 @@
 
+{
+  "examples": [
+    {
+      "de": "Ich lege mich nach dem Mittagessen für eine halbe Stunde hin.",
+      "ar": "أستلقي بعد الغداء لمدة نصف ساعة."
+    },
+    {
+      "de": "Sie legt sich früh schlafen, weil sie morgen früh aufstehen muss.",
+      "ar": "هي تذهب للنوم مبكرًا لأنها يجب أن تستيقظ مبكرًا غدًا."
+    },
+    {
+      "de": "Wir legen uns am Strand in die Sonne.",
+      "ar": "نستلقي على الشاطئ تحت الشمس."
+    },
+    {
+      "de": "Legst du dich heute Abend auch früh hin?",
+      "ar": "هل ستستلقي مبكرًا الليلة أيضًا؟"
+    },
+    {
+      "de": "Er legt sich nach dem Sport zum Ausruhen hin.",
+      "ar": "هو يستلقي بعد الرياضة للراحة."
+    },
+    {
+      "de": "Die Kinder legen sich jeden Abend zur gleichen Zeit hin.",
+      "ar": "الأطفال يستلقون كل مساء في نفس الوقت."
+    },
+    {
+      "de": "Ich habe mich gestern Abend früh hingelegt.",
+      "ar": "لقد استلقيت مبكرًا مساء أمس."
+    },
+    {
+      "de": "Sie legen sich auf die Couch und schauen fern.",
+      "ar": "هم يستلقون على الأريكة ويشاهدون التلفاز."
+    },
+    {
+      "de": "Wir legen uns zum Entspannen in den Garten.",
+      "ar": "نستلقي للاسترخاء في الحديقة."
+    },
+    {
+      "de": "Bitte leg dich hin und ruh dich aus, wenn du müde bist.",
+      "ar": "من فضلك استلقِ واسترح إذا كنت متعبًا."
+    }
+  ]
+}
