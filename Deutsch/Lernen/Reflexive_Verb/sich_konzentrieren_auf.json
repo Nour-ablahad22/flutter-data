@@ -1,1 +1,45 @@
 
+{
+  "examples": [
+    {
+      "de": "Ich konzentriere mich auf meine Arbeit.",
+      "ar": "أنا أركز على عملي."
+    },
+    {
+      "de": "Sie konzentriert sich auf das Studium für die Prüfung.",
+      "ar": "هي تركز على الدراسة من أجل الامتحان."
+    },
+    {
+      "de": "Wir müssen uns auf das Projekt konzentrieren.",
+      "ar": "يجب أن نركز على المشروع."
+    },
+    {
+      "de": "Konzentrierst du dich auf das Gespräch?",
+      "ar": "هل تركز على الحديث؟"
+    },
+    {
+      "de": "Er konnte sich nicht auf die Aufgaben konzentrieren.",
+      "ar": "لم يستطع أن يركز على المهام."
+    },
+    {
+      "de": "Die Schüler konzentrieren sich auf den Unterricht.",
+      "ar": "الطلاب يركزون على الدرس."
+    },
+    {
+      "de": "Ich habe mich gestern ganz auf das Lesen konzentriert.",
+      "ar": "لقد ركزت تمامًا على القراءة أمس."
+    },
+    {
+      "de": "Sie konzentrieren sich auf die Vorbereitung der Präsentation.",
+      "ar": "هم يركزون على تحضير العرض."
+    },
+    {
+      "de": "Wir konzentrieren uns auf die wichtigen Details.",
+      "ar": "نحن نركز على التفاصيل المهمة."
+    },
+    {
+      "de": "Bitte konzentriert euch auf die Aufgabe.",
+      "ar": "من فضلكم ركزوا على المهمة."
+    }
+  ]
+}
