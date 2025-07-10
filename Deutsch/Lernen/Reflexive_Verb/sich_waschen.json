@@ -1,1 +1,45 @@
 
+{
+  "examples": [
+    {
+      "de": "Ich wasche mich jeden Morgen.",
+      "ar": "أغسل نفسي كل صباح."
+    },
+    {
+      "de": "Sie wäscht sich nach dem Sport.",
+      "ar": "هي تغسل نفسها بعد الرياضة."
+    },
+    {
+      "de": "Wir waschen uns vor dem Essen die Hände.",
+      "ar": "نغسل أيدينا قبل الأكل."
+    },
+    {
+      "de": "Waschst du dich regelmäßig?",
+      "ar": "هل تغسل نفسك بانتظام؟"
+    },
+    {
+      "de": "Er wäscht sich im Badezimmer.",
+      "ar": "هو يغسل نفسه في الحمام."
+    },
+    {
+      "de": "Die Kinder waschen sich nach dem Spielen.",
+      "ar": "الأطفال يغسلون أنفسهم بعد اللعب."
+    },
+    {
+      "de": "Ich habe mich gestern nach dem Training gewaschen.",
+      "ar": "لقد غسلت نفسي أمس بعد التمرين."
+    },
+    {
+      "de": "Sie waschen sich vor dem Schlafengehen.",
+      "ar": "هم يغسلون أنفسهم قبل النوم."
+    },
+    {
+      "de": "Wir waschen uns gründlich jeden Tag.",
+      "ar": "نغسل أنفسنا جيدًا كل يوم."
+    },
+    {
+      "de": "Bitte wasch dich vor dem Essen.",
+      "ar": "من فضلك اغسل نفسك قبل الأكل."
+    }
+  ]
+}
