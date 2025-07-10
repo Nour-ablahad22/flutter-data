@@ -1,1 +1,45 @@
 
+{
+  "examples": [
+    {
+      "de": "Ich rasiere mich jeden Morgen.",
+      "ar": "أحلق لحيتي كل صباح."
+    },
+    {
+      "de": "Er rasiert sich vor dem Spiegel.",
+      "ar": "هو يحلق أمام المرآة."
+    },
+    {
+      "de": "Sie rasiert sich die Beine für den Sommer.",
+      "ar": "هي تحلق ساقيها من أجل الصيف."
+    },
+    {
+      "de": "Rasierst du dich regelmäßig?",
+      "ar": "هل تحلق نفسك بانتظام؟"
+    },
+    {
+      "de": "Wir rasieren uns vor besonderen Anlässen.",
+      "ar": "نحلق قبل المناسبات الخاصة."
+    },
+    {
+      "de": "Ich habe mich gestern Abend rasiert.",
+      "ar": "لقد حلقت مساء أمس."
+    },
+    {
+      "de": "Sie rasiert sich, bevor sie zur Arbeit geht.",
+      "ar": "هي تحلق قبل أن تذهب إلى العمل."
+    },
+    {
+      "de": "Er rasiert sich jeden zweiten Tag.",
+      "ar": "هو يحلق كل يومين."
+    },
+    {
+      "de": "Die Männer rasieren sich meistens morgens.",
+      "ar": "الرجال يحلقون عادةً في الصباح."
+    },
+    {
+      "de": "Bitte rasier dich vorsichtig, damit du dich nicht schneidest.",
+      "ar": "من فضلك احلق بحذر حتى لا تجرح نفسك."
+    }
+  ]
+}
