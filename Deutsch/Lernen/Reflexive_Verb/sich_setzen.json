@@ -1,1 +1,45 @@
 
+{
+  "examples": [
+    {
+      "de": "Ich setze mich auf den Stuhl.",
+      "ar": "أنا أجلس على الكرسي."
+    },
+    {
+      "de": "Sie setzt sich neben ihre Freundin.",
+      "ar": "هي تجلس بجانب صديقتها."
+    },
+    {
+      "de": "Wir setzen uns im Café an einen Tisch.",
+      "ar": "نحن نجلس في المقهى على طاولة."
+    },
+    {
+      "de": "Setzt du dich bitte hierher?",
+      "ar": "هل تجلس هنا من فضلك؟"
+    },
+    {
+      "de": "Er setzt sich immer am Fensterplatz.",
+      "ar": "هو يجلس دائمًا بجانب النافذة."
+    },
+    {
+      "de": "Die Kinder setzen sich im Kreis auf den Boden.",
+      "ar": "الأطفال يجلسون في دائرة على الأرض."
+    },
+    {
+      "de": "Ich habe mich auf die Couch gesetzt, um mich auszuruhen.",
+      "ar": "جلست على الأريكة لأستريح."
+    },
+    {
+      "de": "Sie setzen sich während des Meetings zusammen.",
+      "ar": "هم يجلسون معًا أثناء الاجتماع."
+    },
+    {
+      "de": "Wir setzen uns auf die Terrasse, um frische Luft zu genießen.",
+      "ar": "نحن نجلس على الشرفة لنستمتع بالهواء النقي."
+    },
+    {
+      "de": "Bitte setzt euch, der Vortrag beginnt gleich.",
+      "ar": "من فضلكم اجلسوا، المحاضرة ستبدأ قريبًا."
+    }
+  ]
+}
