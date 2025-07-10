@@ -1,1 +1,45 @@
 
+{
+  "examples": [
+    {
+      "de": "Ich verstecke mich hinter dem Baum.",
+      "ar": "أنا أختبئ خلف الشجرة."
+    },
+    {
+      "de": "Sie versteckt sich, wenn sie Angst hat.",
+      "ar": "هي تختبئ عندما تكون خائفة."
+    },
+    {
+      "de": "Wir verstecken uns beim Versteckspiel im Garten.",
+      "ar": "نختبئ في لعبة الغميضة في الحديقة."
+    },
+    {
+      "de": "Versteckst du dich vor dem Hund?",
+      "ar": "هل تختبئ من الكلب؟"
+    },
+    {
+      "de": "Er versteckt sich unter dem Tisch.",
+      "ar": "هو يختبئ تحت الطاولة."
+    },
+    {
+      "de": "Die Kinder verstecken sich beim Spielen gerne.",
+      "ar": "الأطفال يحبون الاختباء أثناء اللعب."
+    },
+    {
+      "de": "Ich habe mich gestern im Schrank versteckt.",
+      "ar": "لقد اختبأت في الخزانة أمس."
+    },
+    {
+      "de": "Sie verstecken sich oft, wenn jemand kommt.",
+      "ar": "هم يختبئون كثيرًا عندما يأتي أحد."
+    },
+    {
+      "de": "Wir verstecken uns, damit uns niemand findet.",
+      "ar": "نختبئ لكي لا يجدنا أحد."
+    },
+    {
+      "de": "Bitte versteck dich nicht so gut, ich kann dich nicht finden.",
+      "ar": "من فضلك لا تختبئ جيدًا، لا أستطيع أن أجدك."
+    }
+  ]
+}
