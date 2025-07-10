@@ -1,1 +1,45 @@
 
+{
+  "examples": [
+    {
+      "de": "Ich interessiere mich sehr für Musik.",
+      "ar": "أنا مهتم جدًا بالموسيقى."
+    },
+    {
+      "de": "Sie interessiert sich für Kunst und Kultur.",
+      "ar": "هي مهتمة بالفن والثقافة."
+    },
+    {
+      "de": "Wir interessieren uns für das neue Projekt.",
+      "ar": "نحن مهتمون بالمشروع الجديد."
+    },
+    {
+      "de": "Interessierst du dich für Sport?",
+      "ar": "هل تهتم بالرياضة؟"
+    },
+    {
+      "de": "Er interessiert sich nicht für Politik.",
+      "ar": "هو لا يهتم بالسياسة."
+    },
+    {
+      "de": "Die Kinder interessieren sich für Tiere und Natur.",
+      "ar": "الأطفال مهتمون بالحيوانات والطبيعة."
+    },
+    {
+      "de": "Ich habe mich immer für Geschichte interessiert.",
+      "ar": "كنت دائمًا مهتمًا بالتاريخ."
+    },
+    {
+      "de": "Sie interessiert sich für moderne Technologie.",
+      "ar": "هي مهتمة بالتكنولوجيا الحديثة."
+    },
+    {
+      "de": "Wir interessieren uns für neue Ideen und Innovationen.",
+      "ar": "نحن مهتمون بالأفكار الجديدة والابتكارات."
+    },
+    {
+      "de": "Interessieren Sie sich für diese Ausstellung?",
+      "ar": "هل تهتم بهذه المعرض؟"
+    }
+  ]
+}
