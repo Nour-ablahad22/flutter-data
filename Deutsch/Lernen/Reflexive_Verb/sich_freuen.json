@@ -1,1 +1,45 @@
 
+{
+  "examples": [
+    {
+      "de": "Ich freue mich auf den Urlaub nächste Woche.",
+      "ar": "أنا متحمس للعطلة الأسبوع القادم."
+    },
+    {
+      "de": "Sie freut sich über das Geschenk zum Geburtstag.",
+      "ar": "هي سعيدة بالهدية في عيد ميلادها."
+    },
+    {
+      "de": "Wir freuen uns auf das Konzert am Samstag.",
+      "ar": "نحن نتطلع للحفل الموسيقي يوم السبت."
+    },
+    {
+      "de": "Er freut sich über die gute Nachricht von der Arbeit.",
+      "ar": "هو سعيد بالخبر الجيد من العمل."
+    },
+    {
+      "de": "Freust du dich schon auf das Wochenende?",
+      "ar": "هل تتطلع إلى عطلة نهاية الأسبوع؟"
+    },
+    {
+      "de": "Sie freuen sich über das Lob, das sie bekommen haben.",
+      "ar": "هم سعداء بالمدح الذي حصلوا عليه."
+    },
+    {
+      "de": "Ich freue mich auf das Treffen mit meinen Freunden.",
+      "ar": "أنا متحمس للقاء أصدقائي."
+    },
+    {
+      "de": "Wir freuen uns über die positive Entwicklung im Projekt.",
+      "ar": "نحن سعداء بالتطور الإيجابي في المشروع."
+    },
+    {
+      "de": "Er freut sich auf die Ferien am Meer.",
+      "ar": "هو متحمس للعطلة على البحر."
+    },
+    {
+      "de": "Freut euch über die kleinen Dinge im Leben!",
+      "ar": "ابتهجوا بالأشياء الصغيرة في الحياة!"
+    }
+  ]
+}
