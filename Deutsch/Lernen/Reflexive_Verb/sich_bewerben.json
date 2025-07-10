@@ -1,1 +1,45 @@
 
+{
+  "examples": [
+    {
+      "de": "Ich habe mich um die Stelle als Lehrer beworben.",
+      "ar": "لقد تقدمت للوظيفة كمعلم."
+    },
+    {
+      "de": "Sie bewirbt sich um ein Stipendium an der Universität.",
+      "ar": "هي تتقدم بطلب للحصول على منحة دراسية في الجامعة."
+    },
+    {
+      "de": "Wir haben uns um eine Wohnung in der Stadt beworben.",
+      "ar": "تقدمنا بطلب لشقة في المدينة."
+    },
+    {
+      "de": "Er bewirbt sich um einen Praktikumsplatz bei der Firma.",
+      "ar": "هو يتقدم للحصول على تدريب عملي في الشركة."
+    },
+    {
+      "de": "Hast du dich schon um die Ausbildung beworben?",
+      "ar": "هل تقدمت بالفعل للتدريب المهني؟"
+    },
+    {
+      "de": "Sie hat sich um die Stelle als Krankenschwester beworben.",
+      "ar": "لقد تقدمت لوظيفة ممرضة."
+    },
+    {
+      "de": "Ich werde mich nächste Woche um einen neuen Job bewerben.",
+      "ar": "سأتقدم الأسبوع المقبل لوظيفة جديدة."
+    },
+    {
+      "de": "Wir haben uns um mehrere Positionen beworben, aber noch keine Antwort erhalten.",
+      "ar": "تقدمنا لعدة وظائف، لكننا لم نتلقَ ردًا بعد."
+    },
+    {
+      "de": "Er bewirbt sich immer um anspruchsvolle Stellen.",
+      "ar": "هو دائمًا يتقدم لوظائف تتطلب مهارات عالية."
+    },
+    {
+      "de": "Bitte bewirb dich rechtzeitig um das Praktikum.",
+      "ar": "يرجى التقدم في الوقت المناسب للحصول على التدريب."
+    }
+  ]
+}
