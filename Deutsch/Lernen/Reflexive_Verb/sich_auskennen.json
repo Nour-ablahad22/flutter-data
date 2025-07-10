@@ -1,1 +1,45 @@
 
+{
+  "examples": [
+    {
+      "de": "Ich kenne mich gut in der Stadt aus, weil ich hier aufgewachsen bin.",
+      "ar": "أنا أعرف المدينة جيدًا لأنني نشأت هنا."
+    },
+    {
+      "de": "Er kennt sich mit Computern sehr gut aus und arbeitet als IT-Spezialist.",
+      "ar": "هو ملمّ جدًا بأجهزة الكمبيوتر ويعمل كخبير في تكنولوجيا المعلومات."
+    },
+    {
+      "de": "Wir kennen uns in diesem Thema nicht besonders gut aus, deshalb brauchen wir Hilfe.",
+      "ar": "لسنا ملمين بهذا الموضوع جيدًا، لذلك نحتاج إلى المساعدة."
+    },
+    {
+      "de": "Sie kennt sich in der deutschen Grammatik hervorragend aus.",
+      "ar": "هي متمكنة جدًا في قواعد اللغة الألمانية."
+    },
+    {
+      "de": "Kennst du dich mit diesem Programm aus?",
+      "ar": "هل تعرف كيفية استخدام هذا البرنامج؟"
+    },
+    {
+      "de": "Ich habe keine Ahnung, ich kenne mich damit überhaupt nicht aus.",
+      "ar": "ليس لدي أي فكرة، فأنا لا أعرف شيئًا عن ذلك على الإطلاق."
+    },
+    {
+      "de": "Mein Bruder kennt sich in Berlin besser aus als ich.",
+      "ar": "أخي يعرف برلين أفضل مني."
+    },
+    {
+      "de": "Sie kennen sich mit juristischen Fragen gut aus.",
+      "ar": "هم متمكنون في الأمور القانونية."
+    },
+    {
+      "de": "Kennen Sie sich mit diesem Gerät aus?",
+      "ar": "هل أنت ملمّ بكيفية استخدام هذا الجهاز؟"
+    },
+    {
+      "de": "Nach vielen Jahren im Beruf kennt sie sich in ihrem Fachgebiet perfekt aus.",
+      "ar": "بعد سنوات عديدة من العمل، أصبحت متمكنة تمامًا في مجال تخصصها."
+    }
+  ]
+}
