@@ -1,1 +1,45 @@
 
+{
+  "examples": [
+    {
+      "de": "Ich treffe mich heute Abend mit meinen Freunden.",
+      "ar": "سألتقي الليلة مع أصدقائي."
+    },
+    {
+      "de": "Sie trifft sich jeden Samstag mit ihrer Schwester.",
+      "ar": "هي تلتقي بأختها كل سبت."
+    },
+    {
+      "de": "Wir treffen uns morgen mit dem Team zur Besprechung.",
+      "ar": "نلتقي غدًا مع الفريق للاجتماع."
+    },
+    {
+      "de": "Triffst du dich oft mit deinen Kollegen?",
+      "ar": "هل تلتقي كثيرًا بزملائك في العمل؟"
+    },
+    {
+      "de": "Er trifft sich regelmäßig mit seinem Trainer.",
+      "ar": "هو يلتقي بمدربه بانتظام."
+    },
+    {
+      "de": "Die Studenten treffen sich in der Bibliothek zum Lernen.",
+      "ar": "الطلاب يلتقون في المكتبة للدراسة."
+    },
+    {
+      "de": "Ich habe mich gestern mit meiner Familie getroffen.",
+      "ar": "لقد التقيتُ أمس مع عائلتي."
+    },
+    {
+      "de": "Sie treffen sich oft zum Kaffee in der Stadt.",
+      "ar": "هم يلتقون كثيرًا لتناول القهوة في المدينة."
+    },
+    {
+      "de": "Wir treffen uns am Wochenende mit unseren Nachbarn.",
+      "ar": "نلتقي في نهاية الأسبوع مع جيراننا."
+    },
+    {
+      "de": "Bitte triff dich pünktlich mit dem Geschäftspartner.",
+      "ar": "من فضلك التقي في الوقت المحدد مع الشريك التجاري."
+    }
+  ]
+}
