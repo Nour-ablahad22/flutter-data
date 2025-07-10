@@ -1,1 +1,45 @@
 
+{
+  "examples": [
+    {
+      "de": "Ich habe mich über den Lärm in der Nachbarschaft beschwert.",
+      "ar": "لقد اشتكيت من الضجيج في الحي."
+    },
+    {
+      "de": "Sie beschwert sich ständig über das Essen im Restaurant.",
+      "ar": "هي تشتكي باستمرار من الطعام في المطعم."
+    },
+    {
+      "de": "Wir haben uns über die schlechte Bedienung im Hotel beschwert.",
+      "ar": "لقد اشتكينا من سوء الخدمة في الفندق."
+    },
+    {
+      "de": "Er beschwert sich über die langen Wartezeiten beim Arzt.",
+      "ar": "هو يشتكي من طول فترة الانتظار عند الطبيب."
+    },
+    {
+      "de": "Die Kunden beschweren sich über die mangelhafte Qualität der Produkte.",
+      "ar": "الزبائن يشتكون من رداءة جودة المنتجات."
+    },
+    {
+      "de": "Hast du dich schon über das kalte Wetter beschwert?",
+      "ar": "هل اشتكيت بالفعل من الطقس البارد؟"
+    },
+    {
+      "de": "Sie haben sich über den lauten Verkehr in der Stadt beschwert.",
+      "ar": "لقد اشتكوا من الضجيج الناتج عن حركة المرور في المدينة."
+    },
+    {
+      "de": "Ich möchte mich über den schlechten Kundenservice beschweren.",
+      "ar": "أود أن أشتكي من سوء خدمة العملاء."
+    },
+    {
+      "de": "Beschwer dich nicht immer über Kleinigkeiten.",
+      "ar": "لا تشتكِ دائمًا من الأشياء الصغيرة."
+    },
+    {
+      "de": "Wir haben uns über den defekten Aufzug beschwert.",
+      "ar": "لقد اشتكينا من المصعد المعطل."
+    }
+  ]
+}
