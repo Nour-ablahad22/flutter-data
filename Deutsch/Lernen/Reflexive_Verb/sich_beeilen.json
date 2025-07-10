@@ -1,1 +1,45 @@
 
+{
+  "examples": [
+    {
+      "de": "Ich muss mich beeilen, sonst verpasse ich den Zug.",
+      "ar": "يجب أن أُسرع، وإلا سأفوت القطار."
+    },
+    {
+      "de": "Beeil dich bitte, wir haben nicht viel Zeit.",
+      "ar": "أسرع من فضلك، ليس لدينا وقت كثير."
+    },
+    {
+      "de": "Sie hat sich gestern sehr beeilt, um pünktlich zu sein.",
+      "ar": "لقد أسرعت كثيرًا البارحة لتكون في الوقت المحدد."
+    },
+    {
+      "de": "Wir sollten uns beeilen, sonst kommen wir zu spät zum Konzert.",
+      "ar": "يجب أن نُسرع، وإلا سنتأخر على الحفلة."
+    },
+    {
+      "de": "Warum beeilst du dich so? Es ist doch noch genug Zeit.",
+      "ar": "لماذا تُسرع هكذا؟ الوقت لا زال كافيًا."
+    },
+    {
+      "de": "Er hat sich beeilt, um den Bus noch zu erwischen.",
+      "ar": "لقد أسرع لكي يلحق بالحافلة."
+    },
+    {
+      "de": "Bitte beeilt euch, das Spiel beginnt gleich.",
+      "ar": "رجاءً أسرعوا، اللعبة ستبدأ قريبًا."
+    },
+    {
+      "de": "Ich habe mich nicht beeilt, weil ich keine Eile hatte.",
+      "ar": "لم أُسرع لأنني لم أكن في عجلة."
+    },
+    {
+      "de": "Die Kinder beeilen sich, um ihre Hausaufgaben zu machen.",
+      "ar": "الأطفال يُسرعون لإنهاء واجباتهم المنزلية."
+    },
+    {
+      "de": "Sich zu beeilen führt manchmal zu Fehlern.",
+      "ar": "الإسراع أحيانًا يؤدي إلى أخطاء."
+    }
+  ]
+}
