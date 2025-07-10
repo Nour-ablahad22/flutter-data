@@ -1,1 +1,45 @@
 
+{
+  "examples": [
+    {
+      "de": "Ich muss mich kurz ausruhen, bevor wir weitergehen.",
+      "ar": "يجب أن أستريح قليلاً قبل أن نتابع السير."
+    },
+    {
+      "de": "Nach der Arbeit ruht er sich eine Stunde aus.",
+      "ar": "بعد العمل، يأخذ ساعة من الراحة."
+    },
+    {
+      "de": "Wir haben uns am Strand ausgeruht und die Sonne genossen.",
+      "ar": "استرحنا على الشاطئ واستمتعنا بالشمس."
+    },
+    {
+      "de": "Sie ruht sich gerade von der langen Reise aus.",
+      "ar": "هي تستريح الآن من الرحلة الطويلة."
+    },
+    {
+      "de": "Du solltest dich ein bisschen ausruhen, du siehst müde aus.",
+      "ar": "يجب أن تستريح قليلاً، تبدو متعبًا."
+    },
+    {
+      "de": "Die Patienten müssen sich nach der Operation gut ausruhen.",
+      "ar": "يجب على المرضى أن يستريحوا جيدًا بعد العملية."
+    },
+    {
+      "de": "Ich habe mich gestern den ganzen Tag ausgeruht.",
+      "ar": "استرحت طوال اليوم البارحة."
+    },
+    {
+      "de": "Ruh dich aus, morgen wird ein anstrengender Tag!",
+      "ar": "استرح، فغدًا سيكون يومًا متعبًا!"
+    },
+    {
+      "de": "Wir ruhen uns im Schatten eines Baumes aus.",
+      "ar": "نستريح في ظل شجرة."
+    },
+    {
+      "de": "Er ruht sich nie aus, obwohl er ständig erschöpft ist.",
+      "ar": "هو لا يستريح أبدًا رغم أنه دائمًا مرهق."
+    }
+  ]
+}
