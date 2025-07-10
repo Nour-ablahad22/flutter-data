@@ -1,1 +1,45 @@
 
+{
+  "examples": [
+    {
+      "de": "Ich verabschiede mich von meinen Freunden am Bahnhof.",
+      "ar": "أودع أصدقائي في المحطة."
+    },
+    {
+      "de": "Sie verabschiedet sich immer herzlich von ihrer Familie.",
+      "ar": "هي تودع عائلتها دائمًا بحرارة."
+    },
+    {
+      "de": "Wir verabschieden uns von unseren Gästen nach der Feier.",
+      "ar": "نودع ضيوفنا بعد الحفل."
+    },
+    {
+      "de": "Verabschiedest du dich von deinem Kollegen vor dem Urlaub?",
+      "ar": "هل تودع زميلك قبل الإجازة؟"
+    },
+    {
+      "de": "Er verabschiedet sich freundlich von seinen Nachbarn.",
+      "ar": "هو يودع جيرانه بود."
+    },
+    {
+      "de": "Die Kinder verabschieden sich von ihren Lehrern am letzten Schultag.",
+      "ar": "الأطفال يودعون معلميهم في آخر يوم دراسي."
+    },
+    {
+      "de": "Ich habe mich gestern von meiner Großmutter verabschiedet.",
+      "ar": "ودعت جدتي أمس."
+    },
+    {
+      "de": "Sie verabschieden sich mit einem Lächeln von den Kollegen.",
+      "ar": "هم يودعون الزملاء بابتسامة."
+    },
+    {
+      "de": "Wir verabschieden uns von der Party spät in der Nacht.",
+      "ar": "نودع الحفلة في وقت متأخر من الليل."
+    },
+    {
+      "de": "Bitte verabschiede dich von allen, bevor du gehst.",
+      "ar": "من فضلك ودع الجميع قبل أن تذهب."
+    }
+  ]
+}
