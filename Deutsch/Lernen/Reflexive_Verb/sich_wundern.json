@@ -1,1 +1,45 @@
 
+{
+  "examples": [
+    {
+      "de": "Ich wundere mich über das plötzliche Wetter.",
+      "ar": "أتعجب من الطقس المفاجئ."
+    },
+    {
+      "de": "Sie wundert sich über die teuren Preise im Supermarkt.",
+      "ar": "هي تتعجب من الأسعار العالية في السوبرماركت."
+    },
+    {
+      "de": "Wir wundern uns über die lange Wartezeit.",
+      "ar": "نحن نتعجب من وقت الانتظار الطويل."
+    },
+    {
+      "de": "Wundern Sie sich nicht über die Verzögerung.",
+      "ar": "لا تتعجب من التأخير."
+    },
+    {
+      "de": "Er wundert sich über das Verhalten seiner Kollegen.",
+      "ar": "هو يتعجب من تصرفات زملائه."
+    },
+    {
+      "de": "Die Kinder wundern sich über die neue Schule.",
+      "ar": "الأطفال يتعجبون من المدرسة الجديدة."
+    },
+    {
+      "de": "Ich habe mich über die Nachricht sehr gewundert.",
+      "ar": "تعجبت كثيرًا من الخبر."
+    },
+    {
+      "de": "Sie wundern sich oft über die Naturphänomene.",
+      "ar": "هم غالبًا ما يتعجبون من الظواهر الطبيعية."
+    },
+    {
+      "de": "Wir wundern uns über die plötzliche Entscheidung.",
+      "ar": "نحن نتعجب من القرار المفاجئ."
+    },
+    {
+      "de": "Bitte wunder dich nicht über die ungewöhnlichen Umstände.",
+      "ar": "من فضلك لا تتعجب من الظروف غير المعتادة."
+    }
+  ]
+}
