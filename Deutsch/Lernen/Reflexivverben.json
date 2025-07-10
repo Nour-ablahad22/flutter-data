@@ -1,4 +1,5 @@
-{
+[
+  {
   "reflexive_verbs": [
     {"verb": "sich abmelden", "preposition": [], "meaning": "يُسجل خروج"},
     {"verb": "sich anziehen", "preposition": [], "meaning": "يرتدي"},
@@ -78,3 +79,4 @@
     {"verb": "sich trennen", "preposition": ["von"], "meaning": "ينفصل عن"}
   ]
 }
+]
