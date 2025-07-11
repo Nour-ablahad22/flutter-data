@@ -1,1 +1,45 @@
 
+{
+  "examples": [
+    {
+      "de": "Ich ärgere mich über den Stau.",
+      "ar": "أنا أغضب من الازدحام المروري."
+    },
+    {
+      "de": "Sie ärgert sich über ihren Chef.",
+      "ar": "هي تنزعج من مديرها."
+    },
+    {
+      "de": "Wir ärgern uns über das schlechte Wetter.",
+      "ar": "نحن ننزعج من الطقس السيئ."
+    },
+    {
+      "de": "Er ärgert sich über die Verspätung.",
+      "ar": "هو يغضب من التأخير."
+    },
+    {
+      "de": "Die Schüler ärgern sich über die vielen Hausaufgaben.",
+      "ar": "الطلاب منزعجون من كثرة الواجبات المنزلية."
+    },
+    {
+      "de": "Am meisten ärgere ich mich über meine eigene Dummheit.",
+      "ar": "أكثر ما يغضبني هو غبائي الخاص."
+    },
+    {
+      "de": "Ärgere dich nicht über Kleinigkeiten!",
+      "ar": "لا تغضب بسبب أشياء تافهة!"
+    },
+    {
+      "de": "Sie ärgerten sich über den Lärm.",
+      "ar": "كانوا منزعجين من الضجيج."
+    },
+    {
+      "de": "Ich habe mich gestern über ihn geärgert.",
+      "ar": "لقد غضبت منه البارحة."
+    },
+    {
+      "de": "Ärgern Sie sich nicht über den Fehler!",
+      "ar": "لا تنزعج من الخطأ!"
+    }
+  ]
+}
