@@ -6,13 +6,13 @@
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Thomas hat ein neues Hobby: Er lernt, Gitarre zu spielen. Jeden Abend übt er mindestens eine Stunde. Er schaut Videos im Internet und liest Bücher über Musik. Manchmal trifft er sich mit Freunden, die auch Gitarre spielen. Zusammen spielen sie Lieder und tauschen Tipps aus. Thomas möchte später in einer Band spielen. Sein Lieblingsstil ist Rockmusik. Das Gitarrespielen macht ihm viel Freude und er merkt, wie er immer besser wird.",
   "audioUrl": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/8.mp3",
   "frage_1": "Thomas lernt Gitarre spielen.",
-  "Antwort_1": ["Richtig", "Falsch"],
+  "Antwort_1": ["A) Richtig", "Falsch"],
   "antwort_1_richtig": "Richtig",
   "frage_2": "Er übt nur am Wochenende.",
-  "Antwort_2": ["Richtig", "Falsch"],
+  "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Thomas spielt später in einer Band.",
-  "Antwort_3": ["Richtig", "Falsch"],
+  "Antwort_3": ["A) Richtig", "Falsch"],
   "antwort_3_richtig": "Richtig",
       "imageUrl": "https://example.com/images/grillfest.webp"
 }
@@ -24,13 +24,13 @@
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Clara geht seit einem Monat regelmäßig ins Fitnessstudio. Sie möchte fitter werden und mehr Energie haben. Im Fitnessstudio trainiert sie mit Gewichten und macht Ausdauerübungen. Clara mag die Musik und die Atmosphäre dort. Sie hat auch einen Trainer, der ihr hilft und Tipps gibt. Manchmal geht Clara mit Freunden zusammen ins Fitnessstudio. Nach dem Training fühlt sie sich immer besser und gesünder. Sie plant, das Training noch lange fortzusetzen, weil es ihr viel Spaß macht.",
 "audioUrl": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Mit/75.mp3",
     "frage_1": "Clara trainiert im Fitnessstudio.",
-  "Antwort_1": ["Richtig", "Falsch"],
+  "Antwort_1": ["A) Richtig", "Falsch"],
   "antwort_1_richtig": "Richtig",
   "frage_2": "Sie mag das Training nicht.",
-  "Antwort_2": ["Richtig", "Falsch"],
+  "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Clara hat einen Trainer.",
-  "Antwort_3": ["Richtig", "Falsch"],
+  "Antwort_3": ["A) Richtig", "Falsch"],
   "antwort_3_richtig": "Richtig",
       "imageUrl": "https://example.com/images/grillfest.webp"
 }
@@ -1299,13 +1299,13 @@
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/79.mp3",
   "frage_1": "Der Kunde sucht frisches Obst und Gemüse.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Die Bio-Äpfel kosten 2,20 Euro pro Kilogramm.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Die Bäckereiabteilung ist neben der Kasse.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "A) Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/supermarkt.webp"
 }
 ,
@@ -1316,10 +1316,10 @@
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/80.mp3",
   "frage_1": "Der Neukunde möchte sich anmelden und trainieren.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "A) Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Es gibt Kurse für Anfänger wie Yoga, Pilates und Zumba.",
   "Antwort_2": ["A) Richtig", "Falsch"],
-  "antwort_2_richtig": "A) Richtig",
+  "antwort_2_richtig": "A",
   "frage_3": "Die Yoga-Kurse sind am Montag und Mittwoch.",
   "Antwort_3": ["A) Richtig", "Falsch"],
   "antwort_3_richtig": "Falsch",
@@ -1333,13 +1333,13 @@
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/81.mp3",
   "frage_1": "Der Gast bleibt drei Nächte im Hotel.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "A)Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Das Zimmer ist im ersten Stock.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Frühstück gibt es von 7 bis 10 Uhr.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "A) Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/hotel.webp"
 }
 ,
@@ -1350,13 +1350,13 @@
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/82.mp3",
   "frage_1": "Der Kunde möchte zwei Karten für den Abenteuerfilm.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Die Karten kosten 25 Euro.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Der Kunde bestellt Popcorn und Cola.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "A) Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/kino.webp"
 }
 ,
@@ -1367,13 +1367,13 @@
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/75.mp3",
   "frage_1": "Die Patientin hat seit gestern Halsschmerzen und Husten.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "A)Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Die Patientin hat Bauchschmerzen.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Der Arzt empfiehlt viel Ruhe und ein Medikament.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "A) Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/arzt.webp"
 }
 ,
@@ -1385,10 +1385,10 @@
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/75.mp3",
   "frage_1": "Der Gast hat einen Tisch reserviert.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Der Gast bestellt ein Tagesgericht und einen Salat.",
   "Antwort_2": ["A) Richtig", "Falsch"],
-  "antwort_2_richtig": "Richtig",
+  "antwort_2_richtig": "A",
   "frage_3": "Die Rechnung beträgt 30 Euro.",
   "Antwort_3": ["A) Richtig", "Falsch"],
   "antwort_3_richtig": "Falsch",
@@ -1403,13 +1403,13 @@
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/75.mp3",
   "frage_1": "Anna und Tom sind im Park.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Es regnet im Park.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Tom möchte nächste Woche wieder in den Park kommen.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/park.webp"
 }
 ,
@@ -1420,13 +1420,13 @@
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/75.mp3",
   "frage_1": "Die Kundin möchte nur die Spitzen schneiden lassen.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Die Kundin möchte keine Haarwäsche.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Der Haarschnitt kostet 25 Euro.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/friseur.webp"
 }
 ,
@@ -1440,10 +1440,10 @@
   "antwort_1_richtig": "Falsch",
   "frage_2": "Die Kinder machen Fotos von den Elefanten.",
   "Antwort_2": ["A) Richtig", "Falsch"],
-  "antwort_2_richtig": "Richtig",
+  "antwort_2_richtig": "A",
   "frage_3": "Nach dem Affengehege essen sie ein Eis.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/zoo.webp"
 }
 ,
@@ -1454,10 +1454,10 @@
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/75.mp3",
   "frage_1": "Der Kunde möchte zwei Brötchen und ein Vollkornbrot kaufen.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Der Kunde bezahlt mit 5 Euro.",
   "Antwort_2": ["A) Richtig", "Falsch"],
-  "antwort_2_richtig": "Richtig",
+  "antwort_2_richtig": "A",
   "frage_3": "Der Kunde kauft ein Stück Schokoladenkuchen.",
   "Antwort_3": ["A) Richtig", "Falsch"],
   "antwort_3_richtig": "Falsch",
@@ -1471,10 +1471,10 @@
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/75.mp3",
   "frage_1": "Frau Müller kauft Obst und Gemüse.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Sie hat ihre Geldbörse vergessen.",
   "Antwort_2": ["A) Richtig", "Falsch"],
-  "antwort_2_richtig": "Richtig",
+  "antwort_2_richtig": "A",
   "frage_3": "Sie bezahlt mit Bargeld.",
   "Antwort_3": ["A) Richtig", "Falsch"],
   "antwort_3_richtig": "Falsch",
@@ -1488,13 +1488,13 @@
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/75.mp3",
   "frage_1": "Peter und Lisa gehen ins Kino.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Der Film beginnt um 21 Uhr.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Sie kaufen Popcorn.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/kino.webp"
 }
 ,
@@ -1505,13 +1505,13 @@
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/75.mp3",
   "frage_1": "Markus macht Yoga im Fitnessstudio.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Er geht jeden Tag ins Fitnessstudio.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Der Trainer gibt ihm Tipps.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/fitnessstudio.webp"
 }
 ,
@@ -1522,10 +1522,10 @@
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/75.mp3",
   "frage_1": "Frau Becker hat Kopfschmerzen.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Der Arzt misst ihren Blutdruck.",
   "Antwort_2": ["A) Richtig", "Falsch"],
-  "antwort_2_richtig": "Richtig",
+  "antwort_2_richtig": "A",
   "frage_3": "Frau Becker soll keinen Arzt mehr besuchen.",
   "Antwort_3": ["A) Richtig", "Falsch"],
   "antwort_3_richtig": "Falsch",
@@ -1539,13 +1539,13 @@
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/75.mp3",
   "frage_1": "Herr und Frau Wagner fragen nach dem Frühstücksraum.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Sie bekommen keinen Schlüssel für das Zimmer.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Sie freuen sich auf den Aufenthalt im Hotel.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/hotel.webp"
 }
 ,
@@ -1556,13 +1556,13 @@
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/75.mp3",
   "frage_1": "Herr Schneider kauft Brot und Käse.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Er vergisst seine Kreditkarte.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Er kauft Saft und Mineralwasser.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/supermarkt.webp"
 }
 ,{
@@ -1572,13 +1572,13 @@
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/90.mp3",
   "frage_1": "Frau Weber hat Zahnschmerzen.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Der Zahnarzt findet keine Probleme.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Frau Weber bekommt eine Zahnbürste.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/zahnarzt.webp"
 }
 ,{
@@ -1588,13 +1588,13 @@
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/91.mp3",
   "frage_1": "Lena und Paul treffen sich im Park.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Paul möchte ins Kino gehen.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Sie essen zusammen ein Eis.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/park.webp"
 }
 ,{
@@ -1604,13 +1604,13 @@
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/92.mp3",
   "frage_1": "Herr Keller bestellt eine Suppe.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Frau Keller möchte Pizza essen.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Sie trinken Wasser und Wein.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/restaurant.webp"
 }
 ,{
@@ -1620,13 +1620,13 @@
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/93.mp3",
   "frage_1": "Julia kauft eine Fahrkarte nach München.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Der Automat bietet nur Rückfahrkarten an.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Der Zug kommt pünktlich.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/bahnhof.webp"
 }
 ,{
@@ -1636,13 +1636,13 @@
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/75.mp3",
   "frage_1": "Frau Schmidt hat Fieber und Husten.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Der Arzt verschreibt keine Medikamente.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Frau Schmidt muss sich ausruhen.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/krankenhaus.webp"
 }
 ,{
@@ -1652,13 +1652,13 @@
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/75.mp3",
   "frage_1": "Herr Bauer will seine Haare schneiden lassen.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Die Friseurin fragt nicht, wie er seine Haare will.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Herr Bauer ist mit dem Haarschnitt zufrieden.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/friseur.webp"
 }
 ,{
@@ -1668,13 +1668,13 @@
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/75.mp3",
   "frage_1": "Frau Klein möchte nach Spanien reisen.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Sie will ein Hotel ohne Frühstück.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Frau Klein bekommt die Reiseunterlagen.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/reisebuero.webp"
 }
 ,{
@@ -1684,13 +1684,13 @@
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/75.mp3",
   "frage_1": "Jana kauft Zutaten für ein Abendessen.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Sie ärgert sich über die lange Schlange.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Jana freut sich auf den Abend mit Freunden.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/supermarkt2.webp"
 }
 ,
@@ -1701,13 +1701,13 @@
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/75.mp3",
   "frage_1": "Tobias besucht das Kunstmuseum mit seiner Klasse.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Er interessiert sich für ein kleines Bild.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Tobias kauft eine Postkarte.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/museum.webp"
 }
 ,{
@@ -1717,10 +1717,10 @@
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/75.mp3",
   "frage_1": "Anna will im Fitnessstudio fitter werden.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Der Trainer zeigt ihr, wie man die Geräte benutzt.",
   "Antwort_2": ["A) Richtig", "Falsch"],
-  "antwort_2_richtig": "Richtig",
+  "antwort_2_richtig": "A",
   "frage_3": "Anna möchte nur einmal pro Woche trainieren.",
   "Antwort_3": ["A) Richtig", "Falsch"],
   "antwort_3_richtig": "Falsch",
@@ -1733,10 +1733,10 @@
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/75.mp3",
   "frage_1": "Max hat Zahnschmerzen.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Der Zahnarzt behandelt eine Karies.",
   "Antwort_2": ["A) Richtig", "Falsch"],
-  "antwort_2_richtig": "Richtig",
+  "antwort_2_richtig": "A",
   "frage_3": "Max soll mehr Zucker essen.",
   "Antwort_3": ["A) Richtig", "Falsch"],
   "antwort_3_richtig": "Falsch",
@@ -1749,13 +1749,13 @@
   "audioUrl": "https://example.com/audio/dialog101.mp3",
   "frage_1": "Lara kauft auf dem Markt Obst und Gemüse.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Die Verkäufer sind unfreundlich.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Lara trifft ihre Freundin auf dem Markt.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/markt.webp"
 }
 ,
@@ -1766,13 +1766,13 @@
   "audioUrl": "https://example.com/audio/dialog102.mp3",
   "frage_1": "Tom und Maria haben ein Hotelzimmer gebucht.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Das Zimmer ist klein und dunkel.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Sie wollen eine Stadtführung machen.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/hotel.webp"
 }
 ,
@@ -1783,13 +1783,13 @@
   "audioUrl": "https://example.com/audio/dialog103.mp3",
   "frage_1": "Julia und Tim gehen ins Kino.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Der Film ist langweilig.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Sie gehen nach dem Film ins Café.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/kino.webp"
 }
 ,{
@@ -1799,13 +1799,13 @@
   "audioUrl": "https://example.com/audio/dialog104.mp3",
   "frage_1": "Lisa bestellt Pasta mit Tomatensauce.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Mark bestellt einen gemischten Salat.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Zum Schluss essen sie Tiramisu und Eis.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/restaurant.webp"
 }
 ,{
@@ -1815,13 +1815,13 @@
   "audioUrl": "https://example.com/audio/dialog105.mp3",
   "frage_1": "Herr Müller hat einen neuen Nachbarn.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Stefan ist schon lange in der Stadt.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Herr Müller lädt Stefan zu einer Feier ein.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/nachbar.webp"
 }
 ,{
@@ -1831,13 +1831,13 @@
   "audioUrl": "https://example.com/audio/dialog106.mp3",
   "frage_1": "Jana und Paul machen ein Picknick im Park.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Das Wetter ist schlecht.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Sie spielen Frisbee im Park.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/park.webp"
 }
 ,{
@@ -1847,13 +1847,13 @@
   "audioUrl": "https://example.com/audio/dialog107.mp3",
   "frage_1": "Michael kauft Gemüse und Obst.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Er nimmt Vollmilch.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Michael denkt, dass er früher einkaufen sollte.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/supermarkt.webp"
 }
 ,{
@@ -1866,10 +1866,10 @@
   "antwort_1_richtig": "Falsch",
   "frage_2": "Sarah und Tom wollen spazieren gehen.",
   "Antwort_2": ["A) Richtig", "Falsch"],
-  "antwort_2_richtig": "Richtig",
+  "antwort_2_richtig": "A",
   "frage_3": "Der Wetterbericht sagt, dass es trocken bleibt.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/wetter.webp"
 }
 ,{
@@ -1879,10 +1879,10 @@
   "audioUrl": "https://example.com/audio/dialog109.mp3",
   "frage_1": "Maria schreibt eine Bewerbung.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Anna liest die Bewerbung und gibt Tipps.",
   "Antwort_2": ["A) Richtig", "Falsch"],
-  "antwort_2_richtig": "Richtig",
+  "antwort_2_richtig": "A",
   "frage_3": "Maria schickt die Bewerbung per Post.",
   "Antwort_3": ["A) Richtig", "Falsch"],
   "antwort_3_richtig": "Falsch",
@@ -1895,13 +1895,13 @@
   "audioUrl": "https://example.com/audio/dialog110.mp3",
   "frage_1": "Peter zieht heute um.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Die Familie zieht in ein Haus auf dem Land.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Die Kinder mögen den Spielplatz.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/umzug.webp"
 }
 ,{
@@ -1911,13 +1911,13 @@
   "audioUrl": "https://example.com/audio/dialog111.mp3",
   "frage_1": "Sina hat Kopfschmerzen.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Der Arzt misst ihren Blutdruck.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Sina soll viel trinken und sich ausruhen.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/arzt.webp"
 }
 ,{
@@ -1927,10 +1927,10 @@
   "audioUrl": "https://example.com/audio/dialog112.mp3",
   "frage_1": "Jens hat ein neues Hobby.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Er hat einen Garten hinter seinem Haus.",
   "Antwort_2": ["A) Richtig", "Falsch"],
-  "antwort_2_richtig": "Richtig",
+  "antwort_2_richtig": "A",
   "frage_3": "Jens mag die Natur nicht.",
   "Antwort_3": ["A) Richtig", "Falsch"],
   "antwort_3_richtig": "Falsch",
@@ -1946,7 +1946,7 @@
   "antwort_1_richtig": "Falsch",
   "frage_2": "Der Bus fährt einen Umweg wegen einer Baustelle.",
   "Antwort_2": ["A) Richtig", "Falsch"],
-  "antwort_2_richtig": "Richtig",
+  "antwort_2_richtig": "A",
   "frage_3": "Laura ist zu spät zur Arbeit gekommen.",
   "Antwort_3": ["A) Richtig", "Falsch"],
   "antwort_3_richtig": "Falsch",
@@ -1959,13 +1959,13 @@
   "audioUrl": "https://example.com/audio/dialog114.mp3",
   "frage_1": "Anna geht mit ihrer Mutter auf den Wochenmarkt.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Sie kaufen Fleisch und Fisch.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Anna mag die Blumenstände.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/wochenmarkt.webp"
 }
 ,{
@@ -1975,13 +1975,13 @@
   "audioUrl": "https://example.com/audio/dialog115.mp3",
   "frage_1": "Tom und Laura fahren zum Flughafen.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Der Verkehr ist sehr frei.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Sie freuen sich auf den Urlaub.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/flugzeug.webp"
 }
 ,
@@ -1992,13 +1992,13 @@
   "audioUrl": "https://example.com/audio/dialog116.mp3",
   "frage_1": "Martin feiert seinen Geburtstag im Garten.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Das Wetter ist schlecht.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Viele Gäste bringen Geschenke mit.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/geburtstag.webp"
 }
 ,{
@@ -2008,13 +2008,13 @@
   "audioUrl": "https://example.com/audio/dialog117.mp3",
   "frage_1": "Julia trainiert dreimal pro Woche.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Sie macht Yoga im Fitnessstudio.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Der Trainer hilft Julia.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/fitnessstudio.webp"
 }
 ,
@@ -2025,13 +2025,13 @@
   "audioUrl": "https://example.com/audio/dialog118.mp3",
   "frage_1": "Max und seine Freunde gehen ins Kino.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Der Film ist langweilig.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Sie essen Popcorn im Kino.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/kino.webp"
 }
 ,{
@@ -2041,10 +2041,10 @@
   "audioUrl": "https://example.com/audio/dialog119.mp3",
   "frage_1": "Lena möchte ins Kino gehen.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Paul will eine Fahrradtour machen.",
   "Antwort_2": ["A) Richtig", "Falsch"],
-  "antwort_2_richtig": "Richtig",
+  "antwort_2_richtig": "A",
   "frage_3": "Sie treffen sich am Sonntag am Kino.",
   "Antwort_3": ["A) Richtig", "Falsch"],
   "antwort_3_richtig": "Falsch",
@@ -2060,10 +2060,10 @@
   "antwort_1_richtig": "Falsch",
   "frage_2": "Seine Chefin ist nett.",
   "Antwort_2": ["A) Richtig", "Falsch"],
-  "antwort_2_richtig": "Richtig",
+  "antwort_2_richtig": "A",
   "frage_3": "Ahmed repariert Computer.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/job.webp"
 }
 ,{
@@ -2073,13 +2073,13 @@
   "audioUrl": "https://example.com/audio/dialog121.mp3",
   "frage_1": "Sabine und ihr Freund essen in einem italienischen Restaurant.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Sie bestellen Fisch zum Essen.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Sabine erzählt von einem Buch.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/restaurant.webp"
 }
 ,{
@@ -2089,13 +2089,13 @@
   "audioUrl": "https://example.com/audio/dialog122.mp3",
   "frage_1": "Tim hat ein neues Mountainbike.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Er fährt am Sonntag mit dem Fahrrad.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Seine Eltern unterstützen ihn.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/fahrrad.webp"
 }
 ,{
@@ -2105,13 +2105,13 @@
   "audioUrl": "https://example.com/audio/dialog123.mp3",
   "frage_1": "Anna hat einen Hund.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Bello ist schon ein Jahr alt.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Anna spielt gern mit Bello.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/haustier.webp"
 }
 ,{
@@ -2121,13 +2121,13 @@
   "audioUrl": "https://example.com/audio/dialog124.mp3",
   "frage_1": "Maria hat Kopfschmerzen.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Der Arzt gibt ihr keine Medikamente.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Maria muss sich ausruhen.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/arztbesuch.webp"
 }
 ,{
@@ -2137,13 +2137,13 @@
   "audioUrl": "https://example.com/audio/dialog125.mp3",
   "frage_1": "Peter ist in eine neue Wohnung gezogen.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Das Fest findet im Park statt.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Die Gäste bringen Geschenke mit.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/umzugsfest.webp"
 }
 ,{
@@ -2153,13 +2153,13 @@
   "audioUrl": "https://example.com/audio/dialog126.mp3",
   "frage_1": "Elke kauft jeden Samstag ein.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Sie kauft nur Süßigkeiten.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Elke trifft eine Nachbarin an der Kasse.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/supermarkt.webp"
 }
 ,{
@@ -2169,13 +2169,13 @@
   "audioUrl": "https://example.com/audio/dialog127.mp3",
   "frage_1": "Ahmed besucht einen Deutschkurs.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Der Kurs findet einmal im Monat statt.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Ahmed macht Hausaufgaben.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/sprachkurs.webp"
 },{
   "id": "128",
@@ -2184,10 +2184,10 @@
   "audioUrl": "https://example.com/audio/dialog128.mp3",
   "frage_1": "Clara hat Zahnschmerzen.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Der Zahnarzt macht eine Röntgenaufnahme.",
   "Antwort_2": ["A) Richtig", "Falsch"],
-  "antwort_2_richtig": "Richtig",
+  "antwort_2_richtig": "A",
   "frage_3": "Clara braucht keine Behandlung.",
   "Antwort_3": ["A) Richtig", "Falsch"],
   "antwort_3_richtig": "Falsch",
@@ -2200,13 +2200,13 @@
   "audioUrl": "https://example.com/audio/dialog129.mp3",
   "frage_1": "Lisa und ihr Bruder sprechen über Umweltschutz.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Sie möchten mehr Plastik benutzen.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Sie planen, Müll im Park zu sammeln.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/umwelt.webp"
 }
 ,{
@@ -2216,13 +2216,13 @@
   "audioUrl": "https://example.com/audio/dialog130.mp3",
   "frage_1": "Tom hat Tickets für das Konzert.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Das Konzert ist am Sonntag.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Tom geht nach dem Konzert mit Freunden essen.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/konzert.webp"
 }
 ,{
@@ -2232,13 +2232,13 @@
   "audioUrl": "https://example.com/audio/dialog131.mp3",
   "frage_1": "Michaela feiert ihren Geburtstag.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Es gibt keinen Kuchen.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Michaela ist glücklich.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/geburtstag.webp"
 }
 ,{
@@ -2248,13 +2248,13 @@
   "audioUrl": "https://example.com/audio/dialog132.mp3",
   "frage_1": "Jonas arbeitet in einer Bäckerei.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Er arbeitet nur abends.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Jonas ist stolz auf seine Arbeit.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/ferienjob.webp"
 }
 ,{
@@ -2264,13 +2264,13 @@
   "audioUrl": "https://example.com/audio/dialog133.mp3",
   "frage_1": "Sarah besucht ein Museum mit ihrer Klasse.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Die Ausstellung zeigt moderne Autos.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Sarah macht Fotos im Museum.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/museum.webp"
 }
 ,{
@@ -2280,7 +2280,7 @@
   "audioUrl": "https://example.com/audio/dialog134.mp3",
   "frage_1": "Anna sucht eine Wohnung in der Stadt.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Die Wohnung liegt im ersten Stock.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
@@ -2296,13 +2296,13 @@
   "audioUrl": "https://example.com/audio/dialog135.mp3",
   "frage_1": "Markus trainiert Fußball.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Die Mannschaft hat verloren.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Es gibt ein Sommerfest im Verein.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/sportverein.webp"
 }
 ,{
@@ -2312,13 +2312,13 @@
   "audioUrl": "https://example.com/audio/dialog136.mp3",
   "frage_1": "Sabine geht mit Freunden ins Kino.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Der Film ist ein Drama.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Sie kaufen Snacks im Kino.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/kino.webp"
 }
 ,{
@@ -2328,13 +2328,13 @@
   "audioUrl": "https://example.com/audio/dialog137.mp3",
   "frage_1": "Thomas liest gern in der Bibliothek.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Er sucht ein Buch über Kunst.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Die Bibliothekarin hilft ihm.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/bibliothek.webp"
 }
 ,{
@@ -2344,13 +2344,13 @@
   "audioUrl": "https://example.com/audio/dialog138.mp3",
   "frage_1": "Heute ist das Wetter sonnig.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Gestern war es warm.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Sie wollen einen Ausflug machen.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/wetter.webp"
 }
 ,{
@@ -2360,13 +2360,13 @@
   "audioUrl": "https://example.com/audio/dialog139.mp3",
   "frage_1": "Maria hat Halsschmerzen.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Die Ärztin macht keinen Test.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Maria bekommt Medikamente empfohlen.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/arztbesuch.webp"
 }
 ,{
@@ -2376,13 +2376,13 @@
   "audioUrl": "https://example.com/audio/dialog140.mp3",
   "frage_1": "Tom mag das Meer.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Anna will in die Stadt fahren.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Sie entscheiden sich für eine Reise an den See.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/reiseplanung.webp"
 }
 ,{
@@ -2392,13 +2392,13 @@
   "audioUrl": "https://example.com/audio/dialog141.mp3",
   "frage_1": "Lena hat ein Vorstellungsgespräch.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Sie kommt zu spät zum Gespräch.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Der Personalleiter erklärt die Aufgaben.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/vorstellungsgespraech.webp"
 }
 ,{
@@ -2408,13 +2408,13 @@
   "audioUrl": "https://example.com/audio/dialog142.mp3",
   "frage_1": "Paul kauft ein Geburtstagsgeschenk.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Max spielt gerne Tennis.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Max freut sich über das Geschenk.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/geburtstagsgeschenk.webp"
 }
 ,{
@@ -2424,13 +2424,13 @@
   "audioUrl": "https://example.com/audio/dialog143.mp3",
   "frage_1": "Maria kauft Lebensmittel.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Der Supermarkt ist leer.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Maria kocht am Nachmittag.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/supermarkt.webp"
 }
 ,{
@@ -2440,13 +2440,13 @@
   "audioUrl": "https://example.com/audio/dialog144.mp3",
   "frage_1": "Julia möchte einen Hund.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Die Eltern erlauben kein Haustier.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Julia besucht einen Hundezüchter.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/haustier.webp"
 }
 ,{
@@ -2456,13 +2456,13 @@
   "audioUrl": "https://example.com/audio/dialog145.mp3",
   "frage_1": "Peter kauft auf dem Wochenmarkt ein.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Peter kauft nur Blumen.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Er trinkt einen Kaffee nach dem Einkaufen.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/wochenmarkt.webp"
 }
 ,{
@@ -2472,13 +2472,13 @@
   "audioUrl": "https://example.com/audio/dialog146.mp3",
   "frage_1": "Anna wohnt im dritten Stock.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Die Nachbarn sind unfreundlich.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Anna bringt einen Kuchen mit.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/nachbarn.webp"
 }
 ,{
@@ -2488,13 +2488,13 @@
   "audioUrl": "https://example.com/audio/dialog147.mp3",
   "frage_1": "Michael hat einen neuen Job.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Er arbeitet in der Küche.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Michael erzählt seinem Freund vom Job.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/neuerjob.webp"
 }
 ,{
@@ -2504,13 +2504,13 @@
   "audioUrl": "https://example.com/audio/dialog148.mp3",
   "frage_1": "Sophie sucht ein Buch für die Schule.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Sie findet das Buch alleine.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Sophie liest zwei Stunden in der Bibliothek.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/bibliothek2.webp"
 }
 ,{
@@ -2520,13 +2520,13 @@
   "audioUrl": "https://example.com/audio/dialog149.mp3",
   "frage_1": "Lisa zieht in eine neue Wohnung.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Die neue Wohnung ist kleiner.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Lisa bekommt ein eigenes Zimmer.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/umzug.webp"
 }
 ,{
@@ -2536,13 +2536,13 @@
   "audioUrl": "https://example.com/audio/dialog150.mp3",
   "frage_1": "Ahmed lernt Deutsch.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Der Kurs ist langweilig.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Ahmed macht Hausaufgaben.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/deutschkurs.webp"
 }
 ,{
@@ -2552,13 +2552,13 @@
   "audioUrl": "https://example.com/audio/dialog151.mp3",
   "frage_1": "Das Wetter ist heute schön.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Es regnet den ganzen Tag.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Anna macht ein Picknick.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/wetter.webp"
 }
 ,{
@@ -2568,13 +2568,13 @@
   "audioUrl": "https://example.com/audio/dialog152.mp3",
   "frage_1": "Markus geht mit seiner Schwester zum Konzert.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Das Konzert ist draußen.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Markus macht Fotos.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/konzert.webp"
 }
 ,{
@@ -2584,13 +2584,13 @@
   "audioUrl": "https://example.com/audio/dialog153.mp3",
   "frage_1": "Sophie sucht eine Wohnung mit zwei Zimmern.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Alle Wohnungen sind perfekt.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Sophie unterschreibt den Mietvertrag.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/wohnungssuche.webp"
 }
 ,{
@@ -2600,13 +2600,13 @@
   "audioUrl": "https://example.com/audio/dialog154.mp3",
   "frage_1": "Anna und Tom sind im Restaurant.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Tom bestellt Pizza.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Sie wollen wiederkommen.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/restaurant.webp"
 }
 ,{
@@ -2616,13 +2616,13 @@
   "audioUrl": "https://example.com/audio/dialog155.mp3",
   "frage_1": "Lena geht zum Arzt.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Lena hat keine Beschwerden.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Sie bekommt Medikamente.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/arztbesuch.webp"
 }
 ,{
@@ -2632,13 +2632,13 @@
   "audioUrl": "https://example.com/audio/dialog156.mp3",
   "frage_1": "Jürgen reist nach Italien.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Er besucht nur Rom.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Jürgen macht Fotos.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/reise.webp"
 }
 
