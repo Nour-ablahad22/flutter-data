@@ -7,13 +7,13 @@
   "audioUrl": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/8.mp3",
   "frage_1": "Thomas lernt Gitarre spielen.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Er übt nur am Wochenende.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Thomas spielt später in einer Band.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
       "imageUrl": "https://example.com/images/grillfest.webp"
 }
 ,
@@ -25,13 +25,13 @@
 "audioUrl": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Mit/75.mp3",
     "frage_1": "Clara trainiert im Fitnessstudio.",
   "Antwort_1": ["A) Richtig", "Falsch"],
-  "antwort_1_richtig": "Richtig",
+  "antwort_1_richtig": "A",
   "frage_2": "Sie mag das Training nicht.",
   "Antwort_2": ["A) Richtig", "Falsch"],
   "antwort_2_richtig": "Falsch",
   "frage_3": "Clara hat einen Trainer.",
   "Antwort_3": ["A) Richtig", "Falsch"],
-  "antwort_3_richtig": "Richtig",
+  "antwort_3_richtig": "A",
       "imageUrl": "https://example.com/images/grillfest.webp"
 }
 ,{
