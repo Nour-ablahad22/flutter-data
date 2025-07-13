@@ -1242,7 +1242,7 @@
 }
 ,
 {
-  "id": "76\\\\\\\\\\\\\\",
+  "id": "76",
   "title": "Im Hotel",
   "text": "Rezeptionist: Guten Tag! Haben Sie eine Reservierung?\nGast: Ja, ich habe ein Zimmer für drei Nächte reserviert.\nRezeptionist: Wie ist Ihr Name, bitte?\nGast: Müller.\nRezeptionist: Danke, Herr Müller. Hier ist Ihr Schlüssel. Ihr Zimmer ist im zweiten Stock, Zimmer 204.\nGast: Gibt es WLAN im Zimmer?\nRezeptionist: Ja, kostenlos und schnell. Das Passwort steht auf der Karte.\nGast: Gibt es auch Frühstück?\nRezeptionist: Ja, das Frühstück ist von 7 bis 10 Uhr im Restaurant.\nGast: Kann ich mein Auto hier parken?\nRezeptionist: Ja, wir haben einen Parkplatz für Gäste.\nGast: Super, danke für die Informationen.\nRezeptionist: Gern geschehen. Einen schönen Aufenthalt!",
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/76.mp3",
@@ -1259,7 +1259,7 @@
 }
 ,
 {
-  "id": "77\\\\\\\\\\\\\\\\\\\",
+  "id": "77",
   "title": "Im Kino",
   "text": "Kunde: Hallo! Ich möchte zwei Karten für den Film um 20 Uhr kaufen.\nVerkäufer: Guten Abend! Für welchen Film möchten Sie Karten?\nKunde: Für den neuen Abenteuerfilm.\nVerkäufer: Noch haben wir Plätze frei. Möchten Sie Plätze in der Mitte?\nKunde: Ja, bitte.\nVerkäufer: Das macht 18 Euro.\nKunde: Kann ich auch etwas zu trinken kaufen?\nVerkäufer: Ja, wir haben Cola, Wasser und Popcorn.\nKunde: Dann zwei Cola und eine große Portion Popcorn, bitte.\nVerkäufer: Alles klar. Viel Spaß im Kino!\nKunde: Danke!",
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/77.mp3",
@@ -1276,7 +1276,7 @@
 }
 ,
 {
-  "id": "78\\\\\\\\\\\\\\\\\\\\",
+  "id": "78",
   "title": "Beim Arzt",
   "text": "Arzt: Guten Tag! Was kann ich für Sie tun?\nPatientin: Guten Tag, ich habe seit gestern Halsschmerzen und Husten.\nArzt: Haben Sie Fieber?\nPatientin: Ja, ich habe 38 Grad Fieber.\nArzt: Haben Sie Allergien oder nehmen Sie Medikamente?\nPatientin: Nein, ich habe keine Allergien und nehme keine Medikamente.\nArzt: Ich höre Ihre Lunge ab und messe Ihre Temperatur.\n(Arzt untersucht die Patientin.)\nArzt: Es sieht nach einer Erkältung aus. Ich schreibe Ihnen ein Medikament gegen den Husten und empfehle viel Ruhe.\nPatientin: Danke, ich werde mich ausruhen.\nArzt: Wenn es schlimmer wird, kommen Sie bitte wieder.\nPatientin: Ja, danke!",
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/78.mp3",
@@ -1293,7 +1293,7 @@
 }
 ,
 {
-  "id": "74\\\\\\\\\\\\",
+  "id": "79",
   "title": "Im Supermarkt",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Kunde: Guten Tag! Können Sie mir helfen? Ich suche frisches Obst und Gemüse.\nVerkäuferin: Guten Tag! Natürlich, die Obst- und Gemüseabteilung ist gleich am Anfang des Marktes. Was genau brauchen Sie?\nKunde: Ich möchte Äpfel, Bananen und Tomaten kaufen. Haben Sie auch Bio-Produkte?\nVerkäuferin: Ja, wir haben Bio-Äpfel und Bio-Bananen. Die sind in der grünen Kiste dort.\nKunde: Super! Und wie viel kosten die Bio-Äpfel?\nVerkäuferin: Die kosten 3,50 Euro pro Kilogramm.\nKunde: Gut, ich nehme ein Kilo. Und die Tomaten?\nVerkäuferin: Die Tomaten kosten 2,20 Euro pro Kilogramm.\nKunde: Dann nehme ich ein halbes Kilo Tomaten. Haben Sie auch Brot?\nVerkäuferin: Ja, die Bäckereiabteilung ist neben der Kasse. Dort gibt es frisches Brot und Brötchen.\nKunde: Danke für Ihre Hilfe!\nVerkäuferin: Gern geschehen. Viel Spaß beim Einkaufen!",
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/79.mp3",
@@ -1310,7 +1310,7 @@
 }
 ,
 {
-  "id": "75",
+  "id": "80",
   "title": "Im Fitnessstudio",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Trainerin: Hallo! Willkommen im Fitnessstudio. Möchten Sie sich anmelden?\nNeukunde: Ja, bitte. Ich möchte regelmäßig trainieren.\nTrainerin: Gut. Haben Sie schon Erfahrung mit Fitness oder Sport?\nNeukunde: Ein bisschen. Ich jogge manchmal im Park.\nTrainerin: Das ist ein guter Anfang. Wir bieten Kurse für Anfänger an, zum Beispiel Yoga, Pilates und Zumba.\nNeukunde: Yoga klingt interessant. Wie oft finden die Kurse statt?\nTrainerin: Yoga-Kurse sind zweimal pro Woche, dienstags und donnerstags um 18 Uhr.\nNeukunde: Super, ich möchte mich für Yoga anmelden.\nTrainerin: Sehr gut. Ich brauche noch einige Angaben für die Anmeldung.\nNeukunde: Kein Problem.\nTrainerin: Willkommen im Team! Viel Spaß beim Training.",
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/80.mp3",
@@ -1327,7 +1327,7 @@
 }
 ,
 {
-  "id": "76",
+  "id": "81",
   "title": "Im Hotel",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Rezeptionist: Guten Tag! Haben Sie eine Reservierung?\nGast: Ja, ich habe ein Zimmer für drei Nächte reserviert.\nRezeptionist: Wie ist Ihr Name, bitte?\nGast: Müller.\nRezeptionist: Danke, Herr Müller. Hier ist Ihr Schlüssel. Ihr Zimmer ist im zweiten Stock, Zimmer 204.\nGast: Gibt es WLAN im Zimmer?\nRezeptionist: Ja, kostenlos und schnell. Das Passwort steht auf der Karte.\nGast: Gibt es auch Frühstück?\nRezeptionist: Ja, das Frühstück ist von 7 bis 10 Uhr im Restaurant.\nGast: Kann ich mein Auto hier parken?\nRezeptionist: Ja, wir haben einen Parkplatz für Gäste.\nGast: Super, danke für die Informationen.\nRezeptionist: Gern geschehen. Einen schönen Aufenthalt!",
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/81.mp3",
@@ -1344,7 +1344,7 @@
 }
 ,
 {
-  "id": "77",
+  "id": "82",
   "title": "Im Kino",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Kunde: Hallo! Ich möchte zwei Karten für den Film um 20 Uhr kaufen.\nVerkäufer: Guten Abend! Für welchen Film möchten Sie Karten?\nKunde: Für den neuen Abenteuerfilm.\nVerkäufer: Noch haben wir Plätze frei. Möchten Sie Plätze in der Mitte?\nKunde: Ja, bitte.\nVerkäufer: Das macht 18 Euro.\nKunde: Kann ich auch etwas zu trinken kaufen?\nVerkäufer: Ja, wir haben Cola, Wasser und Popcorn.\nKunde: Dann zwei Cola und eine große Portion Popcorn, bitte.\nVerkäufer: Alles klar. Viel Spaß im Kino!\nKunde: Danke!",
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/82.mp3",
@@ -1361,7 +1361,7 @@
 }
 ,
 {
-  "id": "78",
+  "id": "83",
   "title": "Beim Arzt",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Arzt: Guten Tag! Was kann ich für Sie tun?\nPatientin: Guten Tag, ich habe seit gestern Halsschmerzen und Husten.\nArzt: Haben Sie Fieber?\nPatientin: Ja, ich habe 38 Grad Fieber.\nArzt: Haben Sie Allergien oder nehmen Sie Medikamente?\nPatientin: Nein, ich habe keine Allergien und nehme keine Medikamente.\nArzt: Ich höre Ihre Lunge ab und messe Ihre Temperatur.\n(Arzt untersucht die Patientin.)\nArzt: Es sieht nach einer Erkältung aus. Ich schreibe Ihnen ein Medikament gegen den Husten und empfehle viel Ruhe.\nPatientin: Danke, ich werde mich ausruhen.\nArzt: Wenn es schlimmer wird, kommen Sie bitte wieder.\nPatientin: Ja, danke!",
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/75.mp3",
@@ -1379,7 +1379,7 @@
 ,
 
 {
-  "id": "79",
+  "id": "84",
   "title": "Im Restaurant",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Kellnerin: Guten Abend! Haben Sie einen Tisch reserviert?\nGast: Ja, auf den Namen Schmidt für zwei Personen.\nKellnerin: Sehr gut. Folgen Sie mir bitte. Hier ist Ihre Speisekarte.\nGast: Danke. Was empfehlen Sie heute?\nKellnerin: Unser Tagesgericht ist gebratenes Hähnchen mit Gemüse.\nGast: Klingt gut. Ich nehme das Tagesgericht und einen Salat.\nKellnerin: Möchten Sie etwas trinken?\nGast: Ja, eine Flasche Mineralwasser bitte.\n(Später bringt die Kellnerin das Essen.)\nKellnerin: Guten Appetit!\nGast: Danke. Das Essen schmeckt sehr gut.\nKellnerin: Möchten Sie noch etwas zum Nachtisch?\nGast: Ja, ein Stück Apfelkuchen bitte.\nKellnerin: Kommt sofort.\nNach dem Essen...\nGast: Die Rechnung, bitte.\nKellnerin: Hier, das macht 25 Euro.\nGast: Danke, hier sind 30 Euro.\nKellnerin: Vielen Dank! Einen schönen Abend noch.",
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/75.mp3",
@@ -1397,7 +1397,7 @@
 ,
 
 {
-  "id": "80",
+  "id": "85",
   "title": "Im Park",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Anna und Tom treffen sich im Park. Anna sagt: „Das Wetter ist heute schön, nicht wahr?“ Tom antwortet: „Ja, die Sonne scheint und es ist warm.“ Sie gehen zusammen spazieren und sehen viele Blumen. Anna fragt: „Willst du eine Pause machen?“ Tom sagt: „Gerne, ich habe Durst.“ Sie setzen sich auf eine Bank und trinken Wasser. Plötzlich sieht Anna einen Hund. „Schau mal, der Hund ist sehr freundlich,“ sagt sie. Der Hund kommt zu ihnen und wedelt mit dem Schwanz. Tom streichelt den Hund und sagt: „Ich liebe Hunde.“ Nach der Pause gehen sie weiter und planen, nächste Woche wieder in den Park zu kommen. Anna sagt: „Vielleicht bringen wir dann ein Picknick mit.“ Tom freut sich und sagt: „Das ist eine tolle Idee.“",
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/75.mp3",
@@ -1414,7 +1414,7 @@
 }
 ,
 {
-  "id": "81",
+  "id": "86",
   "title": "Beim Friseur",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Kundin: Guten Tag! Ich möchte meine Haare schneiden lassen.\nFriseur: Guten Tag! Wie möchten Sie Ihre Haare geschnitten haben?\nKundin: Bitte nicht zu kurz, nur die Spitzen.\nFriseur: Alles klar. Möchten Sie auch Ihre Haare waschen?\nKundin: Ja, bitte.\nFriseur: Ich wasche Ihre Haare zuerst. Bitte nehmen Sie Platz.\n(Nach dem Waschen beginnt der Friseur zu schneiden.)\nFriseur: Möchten Sie auch die Haare föhnen lassen?\nKundin: Ja, das wäre schön.\nFriseur: Wie gefällt Ihnen der Schnitt?\nKundin: Sehr gut, danke!\nFriseur: Das macht 25 Euro.\nKundin: Hier, bitte.\nFriseur: Vielen Dank. Bis zum nächsten Mal!",
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/75.mp3",
@@ -1431,7 +1431,7 @@
 }
 ,
 {
-  "id": "82",
+  "id": "87",
   "title": "Im Zoo",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Familie Müller besucht den Zoo. Der Vater sagt: „Schaut mal, dort sind die Elefanten!“ Die Kinder sind begeistert und machen viele Fotos. Die Mutter sagt: „Nach dem Elefantenhaus gehen wir zum Affengehege.“ Die Kinder freuen sich, die Affen zu sehen. Dort angekommen, beobachten sie die Affen, wie sie spielen und klettern. Der Vater erklärt: „Affen sind sehr schlau und können gut klettern.“ Nach dem Besuch der Affen essen sie ein Eis und planen den Besuch beim Löwen. Die Kinder sind sehr glücklich und wollen bald wieder in den Zoo gehen.",
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/75.mp3",
@@ -1448,7 +1448,7 @@
 }
 ,
 {
-  "id": "83",
+  "id": "88",
   "title": "Beim Bäcker",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Kunde: Guten Morgen! Ich hätte gern zwei Brötchen und ein Vollkornbrot.\nBäckerin: Guten Morgen! Möchten Sie die Brötchen frisch gebacken?\nKunde: Ja, bitte.\nBäckerin: Das macht 3,50 Euro.\nKunde: Hier sind 5 Euro. Können Sie mir bitte 1,50 Euro zurückgeben?\nBäckerin: Natürlich. Möchten Sie sonst noch etwas?\nKunde: Haben Sie auch Kuchen?\nBäckerin: Ja, wir haben Apfelkuchen und Schokoladenkuchen.\nKunde: Dann nehme ich ein Stück Apfelkuchen.\nBäckerin: Kommt sofort.\nKunde: Danke schön.\nBäckerin: Gern geschehen. Einen schönen Tag noch!",
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/75.mp3",
@@ -1465,7 +1465,7 @@
 }
 ,
 {
-  "id": "84",
+  "id": "89",
   "title": "Im Supermarkt",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Frau Müller geht in den Supermarkt, um Lebensmittel für die Woche zu kaufen. Sie nimmt einen Einkaufswagen und geht zuerst zu den Obst- und Gemüseabteilungen. Sie sucht Äpfel, Bananen und Tomaten. Dann geht sie zum Fleisch- und Fischstand und kauft Hähnchenbrust und Lachsfilet. Danach holt sie Milch, Butter und Käse aus dem Kühlregal. An der Kasse merkt sie, dass sie ihre Geldbörse vergessen hat. Zum Glück hat sie ihr Handy dabei und bezahlt mit der App. Die Kassiererin lächelt und sagt: „Das geht heute schnell und einfach.“ Frau Müller freut sich und verlässt den Supermarkt mit ihren Einkäufen.",
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/75.mp3",
@@ -1482,7 +1482,7 @@
 }
 ,
 {
-  "id": "85",
+  "id": "90",
   "title": "Im Kino",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Peter und Lisa wollen am Wochenende ins Kino gehen. Sie suchen einen Film aus, der um 19 Uhr beginnt. An der Kinokasse kaufen sie zwei Karten und Popcorn. Im Kinosaal setzen sie sich in die Mitte, um den besten Blick auf die Leinwand zu haben. Der Film ist eine spannende Geschichte über Freundschaft und Abenteuer. Peter mag die lustigen Szenen, und Lisa findet die Musik sehr schön. Nach dem Film sprechen sie über ihre Lieblingsszenen und beschließen, bald wieder ins Kino zu gehen. Sie sind beide sehr zufrieden mit dem Abend.",
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/75.mp3",
@@ -1499,7 +1499,7 @@
 }
 ,
 {
-  "id": "86",
+  "id": "91",
   "title": "Im Fitnessstudio",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Markus geht dreimal pro Woche ins Fitnessstudio. Er macht zuerst Aufwärmübungen auf dem Laufband. Danach trainiert er mit Gewichten, um seine Muskeln zu stärken. Heute macht er auch Yoga, um sich zu entspannen. Die Trainerin gibt ihm Tipps, wie er die Übungen besser machen kann. Markus fühlt sich nach dem Training sehr gut und plant, auch nächste Woche regelmäßig zu kommen. Er weiß, dass Sport wichtig für die Gesundheit ist und macht gern neue Übungen.",
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/75.mp3",
@@ -1516,7 +1516,7 @@
 }
 ,
 {
-  "id": "87",
+  "id": "92",
   "title": "Beim Arzt",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Frau Becker hat seit einigen Tagen Kopfschmerzen und fühlt sich müde. Sie geht zum Arzt und erzählt von ihren Beschwerden. Der Arzt fragt nach anderen Symptomen und misst ihren Blutdruck. Danach macht er eine Untersuchung und gibt ihr Medikamente gegen die Schmerzen. Er empfiehlt ihr, viel Wasser zu trinken und sich auszuruhen. Frau Becker bedankt sich und verspricht, die Medikamente regelmäßig einzunehmen. Nach einigen Tagen fühlt sie sich schon besser und plant, wieder zum Arzt zu gehen, wenn die Schmerzen zurückkommen.",
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/75.mp3",
@@ -1533,7 +1533,7 @@
 }
 ,
 {
-  "id": "88",
+  "id": "93",
   "title": "Im Hotel",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Herr und Frau Wagner kommen im Hotel an und melden sich an der Rezeption. Der Rezeptionist begrüßt sie freundlich und gibt ihnen den Schlüssel für ihr Zimmer. Sie fragen nach dem Frühstücksraum und den Öffnungszeiten des Schwimmbads. Der Rezeptionist erklärt alles und gibt ihnen eine Karte vom Hotel. Im Zimmer angekommen, freuen sie sich über den schönen Ausblick auf die Stadt. Nach dem Auspacken wollen sie das Schwimmbad ausprobieren und dann im Restaurant essen. Sie sind gespannt auf ihren Aufenthalt und hoffen, dass das Wetter gut bleibt.",
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/75.mp3",
@@ -1550,7 +1550,7 @@
 }
 ,
 {
-  "id": "89",
+  "id": "94",
   "title": "Im Supermarkt",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Herr Schneider geht heute im Supermarkt einkaufen. Er braucht viele Sachen für die Woche. Zuerst holt er Brot, Butter und Käse aus der Bäckerei und der Kühlabteilung. Dann sucht er Obst und Gemüse: Äpfel, Bananen, Tomaten und Salat. Danach geht er zur Fleischtheke und kauft Hühnchen und Hackfleisch. Am Ende sucht er noch Getränke, er nimmt Saft und Mineralwasser. An der Kasse merkt Herr Schneider, dass er seine Geldbörse vergessen hat. Zum Glück hat er seine Kreditkarte dabei und kann damit bezahlen. Die Kassiererin wünscht ihm einen schönen Tag, und Herr Schneider verlässt den Supermarkt mit seinen Einkäufen.",
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/75.mp3",
@@ -1566,7 +1566,7 @@
   "imageUrl": "https://example.com/images/supermarkt.webp"
 }
 ,{
-  "id": "90",
+  "id": "95",
   "title": "Beim Zahnarzt",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Frau Weber hat Zahnschmerzen und macht einen Termin beim Zahnarzt. Am Tag des Termins ist sie ein bisschen nervös. Der Zahnarzt untersucht ihre Zähne und findet eine kleine Karies. Er erklärt ihr, dass er die Stelle heute behandeln wird. Während der Behandlung erzählt der Zahnarzt, wie wichtig es ist, regelmäßig die Zähne zu putzen. Frau Weber verspricht, besser auf ihre Zahnpflege zu achten. Nach der Behandlung bekommt sie eine neue Zahnbürste geschenkt und einen Termin für die nächste Kontrolle. Sie verlässt die Praxis mit einem Lächeln und fühlt sich besser.",
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/90.mp3",
@@ -1582,7 +1582,7 @@
   "imageUrl": "https://example.com/images/zahnarzt.webp"
 }
 ,{
-  "id": "91",
+  "id": "96",
   "title": "Im Park",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Lena und Paul treffen sich im Park. Das Wetter ist sonnig und warm. Sie gehen zusammen spazieren und reden über ihre Pläne fürs Wochenende. Lena möchte ins Kino gehen, Paul will lieber zu Hause bleiben und ein Buch lesen. Sie setzen sich auf eine Bank und essen ein Eis. Dann sehen sie Kinder, die Fußball spielen, und entscheiden sich, selbst eine Runde zu spielen. Nach dem Spiel sind sie müde, aber glücklich. Sie verabreden sich, nächste Woche wieder in den Park zu gehen und zusammen Sport zu machen.",
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/91.mp3",
@@ -1598,7 +1598,7 @@
   "imageUrl": "https://example.com/images/park.webp"
 }
 ,{
-  "id": "92",
+  "id": "97",
   "title": "Im Restaurant",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Herr und Frau Keller gehen am Abend in ein Restaurant. Der Kellner bringt die Speisekarten und fragt nach ihren Wünschen. Herr Keller bestellt eine Suppe und einen Salat, Frau Keller möchte Spaghetti mit Tomatensoße. Als Getränk wählen sie Wasser und Wein. Während sie warten, unterhalten sie sich über ihren Tag. Das Essen schmeckt ihnen sehr gut, und sie genießen den Abend. Zum Schluss bestellen sie Kaffee und einen Nachtisch. Nach der Rechnung bedanken sie sich beim Kellner und verlassen das Restaurant zufrieden.",
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/92.mp3",
@@ -1614,7 +1614,7 @@
   "imageUrl": "https://example.com/images/restaurant.webp"
 }
 ,{
-  "id": "93",
+  "id": "98",
   "title": "Im Bahnhof",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Julia kommt am Bahnhof an und sucht den Fahrkartenautomaten. Sie will eine Fahrkarte nach München kaufen. Der Automat zeigt verschiedene Optionen: einfache Fahrt, Hin- und Rückfahrt, und verschiedene Zonen. Julia wählt eine einfache Fahrt und bezahlt mit Karte. Dann wartet sie auf den Zug. Auf dem Bahnsteig sieht sie viele Leute mit Koffern und Rucksäcken. Der Zug kommt pünktlich, und Julia steigt ein. Während der Fahrt liest sie ein Buch und freut sich auf ihren Besuch in München.",
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/93.mp3",
@@ -1630,7 +1630,7 @@
   "imageUrl": "https://example.com/images/bahnhof.webp"
 }
 ,{
-  "id": "94",
+  "id": "99",
   "title": "Im Krankenhaus",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Frau Schmidt fühlt sich seit ein paar Tagen sehr schlecht. Sie hat Fieber, Husten und Kopfschmerzen. Deshalb geht sie ins Krankenhaus. Dort wartet sie im Wartezimmer und liest eine Zeitschrift. Nach einiger Zeit kommt der Arzt und ruft ihren Namen auf. Er untersucht sie gründlich und fragt nach ihren Symptomen. Frau Schmidt erzählt alles genau. Der Arzt erklärt, dass sie eine Grippe hat und verschreibt Medikamente. Außerdem empfiehlt er viel Ruhe und viel Wasser trinken. Frau Schmidt bedankt sich und verlässt das Krankenhaus mit einem Rezept. Zu Hause nimmt sie die Medikamente und ruht sich aus, damit sie schnell wieder gesund wird.",
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/75.mp3",
@@ -1646,7 +1646,7 @@
   "imageUrl": "https://example.com/images/krankenhaus.webp"
 }
 ,{
-  "id": "95",
+  "id": "100",
   "title": "Beim Friseur",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Herr Bauer hat einen Termin beim Friseur. Er möchte seine Haare schneiden lassen, weil sie zu lang geworden sind. Die Friseurin begrüßt ihn freundlich und fragt, wie er seine Haare haben möchte. Herr Bauer erklärt, dass er die Seiten kurz und oben etwas länger möchte. Während des Haarschnitts unterhalten sie sich über das Wetter und den Sommerurlaub. Nach etwa 30 Minuten ist der Haarschnitt fertig. Herr Bauer sieht zufrieden aus und bezahlt an der Kasse. Er bedankt sich und verlässt den Friseursalon mit einem neuen, frischen Look.",
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/75.mp3",
@@ -1662,7 +1662,7 @@
   "imageUrl": "https://example.com/images/friseur.webp"
 }
 ,{
-  "id": "96",
+  "id": "101",
   "title": "Im Reisebüro",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Frau Klein möchte im Reisebüro eine Reise buchen. Sie möchte im Sommer nach Spanien fahren. Die Mitarbeiterin zeigt ihr verschiedene Angebote und erklärt die Preise. Frau Klein fragt nach einem Hotel mit Frühstück und nahe am Strand. Die Mitarbeiterin findet mehrere Optionen und zeigt Fotos. Nach langer Überlegung entscheidet sich Frau Klein für ein Hotel in Barcelona. Sie bucht die Reise und bezahlt einen Teil sofort. Die Mitarbeiterin gibt ihr die Reiseunterlagen und wünscht ihr einen schönen Urlaub. Frau Klein freut sich sehr und plant, im Sommer viele Sehenswürdigkeiten zu besuchen.",
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/75.mp3",
@@ -1678,7 +1678,7 @@
   "imageUrl": "https://example.com/images/reisebuero.webp"
 }
 ,{
-  "id": "97",
+  "id": "102",
   "title": "Im Supermarkt",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Jana geht am Samstagmorgen in den Supermarkt, um Lebensmittel zu kaufen. Sie braucht Zutaten für ein Abendessen mit Freunden. Jana nimmt einen Einkaufswagen und sucht zuerst die frischen Zutaten: Gemüse, Fleisch und Gewürze. Sie findet Karotten, Zwiebeln und Hähnchenbrust. Danach sucht sie Getränke und Süßigkeiten. An der Kasse wartet eine lange Schlange, aber Jana bleibt geduldig. Nach dem Bezahlen packt sie ihre Einkäufe in die Tasche und freut sich auf das gemeinsame Kochen. Zuhause beginnt sie mit dem Kochen und freut sich auf einen schönen Abend mit ihren Freunden.",
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/75.mp3",
@@ -1695,7 +1695,7 @@
 }
 ,
 {
-  "id": "98",
+  "id": "103",
   "title": "Im Museum",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Tobias besucht mit seiner Klasse das Kunstmuseum. Die Lehrerin erklärt die verschiedenen Ausstellungen und erzählt Geschichten über die Künstler. Tobias sieht viele Bilder und Skulpturen, die ihn faszinieren. Besonders interessiert ihn ein großes Gemälde von einem bekannten Maler. Die Klasse macht eine Führung, und Tobias stellt viele Fragen. Am Ende kauft er sich im Museumsshop eine Postkarte als Erinnerung. Er findet den Besuch spannend und plant, bald wieder ins Museum zu gehen.",
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/75.mp3",
@@ -1711,7 +1711,7 @@
   "imageUrl": "https://example.com/images/museum.webp"
 }
 ,{
-  "id": "99",
+  "id": "104",
   "title": "Im Fitnessstudio",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Anna hat sich entschieden, ins Fitnessstudio zu gehen, um fitter zu werden. Heute ist ihr erster Tag. Sie spricht mit dem Trainer und erklärt ihre Ziele: mehr Kraft und Ausdauer. Der Trainer zeigt ihr die Geräte und erklärt, wie man sie richtig benutzt. Anna probiert verschiedene Übungen aus, zum Beispiel das Laufband, das Fahrrad und die Hanteln. Nach dem Training fühlt sie sich erschöpft, aber glücklich. Sie möchte dreimal pro Woche kommen und freut sich auf die Fortschritte. Der Trainer empfiehlt ihr auch, auf ihre Ernährung zu achten und genügend Wasser zu trinken. Anna ist motiviert und plant, regelmäßig zum Training zu gehen.",
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/75.mp3",
@@ -1727,7 +1727,7 @@
   "imageUrl": "https://example.com/images/fitnessstudio.webp"
 }
 ,{
-  "id": "100",
+  "id": "105",
   "title": "Beim Zahnarzt",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Max hat Schmerzen im Zahn und geht deshalb zum Zahnarzt. Er ist ein bisschen nervös, aber der Zahnarzt ist sehr freundlich. Nach der Untersuchung erklärt der Zahnarzt, dass Max eine kleine Karies hat. Die Behandlung dauert etwa 20 Minuten. Max muss still sitzen, während der Zahnarzt den Zahn behandelt. Danach bekommt Max Tipps, wie er seine Zähne besser pflegen kann, zum Beispiel zweimal täglich Zähneputzen und weniger Zucker essen. Max bedankt sich und vereinbart einen Kontrolltermin in sechs Monaten. Er verlässt die Praxis ohne Schmerzen und fühlt sich erleichtert.",
   "audioUrl": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/A1/Hoeren/Mit/75.mp3",
@@ -1743,7 +1743,7 @@
   "imageUrl": "https://example.com/images/zahnarzt2.webp"
 }
 ,{
-  "id": "101",
+  "id": "106",
   "title": "Auf dem Markt",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Lara geht jeden Samstag auf den Markt, um frisches Obst und Gemüse zu kaufen. Heute gibt es viele Angebote. Sie kauft Äpfel, Erdbeeren, Karotten und Tomaten. Die Verkäufer sind freundlich und bieten ihr oft Kostproben an. Lara spricht mit einem Obstverkäufer über die besten Rezepte für Erdbeerkuchen. Danach trifft sie ihre Freundin Sophie und sie trinken zusammen einen Kaffee. Lara freut sich immer auf den Markt, weil die Produkte frisch sind und die Atmosphäre schön ist. Sie plant, am nächsten Samstag wiederzukommen, um neue Dinge auszuprobieren.",
   "audioUrl": "https://example.com/audio/dialog101.mp3",
@@ -1760,7 +1760,7 @@
 }
 ,
 {
-  "id": "102",
+  "id": "107",
   "title": "Im Hotel",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Tom und Maria sind im Urlaub und haben ein Zimmer im Hotel gebucht. Am Empfang bekommen sie die Schlüssel und die Informationen über das Frühstück und die Schwimmbadzeiten. Das Zimmer ist schön und sauber, mit einem großen Bett und einem Balkon. Am Nachmittag gehen sie zum Schwimmbad und entspannen im Wasser. Abends essen sie im Hotelrestaurant und probieren lokale Spezialitäten. Tom und Maria sind sehr zufrieden mit dem Hotel und genießen ihren Urlaub. Sie planen, am nächsten Tag eine Stadtführung zu machen.",
   "audioUrl": "https://example.com/audio/dialog102.mp3",
@@ -1777,7 +1777,7 @@
 }
 ,
 {
-  "id": "103",
+  "id": "108",
   "title": "Im Kino",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Julia und Tim gehen am Wochenende ins Kino. Sie möchten den neuen Film sehen, der gerade herausgekommen ist. An der Kasse kaufen sie Popcorn und Getränke. Der Film beginnt pünktlich und beide sind sehr gespannt. Der Film ist spannend und hat viele lustige Momente. Nach dem Film sprechen Julia und Tim über die Handlung und ihre Lieblingsszenen. Sie sind sich einig, dass der Film sehr gut war. Zum Schluss gehen sie noch in ein Café und erzählen ihren Freunden vom Film. Julia freut sich schon auf den nächsten Kinobesuch.",
   "audioUrl": "https://example.com/audio/dialog103.mp3",
@@ -1793,7 +1793,7 @@
   "imageUrl": "https://example.com/images/kino.webp"
 }
 ,{
-  "id": "104",
+  "id": "109",
   "title": "Im Restaurant bestellen",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Lisa und Mark gehen heute Abend in ein italienisches Restaurant. Sie setzen sich an einen Tisch und schauen sich die Speisekarte an. Lisa möchte eine Pasta mit Tomatensauce bestellen, weil sie das sehr gerne mag. Mark entscheidet sich für eine Pizza mit viel Gemüse. Der Kellner kommt und fragt nach ihren Wünschen. Sie bestellen außerdem einen gemischten Salat als Vorspeise und zwei Flaschen Wasser. Während sie warten, sprechen sie über ihre Pläne fürs Wochenende. Nach kurzer Zeit bringt der Kellner das Essen. Lisa findet die Pasta sehr lecker und Mark ist mit seiner Pizza zufrieden. Zum Schluss bestellen sie noch ein Dessert – Tiramisu und Eis. Nach dem Essen bezahlen sie und bedanken sich beim Kellner. Es war ein schöner Abend.",
   "audioUrl": "https://example.com/audio/dialog104.mp3",
@@ -1809,7 +1809,7 @@
   "imageUrl": "https://example.com/images/restaurant.webp"
 }
 ,{
-  "id": "105",
+  "id": "110",
   "title": "Der neue Nachbar",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Herr Müller hat einen neuen Nachbarn. Er heißt Stefan und zieht heute in die Wohnung nebenan ein. Herr Müller geht hinüber, um ihn zu begrüßen. Sie stellen sich vor und Herr Müller bietet an, bei Fragen zu helfen. Stefan erzählt, dass er vor kurzem umgezogen ist, weil seine Firma hier eine neue Arbeitsstelle für ihn hat. Sie sprechen über die Nachbarschaft und tauschen Telefonnummern aus. Herr Müller lädt Stefan zu einer kleinen Feier am Wochenende ein. Stefan freut sich und sagt, dass er gerne kommen wird. Am Abend denkt Herr Müller, dass es schön ist, neue Leute kennenzulernen und freut sich auf die Nachbarschaft.",
   "audioUrl": "https://example.com/audio/dialog105.mp3",
@@ -1825,7 +1825,7 @@
   "imageUrl": "https://example.com/images/nachbar.webp"
 }
 ,{
-  "id": "106",
+  "id": "111",
   "title": "Ein Tag im Park",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Am Sonntagmorgen gehen Jana und Paul in den Park. Das Wetter ist schön und die Sonne scheint. Sie nehmen eine Decke mit und essen ein Picknick. Jana hat leckere Sandwiches gemacht, und Paul bringt Saft und Obst mit. Sie setzen sich unter einen großen Baum und genießen die Ruhe. Danach spielen sie Frisbee und machen einen Spaziergang um den See. Im Park gibt es viele Familien und Kinder, die spielen und lachen. Jana und Paul freuen sich, dass sie Zeit draußen verbringen können. Am Nachmittag gehen sie nach Hause und fühlen sich entspannt und glücklich.",
   "audioUrl": "https://example.com/audio/dialog106.mp3",
@@ -1841,7 +1841,7 @@
   "imageUrl": "https://example.com/images/park.webp"
 }
 ,{
-  "id": "107",
+  "id": "112",
   "title": "Im Supermarkt",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Michael geht in den Supermarkt, um Lebensmittel für die Woche zu kaufen. Er hat eine Einkaufsliste mit Gemüse, Obst, Milch, Brot und Eiern. Zuerst sucht er das frische Gemüse und legt Karotten, Paprika und Salat in seinen Wagen. Danach nimmt er Äpfel und Bananen. Beim Milchregal entscheidet er sich für fettarme Milch. An der Kasse wartet er eine Weile, weil viele Leute einkaufen. Michael denkt daran, das nächste Mal früh zu kommen, um Zeit zu sparen. Zuhause packt er alles aus und freut sich auf gesunde Mahlzeiten in den nächsten Tagen.",
   "audioUrl": "https://example.com/audio/dialog107.mp3",
@@ -1857,7 +1857,7 @@
   "imageUrl": "https://example.com/images/supermarkt.webp"
 }
 ,{
-  "id": "108",
+  "id": "113",
   "title": "Das Wetter",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Es ist Frühling, und das Wetter ändert sich oft. Heute Morgen war es kalt und regnerisch, aber am Nachmittag kam die Sonne heraus. Sarah und Tom planen, im Park spazieren zu gehen, aber sie wissen nicht, ob das Wetter hält. Sie schauen im Internet den Wetterbericht an. Der sagt, dass es bis zum Abend trocken bleibt. Deshalb entscheiden sie sich, die Gelegenheit zu nutzen und gehen los. Im Park ist es angenehm, die Luft ist frisch, und die Vögel singen. Sarah und Tom genießen die Zeit draußen und freuen sich auf den Frühling.",
   "audioUrl": "https://example.com/audio/dialog108.mp3",
@@ -1873,7 +1873,7 @@
   "imageUrl": "https://example.com/images/wetter.webp"
 }
 ,{
-  "id": "109",
+  "id": "114",
   "title": "Die Bewerbung",
   "text": "Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Maria möchte sich auf eine neue Stelle bewerben. Sie hat eine Anzeige im Internet gefunden und findet die Arbeit interessant. Heute schreibt sie ihren Lebenslauf und ein Bewerbungsschreiben. Sie beschreibt ihre Ausbildung, ihre Erfahrungen und warum sie gut für die Stelle ist. Maria bittet ihre Freundin Anna, das Schreiben zu lesen und Tipps zu geben. Anna findet den Text sehr gut, aber schlägt vor, den Satz über die Sprachkenntnisse zu verbessern. Maria ist dankbar und verbessert ihren Text. Dann schickt sie die Bewerbung per E-Mail an die Firma. Jetzt wartet sie gespannt auf eine Antwort. Sie hofft, bald zu einem Vorstellungsgespräch eingeladen zu werden.",
   "audioUrl": "https://example.com/audio/dialog109.mp3",
@@ -1889,7 +1889,7 @@
   "imageUrl": "https://example.com/images/bewerbung.webp"
 }
 ,{
-  "id": "110",
+  "id": "115",
   "title": "Der Umzug",
   "text": "Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Peter und seine Familie ziehen in eine neue Wohnung. Heute ist der große Tag. Viele Kartons stehen schon gepackt im Wohnzimmer. Freunde kommen, um beim Tragen und Transportieren zu helfen. Der Umzugswagen ist schnell voll. In der neuen Wohnung packen sie gemeinsam aus und richten alles ein. Peter freut sich auf sein neues Zimmer. Seine Kinder finden den Spielplatz vor dem Haus toll. Am Abend sind alle müde, aber glücklich. Sie freuen sich auf die nächsten Wochen, um die Nachbarn kennenzulernen und die neue Umgebung zu entdecken.",
   "audioUrl": "https://example.com/audio/dialog110.mp3",
@@ -1905,7 +1905,7 @@
   "imageUrl": "https://example.com/images/umzug.webp"
 }
 ,{
-  "id": "111",
+  "id": "116",
   "title": "Der Arztbesuch",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Sina fühlt sich seit ein paar Tagen nicht gut. Sie hat Kopfschmerzen und fühlt sich müde. Deshalb geht sie zum Arzt. Der Arzt fragt nach ihren Symptomen und misst ihre Temperatur. Er erklärt, dass sie eine Erkältung hat und viel trinken soll. Außerdem empfiehlt er Ruhe und Medikamente gegen die Schmerzen. Sina bekommt ein Rezept und soll in einer Woche nochmal kommen, wenn es nicht besser wird. Sie bedankt sich und geht mit dem Rezept in die Apotheke. Zuhause legt sie sich ins Bett und hofft, bald wieder gesund zu sein.",
   "audioUrl": "https://example.com/audio/dialog111.mp3",
@@ -1921,7 +1921,7 @@
   "imageUrl": "https://example.com/images/arzt.webp"
 }
 ,{
-  "id": "112",
+  "id": "117",
   "title": "Das Hobby",
   "text": "Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Jens erzählt seiner Freundin Sarah von seinem neuen Hobby: dem Gärtnern. Er hat einen kleinen Garten hinter seinem Haus, wo er Blumen und Gemüse pflanzt. Jens findet es entspannend, in der Natur zu arbeiten und das Wachstum der Pflanzen zu beobachten. Sarah ist neugierig und möchte ihn bald besuchen, um den Garten zu sehen. Jens erzählt auch, dass er viel über verschiedene Pflanzen gelernt hat und gerne neue Sorten ausprobiert. Für ihn ist das Gärtnern ein guter Ausgleich zum Alltag und er freut sich jedes Mal, wenn er im Garten arbeiten kann.",
   "audioUrl": "https://example.com/audio/dialog112.mp3",
@@ -1937,7 +1937,7 @@
   "imageUrl": "https://example.com/images/garten.webp"
 }
 ,{
-  "id": "113",
+  "id": "118",
   "title": "Im Bus",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Laura fährt jeden Morgen mit dem Bus zur Arbeit. Heute ist sie etwas spät dran und der Bus ist sehr voll. Sie findet einen Platz und hört Musik mit ihren Kopfhörern. Während der Fahrt schaut sie aus dem Fenster und sieht viele andere Leute, die auch zur Arbeit oder zur Schule fahren. Plötzlich hält der Bus an einer Haltestelle länger als sonst. Der Fahrer erklärt, dass es eine Baustelle gibt und sie einen Umweg fahren müssen. Laura ist etwas genervt, aber der Fahrer informiert alle Fahrgäste freundlich. Nach einer halben Stunde kommt der Bus wieder in Fahrt. Laura freut sich, dass sie trotzdem pünktlich zur Arbeit kommt.",
   "audioUrl": "https://example.com/audio/dialog113.mp3",
@@ -1953,7 +1953,7 @@
   "imageUrl": "https://example.com/images/bus.webp"
 }
 ,{
-  "id": "114",
+  "id": "119",
   "title": "Der Wochenmarkt",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Am Samstagmorgen geht Anna mit ihrer Mutter auf den Wochenmarkt. Dort gibt es frisches Obst, Gemüse, Brot und viele andere Lebensmittel. Anna mag besonders die bunten Blumenstände. Sie kaufen Äpfel, Tomaten, frische Kräuter und ein paar Brötchen. Der Markt ist sehr lebendig, viele Leute sprechen miteinander und probieren die Produkte. Anna lernt, wie man frische Lebensmittel auswählt und was gut schmeckt. Am Ende des Marktes essen sie zusammen ein Stück Kuchen und trinken Kaffee. Für Anna ist der Wochenmarkt ein schöner Ort, um den Tag zu beginnen und Zeit mit ihrer Mutter zu verbringen.",
   "audioUrl": "https://example.com/audio/dialog114.mp3",
@@ -1969,7 +1969,7 @@
   "imageUrl": "https://example.com/images/wochenmarkt.webp"
 }
 ,{
-  "id": "115",
+  "id": "120",
   "title": "Die Fahrt zum Flughafen",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Tom und seine Freundin Laura fahren heute zum Flughafen. Sie wollen in den Urlaub fliegen. Der Verkehr ist dicht, und sie sind ein bisschen nervös, ob sie rechtzeitig ankommen. Tom fährt vorsichtig und schaut auf die Uhr. Laura hat die Tickets und die Reisepässe bereit. Im Auto hören sie Musik und sprechen über die Pläne für den Urlaub. Endlich erreichen sie den Flughafen, parken das Auto und gehen zum Check-in. Der Flug ist pünktlich, und sie freuen sich auf entspannte Tage am Meer.",
   "audioUrl": "https://example.com/audio/dialog115.mp3",
@@ -1986,7 +1986,7 @@
 }
 ,
 {
-  "id": "116",
+  "id": "121",
   "title": "Der Geburtstag",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Heute feiert Martin seinen 30. Geburtstag. Er hat seine Familie und Freunde zu einer kleinen Feier eingeladen. Das Wetter ist schön, und die Feier findet im Garten statt. Es gibt Kuchen, Getränke und Musik. Viele Gäste bringen Geschenke mit und gratulieren Martin herzlich. Er freut sich über die Überraschungen und die Zeit mit seinen Lieben. Am Abend tanzen alle und erzählen Geschichten aus der Vergangenheit. Martin sagt, dass es ein wunderschöner Tag war, den er lange nicht vergessen wird.",
   "audioUrl": "https://example.com/audio/dialog116.mp3",
@@ -2002,7 +2002,7 @@
   "imageUrl": "https://example.com/images/geburtstag.webp"
 }
 ,{
-  "id": "117",
+  "id": "122",
   "title": "Im Fitnessstudio",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Julia geht dreimal pro Woche ins Fitnessstudio. Heute ist ihr Training besonders anstrengend. Sie macht zuerst 20 Minuten Laufband, dann Kraftübungen für Arme und Beine. Der Trainer gibt ihr Tipps zur richtigen Technik. Nach dem Training fühlt sie sich müde, aber zufrieden. Sie trinkt Wasser und spricht kurz mit anderen Sportlern. Julia möchte fitter werden und sich gesund fühlen. Das Fitnessstudio ist für sie ein guter Ort, um Stress abzubauen und Energie zu tanken.",
   "audioUrl": "https://example.com/audio/dialog117.mp3",
@@ -2019,7 +2019,7 @@
 }
 ,
 {
-  "id": "118",
+  "id": "123",
   "title": "Das Kino",
   "text": "Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Am Freitagabend gehen Max und seine Freunde ins Kino. Sie wollen den neuen Film sehen, der sehr gut bewertet wurde. Vor dem Film kaufen sie Popcorn und Getränke. Im Kino suchen sie ihre Plätze und warten gespannt. Der Film ist spannend und lustig, und alle haben viel Spaß. Nach dem Film sprechen sie über die Geschichte und ihre Lieblingsszenen. Max sagt, dass er den Film gerne noch einmal sehen möchte. Danach gehen sie zusammen in ein Café und genießen den Abend.",
   "audioUrl": "https://example.com/audio/dialog118.mp3",
@@ -2035,7 +2035,7 @@
   "imageUrl": "https://example.com/images/kino.webp"
 }
 ,{
-  "id": "119",
+  "id": "124",
   "title": "Das Wochenende planen",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Lena und Paul sprechen über ihre Pläne für das Wochenende. Lena möchte ins Kino gehen, weil ein neuer Film läuft, den sie sehr spannend findet. Paul hingegen hat Lust, eine Fahrradtour zu machen, weil das Wetter schön sein soll. Sie überlegen, wie sie beide ihre Wünsche verbinden können. Vielleicht gehen sie am Samstag ins Kino und am Sonntag machen sie zusammen die Fahrradtour. Lena schlägt auch vor, danach ein Picknick zu machen. Paul findet die Idee super und freut sich schon auf das Wochenende. Sie sprechen noch über das Wetter und hoffen, dass es so schön bleibt. Am Ende vereinbaren sie, sich am Samstag um 18 Uhr vor dem Kino zu treffen. Beide sind gespannt auf die gemeinsamen Aktivitäten und freuen sich auf eine schöne Zeit.",
   "audioUrl": "https://example.com/audio/dialog119.mp3",
@@ -2051,7 +2051,7 @@
   "imageUrl": "https://example.com/images/wochenende.webp"
 }
 ,{
-  "id": "120",
+  "id": "125",
   "title": "Der neue Job",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Ahmed hat vor einer Woche einen neuen Job angefangen. Er arbeitet jetzt in einer kleinen Firma, die Computer repariert. Am ersten Tag hat er seine Kollegen kennengelernt und eine Führung durch das Büro bekommen. Ahmed findet die Arbeit interessant, aber auch anstrengend, weil er viele neue Dinge lernen muss. Seine Chefin ist sehr nett und erklärt alles gut. Jeden Morgen kommen mehrere Kunden, die Probleme mit ihren Computern haben. Ahmed hilft ihnen, die Fehler zu finden und zu beheben. Am Ende des Tages ist er oft müde, aber zufrieden. Er hofft, bald noch besser zu werden und mehr Verantwortung zu bekommen.",
   "audioUrl": "https://example.com/audio/dialog120.mp3",
@@ -2067,7 +2067,7 @@
   "imageUrl": "https://example.com/images/job.webp"
 }
 ,{
-  "id": "121",
+  "id": "126",
   "title": "Im Restaurant",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Sabine und ihr Freund gehen heute Abend in ein italienisches Restaurant. Sie haben einen Tisch reserviert und freuen sich auf das Essen. Zuerst bestellen sie einen Salat und ein Glas Wein. Danach wählen sie Pizza und Pasta aus der Speisekarte. Der Kellner bringt das Essen schnell und alles schmeckt sehr gut. Während sie essen, sprechen sie über ihren Tag und machen Pläne für den nächsten Urlaub. Sabine erzählt von einem interessanten Buch, das sie gerade liest. Nach dem Essen bestellen sie noch ein Dessert. Zum Schluss sind sie sehr zufrieden und bedanken sich beim Kellner für den schönen Abend.",
   "audioUrl": "https://example.com/audio/dialog121.mp3",
@@ -2083,7 +2083,7 @@
   "imageUrl": "https://example.com/images/restaurant.webp"
 }
 ,{
-  "id": "122",
+  "id": "127",
   "title": "Das neue Fahrrad",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Tim hat ein neues Fahrrad gekauft. Er wollte schon lange ein Mountainbike, weil er gerne im Wald fährt. Am Wochenende holt er das Fahrrad im Laden ab und probiert es sofort aus. Das Rad hat viele Gänge und eine gute Federung. Tim fährt durch den Park und fühlt sich frei und glücklich. Er plant, jeden Samstag mit seinen Freunden Fahrradtouren zu machen. Zuhause erzählt er seinen Eltern begeistert von dem neuen Fahrrad. Sie sind froh, dass Tim so viel Sport macht und versprechen, ihn bald auf einer langen Tour zu begleiten.",
   "audioUrl": "https://example.com/audio/dialog122.mp3",
@@ -2099,7 +2099,7 @@
   "imageUrl": "https://example.com/images/fahrrad.webp"
 }
 ,{
-  "id": "123",
+  "id": "128",
   "title": "Das Haustier",
   "text": "Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Anna und ihre Familie haben einen Hund bekommen. Er heißt Bello und ist drei Monate alt. Jeden Morgen gehen sie zusammen spazieren und spielen im Garten. Anna füttert Bello und bringt ihm einfache Kommandos bei. Der Hund ist sehr freundlich und liebt es, mit anderen Hunden zu spielen. Manchmal macht Bello auch Unsinn, aber das stört Anna nicht. Für die Familie ist Bello ein neues Familienmitglied, das viel Freude bringt. Anna erzählt ihren Freunden oft von Bello und zeigt viele Fotos. Sie freut sich auf die Zeit mit ihrem neuen Haustier.",
   "audioUrl": "https://example.com/audio/dialog123.mp3",
@@ -2115,7 +2115,7 @@
   "imageUrl": "https://example.com/images/haustier.webp"
 }
 ,{
-  "id": "124",
+  "id": "129",
   "title": "Der Arztbesuch",
   "text": "Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Maria fühlt sich seit ein paar Tagen nicht gut. Sie hat Kopfschmerzen und Fieber. Deshalb macht sie einen Termin beim Arzt. Im Wartezimmer trifft sie andere Patienten und liest ein Magazin. Nach kurzer Zeit wird sie aufgerufen. Der Arzt fragt nach ihren Symptomen und misst ihre Temperatur. Er erklärt, dass Maria eine Grippe hat und empfiehlt viel Ruhe und genügend Flüssigkeit. Außerdem schreibt er ihr Medikamente vor. Maria fragt, wie lange die Krankheit dauern wird. Der Arzt sagt, dass es etwa eine Woche dauern kann. Sie bedankt sich und verlässt die Praxis. Zu Hause legt sie sich ins Bett und ruht sich aus. Nach ein paar Tagen fühlt sie sich schon besser und freut sich, bald wieder gesund zu sein.",
   "audioUrl": "https://example.com/audio/dialog124.mp3",
@@ -2131,7 +2131,7 @@
   "imageUrl": "https://example.com/images/arztbesuch.webp"
 }
 ,{
-  "id": "125",
+  "id": "130",
   "title": "Das Umzugsfest",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Peter und seine Familie sind vor kurzem in eine neue Wohnung gezogen. Zur Feier des Einzugs laden sie Freunde und Nachbarn zu einem kleinen Fest ein. Es gibt Getränke, Snacks und Musik. Viele Gäste bringen Geschenke mit und gratulieren zum neuen Zuhause. Die Kinder spielen im Garten, während die Erwachsenen sich unterhalten. Peter zeigt stolz die neuen Räume und erzählt von den Plänen, die Wohnung zu gestalten. Alle haben viel Spaß und es wird spät am Abend, bevor das Fest zu Ende geht. Für Peter und seine Familie ist es ein schöner Start im neuen Zuhause.",
   "audioUrl": "https://example.com/audio/dialog125.mp3",
@@ -2147,7 +2147,7 @@
   "imageUrl": "https://example.com/images/umzugsfest.webp"
 }
 ,{
-  "id": "126",
+  "id": "131",
   "title": "Der Supermarkt",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Elke geht jeden Samstag zum Supermarkt, um Lebensmittel für die Woche zu kaufen. Sie hat eine Einkaufsliste mit Obst, Gemüse, Milch und Brot. Im Supermarkt ist es oft voll, und sie muss manchmal warten. Elke achtet darauf, frische Produkte auszuwählen. Besonders mag sie die Auswahl an Bio-Lebensmitteln. An der Kasse trifft sie eine Nachbarin und sie sprechen kurz über das Wetter. Nach dem Bezahlen packt Elke die Einkäufe ins Auto und fährt nach Hause. Dort sortiert sie die Lebensmittel und freut sich auf eine gesunde Woche mit frischem Essen.",
   "audioUrl": "https://example.com/audio/dialog126.mp3",
@@ -2163,7 +2163,7 @@
   "imageUrl": "https://example.com/images/supermarkt.webp"
 }
 ,{
-  "id": "127",
+  "id": "132",
   "title": "Der Sprachkurs",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Ahmed besucht seit drei Monaten einen Deutsch-Sprachkurs. Er möchte besser sprechen und schreiben lernen, um im Alltag leichter zurechtzukommen. Der Kurs findet zweimal pro Woche statt und dauert jeweils zwei Stunden. Die Lehrerin ist sehr freundlich und erklärt die Grammatik gut. Ahmed übt viel mit seinen Mitschülern, macht Hausaufgaben und liest Texte. Manchmal ist der Kurs anstrengend, aber Ahmed hat Spaß und sieht Fortschritte. Er plant, bald auch einen Kurs auf dem nächsten Niveau zu besuchen, um seine Sprachkenntnisse weiter zu verbessern.",
   "audioUrl": "https://example.com/audio/dialog127.mp3",
@@ -2178,7 +2178,7 @@
   "antwort_3_richtig": "A",
   "imageUrl": "https://example.com/images/sprachkurs.webp"
 },{
-  "id": "128",
+  "id": "133",
   "title": "Der Zahnarzt",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Clara hat heute einen Termin beim Zahnarzt. Sie hat seit ein paar Tagen Zahnschmerzen und möchte wissen, ob eine Behandlung nötig ist. Im Wartezimmer liest sie eine Zeitschrift und ist etwas nervös. Der Zahnarzt untersucht ihre Zähne sorgfältig und macht eine Röntgenaufnahme. Er erklärt, dass ein kleines Loch im Zahn ist und eine Füllung gemacht werden muss. Clara ist erleichtert, dass es nichts Schlimmeres ist. Die Behandlung dauert etwa eine halbe Stunde, und Clara bekommt eine Betäubung. Nach der Behandlung fühlt sie sich besser und vereinbart einen Kontrolltermin in sechs Monaten.",
   "audioUrl": "https://example.com/audio/dialog128.mp3",
@@ -2194,7 +2194,7 @@
   "imageUrl": "https://example.com/images/zahnarzt.webp"
 }
 ,{
-  "id": "129",
+  "id": "134",
   "title": "Der Umweltschutz",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Lisa und ihr Bruder sprechen über Umweltschutz. Lisa erzählt, dass sie in der Schule viel über das Thema gelernt hat. Sie finden es wichtig, Müll zu trennen und weniger Plastik zu benutzen. Ihr Bruder sagt, dass sie auch öfter mit dem Fahrrad fahren sollten, statt das Auto zu nehmen. Lisa stimmt zu und möchte zu Hause Energie sparen, zum Beispiel das Licht ausmachen, wenn niemand im Zimmer ist. Sie planen, am Wochenende im Park Müll zu sammeln. Beide hoffen, dass viele Leute mitmachen und die Umwelt so sauberer wird. Es ist ihnen wichtig, die Natur zu schützen, damit auch zukünftige Generationen eine gute Lebensqualität haben.",
   "audioUrl": "https://example.com/audio/dialog129.mp3",
@@ -2210,7 +2210,7 @@
   "imageUrl": "https://example.com/images/umwelt.webp"
 }
 ,{
-  "id": "130",
+  "id": "135",
   "title": "Das Konzert",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Tom und seine Freunde freuen sich auf das Konzert am Samstag. Die Band ist sehr beliebt und viele Menschen haben Tickets gekauft. Tom hat die Karten schon seit Monaten. Sie treffen sich früh am Abend vor der Konzerthalle, um gute Plätze zu bekommen. Die Stimmung ist schon vor Beginn sehr gut. Die Band spielt viele bekannte Lieder und das Publikum singt laut mit. Tom fühlt sich glücklich und genießt die Musik. Nach dem Konzert gehen sie noch zusammen etwas essen und sprechen über die besten Momente des Abends. Für Tom war es ein unvergessliches Erlebnis.",
   "audioUrl": "https://example.com/audio/dialog130.mp3",
@@ -2226,7 +2226,7 @@
   "imageUrl": "https://example.com/images/konzert.webp"
 }
 ,{
-  "id": "131",
+  "id": "136",
   "title": "Der Geburtstag",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Michaela feiert heute ihren Geburtstag. Ihre Familie und Freunde sind eingeladen und haben Geschenke mitgebracht. Es gibt einen großen Kuchen und viele bunte Luftballons. Michaela freut sich über die Überraschung und bedankt sich bei allen. Sie spielen Spiele und hören Musik. Später machen sie Fotos und erzählen Geschichten. Michaela bekommt viele Komplimente und fühlt sich sehr glücklich. Am Abend sind alle müde, aber zufrieden. Für Michaela war es ein schöner Tag, den sie lange in Erinnerung behalten wird.",
   "audioUrl": "https://example.com/audio/dialog131.mp3",
@@ -2242,7 +2242,7 @@
   "imageUrl": "https://example.com/images/geburtstag.webp"
 }
 ,{
-  "id": "132",
+  "id": "137",
   "title": "Der Ferienjob",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Jonas hat einen Ferienjob in einer Bäckerei gefunden. Jeden Morgen steht er früh auf, um frische Brötchen zu verkaufen. Er lernt, wie man Kunden freundlich bedient und die Kasse bedient. Am Anfang ist die Arbeit anstrengend, aber Jonas freut sich über das eigene Geld. Die Kollegen sind nett und helfen ihm. Nach der Arbeit ist Jonas oft müde, aber stolz auf seine Leistung. Er plant, den Job auch in den nächsten Ferien zu machen, um weitere Erfahrungen zu sammeln.",
   "audioUrl": "https://example.com/audio/dialog132.mp3",
@@ -2258,7 +2258,7 @@
   "imageUrl": "https://example.com/images/ferienjob.webp"
 }
 ,{
-  "id": "133",
+  "id": "138",
   "title": "Das Museum",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Sarah besucht mit ihrer Klasse ein Museum. Die Ausstellung zeigt alte Kunstwerke und interessante Geschichten. Die Lehrerin erklärt die wichtigsten Bilder und Skulpturen. Sarah findet besonders die Gemälde spannend, weil sie viele Farben und Details haben. Die Schüler machen Fotos und schreiben Notizen für ein Projekt. Nach dem Rundgang gibt es eine Pause im Museumscafé. Sarah unterhält sich mit ihren Freunden und erzählt von ihren Lieblingsbildern. Am Ende des Tages sind alle zufrieden und freuen sich auf das nächste Ausflug.",
   "audioUrl": "https://example.com/audio/dialog133.mp3",
@@ -2274,7 +2274,7 @@
   "imageUrl": "https://example.com/images/museum.webp"
 }
 ,{
-  "id": "134",
+  "id": "139",
   "title": "Die Wohnungssuche",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Anna sucht seit einigen Wochen eine neue Wohnung in der Stadt. Sie möchte näher bei ihrer Arbeit wohnen, weil der Weg mit dem Auto zu lang ist. Anna schaut sich viele Anzeigen im Internet an und schreibt Nachrichten an Vermieter. Manchmal besucht sie auch Besichtigungen. Die Wohnungen sind oft teuer oder zu klein. Gestern war sie bei einer Wohnung, die ihr gut gefallen hat. Sie liegt im dritten Stock und hat einen Balkon. Die Nachbarn sind freundlich und es gibt einen Supermarkt in der Nähe. Anna überlegt, ob sie die Wohnung nehmen soll. Sie fragt sich, ob die Miete in ihrem Budget ist und wie lange der Vertrag läuft. Am Wochenende will sie mit einer Freundin noch weitere Wohnungen besichtigen. Es ist anstrengend, aber Anna hofft, bald eine passende Wohnung zu finden.",
   "audioUrl": "https://example.com/audio/dialog134.mp3",
@@ -2290,7 +2290,7 @@
   "imageUrl": "https://example.com/images/wohnungssuche.webp"
 }
 ,{
-  "id": "135",
+  "id": "140",
   "title": "Der Sportverein",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Markus ist Mitglied in einem Sportverein. Er trainiert zweimal pro Woche Fußball mit seiner Mannschaft. Der Verein hat auch Kurse für Fitness und Tanzen. Markus mag das Training sehr, weil er dort seine Freunde trifft und fit bleibt. Am Wochenende gibt es oft Spiele gegen andere Vereine. Letzten Samstag hat seine Mannschaft gewonnen, und alle waren sehr glücklich. Markus erzählt, dass der Trainer immer gute Tipps gibt und die Stimmung im Team gut ist. Neben dem Sport gibt es auch Ausflüge und Feste. Markus freut sich auf das Sommerfest, das bald stattfindet.",
   "audioUrl": "https://example.com/audio/dialog135.mp3",
@@ -2306,7 +2306,7 @@
   "imageUrl": "https://example.com/images/sportverein.webp"
 }
 ,{
-  "id": "136",
+  "id": "141",
   "title": "Das Kino",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Sabine und ihre Freunde gehen heute Abend ins Kino. Sie wollen den neuen Film sehen, der gerade herausgekommen ist. Der Film ist eine Komödie und alle hoffen, dass er lustig ist. Sie treffen sich vor dem Kino und kaufen Popcorn und Getränke. Im Saal suchen sie sich gute Plätze und warten gespannt auf den Beginn des Films. Während des Films lachen sie oft und genießen die Geschichte. Nach dem Film sprechen sie über ihre Lieblingsszenen und machen Fotos. Sabine freut sich schon auf den nächsten Kinobesuch mit ihren Freunden.",
   "audioUrl": "https://example.com/audio/dialog136.mp3",
@@ -2322,7 +2322,7 @@
   "imageUrl": "https://example.com/images/kino.webp"
 }
 ,{
-  "id": "137",
+  "id": "142",
   "title": "Die Bibliothek",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Thomas geht oft in die Bibliothek, um Bücher auszuleihen und zu lesen. Er mag die ruhige Atmosphäre und die große Auswahl an Büchern. Heute sucht er ein Buch über Geschichte für sein Schulprojekt. Die Bibliothekarin hilft ihm, das richtige Buch zu finden. Thomas setzt sich an einen Tisch und liest einige Seiten. Nach einer Weile leiht er das Buch aus und nimmt es mit nach Hause. Er plant, jeden Tag ein bisschen zu lesen, damit er gut vorbereitet ist. Thomas findet die Bibliothek sehr praktisch und besucht sie regelmäßig.",
   "audioUrl": "https://example.com/audio/dialog137.mp3",
@@ -2338,7 +2338,7 @@
   "imageUrl": "https://example.com/images/bibliothek.webp"
 }
 ,{
-  "id": "138",
+  "id": "143",
   "title": "Das Wetter",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Jana und Paul sprechen über das Wetter. Heute ist es sehr sonnig und warm. Sie freuen sich, weil sie am Nachmittag im Park spazieren gehen wollen. Jana sagt, dass es gestern regnerisch und kalt war, deshalb haben sie zu Hause geblieben. Paul meint, dass das Wetter im Frühling oft wechselhaft ist. Manchmal scheint die Sonne und dann regnet es plötzlich. Sie hoffen, dass das Wetter auch morgen schön bleibt, weil sie einen Ausflug machen möchten. Jana schaut auf ihrem Handy die Wettervorhersage an und sagt, dass es die nächsten Tage sonnig bleibt. Beide freuen sich auf die warmen Tage und die Freizeit draußen.",
   "audioUrl": "https://example.com/audio/dialog138.mp3",
@@ -2354,7 +2354,7 @@
   "imageUrl": "https://example.com/images/wetter.webp"
 }
 ,{
-  "id": "139",
+  "id": "144",
   "title": "Der Arztbesuch",
   "text": "Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Maria fühlt sich seit ein paar Tagen nicht gut und beschließt, zum Arzt zu gehen. Sie hat Halsschmerzen, Husten und leichtes Fieber. Im Wartezimmer trifft sie andere Patienten, die ebenfalls krank sind. Nach kurzer Zeit wird Maria aufgerufen. Die Ärztin fragt sie nach ihren Beschwerden und misst ihre Temperatur. Sie hört Marias Lunge ab und macht einen Corona-Test, um sicherzugehen. Während sie wartet, bekommt Maria einen Brief mit Empfehlungen für Medikamente und Ruhezeiten. Die Ärztin sagt ihr, dass sie sich viel ausruhen soll und viel trinken muss. Maria bedankt sich und fühlt sich besser, weil sie jetzt weiß, was sie tun muss, um wieder gesund zu werden.",
   "audioUrl": "https://example.com/audio/dialog139.mp3",
@@ -2370,7 +2370,7 @@
   "imageUrl": "https://example.com/images/arztbesuch.webp"
 }
 ,{
-  "id": "140",
+  "id": "145",
   "title": "Die Reiseplanung",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Tom und seine Freundin Anna planen ihren Sommerurlaub. Sie überlegen, ob sie ans Meer oder in die Berge fahren wollen. Tom mag das Meer, weil er gerne schwimmt und am Strand entspannt. Anna bevorzugt die Berge, um zu wandern und die Natur zu genießen. Sie schauen gemeinsam im Internet nach passenden Hotels und vergleichen die Preise. Schließlich entscheiden sie sich für eine Woche am See, weil dort beides möglich ist – schwimmen und wandern. Tom reserviert ein Zimmer und freut sich schon auf den Urlaub. Beide sprechen über die Aktivitäten, die sie machen möchten, und planen auch, einige Sehenswürdigkeiten zu besuchen.",
   "audioUrl": "https://example.com/audio/dialog140.mp3",
@@ -2386,7 +2386,7 @@
   "imageUrl": "https://example.com/images/reiseplanung.webp"
 }
 ,{
-  "id": "141",
+  "id": "146",
   "title": "Das Vorstellungsgespräch",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Lena hat einen Termin für ein Vorstellungsgespräch in einer Firma. Sie ist nervös, aber gut vorbereitet. Am Tag des Gesprächs zieht sie sich ordentlich an und kommt pünktlich an. Der Personalleiter begrüßt sie freundlich und stellt ihr viele Fragen über ihre Erfahrungen und Fähigkeiten. Lena erzählt von ihren Praktika und warum sie die Stelle möchte. Der Gesprächspartner erklärt die Aufgaben und den Arbeitsalltag. Am Ende bedankt sich Lena und fragt nach dem weiteren Ablauf. Der Personalleiter sagt, dass sie in einer Woche Bescheid bekommt. Lena ist froh, dass das Gespräch gut gelaufen ist und hofft auf die Stelle.",
   "audioUrl": "https://example.com/audio/dialog141.mp3",
@@ -2402,7 +2402,7 @@
   "imageUrl": "https://example.com/images/vorstellungsgespraech.webp"
 }
 ,{
-  "id": "142",
+  "id": "147",
   "title": "Das Geburtstagsgeschenk",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Paul möchte für seinen Freund Max ein besonderes Geburtstagsgeschenk kaufen. Er überlegt lange, was ihm gefallen könnte. Paul kennt Max’ Hobbys und weiß, dass er gerne Musik hört und Fußball spielt. Im Geschäft findet Paul eine schöne Fußballkappe und eine CD von einer beliebten Band. Er entscheidet sich, beides zu kaufen. Beim Geburtstag überreicht er das Geschenk und Max freut sich sehr. Sie feiern zusammen mit anderen Freunden und essen Kuchen. Paul ist glücklich, dass sein Geschenk gut angekommen ist.",
   "audioUrl": "https://example.com/audio/dialog142.mp3",
@@ -2418,7 +2418,7 @@
   "imageUrl": "https://example.com/images/geburtstagsgeschenk.webp"
 }
 ,{
-  "id": "143",
+  "id": "148",
   "title": "Der Supermarkt",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Maria geht am Samstagmorgen in den Supermarkt, um Lebensmittel für die Woche zu kaufen. Sie hat eine Einkaufsliste mit Obst, Gemüse, Brot und Milch. Im Supermarkt ist es voll, weil viele Menschen einkaufen. Maria sucht zuerst frische Tomaten und Äpfel. Danach geht sie zu den Backwaren und nimmt ein frisches Brot. An der Kasse wartet sie in der Schlange und bezahlt dann ihre Einkäufe. Zuhause räumt sie alles in den Kühlschrank und freut sich, dass sie alles bekommen hat, was sie braucht. Am Nachmittag kocht sie ein gesundes Essen mit den frischen Zutaten.",
   "audioUrl": "https://example.com/audio/dialog143.mp3",
@@ -2434,7 +2434,7 @@
   "imageUrl": "https://example.com/images/supermarkt.webp"
 }
 ,{
-  "id": "144",
+  "id": "149",
   "title": "Das Haustier",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Julia möchte schon lange ein Haustier haben. Sie liebt Tiere und besonders Hunde. Ihre Eltern erlauben ihr jetzt, einen kleinen Hund zu kaufen. Julia sucht im Internet nach passenden Hunderassen, die gut zu ihrer Wohnung und ihrem Alltag passen. Sie findet eine Hunderasse, die nicht zu groß ist und wenig Haare verliert. Am Wochenende besucht Julia mit ihrer Familie einen Hundezüchter. Dort sieht sie viele süße Welpen. Julia spielt mit ihnen und entscheidet sich für einen kleinen braunen Hund. Sie freut sich sehr auf ihr neues Haustier. Die Familie besorgt Futter, eine Leine und einen Hundekorb. Julia will ihren Hund jeden Tag ausführen und gut pflegen.",
   "audioUrl": "https://example.com/audio/dialog144.mp3",
@@ -2450,7 +2450,7 @@
   "imageUrl": "https://example.com/images/haustier.webp"
 }
 ,{
-  "id": "145",
+  "id": "150",
   "title": "Der Wochenmarkt",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Am Samstagmorgen geht Peter auf den Wochenmarkt in seiner Stadt. Dort gibt es frisches Obst, Gemüse, Blumen und verschiedene Spezialitäten. Peter kauft frische Erdbeeren, Tomaten und ein Brot. Er spricht mit dem Gemüsehändler über die Qualität der Produkte. Es gibt auch einen Stand mit frischem Käse und Wurst. Peter probiert ein Stück Käse und kauft etwas davon. Der Markt ist lebhaft, viele Menschen kaufen hier ein. Peter genießt die Atmosphäre und freut sich, frische Lebensmittel für die Woche zu haben. Nach dem Einkaufen trinkt er noch einen Kaffee an einem kleinen Stand.",
   "audioUrl": "https://example.com/audio/dialog145.mp3",
@@ -2466,7 +2466,7 @@
   "imageUrl": "https://example.com/images/wochenmarkt.webp"
 }
 ,{
-  "id": "146",
+  "id": "151",
   "title": "Die Nachbarn",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. In der neuen Wohnung lernt Anna ihre Nachbarn kennen. Sie wohnt im dritten Stock und ihre Nachbarn wohnen neben und unter ihr. Am ersten Tag stellt sich Anna vor und bringt einen Kuchen mit. Die Nachbarn sind freundlich und laden sie zum Kaffeetrinken ein. Anna freut sich, neue Freunde im Haus zu finden. Sie erzählt, dass sie neu in der Stadt ist und sich noch nicht so gut auskennt. Die Nachbarn geben ihr Tipps für Restaurants und Supermärkte in der Nähe. Anna fühlt sich willkommen und plant, öfter gemeinsam mit den Nachbarn Zeit zu verbringen.",
   "audioUrl": "https://example.com/audio/dialog146.mp3",
@@ -2482,7 +2482,7 @@
   "imageUrl": "https://example.com/images/nachbarn.webp"
 }
 ,{
-  "id": "147",
+  "id": "152",
   "title": "Der neue Job",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Michael hat einen neuen Job in einer Firma bekommen. Er arbeitet jetzt als Assistent in der Marketingabteilung. Sein erster Arbeitstag war aufregend, aber auch anstrengend. Er hat viele Kollegen kennengelernt und sich mit dem Chef unterhalten. Michael bekommt eine Einführung in die verschiedenen Aufgaben und Programme. Er muss viele E-Mails beantworten und Termine organisieren. Michael freut sich auf die neuen Herausforderungen und möchte viel lernen. Nach der Arbeit trifft er sich mit einem Freund und erzählt von seinem ersten Tag.",
   "audioUrl": "https://example.com/audio/dialog147.mp3",
@@ -2498,7 +2498,7 @@
   "imageUrl": "https://example.com/images/neuerjob.webp"
 }
 ,{
-  "id": "148",
+  "id": "153",
   "title": "Die Bibliothek",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Sophie geht oft in die Stadtbibliothek, weil sie gern liest und lernt. Heute sucht sie ein Buch über deutsche Geschichte für die Schule. In der Bibliothek gibt es viele Bücher und Computer zum Recherchieren. Sophie fragt die Bibliothekarin um Hilfe. Gemeinsam finden sie das richtige Buch. Sophie setzt sich an einen Tisch und beginnt zu lesen. Manchmal schreibt sie Notizen in ihr Heft. Nach zwei Stunden leiht sie das Buch aus und freut sich, es zu Hause weiterzulesen. Die Bibliothek ist für Sophie ein wichtiger Ort zum Lernen und Entspannen.",
   "audioUrl": "https://example.com/audio/dialog148.mp3",
@@ -2514,7 +2514,7 @@
   "imageUrl": "https://example.com/images/bibliothek2.webp"
 }
 ,{
-  "id": "149",
+  "id": "154",
   "title": "Der Umzug",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Lisa und ihre Familie ziehen in eine neue Wohnung. Die alte Wohnung ist klein und alt, die neue ist größer und moderner. Am Umzugstag helfen viele Freunde mit. Sie packen Kisten, tragen Möbel und fahren mehrmals mit dem Auto. Lisa ist aufgeregt, weil sie jetzt ein eigenes Zimmer bekommt. In der neuen Wohnung räumen sie zuerst die Möbel auf und bauen die Regale zusammen. Danach putzen sie die Küche und das Badezimmer. Am Abend sind alle müde, aber glücklich. Lisa freut sich, neue Nachbarn kennenzulernen und in der Nähe eines Parks zu wohnen. Sie plant, bald eine Einweihungsparty zu machen.",
   "audioUrl": "https://example.com/audio/dialog149.mp3",
@@ -2530,7 +2530,7 @@
   "imageUrl": "https://example.com/images/umzug.webp"
 }
 ,{
-  "id": "150",
+  "id": "155",
   "title": "Der Kurs",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Ahmed besucht einen Deutschkurs in seiner Stadt. Er möchte besser Deutsch sprechen und verstehen lernen. Im Kurs sind viele Menschen aus verschiedenen Ländern. Die Lehrerin erklärt die Grammatik und gibt Übungen zum Schreiben und Sprechen. Ahmed übt viel mit seinen Klassenkameraden und macht Hausaufgaben. Manchmal gibt es auch Gruppenarbeiten und Rollenspiele. Ahmed findet den Kurs interessant und fühlt sich motiviert. Nach drei Monaten spricht er schon besser Deutsch und kann sich im Alltag besser verständigen. Er freut sich auf die nächsten Stunden und plant, den Kurs weiterzumachen.",
   "audioUrl": "https://example.com/audio/dialog150.mp3",
@@ -2546,7 +2546,7 @@
   "imageUrl": "https://example.com/images/deutschkurs.webp"
 }
 ,{
-  "id": "151",
+  "id": "156",
   "title": "Das Wetter",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Heute ist das Wetter sehr schön. Die Sonne scheint und es ist warm. Viele Menschen gehen in den Park oder an den See, um das schöne Wetter zu genießen. Anna und ihre Freunde machen ein Picknick. Sie bringen Essen und Getränke mit und spielen Spiele. Am Nachmittag kommen Wolken, und es fängt an zu regnen. Alle packen schnell zusammen und gehen nach Hause. Trotzdem hatten sie einen schönen Tag. Anna hofft, dass das Wetter morgen wieder besser wird, damit sie noch mehr Zeit draußen verbringen kann.",
   "audioUrl": "https://example.com/audio/dialog151.mp3",
@@ -2562,7 +2562,7 @@
   "imageUrl": "https://example.com/images/wetter.webp"
 }
 ,{
-  "id": "152",
+  "id": "157",
   "title": "Das Konzert",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Markus und seine Schwester gehen zu einem Konzert ihrer Lieblingsband. Das Konzert findet in einer großen Halle statt. Sie kommen früh, um gute Plätze zu bekommen. Die Musik ist laut und die Stimmung ist sehr gut. Viele Menschen singen und tanzen mit. Markus macht Fotos und Videos mit seinem Handy. Nach dem Konzert sind alle müde, aber glücklich. Markus erzählt seinen Freunden später von dem tollen Erlebnis. Er freut sich schon auf das nächste Konzert, das bald in der Stadt stattfindet.",
   "audioUrl": "https://example.com/audio/dialog152.mp3",
@@ -2578,7 +2578,7 @@
   "imageUrl": "https://example.com/images/konzert.webp"
 }
 ,{
-  "id": "153",
+  "id": "158",
   "title": "Die Wohnungssuche",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Sophie sucht eine neue Wohnung in der Stadt. Sie möchte in der Nähe ihrer Arbeit wohnen und sucht eine Wohnung mit zwei Zimmern. Sophie schaut im Internet nach Angeboten und schreibt einige Vermietern. Sie besucht mehrere Wohnungen und macht sich Notizen. Manche Wohnungen sind zu teuer, andere sind nicht sauber oder zu klein. Nach zwei Wochen findet Sophie eine schöne Wohnung in einem ruhigen Viertel. Sie unterschreibt den Mietvertrag und freut sich auf den Einzug. Sophie plant, die Wohnung neu zu dekorieren und Freunde zum Einzug einzuladen.",
   "audioUrl": "https://example.com/audio/dialog153.mp3",
@@ -2594,7 +2594,7 @@
   "imageUrl": "https://example.com/images/wohnungssuche.webp"
 }
 ,{
-  "id": "154",
+  "id": "159",
   "title": "Im Restaurant",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Anna und Tom gehen am Freitagabend in ein neues Restaurant in der Stadt. Sie haben viel Gutes über das Essen gehört und sind gespannt. Im Restaurant begrüßt sie der Kellner freundlich und bringt ihnen die Speisekarte. Anna bestellt einen Salat und ein Stück Pizza, Tom möchte eine Suppe und Pasta essen. Während sie warten, unterhalten sie sich über ihre Woche. Das Essen schmeckt sehr gut, und der Service ist schnell. Nach dem Essen bestellen sie noch einen Kaffee und einen Nachtisch. Am Ende des Abends sind beide zufrieden und wollen bald wiederkommen. Sie empfehlen das Restaurant auch ihren Freunden.",
   "audioUrl": "https://example.com/audio/dialog154.mp3",
@@ -2610,7 +2610,7 @@
   "imageUrl": "https://example.com/images/restaurant.webp"
 }
 ,{
-  "id": "155",
+  "id": "160",
   "title": "Der Arztbesuch",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Lena fühlt sich seit ein paar Tagen nicht gut. Sie hat Kopfschmerzen und ist müde. Deshalb geht sie zum Arzt. Im Wartezimmer sitzt sie mit anderen Patienten. Der Arzt fragt Lena nach ihren Symptomen und misst ihren Blutdruck. Lena erzählt auch, dass sie schlecht schläft. Der Arzt gibt ihr Medikamente und rät ihr, sich auszuruhen. Lena bekommt einen Termin für eine Kontrolle nächste Woche. Sie ist froh, dass sie zum Arzt gegangen ist und hofft, bald wieder gesund zu sein.",
   "audioUrl": "https://example.com/audio/dialog155.mp3",
@@ -2626,7 +2626,7 @@
   "imageUrl": "https://example.com/images/arztbesuch.webp"
 }
 ,{
-  "id": "156",
+  "id": "161",
   "title": "Die Reise",
   "text": " Dieser Test hat drei Teile. Sie hören kurze Gespräche und Ansagen. Zu jedem Text gibt es eine Aufgabe. Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu. Kreuzen Sie die richtige Lösung an. Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen. Kreuzen Sie an Richtig oder Falsch Hören Sie den Text einmal. Jürgen plant eine Reise nach Italien. Er möchte die Städte Rom, Florenz und Venedig besuchen. Jürgen bucht ein Flugticket und reserviert Hotels in jeder Stadt. Er freut sich auf die Kunst, das Essen und das schöne Wetter. Vor der Reise packt er seinen Koffer und besorgt eine Reiseführer. Am Tag der Abreise fährt er mit dem Taxi zum Flughafen. Während des Fluges liest Jürgen ein Buch und hört Musik. Nach der Ankunft nimmt er einen Bus in die Stadt und beginnt seine Erkundungstour. Jürgen macht viele Fotos und probiert verschiedene italienische Gerichte.",
   "audioUrl": "https://example.com/audio/dialog156.mp3",
