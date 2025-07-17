@@ -947,7 +947,1822 @@
       ]
     }
   ]
+},
+  {
+  "title": "Weitere 10 gemischte Fragen – Teil 4",
+  "texts": [
+    {
+      "text": "Im Café Sonnenschein gibt es Frühstück von 7 bis 11 Uhr.",
+      "questions": [
+        {
+          "question": "Man kann dort um 10 Uhr frühstücken.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    },
+    {
+      "text": "Sie brauchen neue Reifen für Ihr Auto. A) www.reifen-center.de: Große Auswahl an Autoreifen. B) www.kleidung-mode.de: Mode für Damen und Herren.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Die Schule beginnt jeden Tag um 8:15 Uhr.",
+      "questions": [
+        {
+          "question": "Die Schule beginnt um 9 Uhr.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten eine Pizza bestellen. A) www.pizzawelt.de: Lieferung in 30 Minuten. B) www.buchversand.de: Bücher und Hörbücher.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Im Kino läuft der neue Film nur ab 18 Jahren.",
+      "questions": [
+        {
+          "question": "Ein 15-jähriger kann den Film sehen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten Möbel kaufen. A) www.moebelhaus.de: Möbel für Wohnzimmer, Schlafzimmer, Küche. B) www.fotostudio.de: Passbilder und Porträts.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Die Bibliothek verleiht auch Filme auf DVD.",
+      "questions": [
+        {
+          "question": "In der Bibliothek gibt es nur Bücher.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten eine Fahrkarte nach München kaufen. A) www.bahn.de: Fahrpläne, Tickets und Infos. B) www.flugreisen.de: Günstige Hotels weltweit.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Fahrkarte?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Die Apotheke hat durchgehend geöffnet.",
+      "questions": [
+        {
+          "question": "Die Apotheke ist auch nachts geöffnet.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    },
+    {
+      "text": "Sie suchen ein Geschenk für ein Kind. A) www.spielwaren.de: Spielzeug und Kinderbücher. B) www.gartenbedarf.de: Werkzeuge und Pflanzen.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    }
+  ]
 }
+,
+  {
+  "title": "Weitere 10 gemischte Fragen – Teil 5",
+  "texts": [
+    {
+      "text": "Sie möchten im Park joggen gehen. A) www.outdoor-sport.de: Infos zu Laufstrecken, Training und Gruppen. B) www.fitnessstudio24.de: Angebote für Indoor-Fitnessgeräte.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Der Supermarkt hat montags bis samstags von 7 bis 22 Uhr geöffnet.",
+      "questions": [
+        {
+          "question": "Am Sonntag können Sie im Supermarkt einkaufen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten mit dem Fahrrad zur Arbeit fahren. A) www.radverleih.de: Fahrräder mieten und kaufen. B) www.autoteile.de: Ersatzteile für PKW.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Im Museum gibt es eine neue Ausstellung über moderne Kunst.",
+      "questions": [
+        {
+          "question": "Im Museum ist eine Ausstellung über alte Möbel.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie suchen Nachhilfe in Mathematik. A) www.nachhilfe123.de: Hilfe für Schüler in Mathe, Deutsch, Englisch. B) www.reisen-weltweit.de: Urlaubsangebote.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Im Zoo sind Hunde nicht erlaubt.",
+      "questions": [
+        {
+          "question": "Man darf seinen Hund mit in den Zoo nehmen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie wollen günstig Möbel für die Küche kaufen. A) www.moebel-kueche.de: Küchenmöbel zum Sonderpreis. B) www.fitness-outlet.de: Geräte für Krafttraining.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Der Bus fährt nur alle 30 Minuten.",
+      "questions": [
+        {
+          "question": "Der Bus kommt jede Viertelstunde.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten ein Haustier kaufen. A) www.zoohandlung.de: Haustiere und Zubehör. B) www.buchhandlung24.de: Bücher und Kalender.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Das Fitnessstudio hat auch an Feiertagen geöffnet.",
+      "questions": [
+        {
+          "question": "An Feiertagen ist das Studio geschlossen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    }
+  ]
+}
+,
+  {
+  "title": "Weitere 10 gemischte Fragen – Teil 6",
+  "texts": [
+    {
+      "text": "Sie möchten Gitarre spielen lernen. A) www.musikschule-klang.de: Gitarrenunterricht für Anfänger und Fortgeschrittene. B) www.autoservice-direkt.de: Ölwechsel und Inspektion.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Die Post schließt heute schon um 15 Uhr.",
+      "questions": [
+        {
+          "question": "Um 16 Uhr können Sie noch ein Paket abgeben.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie suchen ein Hotel am Meer. A) www.berge-urlaub.de: Ferienhäuser in den Alpen. B) www.meerblick-hotel.de: Zimmer mit Meerblick und Strandzugang.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "text": "Im Kino beginnt der Film um 20:30 Uhr.",
+      "questions": [
+        {
+          "question": "Der Film beginnt um halb neun.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten Ihre Haare schneiden lassen. A) www.friseurstudio-glanz.de: Haarschnitte, Farbe, Styling. B) www.schuhhaus-maier.de: Neue Herbstkollektion.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Der Unterricht beginnt pünktlich um 8 Uhr.",
+      "questions": [
+        {
+          "question": "Die Schüler kommen um 7:30 Uhr in die Schule.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten ein Sofa kaufen. A) www.wohnwelt24.de: Sofas und Wohnlandschaften. B) www.fahrradshop.de: Mountainbikes und Zubehör.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Der Zahnarzttermin ist am Dienstag um 14 Uhr.",
+      "questions": [
+        {
+          "question": "Der Termin ist am Mittwoch.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten neue Schuhe kaufen. A) www.sport-schuh.de: Laufschuhe und Freizeitschuhe. B) www.kochkurs24.de: Kochen lernen leicht gemacht.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Der Bahnhof ist 24 Stunden geöffnet.",
+      "questions": [
+        {
+          "question": "Sie können um Mitternacht zum Bahnhof gehen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    }
+  ]
+}
+,
+  {
+  "title": "Weitere 10 gemischte Fragen – Teil 7",
+  "texts": [
+    {
+      "text": "Sie möchten am Sonntag zum Friseur gehen. A) www.friseur-sonnenschein.de: Geöffnet Montag–Samstag. B) www.hair-and-style.de: Auch sonntags von 10–14 Uhr geöffnet.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "text": "Im Park gibt es ein Konzert am Freitagabend ab 18 Uhr.",
+      "questions": [
+        {
+          "question": "Das Konzert beginnt um 20 Uhr.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten ein Auto mieten. A) www.autoverleih-mobil.de: PKW, Kombi, Transporter. B) www.ferienwohnung-meer.de: Unterkunft in Norddeutschland.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Der Bäcker öffnet werktags um 6:30 Uhr.",
+      "questions": [
+        {
+          "question": "Am Samstagmorgen ist der Bäcker um 7 Uhr geöffnet.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    },
+    {
+      "text": "Sie wollen ein Buch online bestellen. A) www.buecher-direkt.de: Große Auswahl, schneller Versand. B) www.spielzeug-welt.de: Spielwaren für jedes Alter.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Im Freibad ist das Wasser 26 Grad warm.",
+      "questions": [
+        {
+          "question": "Das Wasser im Freibad ist kalt.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten heute Abend Pizza bestellen. A) www.pizza-express.de: Lieferung täglich bis 23 Uhr. B) www.kleider-shop.de: Mode für Damen und Herren.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Der Arzttermin wurde auf nächste Woche verschoben.",
+      "questions": [
+        {
+          "question": "Der Termin ist morgen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie brauchen eine Fahrkarte für den Bus. A) www.busplan.de: Fahrpläne, Preise und Online-Tickets. B) www.fahrradmarkt.de: Gebrauchte Räder günstig kaufen.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "In der Bibliothek darf man nicht laut sprechen.",
+      "questions": [
+        {
+          "question": "In der Bibliothek kann man Musik hören.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    }
+  ]
+}
+,
+  {
+  "title": "Weitere 10 gemischte Fragen – Teil 8",
+  "texts": [
+    {
+      "text": "Sie möchten am Wochenende ins Museum gehen. A) www.kunsthalle-berlin.de: Samstag und Sonntag von 10–18 Uhr geöffnet. B) www.freizeitpark-fun.de: Attraktionen für Kinder und Familien.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Der Zug nach München fährt um 9:15 Uhr ab.",
+      "questions": [
+        {
+          "question": "Der Zug fährt um Viertel nach neun.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    },
+    {
+      "text": "Sie wollen im Sommer einen Sprachkurs besuchen. A) www.sommerkurse-deutsch.de: Intensivkurse in Juli und August. B) www.wintersportzentrum.at: Skiurlaub in Tirol.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Das Restaurant hat heute Ruhetag.",
+      "questions": [
+        {
+          "question": "Heute können Sie im Restaurant essen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie brauchen Hilfe mit Ihrer Steuererklärung. A) www.steuerhilfe-jetzt.de: Unterstützung durch Fachkräfte. B) www.ferienhaus-urlaub.de: Angebote für Familienurlaub.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Im Zoo findet eine Führung um 15 Uhr statt.",
+      "questions": [
+        {
+          "question": "Die Führung beginnt um drei Uhr nachmittags.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten am Abend ins Theater gehen. A) www.theater-aktuell.de: Kartenreservierung online möglich. B) www.kletterhalle.de: Sicheres Indoor-Klettern für Kinder und Erwachsene.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Die Schule beginnt nach den Ferien wieder am Montag.",
+      "questions": [
+        {
+          "question": "Die Schüler haben auch am Montag noch Ferien.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten Ihre Deutschkenntnisse verbessern. A) www.deutsch-online.de: Übungen, Grammatik, Vokabeln. B) www.fitnessclub.de: Kurse für Ausdauer und Kraft.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Am Flughafen wird um 5:00 Uhr eingecheckt.",
+      "questions": [
+        {
+          "question": "Der Check-in beginnt früh am Morgen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    }
+  ]
+}
+,
+  {
+  "title": "Weitere 10 gemischte Fragen – Teil 9",
+  "texts": [
+    {
+      "text": "Sie möchten ein Fahrrad reparieren lassen. A) www.radservice24.de: Reparatur, Ersatzteile, Service. B) www.buchhandlung-seitenweise.de: Große Auswahl an Romanen und Fachbüchern.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Der Bus kommt heute 10 Minuten später.",
+      "questions": [
+        {
+          "question": "Der Bus hat Verspätung.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten Ihre Wohnung streichen lassen. A) www.malerteam-farbe.de: Wir renovieren schnell und sauber. B) www.reisebuero-weltweit.de: Flug- und Pauschalreisen weltweit.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Die Bank hat nur bis 16:00 Uhr geöffnet.",
+      "questions": [
+        {
+          "question": "Um 16:30 Uhr können Sie noch zur Bank gehen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten einen Hund kaufen. A) www.tierheim-muenchen.de: Hunde, Katzen und Kleintiere suchen ein Zuhause. B) www.baumarkt-direkt.de: Werkzeuge und Gartenbedarf.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Im Kino läuft der Film um 18:45 Uhr.",
+      "questions": [
+        {
+          "question": "Der Film beginnt um Viertel vor sieben.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten heute eine neue Brille kaufen. A) www.optik-schmidt.de: Brillen, Kontaktlinsen, Sehtests. B) www.schuhparadies.de: Mode für Ihre Füße.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Die Apotheke hat Notdienst.",
+      "questions": [
+        {
+          "question": "Die Apotheke ist heute geschlossen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie brauchen eine Reparatur für Ihre Waschmaschine. A) www.haushaltfix.de: Reparaturservice für Haushaltsgeräte. B) www.modehaus-aktuell.de: Neue Kollektionen für Damen und Herren.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Der Kurs endet nächste Woche.",
+      "questions": [
+        {
+          "question": "Der Kurs ist schon vorbei.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    }
+  ]
+}
+,
+  {
+  "title": "Weitere 10 gemischte Fragen – Teil 10",
+  "texts": [
+    {
+      "text": "Sie möchten einen Sprachkurs im Ausland machen. A) www.sprachenwelt.de: Deutsch, Englisch, Spanisch in Europa. B) www.kochschule24.de: Back- und Kochkurse für Anfänger.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Die Post ist samstags nur bis 12 Uhr geöffnet.",
+      "questions": [
+        {
+          "question": "Am Samstag um 13 Uhr ist die Post noch offen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie wollen heute Abend mit Freunden Pizza essen. A) www.pizzaexpress.de: Lieferung bis 23 Uhr. B) www.buchladen-hofmann.de: Bücher und Schreibwaren.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Die Bibliothek schließt um 19:00 Uhr.",
+      "questions": [
+        {
+          "question": "Um 20:00 Uhr kann man noch Bücher ausleihen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten einen Tanzkurs für Paare besuchen. A) www.tanzschule-meyer.de: Kurse für Paare, Jugendliche und Senioren. B) www.flohmarkt-direkt.de: Möbel, Kleidung, Haushaltsgeräte.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Die Straßenbahn kommt alle 10 Minuten.",
+      "questions": [
+        {
+          "question": "Man muss lange auf die Straßenbahn warten.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten ein Hotelzimmer für zwei Nächte buchen. A) www.cityhotel-berlin.de: Einzel- und Doppelzimmer mit Frühstück. B) www.autowerkstatt-schulze.de: Inspektion und Reifenwechsel.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Im Schwimmbad gibt es heute Schwimmkurse.",
+      "questions": [
+        {
+          "question": "Man kann heute im Schwimmbad schwimmen lernen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    },
+    {
+      "text": "Sie suchen einen Babysitter für Freitagabend. A) www.babysitternetz.de: Zuverlässige Betreuung für Kinder jeden Alters. B) www.fahrschule-blitz.de: Theorie- und Praxisunterricht für Führerschein.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Heute ist ein Feiertag. Die Geschäfte bleiben geschlossen.",
+      "questions": [
+        {
+          "question": "Man kann heute wie immer einkaufen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    }
+  ]
+}
+,
+
+  {
+  "title": "Gemischte Fragen – Verschiedene Themen",
+  "texts": [
+    {
+      "text": "Sie möchten ein Auto kaufen. A) www.autohandel-gross.de: Große Auswahl an Neuwagen und Gebrauchtwagen. B) www.gartenfreunde.de: Pflanzen, Werkzeuge und Gartenzubehör.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Die Bibliothek ist am Sonntag geschlossen.",
+      "questions": [
+        {
+          "question": "Man kann am Sonntag Bücher ausleihen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten einen Computer kaufen. A) www.itshop-online.de: Laptops, PCs und Zubehör. B) www.fahrradwelt.de: Fahrräder und Zubehör für alle Altersgruppen.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Das Kino zeigt heute einen neuen Film um 20 Uhr.",
+      "questions": [
+        {
+          "question": "Der Film läuft heute Abend.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten einen Deutschkurs besuchen. A) www.deutschlerner.de: Online- und Präsenzkurse für Anfänger und Fortgeschrittene. B) www.sportverein-berlin.de: Trainingszeiten und Mitgliedschaft.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Die Post ist werktags von 8 bis 18 Uhr geöffnet.",
+      "questions": [
+        {
+          "question": "Man kann die Post am Sonntag besuchen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie brauchen Hilfe beim Umzug. A) www.umzugsservice-profi.de: Professionelle Umzugshelfer. B) www.kunstgalerie-berlin.de: Ausstellungen moderner Kunst.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Das Schwimmbad hat täglich von 9 bis 22 Uhr geöffnet.",
+      "questions": [
+        {
+          "question": "Man kann abends noch schwimmen gehen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten ein neues Handy kaufen. A) www.smartphone-center.de: Neueste Modelle und Zubehör. B) www.buecherei-heute.de: Bücher und Zeitschriften.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Der Supermarkt schließt um 20 Uhr.",
+      "questions": [
+        {
+          "question": "Man kann um 21 Uhr noch einkaufen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    }
+  ]
+},
+  {
+  "title": "Gemischte Fragen – Verschiedene Themen 2",
+  "texts": [
+    {
+      "text": "Sie möchten eine Pizza bestellen. A) www.pizzaservice-express.de: Lieferung in 30 Minuten. B) www.buchhandlung-lesen.de: Große Auswahl an Romanen und Sachbüchern.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Das Museum ist dienstags geschlossen.",
+      "questions": [
+        {
+          "question": "Man kann am Dienstag das Museum besuchen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie wollen einen Job als Kellner/in finden. A) www.jobvermittlung-gastronomie.de: Stellenangebote im Service. B) www.autowerkstatt-meyer.de: Reparatur und Wartung von Autos.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Der Zug fährt um 18:45 Uhr ab Gleis 4.",
+      "questions": [
+        {
+          "question": "Der Zug fährt nicht um 18:45 Uhr.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie suchen einen Friseurtermin. A) www.friseur-stil.de: Damen- und Herrenfrisuren. B) www.gartenmarkt.de: Pflanzen, Erde und Werkzeuge.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Die Apotheke ist rund um die Uhr geöffnet.",
+      "questions": [
+        {
+          "question": "Man kann jederzeit Medikamente kaufen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten ein Buch ausleihen. A) www.stadtbibliothek.de: Große Auswahl an Büchern und Medien. B) www.cafe-morgenrot.de: Kaffee und Frühstück den ganzen Tag.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Der Park ist von 6 bis 22 Uhr geöffnet.",
+      "questions": [
+        {
+          "question": "Man kann nachts im Park spazieren gehen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie wollen einen Tanzkurs buchen. A) www.tanzstudio-gold.de: Kurse für Anfänger und Fortgeschrittene. B) www.fitnesscenter-blau.de: Geräte und Kurse für Fitness.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Das Theater beginnt die Vorstellung um 19 Uhr.",
+      "questions": [
+        {
+          "question": "Die Vorstellung startet um 19 Uhr.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    }
+  ]
+}
+,
+
+  {
+  "title": "Gemischte Fragen – Verschiedene Themen 3",
+  "texts": [
+    {
+      "text": "Sie möchten einen Handwerker für Reparaturen finden. A) www.handwerkerservice24.de: Elektriker, Klempner, Maler. B) www.blumenversand.de: Blumensträuße und Pflanzen online bestellen.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Die Bank ist werktags von 9 bis 16 Uhr geöffnet.",
+      "questions": [
+        {
+          "question": "Man kann am Samstag die Bank besuchen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten ein Fahrrad reparieren lassen. A) www.fahrradwerkstatt.de: Reparatur und Wartung von Fahrrädern. B) www.baeckerei-schmidt.de: Frisches Brot und Kuchen.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Im Fitnessstudio gibt es heute Yoga-Kurse.",
+      "questions": [
+        {
+          "question": "Man kann heute Yoga machen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten eine Wohnung mieten. A) www.wohnungsmarkt.de: Aktuelle Angebote und Kontakt. B) www.kochkurse.com: Kurse für Anfänger und Profis.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Der Supermarkt hat sonntags geschlossen.",
+      "questions": [
+        {
+          "question": "Man kann am Sonntag einkaufen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie suchen einen Arzttermin. A) www.arztpraxis-krankenhaus.de: Allgemeinmedizin und Fachärzte. B) www.autovermietung-city.de: Mietwagen für jeden Bedarf.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Das Theaterstück beginnt um 20 Uhr.",
+      "questions": [
+        {
+          "question": "Das Stück startet um 20 Uhr.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten ein Geschenk kaufen. A) www.geschenkeparadies.de: Kreative und persönliche Geschenke. B) www.sportartikel.de: Ausrüstung für verschiedene Sportarten.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Die Schule hat am Wochenende geschlossen.",
+      "questions": [
+        {
+          "question": "Man hat am Samstag Unterricht.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    }
+  ]
+}
+,
+
+  {
+  "title": "Gemischte Fragen – Verschiedene Themen 4",
+  "texts": [
+    {
+      "text": "Sie suchen einen Friseurtermin. A) www.friseur-schnell.de: Termine ohne Wartezeit. B) www.auto-tuning.de: Leistungssteigerung für Autos.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Der Supermarkt hat täglich von 7 bis 22 Uhr geöffnet.",
+      "questions": [
+        {
+          "question": "Man kann um 21 Uhr noch einkaufen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten einen Tanzkurs besuchen. A) www.tanzschule-fun.de: Kurse für Anfänger und Fortgeschrittene. B) www.buchhandlung-muenchen.de: Bücher und Zeitschriften.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Das Kino zeigt heute einen Film um 19 Uhr.",
+      "questions": [
+        {
+          "question": "Der Film läuft heute Abend.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten eine Wohnung mieten. A) www.wohnung-suchen.de: Große Auswahl an Wohnungen. B) www.sportverein.de: Trainingszeiten und Mitgliedschaft.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Die Bibliothek ist montags geschlossen.",
+      "questions": [
+        {
+          "question": "Man kann am Montag Bücher ausleihen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie brauchen eine Autoreparatur. A) www.autowerkstatt-profi.de: Reparaturen und Wartung. B) www.restaurant-deluxe.de: Italienische Küche.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Der Park ist von 6 bis 20 Uhr geöffnet.",
+      "questions": [
+        {
+          "question": "Man kann nachts im Park spazieren gehen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten ein neues Handy kaufen. A) www.smartphone-shop.de: Neueste Modelle. B) www.cafe-morgen.de: Frühstück und Kaffee.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Das Theaterstück beginnt um 18 Uhr.",
+      "questions": [
+        {
+          "question": "Die Vorstellung startet um 18 Uhr.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    }
+  ]
+}
+,
+
+  {
+  "title": "Gemischte Fragen – Verschiedene Themen 5",
+  "texts": [
+    {
+      "text": "Sie suchen einen Arzttermin. A) www.arztpraxis-gesund.de: Allgemeinmedizin und Fachärzte. B) www.fitnessstudio-fit.de: Kurse und Geräte für Fitness.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Der Supermarkt hat samstags von 8 bis 20 Uhr geöffnet.",
+      "questions": [
+        {
+          "question": "Man kann am Samstag um 19 Uhr einkaufen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten eine Fahrkarte kaufen. A) www.bahnhof-ticket.de: Online-Tickets und Fahrpläne. B) www.restaurant-osteria.de: Italienische Küche und Pizza.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Die Bibliothek hat montags geschlossen.",
+      "questions": [
+        {
+          "question": "Man kann am Montag Bücher ausleihen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie suchen eine Werkstatt für Ihr Auto. A) www.autowerkstatt-quick.de: Reparaturen und Inspektionen. B) www.baeckerei-frisch.de: Frisches Brot und Kuchen.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Das Fitnessstudio ist täglich von 6 bis 23 Uhr geöffnet.",
+      "questions": [
+        {
+          "question": "Man kann nachts trainieren.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten eine Wohnung besichtigen. A) www.immobilien-angebote.de: Wohnungen und Häuser. B) www.kunstgalerie-berlin.de: Moderne Kunst und Ausstellungen.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Der Park ist von 7 bis 22 Uhr geöffnet.",
+      "questions": [
+        {
+          "question": "Man kann morgens im Park joggen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    },
+    {
+      "text": "Sie wollen einen Tanzkurs buchen. A) www.tanzschule-rhythmus.de: Kurse für alle Altersgruppen. B) www.fahrradladen-city.de: Neue Fahrräder und Zubehör.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Das Theaterstück beginnt um 20 Uhr.",
+      "questions": [
+        {
+          "question": "Das Stück startet um 20 Uhr.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    }
+  ]
+}
+,
+
+
+  {
+  "title": "Gemischte Fragen – Verschiedene Themen 6",
+  "texts": [
+    {
+      "text": "Sie wollen einen Hund kaufen. A) www.hundezucht.de: Verschiedene Hunderassen und Welpen. B) www.autohandel.de: Gebrauchtwagen und Neuwagen.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Das Schwimmbad ist von 9 bis 20 Uhr geöffnet.",
+      "questions": [
+        {
+          "question": "Man kann um 21 Uhr schwimmen gehen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten einen Kuchen bestellen. A) www.konditorei-sweet.de: Kuchen und Torten nach Wunsch. B) www.baumarkt-profi.de: Werkzeuge und Baustoffe.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Die Post hat montags bis freitags von 8 bis 18 Uhr geöffnet.",
+      "questions": [
+        {
+          "question": "Man kann am Sonntag zur Post gehen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie suchen einen Babysitter. A) www.babysitter-portal.de: Betreuung für Kinder jeden Alters. B) www.auto-service.de: Autoreparaturen und Wartung.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Der Zoo ist täglich von 9 bis 17 Uhr geöffnet.",
+      "questions": [
+        {
+          "question": "Man kann nach 18 Uhr den Zoo besuchen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten eine Sprachschule besuchen. A) www.sprachkurse-international.de: Deutsch, Englisch, Spanisch. B) www.fahrschule-speed.de: Führerscheinkurse für alle Klassen.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Das Kino zeigt heute einen Film um 21 Uhr.",
+      "questions": [
+        {
+          "question": "Der Film startet heute Abend.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    },
+    {
+      "text": "Sie wollen ein neues Fahrrad kaufen. A) www.fahrradwelt.de: Große Auswahl und Reparaturen. B) www.kleiderladen.de: Modische Kleidung und Accessoires.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Die Bibliothek ist am Wochenende geschlossen.",
+      "questions": [
+        {
+          "question": "Man kann am Samstag Bücher ausleihen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    }
+  ]
+}
+,
+
+  {
+  "title": "Gemischte Fragen – Verschiedene Themen 7",
+  "texts": [
+    {
+      "text": "Sie möchten einen Kurs besuchen. A) www.sprachschule-berlin.de: Deutsch- und Englischkurse. B) www.fitnessstudio-fit.de: Fitness- und Yoga-Kurse.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation, wenn Sie eine Sprache lernen wollen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Das Museum ist dienstags geschlossen.",
+      "questions": [
+        {
+          "question": "Man kann am Dienstag das Museum besuchen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie suchen eine Putzkraft für Ihr Büro. A) Reinigungskraft gesucht, 10 Stunden pro Woche. Tel: 0170 - 12 34 5678. B) Nachhilfelehrer/in für Mathematik gesucht. Tel: 0160 - 98 76 5432.",
+      "questions": [
+        {
+          "question": "Welche Telefonnummer passt zur Reinigungskraft-Stelle?",
+          "options": ["a) 0170 - 12 34 5678", "b) 0160 - 98 76 5432"],
+          "answer": "a) 0170 - 12 34 5678"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten ein Fahrrad reparieren lassen. A) www.fahrradwerkstatt.de: Reparaturen und Wartung. B) www.baeckerei-frisch.de: Frisches Brot und Kuchen.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Der Park schließt um 21 Uhr.",
+      "questions": [
+        {
+          "question": "Man kann um 22 Uhr noch im Park sein.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten eine Fahrkarte am Automaten kaufen. A) Fahrkartenautomat am Bahnhof. B) Restaurant mit italienischer Küche.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie suchen einen Nebenjob als Verkäufer/in. A) Wir suchen Verkäufer/in für Samstag von 8 bis 12 Uhr. Tel: 0157 - 45 67 8910. B) Wir suchen Gärtner/in für Pflanzenpflege. Tel: 0161 - 78 90 1234.",
+      "questions": [
+        {
+          "question": "Welche Telefonnummer passt zur Verkäufer-Stelle?",
+          "options": ["a) 0157 - 45 67 8910", "b) 0161 - 78 90 1234"],
+          "answer": "a) 0157 - 45 67 8910"
+        }
+      ]
+    },
+    {
+      "text": "Das Schwimmbad ist täglich von 10 bis 19 Uhr geöffnet.",
+      "questions": [
+        {
+          "question": "Man kann um 9 Uhr schwimmen gehen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie wollen am Wochenende tanzen gehen. A) Tanzschule mit Kursangeboten. B) Tanz-Restaurant mit Essen und Tanz bis spät.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation, wenn Sie nur tanzen wollen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Die Bibliothek ist sonntags geschlossen.",
+      "questions": [
+        {
+          "question": "Man kann am Sonntag Bücher ausleihen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    }
+  ]
+}
+,
+{
+  "title": "Gemischte Fragen – Verschiedene Themen 8",
+  "texts": [
+    {
+      "text": "Sie möchten ein Auto kaufen. A) www.autohaus-neu.de: Neue und gebrauchte Autos. B) www.fahrradladen.de: Fahrräder und Zubehör.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Das Café öffnet erst um 10 Uhr.",
+      "questions": [
+        {
+          "question": "Man kann um 9 Uhr schon Kaffee trinken.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie suchen einen Job als Kellner/in. A) Jobangebot: Kellner/in für Restaurant, abends. Tel: 0171 - 23 45 6789. B) Jobangebot: Lagerarbeiter/in, tagsüber. Tel: 0162 - 98 76 5432.",
+      "questions": [
+        {
+          "question": "Welche Telefonnummer passt zur Kellner-Stelle?",
+          "options": ["a) 0171 - 23 45 6789", "b) 0162 - 98 76 5432"],
+          "answer": "a) 0171 - 23 45 6789"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten im Park joggen gehen. A) Park mit Joggingstrecke und Fitnessgeräten. B) Park mit Spielplatz für Kinder.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Das Kino hat sonntags geschlossen.",
+      "questions": [
+        {
+          "question": "Man kann am Sonntag einen Film im Kino sehen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie suchen eine Wohnung zu mieten. A) www.wohnungen-berlin.de: Wohnungen in verschiedenen Stadtteilen. B) www.auto-verkauf.de: Autos zu verkaufen.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten Ihre Wohnung renovieren lassen. A) Malerbetrieb mit guten Referenzen. B) Bäckerei mit frischen Brötchen.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Die Bibliothek hat montags geöffnet.",
+      "questions": [
+        {
+          "question": "Man kann am Montag Bücher ausleihen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    },
+    {
+      "text": "Sie wollen am Wochenende schwimmen gehen. A) Schwimmbad mit Öffnungszeiten von 9 bis 18 Uhr. B) Fitnessstudio mit Sauna.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie suchen einen Job als Babysitter/in. A) Jobangebot: Babysitter für Nachmittage. Tel: 0163 - 45 67 8901. B) Jobangebot: IT-Support im Büro. Tel: 0170 - 22 33 4455.",
+      "questions": [
+        {
+          "question": "Welche Telefonnummer passt zum Babysitter-Job?",
+          "options": ["a) 0163 - 45 67 8901", "b) 0170 - 22 33 4455"],
+          "answer": "a) 0163 - 45 67 8901"
+        }
+      ]
+    }
+  ]
+}
+,
+
+  {
+  "title": "Gemischte Fragen – Verschiedene Themen 9",
+  "texts": [
+    {
+      "text": "Sie suchen einen Ort für eine Hochzeit. A) www.hochzeitslocation.de: Große Säle und Garten für Hochzeiten. B) www.sportzentrum.de: Hallen für Sportveranstaltungen.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Hochzeit?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Der Supermarkt schließt um 20 Uhr.",
+      "questions": [
+        {
+          "question": "Man kann um 21 Uhr einkaufen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten eine Pizza bestellen. A) www.pizzaservice.de: Lieferung in 30 Minuten. B) www.baeckerei.de: Frische Brötchen und Kuchen.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Pizza-Bestellung?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie suchen eine Nachhilfe für Englisch. A) Private Nachhilfelehrerin mit viel Erfahrung. B) Sportverein für Kinder.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Nachhilfe?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Das Schwimmbad ist am Montag geschlossen.",
+      "questions": [
+        {
+          "question": "Man kann am Montag schwimmen gehen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie wollen ein Fahrrad mieten. A) www.fahrradverleih.de: Verschiedene Fahrräder für Stadt und Gelände. B) www.autovermietung.de: Autos für Wochenendausflug.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Fahrradmiete?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie suchen einen Job als Reinigungskraft. A) Reinigungskraft gesucht, flexible Stunden. Tel: 0172 - 98 76 5432. B) Kellner/in gesucht, abends. Tel: 0151 - 12 34 5678.",
+      "questions": [
+        {
+          "question": "Welche Telefonnummer passt zur Reinigungskraft?",
+          "options": ["a) 0172 - 98 76 5432", "b) 0151 - 12 34 5678"],
+          "answer": "a) 0172 - 98 76 5432"
+        }
+      ]
+    },
+    {
+      "text": "Die Bibliothek hat samstags geöffnet.",
+      "questions": [
+        {
+          "question": "Man kann am Samstag Bücher ausleihen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten am Wochenende ins Kino gehen. A) Kino mit neuen Filmen und Popcorn. B) Museum mit Kunstausstellungen.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zum Kinobesuch?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie suchen eine Unterkunft für eine Woche. A) www.hotelangebote.de: Hotels und Pensionen. B) www.bibliothek.de: Bücher und Lesesäle.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Unterkunft?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    }
+  ]
+}
+,
+
+  {
+  "title": "Gemischte Fragen – Verschiedene Themen 10",
+  "texts": [
+    {
+      "text": "Sie möchten einen Hund kaufen. A) www.hundezucht.de: Verschiedene Hunderassen und Welpen. B) www.katzenfreunde.de: Informationen über Katzenhaltung.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Hundesuche?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Die Bibliothek hat werktags von 9 bis 18 Uhr geöffnet.",
+      "questions": [
+        {
+          "question": "Kann man samstags Bücher ausleihen?",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie suchen einen Job als Fahrer/in. A) Fahrer/in gesucht für Kurierdienst. Tel: 0170 - 123 4567. B) Verkäufer/in gesucht im Einzelhandel.",
+      "questions": [
+        {
+          "question": "Welche Telefonnummer passt zum Fahrerjob?",
+          "options": ["a) 0170 - 123 4567", "b) keine Angabe"],
+          "answer": "a) 0170 - 123 4567"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten ein Fahrrad reparieren lassen. A) Fahrradwerkstatt mit schneller Reparatur. B) Autowerkstatt für PKW.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Fahrradreparatur?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Das Schwimmbad ist im Sommer täglich geöffnet.",
+      "questions": [
+        {
+          "question": "Kann man im Winter schwimmen gehen?",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten einen Sprachkurs besuchen. A) Deutschkurse für Anfänger und Fortgeschrittene. B) Kochkurse für Anfänger.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zum Sprachkurs?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie suchen ein Restaurant mit veganen Speisen. A) Veganes Restaurant in der Innenstadt. B) Steakhaus mit Grillgerichten.",
+      "questions": [
+        {
+          "question": "Welches Restaurant passt zu veganer Ernährung?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Die Post hat werktags von 8 bis 17 Uhr geöffnet.",
+      "questions": [
+        {
+          "question": "Kann man um 18 Uhr noch Pakete abholen?",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie suchen eine Wohnung in der Stadtmitte. A) www.wohnungsmarkt.de: Verschiedene Angebote in der Stadt. B) www.gartenmarkt.de: Pflanzen und Gartenzubehör.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Wohnungssuche?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie wollen ein Konzert besuchen. A) Konzertsaal mit Pop- und Rockmusik. B) Bibliothek mit Lesungen und Vorträgen.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zum Konzertbesuch?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    }
+  ]
+}
+,
+
+  
+  
+
+  
 
 ]
 
