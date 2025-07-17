@@ -2758,6 +2758,2211 @@
   ]
 }
 ,
+{
+  "title": "Gemischte Fragen – Verschiedene Themen 11",
+  "texts": [
+    {
+      "text": "Sie möchten am Wochenende wandern. A) www.bergwandern.de: Geführte Wandertouren in den Alpen. B) www.kochschule.de: Backkurse für Anfänger.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Wanderung?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Im Museum ist jeden Dienstag freier Eintritt.",
+      "questions": [
+        {
+          "question": "Kann man am Dienstag kostenlos ins Museum?",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten einen Arzttermin vereinbaren. A) Arztpraxis Müller – Termine nach Vereinbarung. B) Autowerkstatt Schnell – Inspektion und Ölwechsel.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zum Arztbesuch?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie suchen ein Geschenk zum Muttertag. A) Blumengeschäft Rose – große Auswahl. B) Fahrradladen Citybike – Reparaturservice.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zum Muttertagsgeschenk?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Der Bus fährt nur alle 30 Minuten.",
+      "questions": [
+        {
+          "question": "Kommt der Bus alle 10 Minuten?",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten eine gebrauchte Waschmaschine kaufen. A) www.haushalt-gebraucht.de – Geräte mit Garantie. B) www.urlaub-buchen.de – Angebote für den Sommer.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zum Kauf einer Waschmaschine?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten eine neue Sprache lernen. A) Sprachschule Aktiv – Intensivkurse. B) Fitnesscenter Vital – Kurse für Rückentraining.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zum Sprachenlernen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Die Schule beginnt um 8 Uhr.",
+      "questions": [
+        {
+          "question": "Beginnt die Schule um 10 Uhr?",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie suchen einen Platz für Ihr Kind in einer Kita. A) Kita Sonnenschein – Betreuung für Kinder von 1 bis 6 Jahren. B) Musikschule – Gitarrenunterricht für Erwachsene.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Kindertagesbetreuung?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten sich die Haare schneiden lassen. A) Friseursalon Bella – Haarschnitte ohne Termin. B) Tierhandlung ZooCenter – Futter und Zubehör.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zum Friseurbesuch?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    }
+  ]
+}
+,{
+  "title": "Gemischte Fragen – Verschiedene Themen 12",
+  "texts": [
+    {
+      "text": "Sie möchten Brot und Brötchen kaufen. A) Bäckerei Sonnenschein – täglich frisch gebacken. B) Reinigung Blanka – Hemdenservice und Textilpflege.",
+      "questions": [
+        {
+          "question": "Wo können Sie Brot kaufen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie haben Zahnschmerzen. A) Zahnarztpraxis Dr. Weiß – Schmerzbehandlung sofort möglich. B) Café Central – Täglich frischer Kuchen.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten einen Film im Kino sehen. A) Kino City – Neue Filme täglich ab 15 Uhr. B) Sportverein Nord – Fußballtraining für Kinder.",
+      "questions": [
+        {
+          "question": "Wohin gehen Sie, wenn Sie ins Kino wollen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Im Supermarkt: Heute Erdbeeren im Angebot – nur 1,99 €/500g.",
+      "questions": [
+        {
+          "question": "Sind Bananen heute im Angebot?",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie brauchen eine neue Brille. A) Optiker Klarblick – Sehtests und moderne Brillen. B) Fitnessstudio Aktiv – Kurse für Muskeltraining.",
+      "questions": [
+        {
+          "question": "Wo können Sie eine neue Brille bekommen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten Deutsch lernen. A) Sprachschule Dialog – Deutsch A1 bis B2. B) Schuhgeschäft Trend – Neue Herbstkollektion.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Sprachschule?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Der Arzt sagt: Sie sollen mehr Wasser trinken und spazieren gehen.",
+      "questions": [
+        {
+          "question": "Der Arzt empfiehlt Cola und Fernsehen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie wollen am Wochenende mit Freunden grillen. A) Baumarkt Nord – Holzkohle, Grills, Gartenmöbel. B) Modehaus Trendy – Kleidung für Damen und Herren.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Grillausrüstung?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten Ihr Auto waschen. A) Waschanlage CleanCar – täglich geöffnet bis 20 Uhr. B) Metzgerei Müller – Frisches Fleisch und Wurst.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Autowäsche?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Im Stadtpark: Sommerfest am Samstag mit Musik und Spielen für Kinder.",
+      "questions": [
+        {
+          "question": "Gibt es ein Fest im Stadtpark?",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    }
+  ]
+}
+,{
+  "title": "Gemischte Fragen – Verschiedene Themen 13",
+  "texts": [
+    {
+      "text": "Sie haben Hunger und möchten etwas Warmes essen. A) Restaurant Bella Italia – Pasta und Pizza täglich frisch. B) Schreibwarenladen Kugel – Stifte, Hefte und Papier.",
+      "questions": [
+        {
+          "question": "Wo bekommen Sie etwas zu essen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie brauchen neue Sportschuhe. A) Sportgeschäft Fit&Fun – Alles für Fitness, Fußball und Wandern. B) Apotheke Gesund – Medikamente und Beratung.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten Ihre Haare färben. A) Friseursalon Glanz – Schnitt, Farbe, Beratung. B) Musikschule TonArt – Klavier- und Gitarrenunterricht.",
+      "questions": [
+        {
+          "question": "Wo können Sie sich die Haare färben lassen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten im Internet surfen. A) Café Netto – Internetzugang kostenlos für Kunden. B) Bio-Bäckerei Korn – Brot und Kuchen ohne Zucker.",
+      "questions": [
+        {
+          "question": "Wo können Sie ins Internet?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Im Stadtbus: Bitte hinten einsteigen und vorne beim Fahrer bezahlen.",
+      "questions": [
+        {
+          "question": "Man soll vorne einsteigen und hinten zahlen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten Bücher ausleihen. A) Stadtbibliothek Nord – Lesesaal und Ausleihe kostenlos. B) Blumenladen Rose – Frische Sträuße für jeden Anlass.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zum Lesen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie suchen einen Platz für Ihre Katze in den Ferien. A) Tierpension Miau – Betreuung für Katzen und Hunde. B) Reisebüro Sommer – Urlaubsreisen weltweit.",
+      "questions": [
+        {
+          "question": "Wo können Sie Ihre Katze abgeben?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie haben Ihre Schlüssel verloren. A) Fundbüro Rathaus – Gefundene Gegenstände abholen. B) Fitnessstudio Power – Kurse und Trainingsgeräte.",
+      "questions": [
+        {
+          "question": "Wohin gehen Sie, wenn Sie Ihre Schlüssel verloren haben?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten ein Bild ausdrucken. A) Copyshop Laser – Drucken, Scannen, Kopieren. B) Bäckerei Herz – Frühstücksangebote täglich ab 6 Uhr.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zum Drucken?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten einen Krimi lesen. A) Buchhandlung Seitenweise – Neue Romane und Krimis. B) Reisebüro Global – Last-Minute-Angebote.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    }
+  ]
+}
+,{
+  "title": "Gemischte Fragen – Verschiedene Themen 14",
+  "texts": [
+    {
+      "text": "Sie möchten am Sonntagmorgen frische Brötchen kaufen. A) Bäckerei Frühauf – Sonntag geöffnet von 7–11 Uhr. B) Modegeschäft Elegant – Kleider und Schuhe.",
+      "questions": [
+        {
+          "question": "Wo können Sie am Sonntagmorgen Brötchen kaufen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten ins Ausland telefonieren. A) Handyshop Global – Günstige Tarife für Auslandsgespräche. B) Kiosk Süßes & Snacks – Süßigkeiten und Getränke.",
+      "questions": [
+        {
+          "question": "Wo bekommen Sie Hilfe beim Auslandstelefonat?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten Möbel für Ihr neues Zimmer kaufen. A) Möbelhaus Stil – Tische, Stühle, Sofas. B) Autovermietung Schnell – Pkw und Transporter.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie haben Ihre Tasche im Bus vergessen. A) Fundbüro am Bahnhof – Geöffnet Mo–Fr 9–16 Uhr. B) Eisdiele Venezia – Eisbecher, Milchshakes und Kaffee.",
+      "questions": [
+        {
+          "question": "Wohin gehen Sie wegen der vergessenen Tasche?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie suchen Informationen über Deutschkurse. A) VHS-Zentrum – Sprachkurse A1–C1, auch abends. B) Schuhgeschäft Trend – Neue Sommerkollektion.",
+      "questions": [
+        {
+          "question": "Wo bekommen Sie Informationen zum Deutschlernen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie brauchen heute noch Medikamente. A) Apotheke Süd – Notdienst rund um die Uhr. B) Friseur Hairstyle – Haarschnitt und Styling.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Apotheke?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Im Bus steht: Bitte nicht mit dem Fahrer sprechen während der Fahrt.",
+      "questions": [
+        {
+          "question": "Man darf im Bus mit dem Fahrer sprechen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten tanzen lernen. A) Tanzschule Weber – Neue Anfängerkurse starten im Mai. B) Buchladen LeseWelt – Bücher und Kalender.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Tanzschule?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie brauchen eine neue SIM-Karte. A) Handyladen Connect – Tarife, Zubehör und Beratung. B) Café Zeitlos – Frühstück und Mittagstisch.",
+      "questions": [
+        {
+          "question": "Wo können Sie eine neue SIM-Karte kaufen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten Ihr Fahrrad reparieren lassen. A) Fahrradwerkstatt Kette & Zahn – Reparaturservice täglich. B) Supermarkt Frischmarkt – Obst, Gemüse, Brot.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Fahrradreparatur?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    }
+  ]
+}
+,{
+  "title": "Gemischte Fragen – Verschiedene Themen 15",
+  "texts": [
+    {
+      "text": "Sie möchten ein Paket verschicken. A) Postfiliale Mitte – Briefe, Pakete, Einschreiben. B) Imbiss Wurst & mehr – Heiße Würstchen und Pommes.",
+      "questions": [
+        {
+          "question": "Wo können Sie ein Paket verschicken?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie haben Zahnschmerzen. A) Zahnarztpraxis Dr. Weiß – Behandlung mit Termin. B) Optik Weber – Brillen und Kontaktlinsen.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten mit Freunden ins Kino gehen. A) KinoCity – Täglich neue Filme ab 14 Uhr. B) Reisebüro Sonnenklar – Pauschalreisen nach Spanien.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zum Kinobesuch?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie brauchen Hilfe bei Mathehausaufgaben. A) Nachhilfe Zentrum – Mathe, Deutsch, Englisch. B) Modehaus Eleganz – Kleider und Anzüge.",
+      "questions": [
+        {
+          "question": "Wo bekommen Sie Hilfe bei Mathe?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten eine Fahrkarte kaufen. A) Automaten im Bahnhof – 24 Stunden geöffnet. B) Stadtcafé – Kuchen, Kaffee, Frühstück.",
+      "questions": [
+        {
+          "question": "Wo kaufen Sie Ihre Fahrkarte?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Im Supermarkt: „Bitte zahlen Sie an Kasse 3.“",
+      "questions": [
+        {
+          "question": "Sie sollen zu Kasse 3 gehen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten Geige lernen. A) Musikschule Allegro – Unterricht für Kinder und Erwachsene. B) Spielwarenladen Teddy – Spielzeug für jedes Alter.",
+      "questions": [
+        {
+          "question": "Wo können Sie Geigenunterricht bekommen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten einen Briefumschlag kaufen. A) Schreibwarengeschäft Blatt & Stift – Papier, Hefte, Umschläge. B) Metzgerei Kurz – Fleisch und Wurstwaren.",
+      "questions": [
+        {
+          "question": "Wo finden Sie einen Briefumschlag?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten einen Arzttermin machen. A) Praxis Dr. Keller – Termine telefonisch unter 089/5678. B) Buchhandlung Lesen – Bücher und Kalender.",
+      "questions": [
+        {
+          "question": "Wo rufen Sie für einen Arzttermin an?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie haben Ihre Jacke im Café vergessen. A) Café Mozart – Fundsachen bitte am Tresen abholen. B) Autowerkstatt Müller – Inspektion und Ölwechsel.",
+      "questions": [
+        {
+          "question": "Wo fragen Sie nach der Jacke?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    }
+  ]
+}
+,{
+  "title": "Gemischte Fragen – Verschiedene Themen 16",
+  "texts": [
+    {
+      "text": "Sie möchten morgen früh zum Flughafen fahren. A) Taxi Ruf 24 – 24h-Service, pünktlich und günstig. B) Kino am Park – Heute Abend: Komödie & Action.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten Brot für das Frühstück kaufen. A) Bäckerei Kornfeld – Frisches Brot ab 6 Uhr. B) Autohaus Schnell – Gebrauchtwagen mit Garantie.",
+      "questions": [
+        {
+          "question": "Wo kaufen Sie Frühstücksbrot?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie wollen eine neue Wohnung mieten. A) Wohnungsagentur Rheinblick – Wohnungen in zentraler Lage. B) Café Morgenrot – Frühstücksmenüs ab 8 Uhr.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Im Park: 'Hunde bitte an die Leine nehmen.'",
+      "questions": [
+        {
+          "question": "Hunde dürfen hier frei laufen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten heute Abend einen Krimi sehen. A) TV-Programm: 20.15 Uhr – Krimi „Dunkle Spuren“. B) Fitnessstudio Vital – Zumba-Kurs um 20 Uhr.",
+      "questions": [
+        {
+          "question": "Was passt zu Ihrem Wunsch?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten einen Pullover kaufen. A) Modehaus Chic – Reduziert: Pullover & Jacken. B) Gärtnerei Blattgrün – Zimmerpflanzen & Erde.",
+      "questions": [
+        {
+          "question": "Wo kaufen Sie Kleidung?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie haben ein wichtiges Dokument verloren. A) Fundbüro Stadtverwaltung – Öffnungszeiten Mo–Fr. B) Eiscafé Roma – Eis & Kaffee in der Sonne.",
+      "questions": [
+        {
+          "question": "Wo suchen Sie Ihr Dokument?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten einen Kurs in Erster Hilfe machen. A) Rotes Kreuz – Erste-Hilfe-Kurse jeden Samstag. B) Zoo City – Tiere aus aller Welt erleben.",
+      "questions": [
+        {
+          "question": "Wo lernen Sie Erste Hilfe?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie haben starken Husten. A) Apotheke am Markt – Medikamente & Beratung. B) Buchhandlung Kapitel – Neue Romane & Sachbücher.",
+      "questions": [
+        {
+          "question": "Wo bekommen Sie Hilfe bei Husten?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten einen Blumenstrauß kaufen. A) Blumenladen Flora – täglich frisch & kreativ. B) Tankstelle Schnell – Diesel & Super E10.",
+      "questions": [
+        {
+          "question": "Wo kaufen Sie Blumen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    }
+  ]
+}
+,{
+  "title": "Gemischte Fragen – Verschiedene Themen 17",
+  "texts": [
+    {
+      "text": "Sie haben Zahnschmerzen. A) Zahnarztpraxis Dr. Müller – Termine auch ohne Anmeldung. B) Tierklinik Nord – Für Hunde, Katzen und Kleintiere.",
+      "questions": [
+        {
+          "question": "Wo bekommen Sie Hilfe bei Zahnschmerzen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten ins Ausland telefonieren. A) Callshop Global – günstige Auslandstarife. B) Friseursalon Haarwerk – Schnitt und Farbe.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie wollen einen Brief abschicken. A) Postfiliale – Briefmarken, Pakete und mehr. B) Supermarkt Frischmarkt – Angebote ab Montag.",
+      "questions": [
+        {
+          "question": "Wo können Sie einen Brief verschicken?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten Musik lernen. A) Musikschule Harmonie – Unterricht für alle Altersgruppen. B) Optiker Blickklar – Brillen und Kontaktlinsen.",
+      "questions": [
+        {
+          "question": "Wo können Sie Musik lernen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Im Bus: 'Fahrkarten bitte beim Fahrer kaufen.'",
+      "questions": [
+        {
+          "question": "Man kauft das Ticket im Internet.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie suchen Hilfe für Ihre Steuererklärung. A) Steuerberatung Meier – Beratung für Arbeitnehmer. B) Reisebüro Fernweh – Flug und Hotel weltweit.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten im Park joggen. A) Südpark – Joggingstrecke 3,5 km rund um den See. B) Kino Lux – Action & Drama täglich 18:30 Uhr.",
+      "questions": [
+        {
+          "question": "Wo können Sie joggen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie brauchen einen neuen Ausweis. A) Bürgeramt – Anträge für Ausweis, Pass, Anmeldung. B) Café Bohne – Täglich frischer Kuchen.",
+      "questions": [
+        {
+          "question": "Wo bekommen Sie einen neuen Ausweis?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten Ihre Wohnung renovieren. A) Baumarkt Hammer – Farbe, Tapeten, Werkzeuge. B) Modehaus Trend – Jacken und Schuhe reduziert.",
+      "questions": [
+        {
+          "question": "Wo finden Sie Renovierungsmaterial?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten ein Konzert besuchen. A) Stadthalle – Tickets für Klassik, Pop & Jazz. B) Bäckerei Süß – Brot & Brötchen täglich frisch.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    }
+  ]
+}
+,{
+  "title": "Gemischte Fragen – Verschiedene Themen 18",
+  "texts": [
+    {
+      "text": "Sie möchten eine Zeitung kaufen. A) Kiosk am Markt – Zeitungen, Zeitschriften, Snacks. B) Schuhhaus Becker – Neue Kollektion jetzt reduziert.",
+      "questions": [
+        {
+          "question": "Wo können Sie eine Zeitung kaufen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten abends schwimmen. A) Hallenbad Süd – geöffnet bis 22 Uhr. B) Autowerkstatt Reif – Reifenwechsel und Ölservice.",
+      "questions": [
+        {
+          "question": "Wo können Sie am Abend schwimmen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten eine neue Wohnung finden. A) Immobilien Huber – Wohnungen und Häuser zu vermieten. B) Buchhandlung Leseratte – Bücher und Kalender.",
+      "questions": [
+        {
+          "question": "Wo können Sie eine Wohnung suchen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Im Restaurant: 'Heute haben wir frischen Fisch und Spargel.'",
+      "questions": [
+        {
+          "question": "Das Restaurant bietet heute Fleischgerichte an.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten Ihr Fahrrad reparieren lassen. A) Fahrradladen Schnell – Reparaturservice und Ersatzteile. B) Fitnessstudio Topform – Muskeltraining und Kurse.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie haben Hunger und möchten etwas Warmes essen. A) Imbiss City – warme Snacks und Getränke. B) Elektro Müller – Fernseher und Waschmaschinen.",
+      "questions": [
+        {
+          "question": "Wo bekommen Sie etwas Warmes zu essen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten ein Geschenk kaufen. A) Geschenkladen Bella – Deko, Karten, kleine Aufmerksamkeiten. B) Bank Sparkonto – Beratung zur Altersvorsorge.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten Ihr Handy reparieren lassen. A) Handyshop Mobilfix – Reparatur in 30 Minuten. B) Reisebüro Sonne – Urlaubsangebote weltweit.",
+      "questions": [
+        {
+          "question": "Wo können Sie Ihr Handy reparieren lassen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Auf dem Schild steht: 'Bitte nicht rauchen!'",
+      "questions": [
+        {
+          "question": "Man darf hier rauchen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten tanzen lernen. A) Tanzschule Rhythmus – neue Kurse ab Montag. B) Apotheke Linden – Medikamente und Beratung.",
+      "questions": [
+        {
+          "question": "Wo können Sie tanzen lernen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    }
+  ]
+}
+,{
+  "title": "Gemischte Fragen – Verschiedene Themen 19",
+  "texts": [
+    {
+      "text": "Sie brauchen einen neuen Reisepass. A) Bürgerbüro Mitte – Dokumente, Pass, Anmeldung. B) Café Mokka – Frühstück und Kuchen täglich ab 8 Uhr.",
+      "questions": [
+        {
+          "question": "Wo können Sie einen neuen Reisepass beantragen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten mit Ihrer Familie wandern gehen. A) Tourismusbüro – Wanderkarten und Tipps für Ausflüge. B) Sprachschule Dialog – Deutschkurse für Anfänger.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie wollen Brot und Brötchen kaufen. A) Bäckerei Feinschmecker – täglich frisch gebacken. B) Modehaus Urban – neue Sommermode für Damen.",
+      "questions": [
+        {
+          "question": "Wo bekommen Sie frisches Brot?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Im Park: 'Hunde bitte an die Leine nehmen.'",
+      "questions": [
+        {
+          "question": "Hunde dürfen frei laufen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten ein Auto mieten. A) Autovermietung Drive – günstige Preise für PKW und Transporter. B) Eisdiele Venezia – Eis in 20 Sorten.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten einen Sprachkurs machen. A) VHS – Deutsch, Englisch, Spanisch, Französisch. B) Fahrradverleih – Citybikes für den ganzen Tag.",
+      "questions": [
+        {
+          "question": "Wo können Sie Sprachen lernen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie brauchen Hilfe mit dem Computer. A) PC Service Schnell – Reparatur und Installation. B) Schreibwarenladen – Stifte, Papier, Hefte.",
+      "questions": [
+        {
+          "question": "Wo bekommen Sie Computerhilfe?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten eine Pizza essen. A) Pizzeria Bella Napoli – täglich ab 12 Uhr geöffnet. B) Optik Weber – Brillen und Sehtests.",
+      "questions": [
+        {
+          "question": "Wo können Sie eine Pizza essen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Im Kino: 'Film beginnt um 19:45 Uhr. Einlass ab 19:30 Uhr.'",
+      "questions": [
+        {
+          "question": "Man darf um 19:15 Uhr in den Saal.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten ein Geschenk verpacken lassen. A) Geschenkeladen Kreativ – Einpackservice kostenlos. B) Tankstelle Süd – Diesel, Benzin, Ölwechsel.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    }
+  ]
+}
+,{
+  "title": "Gemischte Fragen – Verschiedene Themen 20",
+  "texts": [
+    {
+      "text": "Sie haben Zahnschmerzen. A) Zahnarztpraxis Dr. Müller – Notdienst auch am Wochenende. B) Blumenladen Flora – frische Sträuße täglich.",
+      "questions": [
+        {
+          "question": "Wohin gehen Sie mit Zahnschmerzen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten einen Brief schicken. A) Postfiliale – Briefe, Pakete, Porto. B) Café Morgenrot – Frühstücksbuffet ab 9 Uhr.",
+      "questions": [
+        {
+          "question": "Wo können Sie einen Brief abgeben?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten eine Fahrkarte kaufen. A) Bahnhof – Schalter täglich geöffnet bis 20 Uhr. B) Restaurant Da Vinci – italienische Spezialitäten.",
+      "questions": [
+        {
+          "question": "Wo bekommen Sie eine Fahrkarte?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Im Supermarkt: 'Diese Kasse ist geschlossen. Bitte benutzen Sie Kasse 3.'",
+      "questions": [
+        {
+          "question": "Kasse 1 ist geöffnet.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten mit Ihrer Familie essen gehen. A) Gasthof Stern – Familienfreundlich, Kindermenüs. B) Werkstatt 24 – Autoreparaturen und Reifenwechsel.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten ein Geschenk kaufen. A) Geschenke-Ecke – Karten, Deko, Kleinigkeiten. B) Apotheke Vital – Medikamente und Beratung.",
+      "questions": [
+        {
+          "question": "Wo finden Sie ein Geschenk?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten eine E-Mail schreiben, aber der Computer geht nicht. A) IT-Service Nowak – Reparatur vor Ort. B) Friseursalon Haarfein – Damen und Herren.",
+      "questions": [
+        {
+          "question": "Welches Angebot hilft bei Ihrem Problem?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Am Schaufenster: 'Heute geschlossen wegen Inventur.'",
+      "questions": [
+        {
+          "question": "Das Geschäft hat heute geöffnet.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten ein Fahrrad für einen Tag mieten. A) BikeRent24 – Verleih pro Stunde oder Tag. B) Modehaus Trendy – Kleidung für Damen und Herren.",
+      "questions": [
+        {
+          "question": "Wo können Sie ein Fahrrad mieten?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten ein Musikinstrument lernen. A) Musikschule Allegro – Kurse für Gitarre, Klavier, Violine. B) Reformhaus – Bio-Produkte und Naturkosmetik.",
+      "questions": [
+        {
+          "question": "Wo lernen Sie ein Instrument?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    }
+  ]
+}
+,{
+  "title": "Gemischte Fragen – Verschiedene Themen 21",
+  "texts": [
+    {
+      "text": "Sie möchten Ihre Haare schneiden lassen. A) Friseursalon Schön & Fein – Termine nach Vereinbarung. B) Elektrofachgeschäft – Fernseher, Radios, Stereoanlagen.",
+      "questions": [
+        {
+          "question": "Wo können Sie Ihre Haare schneiden lassen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie brauchen neue Schuhe. A) Schuhhaus Trend – große Auswahl für Damen und Herren. B) Buchhandlung Lesen & Mehr – Romane und Fachbücher.",
+      "questions": [
+        {
+          "question": "Wo kaufen Sie Schuhe?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Im Kino: 'Heute um 20 Uhr: Filmstart.'",
+      "questions": [
+        {
+          "question": "Der Film beginnt um 20 Uhr.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten zum Arzt. A) Praxis Dr. Meier – Sprechzeiten Mo-Fr 8-12 Uhr. B) Sportgeschäft Aktiv – Schuhe, Kleidung, Ausrüstung.",
+      "questions": [
+        {
+          "question": "Wo gehen Sie zum Arzt?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie suchen einen Job im Restaurant. A) Restaurant Zum Goldenen Stern – Servicekräfte gesucht. B) Autowerkstatt Blitz – Mechaniker gesucht.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zu Ihrer Suche?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten einen Kuchen bestellen. A) Konditorei Süß & Fein – Bestellung ab 24 Stunden vorher. B) Postfiliale – Pakete, Briefe, Porto.",
+      "questions": [
+        {
+          "question": "Wo können Sie Kuchen bestellen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten Fahrrad fahren lernen. A) Fahrradschule Pedal – Kurse für Kinder und Erwachsene. B) Fotogeschäft Blitzlicht – Kameras, Filme, Zubehör.",
+      "questions": [
+        {
+          "question": "Wo können Sie Fahrrad fahren lernen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Im Supermarkt: 'Bitte keine Hunde mitbringen.'",
+      "questions": [
+        {
+          "question": "Hunde sind im Supermarkt erlaubt.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten einen Ausflug machen. A) Reisebüro Traumzeit – Angebote für Kurztrips. B) Buchhandlung Seitenweise – Romane, Krimis, Sachbücher.",
+      "questions": [
+        {
+          "question": "Wo finden Sie Angebote für einen Ausflug?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten ein Geschenk für eine Freundin kaufen. A) Geschenkewelt – Schmuck, Deko, Karten. B) Baumarkt – Werkzeug, Gartenbedarf.",
+      "questions": [
+        {
+          "question": "Welches Geschäft passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    }
+  ]
+}
+,{
+  "title": "Gemischte Fragen – Verschiedene Themen 22",
+  "texts": [
+    {
+      "text": "Sie möchten einen Deutschkurs besuchen. A) Sprachschule Global – Intensivkurse A1–C1. B) Bäckerei Krüger – täglich frische Brötchen.",
+      "questions": [
+        {
+          "question": "Wo lernen Sie Deutsch?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie haben Hunger und wollen essen gehen. A) Restaurant Bella Italia – Pizza, Pasta und mehr. B) Wäscherei Sauber – Hemdenservice und Reinigung.",
+      "questions": [
+        {
+          "question": "Wohin gehen Sie zum Essen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten ein neues Handy kaufen. A) Elektroshop Handywelt – neue Modelle & Zubehör. B) Bibliothek Weststadt – Bücher & Magazine zum Ausleihen.",
+      "questions": [
+        {
+          "question": "Wo bekommen Sie ein neues Handy?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "An der Tür: 'Bitte nicht stören – Besprechung.'",
+      "questions": [
+        {
+          "question": "Man kann jetzt eintreten.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten am Sonntagmorgen Brötchen kaufen. A) Bäckerei Früh – Sonntag von 7 bis 11 Uhr geöffnet. B) Schuhgeschäft Trendy – Montag bis Samstag geöffnet.",
+      "questions": [
+        {
+          "question": "Wo bekommen Sie am Sonntag Brötchen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie suchen einen Platz zum Zelten. A) Campingplatz Waldesruh – mit See, Duschen, Strom. B) Supermarkt Edeka – Lebensmittel & Getränke.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten tanzen lernen. A) Tanzschule Berlin – Kurse für Anfänger und Fortgeschrittene. B) Schreibwaren Meyer – Papier, Stifte, Bücher.",
+      "questions": [
+        {
+          "question": "Wo können Sie tanzen lernen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Im Fitnessstudio: 'Bitte saubere Sportschuhe tragen!'",
+      "questions": [
+        {
+          "question": "Man darf barfuß trainieren.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten Blumen für eine Hochzeit kaufen. A) Blumenhaus Rosa – Hochzeitssträuße und Tischdeko. B) Fotostudio Klick – Passfotos & Bewerbungsbilder.",
+      "questions": [
+        {
+          "question": "Wo kaufen Sie Blumen für die Hochzeit?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie brauchen Hilfe beim Umzug. A) Umzugsfirma Schnell & Stark – Möbeltransport und Montage. B) Fitnessstudio Kraftwerk – Kurse und Trainingsgeräte.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Situation?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    }
+  ]
+}
+,{
+  "title": "Gemischte Fragen – Verschiedene Themen 23",
+  "texts": [
+    {
+      "text": "Sie möchten ein Fahrrad reparieren lassen. A) Fahrradwerkstatt Radfix – Reparatur aller Markenräder. B) Café Sonnenblume – Frühstück, Kuchen und Kaffee.",
+      "questions": [
+        {
+          "question": "Wo können Sie Ihr Fahrrad reparieren lassen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie suchen eine Wohnung zur Miete. A) Immobilienagentur WohnTraum – Wohnungen in allen Stadtteilen. B) Modehaus Elegant – Kleider für Damen und Herren.",
+      "questions": [
+        {
+          "question": "Welches Angebot passt zur Wohnungssuche?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Im Park: 'Hunde bitte anleinen.'",
+      "questions": [
+        {
+          "question": "Hunde dürfen frei laufen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten Musikunterricht nehmen. A) Musikschule Klangwelt – Gitarre, Klavier, Gesang. B) Apotheke am Markt – Medikamente & Beratung.",
+      "questions": [
+        {
+          "question": "Wo lernen Sie ein Musikinstrument?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie brauchen eine neue Brille. A) Optiker Sehkraft – große Auswahl, Sehtest vor Ort. B) Kino CineStar – aktuelle Filme in 3D.",
+      "questions": [
+        {
+          "question": "Wo kaufen Sie eine Brille?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Im Büro: 'Bitte Licht aus, wenn Sie gehen!'",
+      "questions": [
+        {
+          "question": "Man soll das Licht anlassen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten eine neue Sprache lernen. A) Sprachschule Dialog – Kurse in Englisch, Spanisch, Arabisch. B) Fitnesszentrum Vital – Sauna, Kurse, Geräte.",
+      "questions": [
+        {
+          "question": "Wo lernen Sie eine neue Sprache?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten jemanden im Krankenhaus besuchen. A) Besuchszeiten täglich 15–18 Uhr. Bitte vorher testen lassen. B) Bibliothek – geöffnet Mo–Fr von 9–17 Uhr.",
+      "questions": [
+        {
+          "question": "Wann können Sie ins Krankenhaus?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie wollen eine Jacke kaufen. A) Modehaus Winterlook – neue Jacken & Mäntel im Angebot. B) Reisebüro Fernweh – Urlaub in der Karibik buchen.",
+      "questions": [
+        {
+          "question": "Wo kaufen Sie eine Jacke?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten Ihr Auto waschen lassen. A) Waschstraße Glanzmobil – täglich geöffnet von 7–20 Uhr. B) Tankstelle – nur für Benzin und Diesel.",
+      "questions": [
+        {
+          "question": "Wo können Sie das Auto waschen lassen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    }
+  ]
+}
+,{
+  "title": "Gemischte Fragen – Verschiedene Themen 24",
+  "texts": [
+    {
+      "text": "Im Supermarkt: 'Kasse 3 ist geschlossen.'",
+      "questions": [
+        {
+          "question": "Man kann an Kasse 3 bezahlen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten heute schwimmen gehen. A) Freibad Nord – geöffnet täglich von 10–20 Uhr. B) Kino Filmhaus – Filme täglich ab 13 Uhr.",
+      "questions": [
+        {
+          "question": "Wo können Sie schwimmen gehen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie haben Zahnschmerzen. A) Zahnarztpraxis Dr. Meier – Termine nach Vereinbarung. B) Bäckerei Süß & Gut – Kuchen, Brot, Snacks.",
+      "questions": [
+        {
+          "question": "Wo lassen Sie Ihre Zähne kontrollieren?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Am Bahnhof: 'Alle Züge nach Berlin fahren heute über Gleis 7.'",
+      "questions": [
+        {
+          "question": "Die Züge nach Berlin fahren heute wie immer.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten Bücher ausleihen. A) Stadtbibliothek – Romane, Sachbücher, Kinderbücher. B) Schreibwaren Schulbedarf – Hefte, Stifte, Ordner.",
+      "questions": [
+        {
+          "question": "Wo leihen Sie Bücher aus?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie haben Hunger und wollen schnell etwas essen. A) Schnellrestaurant Max – Burger, Salate, Pommes. B) Fahrradladen Radprofi – Zubehör & Reparatur.",
+      "questions": [
+        {
+          "question": "Wo bekommen Sie etwas zu essen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten Post verschicken. A) Postfiliale – Briefe, Pakete, Briefmarken. B) Schuhgeschäft Eleganza – große Auswahl an Damenschuhen.",
+      "questions": [
+        {
+          "question": "Wo schicken Sie einen Brief ab?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie suchen einen Platz zum Campen. A) Campingplatz Seepark – Stellplätze für Zelte und Wohnmobile. B) Möbelhaus Müller – Sofas, Tische, Betten.",
+      "questions": [
+        {
+          "question": "Wo können Sie zelten?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Im Restaurant: 'Wir haben nur noch Plätze draußen.'",
+      "questions": [
+        {
+          "question": "Man kann drinnen sitzen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten neue Reifen fürs Auto kaufen. A) Autowerkstatt Müller – Inspektion & Reifenwechsel. B) Reisebüro Sommer – Urlaubsreisen weltweit.",
+      "questions": [
+        {
+          "question": "Wo bekommen Sie neue Autoreifen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    }
+  ]
+}
+,{
+  "title": "Gemischte Fragen – Verschiedene Themen 25",
+  "texts": [
+    {
+      "text": "Im Park: 'Bitte betreten Sie die Rasenflächen nicht.'",
+      "questions": [
+        {
+          "question": "Man darf auf dem Rasen laufen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten heute Abend Pizza essen. A) Pizzeria Napoli – täglich geöffnet bis 23 Uhr. B) Fitnesscenter Aktiv – Kurse bis 21 Uhr.",
+      "questions": [
+        {
+          "question": "Wo können Sie Pizza essen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie suchen einen Ort zum Lernen. A) Stadtbibliothek – ruhige Arbeitsplätze und WLAN. B) Supermarkt Schnellkauf – große Getränkeauswahl.",
+      "questions": [
+        {
+          "question": "Wo können Sie in Ruhe lernen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Im Radio: 'Am Wochenende bleibt das Wetter sonnig und warm.'",
+      "questions": [
+        {
+          "question": "Am Wochenende wird es regnen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie brauchen ein neues Handy. A) Elektronikmarkt Expert – große Auswahl an Smartphones. B) Bäckerei Herzhaft – Kuchen, Brötchen, Snacks.",
+      "questions": [
+        {
+          "question": "Wo finden Sie ein Handy?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten zum Arzt. A) Gemeinschaftspraxis Dr. Klein – Hausarzt und Kinderarzt. B) Schuhreparatur Kurz – neue Sohlen und Pflege.",
+      "questions": [
+        {
+          "question": "Wo werden Patienten behandelt?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten mit dem Bus fahren. A) Haltestelle Marktplatz – Linien 4, 9 und 13. B) Buchladen Kapitel & Co – neue Romane und Krimis.",
+      "questions": [
+        {
+          "question": "Wo steigen Sie in den Bus?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie suchen einen Friseur. A) Salon TrendCut – Damen- und Herrenfrisuren. B) Poststelle – Briefmarken und Paketversand.",
+      "questions": [
+        {
+          "question": "Wo bekommen Sie einen neuen Haarschnitt?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie haben Zahnschmerzen. A) Zahnarztpraxis Sonnenschein – Termine täglich bis 18 Uhr. B) Drogerie Blum – Pflegeprodukte und Kosmetik.",
+      "questions": [
+        {
+          "question": "Wo gehen Sie bei Zahnschmerzen hin?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Im Kino: 'Die Vorstellung beginnt um 20:15 Uhr.'",
+      "questions": [
+        {
+          "question": "Der Film beginnt um Viertel nach acht.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    }
+  ]
+}
+,{
+  "title": "Gemischte Fragen – Verschiedene Themen 26",
+  "texts": [
+    {
+      "text": "Im Supermarkt: 'Kasse 3 ist heute geschlossen. Bitte benutzen Sie die anderen Kassen.'",
+      "questions": [
+        {
+          "question": "Kasse 3 funktioniert heute nicht.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    },
+    {
+      "text": "Sie suchen einen Platz zum Schwimmen. A) Hallenbad West – täglich geöffnet bis 22 Uhr. B) Fahrradverleih Schnell – günstige Leihpreise.",
+      "questions": [
+        {
+          "question": "Wo kann man schwimmen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten sich ein Buch ausleihen. A) Stadtbibliothek – Bücher, Hörbücher und Filme. B) Kino Luxor – Action, Komödie, Thriller.",
+      "questions": [
+        {
+          "question": "Wo bekommt man ein Buch?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Auf einem Plakat: 'Sommerkonzert im Stadtpark – Eintritt frei! Samstag ab 17 Uhr.'",
+      "questions": [
+        {
+          "question": "Das Konzert kostet Eintritt.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten am Sonntagmorgen Brötchen kaufen. A) Bäckerei König – Sonntag geöffnet 7–11 Uhr. B) Schreibwaren Meier – nur Montag bis Samstag geöffnet.",
+      "questions": [
+        {
+          "question": "Wo bekommen Sie sonntags Brötchen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie haben Ihre EC-Karte verloren. A) Bankfiliale Nord – Kartensperrung rund um die Uhr: 116 116. B) Café am Markt – Frühstück täglich bis 12 Uhr.",
+      "questions": [
+        {
+          "question": "Wo kann man die Karte sperren?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Sie brauchen eine Fahrkarte für die Straßenbahn. A) Automaten an jeder Haltestelle. B) In der Apotheke nebenan.",
+      "questions": [
+        {
+          "question": "Wo kaufen Sie die Fahrkarte?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "An einer Haustür: 'Bitte keine Werbung einwerfen!'",
+      "questions": [
+        {
+          "question": "Man darf hier Werbeprospekte einwerfen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten am Abend ins Theater gehen. A) Theaterhaus Süd – heutige Vorstellung: 19.30 Uhr. B) Tierklinik Nord – Notdienst rund um die Uhr.",
+      "questions": [
+        {
+          "question": "Wo beginnt das Theaterstück?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Am Bahnhof: 'Wegen Bauarbeiten fahren keine Züge nach Dortmund. Nutzen Sie den Ersatzbus ab Gleis 1.'",
+      "questions": [
+        {
+          "question": "Züge nach Dortmund fahren wie immer.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    }
+  ]
+}
+,{
+  "title": "Gemischte Fragen – Verschiedene Themen 27",
+  "texts": [
+    {
+      "text": "Im Schaufenster: 'Winterkleidung jetzt stark reduziert – bis zu 50 % Rabatt!'",
+      "questions": [
+        {
+          "question": "Man kann Winterkleidung günstiger kaufen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    },
+    {
+      "text": "Sie haben Hunger und suchen etwas zu essen. A) Pizzeria Napoli – täglich geöffnet bis 23 Uhr. B) Modehaus Lenz – neue Damenkollektion.",
+      "questions": [
+        {
+          "question": "Wo bekommen Sie etwas zu essen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Auf dem Bildschirm am Flughafen: 'Flug LH 203 nach München – 2 Stunden Verspätung.'",
+      "questions": [
+        {
+          "question": "Der Flug startet pünktlich.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie brauchen neue Kopfhörer. A) Elektromarkt SoundPlus – große Auswahl an Technik. B) Fitnesscenter Vital – Kurse für Jung und Alt.",
+      "questions": [
+        {
+          "question": "Wo bekommen Sie Kopfhörer?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Aushang: 'Der Aufzug ist wegen Wartung außer Betrieb. Bitte benutzen Sie die Treppe.'",
+      "questions": [
+        {
+          "question": "Der Aufzug funktioniert gerade nicht.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten tanzen lernen. A) Tanzschule Weber – neue Kurse ab Montag. B) Schwimmbad Blau – geöffnet täglich bis 21 Uhr.",
+      "questions": [
+        {
+          "question": "Wo können Sie tanzen lernen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Im Bus: 'Bitte hinten einsteigen und Fahrkarte bereithalten.'",
+      "questions": [
+        {
+          "question": "Man soll vorne in den Bus einsteigen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten heute noch ein Paket abholen. A) Postfiliale Müller – geöffnet bis 20 Uhr. B) Museum der Moderne – Eintritt frei dienstags.",
+      "questions": [
+        {
+          "question": "Wo holen Sie ein Paket ab?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Aushang im Park: 'Hunde bitte an die Leine nehmen.'",
+      "questions": [
+        {
+          "question": "Hunde dürfen frei im Park laufen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie suchen eine Möglichkeit, Deutsch zu lernen. A) VHS – Deutschkurse für Anfänger und Fortgeschrittene. B) Stadtcafé – Frühstück täglich bis 11 Uhr.",
+      "questions": [
+        {
+          "question": "Wo kann man Deutsch lernen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    }
+  ]
+}
+,{
+  "title": "Gemischte Fragen – Verschiedene Themen 28",
+  "texts": [
+    {
+      "text": "Aushang: 'Fahrradwerkstatt geschlossen vom 12. bis 16. August wegen Urlaub.'",
+      "questions": [
+        {
+          "question": "Die Werkstatt ist vom 12. bis 16. August offen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten günstig Möbel kaufen. A) Möbelmarkt Nord – große Sommeraktion. B) Sprachschule Aktiv – neue Deutschkurse ab sofort.",
+      "questions": [
+        {
+          "question": "Wo finden Sie günstige Möbel?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Hinweis im Supermarkt: 'Heute Äpfel im Sonderangebot – 1 kg nur 1,20 €!'",
+      "questions": [
+        {
+          "question": "Heute sind Äpfel besonders billig.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    },
+    {
+      "text": "Sie brauchen dringend einen Zahnarzt. A) Praxis Dr. Meier – Notdienst täglich ab 19 Uhr. B) Tierarztpraxis Sonnenhof – Montag bis Freitag geöffnet.",
+      "questions": [
+        {
+          "question": "Wo bekommen Sie medizinische Hilfe für sich selbst?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Plakat: 'Konzert im Stadtpark – Eintritt frei. Freitag, 19 Uhr.'",
+      "questions": [
+        {
+          "question": "Man muss für das Konzert bezahlen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie wollen am Sonntag ins Kino gehen. A) Kino City – täglich geöffnet, auch sonntags. B) Stadtbibliothek – montags geschlossen.",
+      "questions": [
+        {
+          "question": "Wo können Sie sonntags hingehen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Schild am Eingang: 'Bitte keine Fahrräder im Hausflur abstellen!'",
+      "questions": [
+        {
+          "question": "Man darf das Fahrrad im Flur parken.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie suchen einen Ort zum Schwimmen. A) Freibad Süd – täglich 9–20 Uhr. B) Musikschule Müller – Gitarrenunterricht für Anfänger.",
+      "questions": [
+        {
+          "question": "Wo kann man schwimmen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Anzeige: 'Sommeraktion im Café Sonne – zweites Eis gratis!'",
+      "questions": [
+        {
+          "question": "Man muss zwei Eis bezahlen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten eine Ausstellung besuchen. A) Kunsthalle Nord – neue Ausstellung ab Samstag. B) Autohaus Weber – große Rabatte auf Neuwagen.",
+      "questions": [
+        {
+          "question": "Wo können Sie Kunst sehen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    }
+  ]
+}
+,{
+  "title": "Gemischte Fragen – Verschiedene Themen 29",
+  "texts": [
+    {
+      "text": "Aushang: 'Das Fitnessstudio bleibt am 3. Oktober geschlossen (Feiertag).' ",
+      "questions": [
+        {
+          "question": "Am 3. Oktober können Sie im Fitnessstudio trainieren.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie wollen Bücher ausleihen. A) Bibliothek Nord – Mo–Sa 10–18 Uhr geöffnet. B) Musikhaus City – Gitarren und Notenverkauf.",
+      "questions": [
+        {
+          "question": "Wo können Sie Bücher bekommen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Im Bus: 'Bitte hinten einsteigen und Fahrkarte zeigen.'",
+      "questions": [
+        {
+          "question": "Man darf vorne einsteigen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten abends essen gehen. A) Restaurant Bella – warme Küche bis 23 Uhr. B) Schreibwaren Müller – Stifte, Papier, Schulbedarf.",
+      "questions": [
+        {
+          "question": "Wo können Sie etwas essen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Aushang: 'Der Aufzug ist bis morgen außer Betrieb.'",
+      "questions": [
+        {
+          "question": "Sie können heute den Aufzug benutzen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Anzeige: 'Suchen Sie eine Wohnung? Viele Angebote auf www.mietmarkt.de!'",
+      "questions": [
+        {
+          "question": "Auf der Website kann man Wohnungen finden.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten wandern gehen. A) Sportclub Süd – Fußballtraining täglich. B) Wanderfreunde – Treffpunkt Samstag 9 Uhr am Waldparkplatz.",
+      "questions": [
+        {
+          "question": "Wo geht man wandern?",
+          "options": ["A", "B"],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "text": "Plakat: 'Flohmarkt in der Schulstraße – Sonntag 10–15 Uhr.'",
+      "questions": [
+        {
+          "question": "Der Flohmarkt ist am Samstag.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten Deutsch lernen. A) Sprachschule Global – neue Kurse A1 bis B2. B) Reisebüro Schmitt – Flüge und Hotels buchen.",
+      "questions": [
+        {
+          "question": "Wo können Sie Deutsch lernen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Aushang: 'Wegen Krankheit bleibt das Geschäft heute geschlossen.'",
+      "questions": [
+        {
+          "question": "Das Geschäft ist heute offen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    }
+  ]
+}
+,{
+  "title": "Gemischte Fragen – Verschiedene Themen 30",
+  "texts": [
+    {
+      "text": "Plakat: 'Kino Central – Jeden Mittwoch Kinotag. Alle Filme für 6 Euro.'",
+      "questions": [
+        {
+          "question": "Am Mittwoch kosten alle Filme weniger.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    },
+    {
+      "text": "Sie haben Zahnschmerzen. A) Zahnarztpraxis Dr. Müller – Termine nach Vereinbarung. B) Friseursalon Bella – Haare, Nägel und Kosmetik.",
+      "questions": [
+        {
+          "question": "Wo bekommen Sie Hilfe bei Zahnschmerzen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Aushang: 'Die Bibliothek schließt heute schon um 16 Uhr.'",
+      "questions": [
+        {
+          "question": "Die Bibliothek hat heute bis 18 Uhr geöffnet.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten in eine andere Stadt fahren. A) Bahnhofcenter – Zugverbindungen, Tickets und Beratung. B) Modehaus Trend – Kleidung für Damen und Herren.",
+      "questions": [
+        {
+          "question": "Wo bekommen Sie ein Zugticket?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "An der Tür: 'Bitte keine Werbung einwerfen!'",
+      "questions": [
+        {
+          "question": "Hier dürfen Sie Werbung einwerfen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten ein neues Handy kaufen. A) Elektronik-Markt – Smartphones, Laptops, Fernseher. B) Obsthof Meier – Äpfel, Birnen, Säfte direkt vom Bauern.",
+      "questions": [
+        {
+          "question": "Wo finden Sie ein Smartphone?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Im Restaurant: 'Wir akzeptieren nur Barzahlung.'",
+      "questions": [
+        {
+          "question": "Sie können hier mit Karte bezahlen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten einen Sprachkurs in Englisch machen. A) Sprachschule Europa – Englisch, Spanisch, Deutsch. B) Fitness Studio Vital – Kurse für Gesundheit und Bewegung.",
+      "questions": [
+        {
+          "question": "Wo kann man Englisch lernen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Ankündigung: 'Der Spielplatz ist wegen Reparatur bis nächste Woche geschlossen.'",
+      "questions": [
+        {
+          "question": "Kinder dürfen jetzt auf dem Spielplatz spielen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Anzeige: 'Lust auf Musik? Gitarrenunterricht bei Max – Anfänger & Fortgeschrittene. Tel: 0179 – 23 45 678.'",
+      "questions": [
+        {
+          "question": "Man kann bei Max Gitarre lernen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    }
+  ]
+}
+,{
+  "title": "Gemischte Fragen – Verschiedene Themen 31",
+  "texts": [
+    {
+      "text": "Im Supermarkt: 'Milch heute im Angebot – nur 0,79 € pro Liter.'",
+      "questions": [
+        {
+          "question": "Die Milch kostet heute weniger als sonst.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten ein Fahrrad kaufen. A) Fahrradshop Cityrad – Verkauf, Beratung, Ersatzteile. B) Schuhhaus Leder – Stiefel, Sandalen, Sportschuhe.",
+      "questions": [
+        {
+          "question": "Wo kaufen Sie ein Fahrrad?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Hinweis am Gebäude: 'Kein Aufzug – bitte benutzen Sie die Treppe.'",
+      "questions": [
+        {
+          "question": "Der Aufzug funktioniert.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie haben Hunger und wollen schnell etwas essen. A) Imbiss Station – Pommes, Döner, Getränke. B) Reisebüro Welttour – Flüge und Hotels weltweit.",
+      "questions": [
+        {
+          "question": "Wo bekommen Sie etwas zu essen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Zettel am Schwarzen Brett: 'Klavierunterricht donnerstags 16–18 Uhr, Anfänger willkommen!'",
+      "questions": [
+        {
+          "question": "Auch Anfänger dürfen teilnehmen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten einen Brief schicken. A) Postfiliale am Markt – Briefe, Pakete, Briefmarken. B) Bäckerei Müller – Brot, Brötchen, Kuchen.",
+      "questions": [
+        {
+          "question": "Wo können Sie einen Brief abschicken?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Aushang in der Schule: 'Nächste Woche ist der Unterricht am Freitag frei.'",
+      "questions": [
+        {
+          "question": "Am Freitag ist Schule.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Sie möchten eine neue Hose kaufen. A) Modehaus Urban – Jeans, Hosen, Jacken. B) Bäckerei Urban – Frühstück und Kaffee täglich ab 6 Uhr.",
+      "questions": [
+        {
+          "question": "Wo finden Sie Hosen?",
+          "options": ["A", "B"],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "text": "Plakat: 'Theaterstück „Der König“ – Samstag um 19 Uhr, Eintritt frei.'",
+      "questions": [
+        {
+          "question": "Man muss für das Theaterstück bezahlen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Falsch"
+        }
+      ]
+    },
+    {
+      "text": "Anzeige: 'Nachhilfe in Mathe – alle Klassenstufen. Tel.: 0151 – 66778899'",
+      "questions": [
+        {
+          "question": "Man kann hier Mathe lernen.",
+          "options": ["Richtig", "Falsch"],
+          "answer": "Richtig"
+        }
+      ]
+    }
+  ]
+}
 
   
   
