@@ -81,6 +81,66 @@
             "answer": "B"
           }
         ]
+      },
+      {
+        "text": "Sie möchten am Wochenende Fußball spielen. A) www.freizeitsport-freiburg.de: Basketball, Fitness, Fußball und mehr. Montags bis donnerstags 18.30 bis 21.00 Uhr im Südpark am See. B) www.fc-1897.de/training: Der Fußballklub FC 1897 sucht Spieler und Spielerinnen. Treffpunkt: Sportanlage Ulrichsplatz Sonntags 10–12 Uhr. Keine Anmeldung.",
+        "questions": [
+          {
+            "question": "Welches Angebot passt zur Situation?",
+            "options": ["A", "B"],
+            "answer": "B"
+          }
+        ]
+      },
+      {
+        "text": "Sie studieren und möchten ein bisschen arbeiten. A) Unsere Bäckerei braucht Hilfe. Wir suchen eine junge Frau/einen jungen Mann im Verkauf am Samstag von 7 bis 11 Uhr. Tel: 0176 - 55 44 321. B) Junge Verkäuferin/Junger Verkäufer gesucht für Zeitungskiosk. 42-Stunden-Woche bei guter Bezahlung. Tel: 0160 - 683 456 20.",
+        "questions": [
+          {
+            "question": "Welche Telefonnummer passt zur Situation?",
+            "options": ["a) 0176 – 55 44 321", "b) 0160 – 683 456 20"],
+            "answer": "a) 0176 – 55 44 321"
+          }
+        ]
+      },
+      {
+        "text": "Vor einem Blumenladen: Neu! Neu! Neu! Neu! Neu! Liebe Kunden! Ab sofort haben wir auch sonntags von 9–12 Uhr für Sie geöffnet!",
+        "questions": [
+          {
+            "question": "Am Sonntagvormittag bekommen Sie hier Blumen.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          }
+        ]
+      },
+      {
+        "text": "Bei der Straßenbahn Linie 8: Ab 1.5. nur bis Hauptbahnhof. Zur Weiterfahrt nach Huchting: Linie 1 oder Bus Nr. 53. Es ist der 2. Mai, 21 Uhr. Sie können jetzt nicht zum Hauptbahnhof fahren.",
+        "questions": [
+          {
+            "question": "Es ist der 2. Mai, 21 Uhr. Sie können jetzt nicht zum Hauptbahnhof fahren.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          }
+        ]
+      },
+      {
+        "text": "Sehr geehrte Interessenten, es gibt Leider keine Besichtigungen mehr. Die 3-Zimmer-Wohnung im 3.Stock ist schon vermietet.",
+        "questions": [
+          {
+            "question": "Sie können die Wohnung nicht besichtigen.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          }
+        ]
+      },
+      {
+        "text": "Sehr geehrte Fahrgäste! Ab 22 Uhr sind unsere Schalter geschlossen. Fahrkarten bekommen Sie dann an unseren Automaten.",
+        "questions": [
+          {
+            "question": "Ab 22 Uhr können Sie keine Fahrkarten mehr kaufen.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          }
+        ]
       }
     ]
   }
