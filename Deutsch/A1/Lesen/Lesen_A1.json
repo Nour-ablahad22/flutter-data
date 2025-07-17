@@ -1,37 +1,87 @@
 [
   {
-  "title": "Thema 1",
-  "texts": [
-    {
-      "text": "Liebe Frau Becker, vielen Dank für Ihre nette Einladung zum Mittagessen. Ich freue mich sehr darauf. Mein Zug kommt um 12 Uhr an. Kann ich Ihnen beim Kochen helfen? Bis bald! Herzliche Grüße, Jens.",
-      "questions": [
-        {
-          "question": "Jens kommt mit dem Flugzeug an.",
-          "options": ["Richtig", "Falsch"],
-          "answer": "Falsch"
-        },
-        {
-          "question": "Jens bietet seine Hilfe beim Kochen an.",
-          "options": ["Richtig", "Falsch"],
-          "answer": "Richtig"
-        }
-      ]
-    },
-    {
-      "text": "Hallo Lisa, danke für deine Einladung zum Geburtstag. Ich komme gern am Freitagabend. Soll ich Getränke mitbringen? Ich freue mich schon! Liebe Grüße, Paul.",
-      "questions": [
-        {
-          "question": "Paul kommt nicht zum Geburtstag.",
-          "options": ["Richtig", "Falsch"],
-          "answer": "Falsch"
-        },
-        {
-          "question": "Paul fragt, ob er Getränke mitbringen soll.",
-          "options": ["Richtig", "Falsch"],
-          "answer": "Richtig"
-        }
-      ]
-    }
-  ]
-}
+    "title": "Thema 1",
+    "texts": [
+      {
+        "text": "Liebe Frau Becker, vielen Dank für Ihre nette Einladung zum Mittagessen. Ich freue mich sehr darauf. Mein Zug kommt um 12 Uhr an. Kann ich Ihnen beim Kochen helfen? Bis bald! Herzliche Grüße, Jens.",
+        "questions": [
+          {
+            "question": "Jens kommt mit dem Flugzeug an.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Jens bietet seine Hilfe beim Kochen an.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          }
+        ]
+      },
+      {
+        "text": "Hallo Lisa, danke für deine Einladung zum Geburtstag. Ich komme gern am Freitagabend. Soll ich Getränke mitbringen? Ich freue mich schon! Liebe Grüße, Paul.",
+        "questions": [
+          {
+            "question": "Paul kommt nicht zum Geburtstag.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Paul fragt, ob er Getränke mitbringen soll.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          }
+        ]
+      },
+      {
+        "text": "Liebe Frau Jakobs, ich komme heute, Dienstag, noch nicht aus Berlin zurück. Ich habe morgen ein Gespräch mit dem Kunden Maybach. Der ist ganz wichtig für uns. Und am Donnerstag habe ich zwei weitere neue Termine. Aber am Freitag bin ich ab 8 Uhr wieder im Büro. Bitte machen Sie mir für 11 Uhr einen Termin mit Dr. Falk. Vielen Dank und herzliche Grüße, Helga Stein.",
+        "questions": [
+          {
+            "question": "Frau Stein ist in Berlin.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Am Mittwoch hat Frau Stein frei.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Frau Stein will am Freitag Dr. Falk treffen.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          }
+        ]
+      },
+      {
+        "text": "Sie wollen viele Freunde zu Ihrem Geburtstag einladen. Sie suchen einen Ort. A) www.raum-in-koeln.de: Raum für Tanz, Sport, Hochzeiten und andere private Feiern zu vermieten. Auch abends Termine frei. Günstige Preise. B) www.wohnen-in-koeln.de: Schöne Zimmer und Apartments für 2–12 Wochen im Großraum Köln zu interessanten Preisen.",
+        "questions": [
+          {
+            "question": "Welches Angebot passt zur Situation?",
+            "options": ["A", "B"],
+            "answer": "A"
+          }
+        ]
+      },
+      {
+        "text": "Der Computer ist kaputt. Sie können ihn nicht allein reparieren. A) www.computer-loesungen.de: Für alles, was mit Computern, Druckern, Scannern, Internet usw. zu tun hat. Auch Reparaturen. B) www.technohaus.de: Gebrauchte Kühlschränke, Herde, Waschmaschinen, Computer, Drucker, Fernseher, Radios, Handys usw.",
+        "questions": [
+          {
+            "question": "Welches Angebot passt zur Situation?",
+            "options": ["A", "B"],
+            "answer": "A"
+          }
+        ]
+      },
+      {
+        "text": "Sie möchten am Samstagabend mit Freunden tanzen gehen. A) www.tanzen-macht-spass.de: Tanzschule Renz – Informieren Sie sich jetzt über die neuen Tanzkurse für Jugendliche und Erwachsene. Bitte bestellen Sie unseren Tanzplan. B) www.wohin-am-wochenende.de: Ins Aladin! Das neue Tanz-Restaurant. Erst gut essen, dann tanzen – die ganze Nacht! Freitag + Samstag haben wir bis 4 Uhr geöffnet.",
+        "questions": [
+          {
+            "question": "Welches Angebot passt zur Situation?",
+            "options": ["A", "B"],
+            "answer": "B"
+          }
+        ]
+      }
+    ]
+  }
 ]
