@@ -1,1 +1,371 @@
-s
+[
+  {
+    "id": 1,
+    "Frage": "Du möchtest einen Freund zu deiner Geburtstagsfeier einladen. Schreibe:\n\n- Warum du einlädst\n- Wann die Feier ist\n- Bitte um Rückmeldung",
+    "title": "Einladung zur Geburtstagsfeier",
+    "level": "A2",
+    "subtopics": [
+      {
+        "id": 10001,
+        "title": "Einladung an Freund",
+        "text": "Lieber Max, ich lade dich herzlich zu meiner Geburtstagsfeier am Samstag um 18 Uhr bei mir zu Hause ein. Es wird Musik, Essen und Spaß geben. Bitte gib mir Bescheid, ob du kommen kannst. Ich freue mich auf dich!",
+        "text_ar": "عزيزي ماكس، أدعوك بحرارة إلى حفلة عيد ميلادي يوم السبت الساعة 18 في بيتي. سيكون هناك موسيقى وطعام ومتعة. رجاءً أخبرني إذا كنت تستطيع الحضور. أتطلع لرؤيتك!"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "Frage": "Du möchtest dich bei einem Freund für ein Geschenk oder Besuch bedanken. Schreibe:\n\n- Wofür du dich bedankst\n- Wie sehr du dich gefreut hast\n- Einen Gruß am Ende",
+    "title": "Dankesbrief an Freund",
+    "level": "A2",
+    "subtopics": [
+      {
+        "id": 20001,
+        "title": "Dankeschön schreiben",
+        "text": "Liebe Sarah, vielen Dank für das schöne Geschenk und deinen Besuch letzte Woche. Ich habe mich sehr gefreut und es hat mir viel bedeutet. Ich hoffe, wir sehen uns bald wieder. Liebe Grüße und bis bald!",
+        "text_ar": "عزيزتي سارة، شكرًا جزيلاً على الهدية الجميلة وزيارتك الأسبوع الماضي. أسعدني ذلك كثيرًا وكان له معنى كبير بالنسبة لي. أتمنى أن نلتقي قريبًا. أطيب التحيات وإلى اللقاء!"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "Frage": "Du möchtest einem Freund zu seinem Erfolg oder Geburtstag gratulieren. Schreibe:\n\n- Warum gratulierst du\n- Was wünschst du ihm\n- Einen freundlichen Schluss",
+    "title": "Glückwunsch an Freund",
+    "level": "A2",
+    "subtopics": [
+      {
+        "id": 30001,
+        "title": "Glückwunsch schreiben",
+        "text": "Lieber Tom, herzlichen Glückwunsch zu deinem Erfolg! Ich freue mich sehr für dich und wünsche dir weiterhin viel Erfolg und Glück. Lass uns bald zusammen feiern. Viele liebe Grüße!",
+        "text_ar": "عزيزي توم، تهانينا القلبية على نجاحك! أنا سعيد جدًا لأجلك وأتمنى لك المزيد من النجاح والسعادة. دعنا نحتفل معًا قريبًا. أطيب التحيات!"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "Frage": "Du möchtest einen Freund um Hilfe beim Umzug bitten. Schreibe:\n\n- Wann der Umzug ist\n- Welche Hilfe du brauchst\n- Danke im Voraus",
+    "title": "Hilfe beim Umzug bitten",
+    "level": "A2",
+    "subtopics": [
+      {
+        "id": 40001,
+        "title": "Umzugshilfe anfragen",
+        "text": "Hallo Anna, ich ziehe nächsten Samstag um und brauche Hilfe beim Tragen der Möbel. Kannst du mir helfen? Das wäre super! Vielen Dank schon jetzt für deine Unterstützung. Ich freue mich auf deine Antwort.",
+        "text_ar": "مرحبًا آنا، سأنتقل يوم السبت المقبل وأحتاج مساعدتك في حمل الأثاث. هل يمكنك المساعدة؟ سيكون هذا رائعًا! شكرًا مقدمًا على دعمك. أتطلع لردك."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "Frage": "Du möchtest einem Freund von deinem letzten Urlaub erzählen. Schreibe:\n\n- Wohin du gereist bist\n- Was du gemacht hast\n- Wie es dir gefallen hat",
+    "title": "Bericht über den Urlaub",
+    "level": "A2",
+    "subtopics": [
+      {
+        "id": 50001,
+        "title": "Urlaubserzählung",
+        "text": "Lieber Jens, ich war letzten Monat in Italien im Urlaub. Ich habe viel gesehen, gutes Essen probiert und am Strand entspannt. Es war sehr schön und ich habe viele Fotos gemacht. Ich erzähle dir gern mehr beim Treffen!",
+        "text_ar": "عزيزي ينس، كنت في الشهر الماضي في إيطاليا في إجازة. رأيت الكثير، جربت طعامًا لذيذًا واسترخيت على الشاطئ. كانت تجربة جميلة والتقطت الكثير من الصور. سأخبرك المزيد عند لقائنا!"
+      }
+    ]
+  },
+  
+
+  {
+    "id": 6,
+    "Frage": "Beschreibe eine Reise, die du kürzlich gemacht hast. Schreibe:\n\n- Wohin die Reise ging\n- Was du erlebt hast\n- Wie die Reise war",
+    "title": "Beschreibung einer Reise",
+    "level": "A2",
+    "subtopics": [
+      {
+        "id": 60001,
+        "title": "Reisebeschreibung",
+        "text": "Letzten Monat bin ich nach Berlin gereist. Ich habe viele Sehenswürdigkeiten besucht, leckeres Essen probiert und schöne Spaziergänge gemacht. Das Wetter war schön, und ich habe die Zeit sehr genossen. Es war eine tolle Reise, die ich nicht vergessen werde.",
+        "text_ar": "في الشهر الماضي سافرت إلى برلين. زرت معالم كثيرة، جربت طعامًا لذيذًا وتمشيت كثيرًا. كان الطقس جميلًا واستمتعت جدًا بالوقت. كانت رحلة رائعة لن أنساها."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "Frage": "Du möchtest Informationen über ein Hotel in einer deutschen Stadt bekommen. Schreibe:\n\n- Für wann brauchst du das Hotel\n- Welche Fragen hast du zum Hotel\n- Bitte um Antwort",
+    "title": "Anfrage Hotelinformationen",
+    "level": "A2",
+    "subtopics": [
+      {
+        "id": 70001,
+        "title": "Hotelinformation anfragen",
+        "text": "Sehr geehrte Damen und Herren, ich plane einen Aufenthalt in München im August. Können Sie mir bitte Informationen zu Verfügbarkeit, Preisen und Frühstück im Hotel senden? Ich freue mich auf Ihre Antwort und danke im Voraus.",
+        "text_ar": "السيدات والسادة الأعزاء، أخطط للإقامة في ميونخ في أغسطس. هل يمكنكم إرسال معلومات عن التوافر، الأسعار، والإفطار في الفندق؟ أتطلع لردكم وشكرًا مقدمًا."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "Frage": "Du schreibst einem Freund über deinen bevorstehenden Urlaub. Schreibe:\n\n- Wohin du reist\n- Was du geplant hast\n- Wie du dich darauf freust",
+    "title": "Schreiben über kommenden Urlaub",
+    "level": "A2",
+    "subtopics": [
+      {
+        "id": 80001,
+        "title": "Urlaubspläne teilen",
+        "text": "Hallo Lisa, ich werde nächsten Monat nach Spanien reisen. Ich plane, am Strand zu entspannen und die Stadt zu erkunden. Ich freue mich schon sehr darauf, neue Erfahrungen zu sammeln. Ich erzähle dir nach dem Urlaub mehr!",
+        "text_ar": "مرحبًا ليزا، سأسافر الشهر القادم إلى إسبانيا. أخطط للاسترخاء على الشاطئ واستكشاف المدينة. أنا متحمس جدًا لهذه التجربة. سأخبرك المزيد بعد الإجازة!"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "Frage": "Du möchtest eine gute oder schlechte Erfahrung am Flughafen teilen. Schreibe:\n\n- Was passiert ist\n- Wie du dich gefühlt hast\n- Was du daraus gelernt hast",
+    "title": "Erfahrung am Flughafen teilen",
+    "level": "A2",
+    "subtopics": [
+      {
+        "id": 90001,
+        "title": "Erfahrung am Flughafen",
+        "text": "Letzte Woche hatte ich am Flughafen eine schlechte Erfahrung. Mein Flug war verspätet, und ich musste lange warten. Das war sehr stressig, aber ich habe gelernt, geduldiger zu sein und besser vorbereitet zu reisen.",
+        "text_ar": "الأسبوع الماضي كانت لي تجربة سيئة في المطار. تأخر رحلتي واضطررت للانتظار طويلًا. كان ذلك مرهقًا جدًا، لكن تعلمت أن أكون أكثر صبرًا وأستعد للسفر بشكل أفضل."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "Frage": "Du bittest einen Freund, während deiner Reise auf deine Haustiere aufzupassen. Schreibe:\n\n- Wann du weg bist\n- Welche Tiere betreut werden sollen\n- Danke für die Hilfe",
+    "title": "Freund bitten, auf Tiere aufzupassen",
+    "level": "A2",
+    "subtopics": [
+      {
+        "id": 100001,
+        "title": "Tiere während Reise betreuen lassen",
+        "text": "Hallo Paul, ich reise nächste Woche für eine Woche. Kannst du bitte während meiner Abwesenheit auf meine Katze und meinen Hund aufpassen? Ich wäre dir sehr dankbar für deine Hilfe. Lass mich wissen, ob das klappt.",
+        "text_ar": "مرحبًا بول، سأغادر الأسبوع المقبل لمدة أسبوع. هل يمكنك الاعتناء بقطة وكلبي أثناء غيابي؟ سأكون ممتنًا جدًا لمساعدتك. أخبرني إذا كان ذلك ممكنًا."
+      }
+    ]
+  }
+,
+
+
+  {
+    "id": 11,
+    "Frage": "Du möchtest Informationen über einen Sprachkurs bekommen. Schreibe:\n\n- Welche Kurs du suchst\n- Welche Fragen du hast\n- Bitte um Antwort",
+    "title": "Informationen über Sprachkurs anfragen",
+    "level": "A2",
+    "subtopics": [
+      {
+        "id": 110001,
+        "title": "Sprachkurs Informationen",
+        "text": "Sehr geehrte Damen und Herren, ich interessiere mich für Ihren Deutschkurs für Anfänger. Können Sie mir bitte Infos zu Terminen, Kosten und Dauer schicken? Ich freue mich auf Ihre Antwort. Vielen Dank im Voraus.",
+        "text_ar": "السيدات والسادة الأعزاء، أنا مهتم بدورة اللغة الألمانية للمبتدئين. هل يمكنكم إرسال معلومات عن المواعيد، الأسعار، والمدة؟ أتطلع لردكم، وشكرًا مقدمًا."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "Frage": "Beschreibe deinen ersten Arbeitstag. Schreibe:\n\n- Wo du gearbeitet hast\n- Was du gemacht hast\n- Wie du dich gefühlt hast",
+    "title": "Erster Arbeitstag beschreiben",
+    "level": "A2",
+    "subtopics": [
+      {
+        "id": 120001,
+        "title": "Erster Arbeitstag",
+        "text": "Mein erster Arbeitstag war spannend. Ich habe meine Kollegen kennengelernt und meine Aufgaben erklärt bekommen. Es war viel zu tun, aber ich habe mich willkommen gefühlt. Ich freue mich auf die kommenden Wochen.",
+        "text_ar": "كان أول يوم عمل لي مثيرًا. تعرفت على زملائي وتم شرح مهامي لي. كان هناك الكثير لأفعله، لكني شعرت بالترحيب. أتطلع إلى الأسابيع القادمة."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "Frage": "Du möchtest dich für eine Stelle bewerben. Schreibe:\n\n- Kurze Vorstellung\n- Warum du dich bewirbst\n- Bitte um Rückmeldung",
+    "title": "Bewerbung mit Lebenslauf und Brief",
+    "level": "A2",
+    "subtopics": [
+      {
+        "id": 130001,
+        "title": "Bewerbung schreiben",
+        "text": "Sehr geehrte Damen und Herren, ich heiße Ahmed und möchte mich für die Stelle als Verkäufer bewerben. Ich habe Erfahrung im Verkauf und bin motiviert. Ich freue mich auf Ihre Rückmeldung und danke für die Möglichkeit.",
+        "text_ar": "السيدات والسادة الأعزاء، اسمي أحمد وأرغب في التقدم لوظيفة بائع. لدي خبرة في البيع وأنا متحمس. أتطلع لردكم وشكرًا على الفرصة."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "Frage": "Du möchtest deinen Lehrer um eine Empfehlung bitten. Schreibe:\n\n- Warum du die Empfehlung brauchst\n- Was du erreichen willst\n- Danke für die Unterstützung",
+    "title": "Empfehlung vom Lehrer anfragen",
+    "level": "A2",
+    "subtopics": [
+      {
+        "id": 140001,
+        "title": "Empfehlung anfragen",
+        "text": "Lieber Herr Müller, ich brauche eine Empfehlung für meine Bewerbung an der Universität. Ich möchte dort Psychologie studieren. Vielen Dank für Ihre Unterstützung. Ich freue mich auf Ihre Antwort.",
+        "text_ar": "عزيزي السيد مولر، أحتاج توصية لطلبي في الجامعة. أريد دراسة علم النفس هناك. شكرًا لدعمك، وأتطلع لردك."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "Frage": "Du fragst einen Mitschüler nach dem Projekt in der Schule. Schreibe:\n\n- Welche Infos du brauchst\n- Was unklar ist\n- Bitte um Hilfe",
+    "title": "Nach Projekt fragen",
+    "level": "A2",
+    "subtopics": [
+      {
+        "id": 150001,
+        "title": "Projektfragen an Mitschüler",
+        "text": "Hallo Julia, kannst du mir bitte mehr Infos zum Schulprojekt geben? Ich verstehe die Aufgabenstellung nicht ganz. Ich wäre dankbar für deine Hilfe. Vielen Dank schon mal!",
+        "text_ar": "مرحبًا جوليا، هل يمكنك إرسال المزيد من المعلومات عن مشروع المدرسة؟ لم أفهم المهمة تمامًا. سأكون ممتنًا لمساعدتك. شكرًا مقدمًا!"
+      }
+    ]
+  }
+
+,
+  
+  {
+    "id": 18,
+    "Frage": "Sie möchten sich bei Ihrem Vermieter wegen Lärm im Haus beschweren. Schreiben Sie:\n\n- Was ist das Problem?\n- Wann passiert der Lärm?\n- Was möchten Sie vom Vermieter?",
+    "title": "Beschwerde wegen Lärm im Haus",
+    "level": "A2",
+    "subtopics": [
+      {
+        "id": 18001,
+        "title": "Beschwerde wegen Lärm",
+        "text": "Sehr geehrter Herr Meier, seit einigen Wochen gibt es häufig lauten Lärm in der Wohnung über mir, besonders am Abend. Der Lärm stört mich beim Schlafen und Arbeiten sehr. Ich bitte Sie freundlich, sich darum zu kümmern und mir Bescheid zu geben. Vielen Dank im Voraus.",
+        "text_ar": "السيد ماير العزيز، منذ عدة أسابيع يوجد ضجيج عالي كثيرًا في الشقة أعلاه، خاصة في المساء. هذا الضجيج يزعجني كثيرًا أثناء النوم والعمل. أرجو منك الاهتمام بالأمر وإخباري بالنتيجة. شكرًا مقدمًا."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "Frage": "Sie sind mit einer Busverspätung unzufrieden. Schreiben Sie an die Verkehrsgesellschaft:\n\n- Was ist passiert?\n- Wie lange war die Verspätung?\n- Was erwarten Sie als Entschädigung?",
+    "title": "Beschwerde wegen Busverspätung",
+    "level": "A2",
+    "subtopics": [
+      {
+        "id": 19001,
+        "title": "Beschwerde wegen Busverspätung",
+        "text": "Sehr geehrte Damen und Herren, am 10. Juli hatte der Bus Linie 25 eine Verspätung von 30 Minuten. Durch die Verspätung habe ich meinen wichtigen Termin verpasst. Ich bitte um eine Erklärung und hoffe auf eine Entschädigung. Vielen Dank für Ihre Mühe.",
+        "text_ar": "السيدات والسادة الأعزاء، في 10 يوليو تأخرت حافلة الخط 25 لمدة 30 دقيقة. بسبب التأخير فاتني موعد مهم. أرجو شرحًا وأتمنى تعويضًا. شكراً على جهودكم."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "Frage": "Sie haben im Zug Ihre Tasche verloren. Schreiben Sie eine Nachricht an die Bahn:\n\n- Wann und wo ist es passiert?\n- Wie sieht die Tasche aus?\n- Was bitten Sie um Hilfe?",
+    "title": "Verlustmeldung für verlorene Tasche im Zug",
+    "level": "A2",
+    "subtopics": [
+      {
+        "id": 20001,
+        "title": "Verlustmeldung Tasche im Zug",
+        "text": "Sehr geehrte Damen und Herren, am 5. Juli habe ich im Zug von Berlin nach Hamburg meine schwarze Tasche verloren. Sie ist mittelgroß mit einem roten Anhänger und enthält wichtige Dokumente. Ich bitte Sie, mir bei der Suche zu helfen. Vielen Dank für Ihre Unterstützung.",
+        "text_ar": "السيدات والسادة الأعزاء، في 5 يوليو فقدت حقيبتي السوداء في القطار من برلين إلى هامبورغ. الحقيبة متوسطة الحجم ولها بطاقة حمراء وتحتوي على مستندات مهمة. أرجو مساعدتي في البحث. شكرًا لدعمكم."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "Frage": "Sie haben eine falsche Rechnung erhalten. Schreiben Sie an die Firma:\n\n- Was ist falsch?\n- Warum schreiben Sie?\n- Was erwarten Sie von der Firma?",
+    "title": "Beschwerde wegen falscher Rechnung",
+    "level": "A2",
+    "subtopics": [
+      {
+        "id": 21001,
+        "title": "Beschwerde wegen falscher Rechnung",
+        "text": "Sehr geehrte Damen und Herren, ich habe eine falsche Rechnung für meinen Stromverbrauch erhalten. Die berechnete Summe ist zu hoch und entspricht nicht meinem Verbrauch. Bitte prüfen Sie die Rechnung und senden Sie mir eine korrigierte Version. Vielen Dank für Ihre Hilfe.",
+        "text_ar": "السيدات والسادة الأعزاء، استلمت فاتورة خاطئة لاستهلاك الكهرباء. المبلغ أعلى من استهلاكي الفعلي. أرجو مراجعة الفاتورة وإرسال نسخة مصححة لي. شكرًا لمساعدتكم."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "Frage": "Ihr Elektrogerät ist kaputt und noch in der Garantiezeit. Schreiben Sie an den Kundenservice:\n\n- Welches Gerät ist kaputt?\n- Wann haben Sie es gekauft?\n- Bitte um Reparatur oder Austausch",
+    "title": "Reparaturauftrag für defektes Gerät unter Garantie",
+    "level": "A2",
+    "subtopics": [
+      {
+        "id": 22001,
+        "title": "Reparaturauftrag unter Garantie",
+        "text": "Sehr geehrte Damen und Herren, mein Kühlschrank funktioniert nicht mehr. Ich habe ihn im Januar 2025 gekauft. Das Gerät ist noch in der Garantiezeit. Bitte reparieren oder tauschen Sie es aus. Kontaktieren Sie mich für weitere Informationen. Vielen Dank für Ihre Hilfe.",
+        "text_ar": "السيدات والسادة الأعزاء، ثلاجتي لا تعمل. اشتريتها في يناير 2025 ولا تزال في فترة الضمان. أرجو الإصلاح أو الاستبدال. يرجى الاتصال بي للمزيد من المعلومات. شكرًا لمساعدتكم."
+      }
+    ]
+  }
+,
+  {
+    "id": 23,
+    "Frage": "Sie schreiben an eine Firma wegen eines defekten Produkts. Schreiben Sie:\n\n- Welches Produkt ist defekt?\n- Wann haben Sie es gekauft?\n- Was möchten Sie von der Firma?",
+    "title": "Reklamation wegen defektem Produkt",
+    "level": "A2",
+    "subtopics": [
+      {
+        "id": 23001,
+        "title": "Beschwerde wegen defektem Produkt",
+        "text": "Sehr geehrte Damen und Herren, ich habe vor zwei Monaten einen Mixer bei Ihnen gekauft. Leider funktioniert das Gerät nicht mehr richtig. Ich bitte um eine Reparatur oder einen Austausch des Produkts. Vielen Dank für Ihre schnelle Rückmeldung.",
+        "text_ar": "السيدات والسادة الأعزاء، اشتريت منكم خلاطًا منذ شهرين. للأسف الجهاز لا يعمل بشكل صحيح الآن. أرجو الإصلاح أو استبدال المنتج. شكرًا لردكم السريع."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "Frage": "Sie möchten Informationen über einen Deutschkurs erhalten. Schreiben Sie:\n\n- Welche Informationen brauchen Sie?\n- Wann soll der Kurs beginnen?\n- Fragen zu Kosten und Unterrichtszeiten",
+    "title": "Anfrage zu Deutschkurs",
+    "level": "A2",
+    "subtopics": [
+      {
+        "id": 24001,
+        "title": "Informationsanfrage Deutschkurs",
+        "text": "Sehr geehrte Damen und Herren, ich interessiere mich für Ihren Deutschkurs und möchte Informationen zu Kursbeginn, Unterrichtszeiten und Kosten erhalten. Können Sie mir bitte Details senden? Der Kurs sollte idealerweise nächsten Monat starten. Vielen Dank im Voraus.",
+        "text_ar": "السيدات والسادة الأعزاء، أنا مهتم بدورة اللغة الألمانية لديكم وأرغب في معلومات عن موعد البداية، أوقات الدروس، والتكاليف. هل يمكنكم إرسال التفاصيل؟ يفضل أن تبدأ الدورة الشهر القادم. شكرًا مقدمًا."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "Frage": "Sie müssen einen Termin wegen eines dringenden Problems absagen. Schreiben Sie:\n\n- Welcher Termin?\n- Warum müssen Sie absagen?\n- Bitte um einen neuen Termin",
+    "title": "Terminabsage wegen dringendem Grund",
+    "level": "A2",
+    "subtopics": [
+      {
+        "id": 25001,
+        "title": "Absage eines Termins",
+        "text": "Sehr geehrte Frau Müller, leider muss ich unseren Termin am Mittwoch absagen, weil ein dringender persönlicher Notfall eingetreten ist. Ich bitte um Verständnis und würde gern einen neuen Termin vereinbaren. Bitte informieren Sie mich über mögliche Termine. Vielen Dank.",
+        "text_ar": "السيدة مولر العزيزة، للأسف يجب أن ألغي موعدنا يوم الأربعاء بسبب ظرف شخصي طارئ. أرجو تفهمك وأرغب في تحديد موعد جديد. من فضلك أخبريني بالمواعيد المتاحة. شكراً جزيلاً."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "Frage": "Sie möchten sich nach einer offenen Stelle in einer Firma erkundigen. Schreiben Sie:\n\n- Für welche Stelle interessieren Sie sich?\n- Wo haben Sie die Anzeige gesehen?\n- Fragen zu Anforderungen und Bewerbungsverfahren",
+    "title": "Anfrage zu offener Stelle",
+    "level": "A2",
+    "subtopics": [
+      {
+        "id": 26001,
+        "title": "Information über offene Stelle",
+        "text": "Sehr geehrte Damen und Herren, ich habe Ihre Stellenanzeige für eine Bürokraft auf Ihrer Website gesehen. Ich interessiere mich sehr für die Stelle und möchte mehr über Anforderungen und das Bewerbungsverfahren erfahren. Ich freue mich auf Ihre Antwort.",
+        "text_ar": "السيدات والسادة الأعزاء، شاهدت إعلانكم عن وظيفة موظف مكتب على موقعكم. أنا مهتم جدًا بالوظيفة وأرغب في معرفة المتطلبات وإجراءات التقديم. أتطلع إلى ردكم."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "Frage": "Sie möchten bei Ihrem Arbeitgeber eine Urlaubsgenehmigung beantragen. Schreiben Sie:\n\n- Wann möchten Sie Urlaub nehmen?\n- Wie lange soll der Urlaub dauern?\n- Bitte um Genehmigung",
+    "title": "Urlaubsantrag beim Arbeitgeber",
+    "level": "A2",
+    "subtopics": [
+      {
+        "id": 27001,
+        "title": "Urlaubsantrag",
+        "text": "Sehr geehrter Herr Schmidt, ich möchte gerne vom 1. bis 14. August Urlaub nehmen. Ich bitte Sie um Genehmigung meines Urlaubsantrags und freue mich auf eine positive Rückmeldung. Vielen Dank für Ihr Verständnis.",
+        "text_ar": "السيد شميت العزيز، أود الحصول على إجازة من 1 إلى 14 أغسطس. أرجو الموافقة على طلب إجازتي وأتطلع إلى ردكم الإيجابي. شكرًا لتفهمكم."
+      }
+    ]
+  }
+
+
+
+
+
+
+
+
+
+  
+]
