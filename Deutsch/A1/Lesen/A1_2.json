@@ -1,1 +1,20 @@
 
+[
+  {
+    "title": "AAAAAAAA",
+    "texts": [
+      {
+        "text": "Liebe Frau Becker, vielen Dank für Ihre nette Einladung zum Mittagessen. Ich freue mich sehr darauf. Mein Zug kommt um 12 Uhr an. Kann ich Ihnen beim Kochen helfen? Bis bald! Herzliche Grüße, Jens.",
+        "questions": [
+          {
+            "question": "Jens kommt mit dem Flugzeug an.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Jens bietet seine Hilfe beim Kochen an.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          }
+        ]
+      }]
