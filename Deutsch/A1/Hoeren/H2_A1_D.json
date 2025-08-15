@@ -1,1 +1,21 @@
 
+[
+{
+"text": "Anna: Hallo Peter, was machst du heute Nachmittag?\nPeter: Hallo Anna! Ich gehe ins Kino. Willst du mitkommen?\nAnna: Ja, gerne! Welcher Film läuft?\nPeter: 'Die Abenteuer von Max'. Er beginnt um 16 Uhr.\nAnna: Super, dann treffen wir uns um 15:30 vor dem Kino.\nPeter: Perfekt, bis später!",
+"question": "Wann treffen sich Anna und Peter vor dem Film?",
+"options": ["Um 16 Uhr", "Um 15:30", "Um 15 Uhr"],
+"answer": "Um 15:30"
+},
+{
+"text": "Maria: Guten Morgen Tom! Hast du schon gefrühstückt?\nTom: Nein, noch nicht. Ich habe keine Zeit gehabt.\nMaria: Ich auch nicht. Sollen wir zusammen einen Kaffee trinken?\nTom: Ja, das ist eine gute Idee. Wir können auch ein Croissant essen.\nMaria: Super, lass uns ins Café um die Ecke gehen.",
+"question": "Was haben Maria und Tom beschlossen zu tun?",
+"options": ["Frühstück zu Hause essen", "Ins Café gehen", "Einkaufen gehen"],
+"answer": "Ins Café gehen"
+},
+{
+"text": "Lena: Hallo Paul, möchtest du am Samstag Fußball spielen?\nPaul: Ja, gerne! Um wie viel Uhr?\nLena: Um 10 Uhr auf dem Sportplatz neben dem Park.\nPaul: Super, soll ich meine Freunde auch einladen?\nLena: Ja, je mehr, desto besser!",
+"question": "Wo werden sie Fußball spielen?",
+"options": ["Im Park", "Auf dem Sportplatz neben dem Park", "In der Schule"],
+"answer": "Auf dem Sportplatz neben dem Park"
+}
+]
