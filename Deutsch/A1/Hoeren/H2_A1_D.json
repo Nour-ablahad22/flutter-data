@@ -1,82 +1,564 @@
 [
-{
-"title": "Kino Besuch",
-"text": "Anna: Hallo Peter, was machst du heute Nachmittag?\nPeter: Hallo Anna! Ich gehe ins Kino. Willst du mitkommen?\nAnna: Ja, gerne! Welcher Film läuft?\nPeter: 'Die Abenteuer von Max'. Er beginnt um 16 Uhr.\nAnna: Super, dann treffen wir uns um 15:30 vor dem Kino.\nPeter: Perfekt, bis später!",
-"plain\_text": "Anna: Hallo Peter, was machst du heute Nachmittag? Peter: Hallo Anna! Ich gehe ins Kino. Willst du mitkommen? Anna: Ja, gerne! Welcher Film läuft? Peter: 'Die Abenteuer von Max'. Er beginnt um 16 Uhr. Anna: Super, dann treffen wir uns um 15:30 vor dem Kino. Peter: Perfekt, bis später!",
-"question": "Wann treffen sich Anna und Peter vor dem Film?",
-"options": ["Um 16 Uhr", "Um 15:30", "Um 15 Uhr"],
-"answer": "Um 15:30"
-},
-{
-"title": "Kaffee trinken",
-"text": "Maria: Guten Morgen Tom! Hast du schon gefrühstückt?\nTom: Nein, noch nicht. Ich habe keine Zeit gehabt.\nMaria: Ich auch nicht. Sollen wir zusammen einen Kaffee trinken?\nTom: Ja, das ist eine gute Idee. Wir können auch ein Croissant essen.\nMaria: Super, lass uns ins Café um die Ecke gehen.",
-"plain\_text": "Maria: Guten Morgen Tom! Hast du schon gefrühstückt? Tom: Nein, noch nicht. Ich habe keine Zeit gehabt. Maria: Ich auch nicht. Sollen wir zusammen einen Kaffee trinken? Tom: Ja, das ist eine gute Idee. Wir können auch ein Croissant essen. Maria: Super, lass uns ins Café um die Ecke gehen.",
-"question": "Was haben Maria und Tom beschlossen zu tun?",
-"options": ["Frühstück zu Hause essen", "Ins Café gehen", "Einkaufen gehen"],
-"answer": "Ins Café gehen"
-},
-{
-"title": "Fußball am Samstag",
-"text": "Lena: Hallo Paul, möchtest du am Samstag Fußball spielen?\nPaul: Ja, gerne! Um wie viel Uhr?\nLena: Um 10 Uhr auf dem Sportplatz neben dem Park.\nPaul: Super, soll ich meine Freunde auch einladen?\nLena: Ja, je mehr, desto besser!",
-"plain\_text": "Lena: Hallo Paul, möchtest du am Samstag Fußball spielen? Paul: Ja, gerne! Um wie viel Uhr? Lena: Um 10 Uhr auf dem Sportplatz neben dem Park. Paul: Super, soll ich meine Freunde auch einladen? Lena: Ja, je mehr, desto besser!",
-"question": "Wo werden sie Fußball spielen?",
-"options": ["Im Park", "Auf dem Sportplatz neben dem Park", "In der Schule"],
-"answer": "Auf dem Sportplatz neben dem Park"
-},
-{
-"title": "Museum Besuch",
-"text": "Paul: Hallo Anna, hast du Zeit am Freitag ins Museum zu gehen?\nAnna: Hallo Paul! Ja, gerne. Wann treffen wir uns?\nPaul: Um 14 Uhr am Eingang.\nAnna: Super, soll ich die Tickets schon kaufen?\nPaul: Ja, bitte, danke!",
-"plain\_text": "Paul: Hallo Anna, hast du Zeit am Freitag ins Museum zu gehen? Anna: Hallo Paul! Ja, gerne. Wann treffen wir uns? Paul: Um 14 Uhr am Eingang. Anna: Super, soll ich die Tickets schon kaufen? Paul: Ja, bitte, danke!",
-"question": "Wann treffen sich Paul und Anna am Freitag?",
-"options": ["Um 13 Uhr", "Um 14 Uhr", "Um 15 Uhr"],
-"answer": "Um 14 Uhr"
-},
-{
-"title": "Schwimmen gehen",
-"text": "Tom: Hallo Lisa, möchtest du morgen schwimmen gehen?\nLisa: Ja, gerne! Um wie viel Uhr sollen wir uns treffen?\nTom: Um 10 Uhr am Schwimmbad.\nLisa: Super, soll ich die Schwimmsachen mitbringen?\nTom: Ja, bitte!",
-"plain\_text": "Tom: Hallo Lisa, möchtest du morgen schwimmen gehen? Lisa: Ja, gerne! Um wie viel Uhr sollen wir uns treffen? Tom: Um 10 Uhr am Schwimmbad. Lisa: Super, soll ich die Schwimmsachen mitbringen? Tom: Ja, bitte!",
-"question": "Wann treffen sich Tom und Lisa zum Schwimmen?",
-"options": ["Um 9 Uhr", "Um 10 Uhr", "Um 11 Uhr"],
-"answer": "Um 10 Uhr"
-},
-{
-"title": "Wandern am Sonntag",
-"text": "Lena: Hallo Mark, willst du am Sonntag wandern gehen?\nMark: Ja, das klingt gut. Um wie viel Uhr treffen wir uns?\nLena: Um 8 Uhr am Bahnhof.\nMark: Super, soll ich Wasser und Snacks mitbringen?\nLena: Ja, bitte!",
-"plain\_text": "Lena: Hallo Mark, willst du am Sonntag wandern gehen? Mark: Ja, das klingt gut. Um wie viel Uhr treffen wir uns? Lena: Um 8 Uhr am Bahnhof. Mark: Super, soll ich Wasser und Snacks mitbringen? Lena: Ja, bitte!",
-"question": "Wo treffen sich Lena und Mark?",
-"options": ["Am Bahnhof", "Im Park", "Zu Hause"],
-"answer": "Am Bahnhof"
-},
-{
-"title": "Geburtstagsfeier",
-"text": "Anna: Hallo Tom, kommst du zum Geburtstag von Maria?\nTom: Ja, ich freue mich schon. Um wie viel Uhr beginnt die Feier?\nAnna: Um 18 Uhr.\nTom: Super, soll ich etwas mitbringen?\nAnna: Ja, vielleicht einen Kuchen.",
-"plain\_text": "Anna: Hallo Tom, kommst du zum Geburtstag von Maria? Tom: Ja, ich freue mich schon. Um wie viel Uhr beginnt die Feier? Anna: Um 18 Uhr. Tom: Super, soll ich etwas mitbringen? Anna: Ja, vielleicht einen Kuchen.",
-"question": "Wann beginnt die Geburtstagsfeier?",
-"options": ["Um 17 Uhr", "Um 18 Uhr", "Um 19 Uhr"],
-"answer": "Um 18 Uhr"
-},
-{
-"title": "Frühstück im Café",
-"text": "Paul: Guten Morgen Anna, möchten wir zusammen frühstücken?\nAnna: Ja, gerne. Um wie viel Uhr sollen wir uns treffen?\nPaul: Um 9 Uhr im Café neben der Bäckerei.\nAnna: Super, soll ich Kaffee bestellen?\nPaul: Ja, bitte.",
-"plain\_text": "Paul: Guten Morgen Anna, möchten wir zusammen frühstücken? Anna: Ja, gerne. Um wie viel Uhr sollen wir uns treffen? Paul: Um 9 Uhr im Café neben der Bäckerei. Anna: Super, soll ich Kaffee bestellen? Paul: Ja, bitte.",
-"question": "Wo treffen sich Paul und Anna zum Frühstück?",
-"options": ["Im Café neben der Bäckerei", "Zu Hause", "Im Park"],
-"answer": "Im Café neben der Bäckerei"
-},
-{
-"title": "Theaterabend",
-"text": "Tom: Hallo Lisa, sollen wir heute Abend ins Theater gehen?\nLisa: Ja, das klingt gut. Wann beginnt die Vorstellung?\nTom: Um 19 Uhr.\nLisa: Super, sollen wir vorher etwas essen?\nTom: Ja, gerne.",
-"plain\_text": "Tom: Hallo Lisa, sollen wir heute Abend ins Theater gehen? Lisa: Ja, das klingt gut. Wann beginnt die Vorstellung? Tom: Um 19 Uhr. Lisa: Super, sollen wir vorher etwas essen? Tom: Ja, gerne.",
-"question": "Wann beginnt die Theateraufführung?",
-"options": ["Um 18 Uhr", "Um 19 Uhr", "Um 20 Uhr"],
-"answer": "Um 19 Uhr"
-},
-{
-"title": "Einkaufen gehen",
-"text": "Lena: Hallo Paul, wollen wir morgen einkaufen gehen?\nPaul: Ja, gerne. Wann wollen wir uns treffen?\nLena: Um 10 Uhr vor dem Supermarkt.\nPaul: Super, soll ich eine Einkaufsliste machen?\nLena: Ja, bitte.",
-"plain\_text": "Lena: Hallo Paul, wollen wir morgen einkaufen gehen? Paul: Ja, gerne. Wann wollen wir uns treffen? Lena: Um 10 Uhr vor dem Supermarkt. Paul: Super, soll ich eine Einkaufsliste machen? Lena: Ja, bitte.",
-"question": "Wann treffen sich Lena und Paul zum Einkaufen?",
-"options": ["Um 9 Uhr", "Um 10 Uhr", "Um 11 Uhr"],
-"answer": "Um 10 Uhr"
-}
+  {
+    "title": "Im Krankenhaus",
+    "text": "Anna: Hallo, ich habe seit gestern Abend starke Kopfschmerzen.\nArzt: Haben Sie Fieber oder Schwindel?\nAnna: Nein, nur starke Kopfschmerzen.\nArzt: Ich schreibe Ihnen ein Rezept für Tabletten. Nehmen Sie die Tabletten dreimal am Tag nach dem Essen.\nAnna: Danke, kann ich nach der Arbeit kommen, um die Tabletten abzuholen?\nArzt: Ja, kein Problem.",
+    "plain_text": "Anna: Hallo, ich habe seit gestern Abend starke Kopfschmerzen. Arzt: Haben Sie Fieber oder Schwindel? Anna: Nein, nur starke Kopfschmerzen. Arzt: Ich schreibe Ihnen ein Rezept für Tabletten. Nehmen Sie die Tabletten dreimal am Tag nach dem Essen. Anna: Danke, kann ich nach der Arbeit kommen, um die Tabletten abzuholen? Arzt: Ja, kein Problem.",
+    "question": "Wie oft soll Anna die Tabletten nehmen?",
+    "options": ["Einmal am Tag", "Zweimal am Tag", "Dreimal am Tag"],
+    "answer": "Dreimal am Tag"
+  },
+  {
+    "title": "Beim Bäcker",
+    "text": "Tom: Guten Morgen, ich hätte gern ein Brot und zwei Brötchen.\nBäcker: Möchten Sie das Brot schwarz oder hell?\nTom: Schwarz, bitte.\nBäcker: Sonst noch etwas?\nTom: Nein, danke.\nBäcker: Kommt sofort. Möchten Sie die Brötchen frisch aus dem Ofen?\nTom: Ja, bitte, ich nehme die frisch gebackenen.",
+    "plain_text": "Tom: Guten Morgen, ich hätte gern ein Brot und zwei Brötchen. Bäcker: Möchten Sie das Brot schwarz oder hell? Tom: Schwarz, bitte. Bäcker: Sonst noch etwas? Tom: Nein, danke. Bäcker: Kommt sofort. Möchten Sie die Brötchen frisch aus dem Ofen? Tom: Ja, bitte, ich nehme die frisch gebackenen.",
+    "question": "Welche Art von Brot möchte Tom?",
+    "options": ["Hell", "Schwarz", "Vollkorn"],
+    "answer": "Schwarz"
+  },
+  {
+    "title": "Im Park",
+    "text": "Lena: Hallo Paul, wollen wir heute Nachmittag spazieren gehen?\nPaul: Ja, gern. Sollen wir den Hund mitnehmen?\nLena: Ja, er freut sich bestimmt. Wo wollen wir starten?\nPaul: Vor dem Supermarkt?\nLena: Perfekt. Ich bringe Wasser für den Hund mit.\nPaul: Super, dann treffen wir uns um 15 Uhr dort.",
+    "plain_text": "Lena: Hallo Paul, wollen wir heute Nachmittag spazieren gehen? Paul: Ja, gern. Sollen wir den Hund mitnehmen? Lena: Ja, er freut sich bestimmt. Wo wollen wir starten? Paul: Vor dem Supermarkt? Lena: Perfekt. Ich bringe Wasser für den Hund mit. Paul: Super, dann treffen wir uns um 15 Uhr dort.",
+    "question": "Wen nehmen sie mit zum Spaziergang?",
+    "options": ["Die Katze", "Den Hund", "Die Freunde"],
+    "answer": "Den Hund"
+  },
+  {
+    "title": "Im Restaurant",
+    "text": "Anna: Guten Abend, haben Sie einen Tisch für zwei Personen?\nKellner: Ja, folgen Sie mir bitte. Hier ist die Speisekarte.\nAnna: Danke. Ich nehme die Suppe als Vorspeise.\nTom: Ich möchte das Schnitzel.\nKellner: Möchten Sie dazu einen Salat?\nAnna: Ja, bitte.\nKellner: Kommt sofort.",
+    "plain_text": "Anna: Guten Abend, haben Sie einen Tisch für zwei Personen? Kellner: Ja, folgen Sie mir bitte. Hier ist die Speisekarte. Anna: Danke. Ich nehme die Suppe als Vorspeise. Tom: Ich möchte das Schnitzel. Kellner: Möchten Sie dazu einen Salat? Anna: Ja, bitte. Kellner: Kommt sofort.",
+    "question": "Was bestellt Tom?",
+    "options": ["Suppe", "Schnitzel", "Salat"],
+    "answer": "Schnitzel"
+  },
+  {
+    "title": "Im Bahnhof",
+    "text": "Lena: Hallo, wann fährt der Zug nach Hamburg?\nPaul: In zehn Minuten.\nLena: Muss ich ein Ticket kaufen?\nPaul: Ja, am Automaten.\nLena: Wo genau ist der Automat?\nPaul: Neben dem Eingang, links.\nLena: Danke, ich gehe schnell hin, damit ich den Zug nicht verpasse.",
+    "plain_text": "Lena: Hallo, wann fährt der Zug nach Hamburg? Paul: In zehn Minuten. Lena: Muss ich ein Ticket kaufen? Paul: Ja, am Automaten. Lena: Wo genau ist der Automat? Paul: Neben dem Eingang, links. Lena: Danke, ich gehe schnell hin, damit ich den Zug nicht verpasse.",
+    "question": "Wo kann Lena das Ticket kaufen?",
+    "options": ["Beim Schaffner", "Am Automaten", "Im Zug"],
+    "answer": "Am Automaten"
+  },
+  {
+    "title": "Beim Friseur",
+    "text": "Anna: Guten Tag, ich möchte meine Haare schneiden lassen.\nFriseur: Wie kurz möchten Sie sie haben?\nAnna: Bitte nur die Spitzen.\nFriseur: Möchten Sie die Haare danach auch föhnen?\nAnna: Ja, bitte.\nFriseur: Alles klar, ich fange gleich an und danach föhne ich Ihre Haare.\nAnna: Danke schön.",
+    "plain_text": "Anna: Guten Tag, ich möchte meine Haare schneiden lassen. Friseur: Wie kurz möchten Sie sie haben? Anna: Bitte nur die Spitzen. Friseur: Möchten Sie die Haare danach auch föhnen? Anna: Ja, bitte. Friseur: Alles klar, ich fange gleich an und danach föhne ich Ihre Haare. Anna: Danke schön.",
+    "question": "Wie möchte Anna ihre Haare geschnitten haben?",
+    "options": ["Ganz kurz", "Nur die Spitzen", "Lange lassen"],
+    "answer": "Nur die Spitzen"
+  },
+  {
+    "title": "Im Kino",
+    "text": "Tom: Hallo Lena, welche Filme laufen heute?\nLena: 'Abenteuer im Wald' und 'Komödie am Abend'.\nTom: Ich möchte die Komödie sehen.\nLena: Super, wir treffen uns um 19 Uhr am Kino.\nTom: Perfekt! Soll ich Popcorn mitbringen?\nLena: Ja, bitte.\nTom: Dann bis später!",
+    "plain_text": "Tom: Hallo Lena, welche Filme laufen heute? Lena: 'Abenteuer im Wald' und 'Komödie am Abend'. Tom: Ich möchte die Komödie sehen. Lena: Super, wir treffen uns um 19 Uhr am Kino. Tom: Perfekt! Soll ich Popcorn mitbringen? Lena: Ja, bitte. Tom: Dann bis später!",
+    "question": "Welche Film möchte Tom sehen?",
+    "options": ["Abenteuer im Wald", "Komödie am Abend", "Beide Filme"],
+    "answer": "Komödie am Abend"
+  },
+  {
+    "title": "Im Fitnessstudio",
+    "text": "Lena: Hallo Paul, kommst du heute ins Fitnessstudio?\nPaul: Ja, ich möchte laufen.\nLena: Ich mache Yoga.\nPaul: Super, danach treffen wir uns im Café.\nLena: Perfekt, ich bringe ein Handtuch mit.\nPaul: Ich nehme meine Wasserflasche.\nLena: Dann sehen wir uns um 18 Uhr.",
+    "plain_text": "Lena: Hallo Paul, kommst du heute ins Fitnessstudio? Paul: Ja, ich möchte laufen. Lena: Ich mache Yoga. Paul: Super, danach treffen wir uns im Café. Lena: Perfekt, ich bringe ein Handtuch mit. Paul: Ich nehme meine Wasserflasche. Lena: Dann sehen wir uns um 18 Uhr.",
+    "question": "Was macht Lena im Fitnessstudio?",
+    "options": ["Laufen", "Yoga", "Schwimmen"],
+    "answer": "Yoga"
+  },
+  {
+    "title": "Im Supermarkt",
+    "text": "Anna: Hallo Tom, wir brauchen Obst und Gemüse.\nTom: Ich kaufe Äpfel, Bananen und Tomaten.\nAnna: Super, ich nehme noch Orangen und Gurken.\nTom: Dann haben wir genug für die Woche.\nAnna: Ja, lass uns auch Brot mitnehmen.\nTom: Ich gehe schnell zum Brotregal.\nAnna: Perfekt, danach zur Kasse.",
+    "plain_text": "Anna: Hallo Tom, wir brauchen Obst und Gemüse. Tom: Ich kaufe Äpfel, Bananen und Tomaten. Anna: Super, ich nehme noch Orangen und Gurken. Tom: Dann haben wir genug für die Woche. Anna: Ja, lass uns auch Brot mitnehmen. Tom: Ich gehe schnell zum Brotregal. Anna: Perfekt, danach zur Kasse.",
+    "question": "Welches Obst kauft Anna?",
+    "options": ["Äpfel", "Orangen", "Bananen"],
+    "answer": "Orangen"
+  },
+  {
+    "title": "Im Zoo",
+    "text": "Lena: Hallo Paul, wollen wir die Tiger im Zoo sehen?\nPaul: Ja, sie sollen sehr groß sein.\nLena: Danach gehen wir zu den Vögeln.\nPaul: Super, ich möchte auch die Affen sehen.\nLena: Dann gehen wir zuerst zu den Tigern, dann zu den Affen und danach zu den Vögeln.\nPaul: Perfekt, ich freue mich!",
+    "plain_text": "Lena: Hallo Paul, wollen wir die Tiger im Zoo sehen? Paul: Ja, sie sollen sehr groß sein. Lena: Danach gehen wir zu den Vögeln. Paul: Super, ich möchte auch die Affen sehen. Lena: Dann gehen wir zuerst zu den Tigern, dann zu den Affen und danach zu den Vögeln. Paul: Perfekt, ich freue mich!",
+    "question": "Welche Tiere wollen sie zuerst sehen?",
+    "options": ["Vögel", "Tiger", "Affen"],
+    "answer": "Tiger"
+  }
+,
+  {
+    "title": "Im Hotel",
+    "text": "Anna: Guten Tag, ich habe ein Zimmer reserviert.\nRezeptionist: Wie ist Ihr Name?\nAnna: Anna Müller.\nRezeptionist: Ah, hier ist Ihre Schlüsselkarte. Das Zimmer ist im dritten Stock.\nAnna: Danke. Gibt es WLAN im Zimmer?\nRezeptionist: Ja, kostenlos.\nAnna: Perfekt, ich gehe jetzt aufs Zimmer und ruhe mich ein wenig aus.",
+    "plain_text": "Anna: Guten Tag, ich habe ein Zimmer reserviert. Rezeptionist: Wie ist Ihr Name? Anna: Anna Müller. Rezeptionist: Ah, hier ist Ihre Schlüsselkarte. Das Zimmer ist im dritten Stock. Anna: Danke. Gibt es WLAN im Zimmer? Rezeptionist: Ja, kostenlos. Anna: Perfekt, ich gehe jetzt aufs Zimmer und ruhe mich ein wenig aus.",
+    "question": "Wo ist Annas Zimmer?",
+    "options": ["Im ersten Stock", "Im dritten Stock", "Im Erdgeschoss"],
+    "answer": "Im dritten Stock"
+  },
+  {
+    "title": "Beim Zahnarzt",
+    "text": "Paul: Guten Morgen, ich habe Zahnschmerzen.\nZahnarzt: Welche Zähne tun weh?\nPaul: Die oberen Backenzähne rechts.\nZahnarzt: Ich schaue mir das an. Bitte öffnen Sie den Mund.\nPaul: Aua, das tut weh.\nZahnarzt: Keine Sorge, ich gebe Ihnen zuerst ein Betäubungsspray.\nPaul: Danke, dann können Sie anfangen.",
+    "plain_text": "Paul: Guten Morgen, ich habe Zahnschmerzen. Zahnarzt: Welche Zähne tun weh? Paul: Die oberen Backenzähne rechts. Zahnarzt: Ich schaue mir das an. Bitte öffnen Sie den Mund. Paul: Aua, das tut weh. Zahnarzt: Keine Sorge, ich gebe Ihnen zuerst ein Betäubungsspray. Paul: Danke, dann können Sie anfangen.",
+    "question": "Welche Zähne tun Paul weh?",
+    "options": ["Obere Backenzähne rechts", "Untere Schneidezähne links", "Alle Zähne"],
+    "answer": "Obere Backenzähne rechts"
+  },
+  {
+    "title": "Im Supermarkt",
+    "text": "Lena: Hallo, ich suche frisches Gemüse.\nVerkäufer: Wir haben Tomaten, Gurken und Paprika.\nLena: Ich nehme drei Tomaten und zwei Gurken.\nVerkäufer: Möchten Sie noch etwas?\nLena: Ja, ein Bund Karotten bitte.\nVerkäufer: Alles zusammen kostet 6 Euro.\nLena: Hier, bitte. Danke schön.\nVerkäufer: Danke, einen schönen Tag noch!",
+    "plain_text": "Lena: Hallo, ich suche frisches Gemüse. Verkäufer: Wir haben Tomaten, Gurken und Paprika. Lena: Ich nehme drei Tomaten und zwei Gurken. Verkäufer: Möchten Sie noch etwas? Lena: Ja, ein Bund Karotten bitte. Verkäufer: Alles zusammen kostet 6 Euro. Lena: Hier, bitte. Danke schön. Verkäufer: Danke, einen schönen Tag noch!",
+    "question": "Was kauft Lena zusätzlich?",
+    "options": ["Paprika", "Karotten", "Zwiebeln"],
+    "answer": "Karotten"
+  },
+  {
+    "title": "Im Café",
+    "text": "Tom: Hallo, ich hätte gern einen Kaffee und ein Stück Kuchen.\nKellnerin: Möchten Sie Milch und Zucker im Kaffee?\nTom: Ja, bitte.\nKellnerin: Wir haben Schokoladen- und Apfelkuchen. Welchen möchten Sie?\nTom: Schokolade, bitte.\nKellnerin: Kommt sofort.\nTom: Danke, ich setze mich an den Tisch neben dem Fenster.",
+    "plain_text": "Tom: Hallo, ich hätte gern einen Kaffee und ein Stück Kuchen. Kellnerin: Möchten Sie Milch und Zucker im Kaffee? Tom: Ja, bitte. Kellnerin: Wir haben Schokoladen- und Apfelkuchen. Welchen möchten Sie? Tom: Schokolade, bitte. Kellnerin: Kommt sofort. Tom: Danke, ich setze mich an den Tisch neben dem Fenster.",
+    "question": "Welchen Kuchen bestellt Tom?",
+    "options": ["Apfelkuchen", "Schokoladenkuchen", "Käsekuchen"],
+    "answer": "Schokoladenkuchen"
+  },
+  {
+    "title": "Im Park",
+    "text": "Anna: Hallo Paul, sollen wir heute Volleyball spielen?\nPaul: Ja, das ist eine gute Idee.\nAnna: Sollen wir den Ball mitbringen?\nPaul: Ja, ich habe einen Ball zu Hause.\nAnna: Super, treffen wir uns um 16 Uhr am Eingang des Parks.\nPaul: Perfekt, dann sehen wir uns später.\nAnna: Ich freue mich schon sehr!",
+    "plain_text": "Anna: Hallo Paul, sollen wir heute Volleyball spielen? Paul: Ja, das ist eine gute Idee. Anna: Sollen wir den Ball mitbringen? Paul: Ja, ich habe einen Ball zu Hause. Anna: Super, treffen wir uns um 16 Uhr am Eingang des Parks. Paul: Perfekt, dann sehen wir uns später. Anna: Ich freue mich schon sehr!",
+    "question": "Um wie viel Uhr treffen sie sich?",
+    "options": ["15 Uhr", "16 Uhr", "17 Uhr"],
+    "answer": "16 Uhr"
+  },
+  {
+    "title": "Im Kino",
+    "text": "Lena: Hallo Tom, welcher Film läuft heute Abend?\nTom: 'Das große Abenteuer' und 'Komödie am Abend'.\nLena: Ich möchte 'Komödie am Abend' sehen.\nTom: Dann treffen wir uns um 19 Uhr am Kino.\nLena: Super, soll ich Popcorn mitbringen?\nTom: Ja, bitte.\nLena: Dann bis später, ich freue mich!",
+    "plain_text": "Lena: Hallo Tom, welcher Film läuft heute Abend? Tom: 'Das große Abenteuer' und 'Komödie am Abend'. Lena: Ich möchte 'Komödie am Abend' sehen. Tom: Dann treffen wir uns um 19 Uhr am Kino. Lena: Super, soll ich Popcorn mitbringen? Tom: Ja, bitte. Lena: Dann bis später, ich freue mich!",
+    "question": "Welchen Film möchte Lena sehen?",
+    "options": ["Das große Abenteuer", "Komödie am Abend", "Beide Filme"],
+    "answer": "Komödie am Abend"
+  },
+  {
+    "title": "Im Fitnessstudio",
+    "text": "Paul: Hallo Lena, willst du heute trainieren?\nLena: Ja, ich mache Yoga.\nPaul: Ich möchte joggen.\nLena: Danach können wir zusammen duschen.\nPaul: Perfekt, ich bringe Handtuch und Wasserflasche mit.\nLena: Ich auch.\nPaul: Dann treffen wir uns um 18 Uhr vor dem Eingang.\nLena: Super, bis später!",
+    "plain_text": "Paul: Hallo Lena, willst du heute trainieren? Lena: Ja, ich mache Yoga. Paul: Ich möchte joggen. Lena: Danach können wir zusammen duschen. Paul: Perfekt, ich bringe Handtuch und Wasserflasche mit. Lena: Ich auch. Paul: Dann treffen wir uns um 18 Uhr vor dem Eingang. Lena: Super, bis später!",
+    "question": "Welche Sportart macht Lena?",
+    "options": ["Joggen", "Yoga", "Schwimmen"],
+    "answer": "Yoga"
+  },
+  {
+    "title": "Beim Arzt",
+    "text": "Anna: Guten Tag, ich habe Halsschmerzen.\nArzt: Haben Sie Fieber?\nAnna: Ja, seit gestern Abend.\nArzt: Ich untersuche Ihren Hals. Bitte sagen Sie 'Ah'.\nAnna: Ah.\nArzt: Sie haben eine leichte Infektion. Ich verschreibe Ihnen Medikamente.\nAnna: Danke, dann gehe ich in die Apotheke.\nArzt: Gute Besserung!",
+    "plain_text": "Anna: Guten Tag, ich habe Halsschmerzen. Arzt: Haben Sie Fieber? Anna: Ja, seit gestern Abend. Arzt: Ich untersuche Ihren Hals. Bitte sagen Sie 'Ah'. Anna: Ah. Arzt: Sie haben eine leichte Infektion. Ich verschreibe Ihnen Medikamente. Anna: Danke, dann gehe ich in die Apotheke. Arzt: Gute Besserung!",
+    "question": "Was verschreibt der Arzt Anna?",
+    "options": ["Tabletten", "Salbe", "Tee"],
+    "answer": "Tabletten"
+  },
+  {
+    "title": "Im Bahnhof",
+    "text": "Lena: Hallo Paul, wann fährt der Zug nach Berlin?\nPaul: In zwanzig Minuten.\nLena: Muss ich ein Ticket kaufen?\nPaul: Ja, am Automaten.\nLena: Wo ist der Automat genau?\nPaul: Neben dem Eingang, links.\nLena: Danke, ich gehe schnell hin, damit ich den Zug nicht verpasse.\nPaul: Viel Erfolg!",
+    "plain_text": "Lena: Hallo Paul, wann fährt der Zug nach Berlin? Paul: In zwanzig Minuten. Lena: Muss ich ein Ticket kaufen? Paul: Ja, am Automaten. Lena: Wo ist der Automat genau? Paul: Neben dem Eingang, links. Lena: Danke, ich gehe schnell hin, damit ich den Zug nicht verpasse. Paul: Viel Erfolg!",
+    "question": "Wo kauft Lena das Ticket?",
+    "options": ["Beim Schaffner", "Am Automaten", "Im Zug"],
+    "answer": "Am Automaten"
+  },
+  {
+    "title": "Im Zoo",
+    "text": "Anna: Hallo Paul, wollen wir die Elefanten im Zoo sehen?\nPaul: Ja, sie sollen sehr groß sein.\nAnna: Danach gehen wir zu den Affen.\nPaul: Super, ich möchte auch die Vögel sehen.\nAnna: Dann zuerst Elefanten, dann Affen und danach Vögel.\nPaul: Perfekt, ich freue mich schon sehr!\nAnna: Ich auch!",
+    "plain_text": "Anna: Hallo Paul, wollen wir die Elefanten im Zoo sehen? Paul: Ja, sie sollen sehr groß sein. Anna: Danach gehen wir zu den Affen. Paul: Super, ich möchte auch die Vögel sehen. Anna: Dann zuerst Elefanten, dann Affen und danach Vögel. Paul: Perfekt, ich freue mich schon sehr! Anna: Ich auch!",
+    "question": "Welche Tiere sehen sie zuerst?",
+    "options": ["Vögel", "Elefanten", "Affen"],
+    "answer": "Elefanten"
+  }
+,
+  {
+    "title": "Im Bäckerladen",
+    "text": "Lena: Guten Morgen, ich hätte gern ein Vollkornbrot.\nBäcker: Möchten Sie noch Brötchen dazu?\nLena: Ja, zwei Brötchen bitte.\nBäcker: Sonst noch etwas?\nLena: Ein Stück Apfelkuchen bitte.\nBäcker: Alles zusammen macht 5,50 Euro.\nLena: Hier, bitte. Danke!\nBäcker: Gerne, einen schönen Tag noch!",
+    "plain_text": "Lena: Guten Morgen, ich hätte gern ein Vollkornbrot. Bäcker: Möchten Sie noch Brötchen dazu? Lena: Ja, zwei Brötchen bitte. Bäcker: Sonst noch etwas? Lena: Ein Stück Apfelkuchen bitte. Bäcker: Alles zusammen macht 5,50 Euro. Lena: Hier, bitte. Danke! Bäcker: Gerne, einen schönen Tag noch!",
+    "question": "Was kauft Lena zusätzlich zum Brot?",
+    "options": ["Brötchen und Kuchen", "Nur Brötchen", "Milch"],
+    "answer": "Brötchen und Kuchen"
+  },
+  {
+    "title": "Im Supermarkt",
+    "text": "Paul: Hallo Anna, wo ist die Milch?\nAnna: Sie ist im Kühlregal, links neben den Joghurts.\nPaul: Danke! Ich brauche auch Eier.\nAnna: Die sind im gleichen Gang, hinter der Milch.\nPaul: Super, dann nehme ich sechs Eier.\nAnna: Möchtest du noch Butter?\nPaul: Ja, bitte ein Paket.\nAnna: Alles klar, dann gehen wir zur Kasse.",
+    "plain_text": "Paul: Hallo Anna, wo ist die Milch? Anna: Sie ist im Kühlregal, links neben den Joghurts. Paul: Danke! Ich brauche auch Eier. Anna: Die sind im gleichen Gang, hinter der Milch. Paul: Super, dann nehme ich sechs Eier. Anna: Möchtest du noch Butter? Paul: Ja, bitte ein Paket. Anna: Alles klar, dann gehen wir zur Kasse.",
+    "question": "Wo sind die Eier?",
+    "options": ["Hinter der Milch", "Neben den Joghurt", "Im Obstregal"],
+    "answer": "Hinter der Milch"
+  },
+  {
+    "title": "Im Restaurant",
+    "text": "Tom: Guten Abend, haben Sie einen Tisch für zwei Personen?\nKellnerin: Ja, bitte hier entlang.\nTom: Danke. Können wir die Speisekarte sehen?\nKellnerin: Natürlich. Möchten Sie etwas trinken?\nTom: Ein Wasser bitte.\nKellnerin: Sehr gut. Wir haben heute frischen Fisch und Pasta.\nTom: Ich nehme Pasta.\nKellnerin: Kommt sofort, guten Appetit!",
+    "plain_text": "Tom: Guten Abend, haben Sie einen Tisch für zwei Personen? Kellnerin: Ja, bitte hier entlang. Tom: Danke. Können wir die Speisekarte sehen? Kellnerin: Natürlich. Möchten Sie etwas trinken? Tom: Ein Wasser bitte. Kellnerin: Sehr gut. Wir haben heute frischen Fisch und Pasta. Tom: Ich nehme Pasta. Kellnerin: Kommt sofort, guten Appetit!",
+    "question": "Was bestellt Tom zu essen?",
+    "options": ["Fisch", "Pasta", "Salat"],
+    "answer": "Pasta"
+  },
+  {
+    "title": "Im Bus",
+    "text": "Anna: Entschuldigung, hält dieser Bus am Hauptbahnhof?\nFahrer: Ja, direkt nach fünf Haltestellen.\nAnna: Wie lange dauert die Fahrt ungefähr?\nFahrer: Etwa 20 Minuten.\nAnna: Danke! Muss ich ein Ticket kaufen?\nFahrer: Ja, bitte vorne beim Fahrer.\nAnna: Alles klar, ich kaufe eins.\nFahrer: Gute Fahrt!",
+    "plain_text": "Anna: Entschuldigung, hält dieser Bus am Hauptbahnhof? Fahrer: Ja, direkt nach fünf Haltestellen. Anna: Wie lange dauert die Fahrt ungefähr? Fahrer: Etwa 20 Minuten. Anna: Danke! Muss ich ein Ticket kaufen? Fahrer: Ja, bitte vorne beim Fahrer. Anna: Alles klar, ich kaufe eins. Fahrer: Gute Fahrt!",
+    "question": "Wo kauft Anna das Ticket?",
+    "options": ["Am Automaten", "Beim Fahrer", "Am Kiosk"],
+    "answer": "Beim Fahrer"
+  },
+  {
+    "title": "Beim Arzt",
+    "text": "Paul: Guten Morgen, ich habe Kopfschmerzen.\nArzt: Seit wann haben Sie die Schmerzen?\nPaul: Seit gestern Abend.\nArzt: Haben Sie Fieber oder Husten?\nPaul: Nein, nur Kopfschmerzen.\nArzt: Ich verschreibe Ihnen Tabletten und Ruhe.\nPaul: Danke, ich nehme sie heute Abend.\nArzt: Gute Besserung!",
+    "plain_text": "Paul: Guten Morgen, ich habe Kopfschmerzen. Arzt: Seit wann haben Sie die Schmerzen? Paul: Seit gestern Abend. Arzt: Haben Sie Fieber oder Husten? Paul: Nein, nur Kopfschmerzen. Arzt: Ich verschreibe Ihnen Tabletten und Ruhe. Paul: Danke, ich nehme sie heute Abend. Arzt: Gute Besserung!",
+    "question": "Was verschreibt der Arzt Paul?",
+    "options": ["Tabletten", "Tee", "Salbe"],
+    "answer": "Tabletten"
+  },
+  {
+    "title": "Im Café",
+    "text": "Lena: Hallo, ich hätte gern einen Cappuccino und ein Stück Kuchen.\nKellner: Möchten Sie Schokolade oder Apfelkuchen?\nLena: Schokolade bitte.\nKellner: Möchten Sie den Kaffee mit Milch?\nLena: Ja, ein bisschen Milch.\nKellner: Kommt sofort.\nLena: Danke, ich setze mich ans Fenster.\nKellner: Viel Spaß beim Genießen!",
+    "plain_text": "Lena: Hallo, ich hätte gern einen Cappuccino und ein Stück Kuchen. Kellner: Möchten Sie Schokolade oder Apfelkuchen? Lena: Schokolade bitte. Kellner: Möchten Sie den Kaffee mit Milch? Lena: Ja, ein bisschen Milch. Kellner: Kommt sofort. Lena: Danke, ich setze mich ans Fenster. Kellner: Viel Spaß beim Genießen!",
+    "question": "Welchen Kuchen wählt Lena?",
+    "options": ["Apfelkuchen", "Schokoladenkuchen", "Käsekuchen"],
+    "answer": "Schokoladenkuchen"
+  },
+  {
+    "title": "Im Park",
+    "text": "Paul: Hallo Anna, wollen wir heute spazieren gehen?\nAnna: Ja, das Wetter ist schön.\nPaul: Gehen wir zum See oder durch den Wald?\nAnna: Zum See, dort können wir auch die Enten sehen.\nPaul: Gute Idee, wir nehmen ein kleines Picknick mit.\nAnna: Super, ich packe Getränke und Brot.\nPaul: Dann los!\nAnna: Ja, ich freue mich!",
+    "plain_text": "Paul: Hallo Anna, wollen wir heute spazieren gehen? Anna: Ja, das Wetter ist schön. Paul: Gehen wir zum See oder durch den Wald? Anna: Zum See, dort können wir auch die Enten sehen. Paul: Gute Idee, wir nehmen ein kleines Picknick mit. Anna: Super, ich packe Getränke und Brot. Paul: Dann los! Anna: Ja, ich freue mich!",
+    "question": "Wohin gehen Paul und Anna?",
+    "options": ["In den Wald", "Zum See", "In die Stadt"],
+    "answer": "Zum See"
+  },
+  {
+    "title": "Im Bahnhof",
+    "text": "Anna: Entschuldigung, wann fährt der Zug nach München?\nSchaffner: In 15 Minuten.\nAnna: Muss ich noch ein Ticket kaufen?\nSchaffner: Ja, am Automaten neben dem Eingang.\nAnna: Danke! Wo genau ist der Automat?\nSchaffner: Direkt links neben der Eingangstür.\nAnna: Alles klar, ich gehe schnell hin.\nSchaffner: Gute Reise!",
+    "plain_text": "Anna: Entschuldigung, wann fährt der Zug nach München? Schaffner: In 15 Minuten. Anna: Muss ich noch ein Ticket kaufen? Schaffner: Ja, am Automaten neben dem Eingang. Anna: Danke! Wo genau ist der Automat? Schaffner: Direkt links neben der Eingangstür. Anna: Alles klar, ich gehe schnell hin. Schaffner: Gute Reise!",
+    "question": "Wo kauft Anna das Ticket?",
+    "options": ["Beim Schaffner", "Am Automaten", "Im Zug"],
+    "answer": "Am Automaten"
+  },
+  {
+    "title": "Im Zoo",
+    "text": "Paul: Hallo Anna, wollen wir die Giraffen im Zoo sehen?\nAnna: Ja, sie sollen sehr groß sein.\nPaul: Danach gehen wir zu den Elefanten.\nAnna: Super, danach können wir die Affen sehen.\nPaul: Perfekt, ich möchte auch die Vögel sehen.\nAnna: Dann zuerst Giraffen, danach Elefanten und Affen.\nPaul: Alles klar, los geht’s!\nAnna: Ich freue mich!",
+    "plain_text": "Paul: Hallo Anna, wollen wir die Giraffen im Zoo sehen? Anna: Ja, sie sollen sehr groß sein. Paul: Danach gehen wir zu den Elefanten. Anna: Super, danach können wir die Affen sehen. Paul: Perfekt, ich möchte auch die Vögel sehen. Anna: Dann zuerst Giraffen, danach Elefanten und Affen. Paul: Alles klar, los geht’s! Anna: Ich freue mich!",
+    "question": "Welche Tiere sehen sie zuerst?",
+    "options": ["Giraffen", "Elefanten", "Affen"],
+    "answer": "Giraffen"
+  },
+  {
+    "title": "Im Museum",
+    "text": "Lena: Hallo Paul, wollen wir das Kunstmuseum besuchen?\nPaul: Ja, ich möchte die Gemälde sehen.\nLena: Es gibt auch eine Ausstellung moderner Kunst.\nPaul: Super, zuerst schauen wir die alten Meister an.\nLena: Danach gehen wir zur modernen Kunst.\nPaul: Gute Idee, ich mache viele Fotos.\nLena: Dann treffen wir uns um 10 Uhr am Eingang.\nPaul: Perfekt, bis morgen!",
+    "plain_text": "Lena: Hallo Paul, wollen wir das Kunstmuseum besuchen? Paul: Ja, ich möchte die Gemälde sehen. Lena: Es gibt auch eine Ausstellung moderner Kunst. Paul: Super, zuerst schauen wir die alten Meister an. Lena: Danach gehen wir zur modernen Kunst. Paul: Gute Idee, ich mache viele Fotos. Lena: Dann treffen wir uns um 10 Uhr am Eingang. Paul: Perfekt, bis morgen!",
+    "question": "Was möchten sie zuerst sehen?",
+    "options": ["Moderne Kunst", "Alte Meister", "Fotografien"],
+    "answer": "Alte Meister"
+  }
+,
+  {
+    "title": "Im Friseursalon",
+    "text": "Anna: Guten Morgen, ich möchte meine Haare schneiden lassen.\nFriseur: Natürlich. Wie möchten Sie die Haare geschnitten haben?\nAnna: Kurz und gleichmäßig, bitte.\nFriseur: Möchten Sie auch die Spitzen färben?\nAnna: Ja, bitte nur ein bisschen dunkler.\nFriseur: Alles klar. Setzen Sie sich bitte.\nAnna: Danke!\nFriseur: Dann fangen wir an.",
+    "plain_text": "Anna: Guten Morgen, ich möchte meine Haare schneiden lassen. Friseur: Natürlich. Wie möchten Sie die Haare geschnitten haben? Anna: Kurz und gleichmäßig, bitte. Friseur: Möchten Sie auch die Spitzen färben? Anna: Ja, bitte nur ein bisschen dunkler. Friseur: Alles klar. Setzen Sie sich bitte. Anna: Danke! Friseur: Dann fangen wir an.",
+    "question": "Was möchte Anna machen lassen?",
+    "options": ["Haare schneiden", "Nägel machen", "Massage bekommen"],
+    "answer": "Haare schneiden"
+  },
+  {
+    "title": "Im Kino",
+    "text": "Paul: Hallo Anna, wollen wir ins Kino gehen?\nAnna: Ja, welcher Film läuft?\nPaul: 'Die Reise ins Abenteuer', er beginnt um 18 Uhr.\nAnna: Super, ich kaufe die Karten online.\nPaul: Ich nehme Popcorn und Cola.\nAnna: Ich auch. Treffen wir uns vor dem Kino?\nPaul: Ja, um 17:45 Uhr.\nAnna: Perfekt, bis später!",
+    "plain_text": "Paul: Hallo Anna, wollen wir ins Kino gehen? Anna: Ja, welcher Film läuft? Paul: 'Die Reise ins Abenteuer', er beginnt um 18 Uhr. Anna: Super, ich kaufe die Karten online. Paul: Ich nehme Popcorn und Cola. Anna: Ich auch. Treffen wir uns vor dem Kino? Paul: Ja, um 17:45 Uhr. Anna: Perfekt, bis später!",
+    "question": "Wann treffen sich Paul und Anna vor dem Kino?",
+    "options": ["Um 18 Uhr", "Um 17:45 Uhr", "Um 17 Uhr"],
+    "answer": "Um 17:45 Uhr"
+  },
+  {
+    "title": "Beim Bäcker",
+    "text": "Lena: Guten Tag, ich hätte gern ein Roggenbrot.\nBäcker: Möchten Sie noch Brötchen dazu?\nLena: Ja, drei Brötchen bitte.\nBäcker: Sonst noch etwas?\nLena: Ein Stück Apfelkuchen bitte.\nBäcker: Alles zusammen kostet 6 Euro.\nLena: Hier, bitte. Danke!\nBäcker: Gerne, einen schönen Tag noch!",
+    "plain_text": "Lena: Guten Tag, ich hätte gern ein Roggenbrot. Bäcker: Möchten Sie noch Brötchen dazu? Lena: Ja, drei Brötchen bitte. Bäcker: Sonst noch etwas? Lena: Ein Stück Apfelkuchen bitte. Bäcker: Alles zusammen kostet 6 Euro. Lena: Hier, bitte. Danke! Bäcker: Gerne, einen schönen Tag noch!",
+    "question": "Wie viele Brötchen kauft Lena?",
+    "options": ["Zwei", "Drei", "Vier"],
+    "answer": "Drei"
+  },
+  {
+    "title": "Im Park",
+    "text": "Tom: Hallo Maria, wollen wir heute im Park spazieren gehen?\nMaria: Ja, das Wetter ist schön.\nTom: Gehen wir zum See oder zum Spielplatz?\nMaria: Zum See, dort können wir die Enten beobachten.\nTom: Gute Idee, wir nehmen einen Ball mit.\nMaria: Super, dann können wir auch ein Picknick machen.\nTom: Perfekt, ich bringe Getränke mit.\nMaria: Los geht’s!",
+    "plain_text": "Tom: Hallo Maria, wollen wir heute im Park spazieren gehen? Maria: Ja, das Wetter ist schön. Tom: Gehen wir zum See oder zum Spielplatz? Maria: Zum See, dort können wir die Enten beobachten. Tom: Gute Idee, wir nehmen einen Ball mit. Maria: Super, dann können wir auch ein Picknick machen. Tom: Perfekt, ich bringe Getränke mit. Maria: Los geht’s!",
+    "question": "Wohin gehen Tom und Maria?",
+    "options": ["Zum Spielplatz", "Zum See", "In die Stadt"],
+    "answer": "Zum See"
+  },
+  {
+    "title": "Im Supermarkt",
+    "text": "Paul: Hallo Lena, wo finde ich die Äpfel?\nLena: Sie sind im Obstregal, links neben den Bananen.\nPaul: Danke! Ich brauche auch Orangen.\nLena: Die sind im gleichen Regal, neben den Äpfeln.\nPaul: Super, ich nehme vier Äpfel und sechs Orangen.\nLena: Möchtest du noch Trauben?\nPaul: Nein, danke.\nLena: Alles klar, dann zur Kasse.",
+    "plain_text": "Paul: Hallo Lena, wo finde ich die Äpfel? Lena: Sie sind im Obstregal, links neben den Bananen. Paul: Danke! Ich brauche auch Orangen. Lena: Die sind im gleichen Regal, neben den Äpfeln. Paul: Super, ich nehme vier Äpfel und sechs Orangen. Lena: Möchtest du noch Trauben? Paul: Nein, danke. Lena: Alles klar, dann zur Kasse.",
+    "question": "Wie viele Orangen kauft Paul?",
+    "options": ["Vier", "Sechs", "Zwei"],
+    "answer": "Sechs"
+  },
+  {
+    "title": "Im Café",
+    "text": "Anna: Guten Morgen, ich hätte gern einen Latte Macchiato.\nKellner: Möchten Sie ein Stück Kuchen dazu?\nAnna: Ja, ein Stück Käsekuchen bitte.\nKellner: Möchten Sie den Kaffee groß oder klein?\nAnna: Groß bitte.\nKellner: Kommt sofort.\nAnna: Danke! Ich setze mich ans Fenster.\nKellner: Viel Spaß beim Genießen!",
+    "plain_text": "Anna: Guten Morgen, ich hätte gern einen Latte Macchiato. Kellner: Möchten Sie ein Stück Kuchen dazu? Anna: Ja, ein Stück Käsekuchen bitte. Kellner: Möchten Sie den Kaffee groß oder klein? Anna: Groß bitte. Kellner: Kommt sofort. Anna: Danke! Ich setze mich ans Fenster. Kellner: Viel Spaß beim Genießen!",
+    "question": "Welchen Kuchen wählt Anna?",
+    "options": ["Schokoladenkuchen", "Apfelkuchen", "Käsekuchen"],
+    "answer": "Käsekuchen"
+  },
+  {
+    "title": "Beim Arzt",
+    "text": "Paul: Guten Tag, ich habe Halsschmerzen.\nArzt: Seit wann haben Sie die Schmerzen?\nPaul: Seit zwei Tagen.\nArzt: Haben Sie Fieber?\nPaul: Ja, 38 Grad.\nArzt: Ich verschreibe Ihnen Medikamente und Ruhe.\nPaul: Danke, ich nehme sie heute Abend.\nArzt: Gute Besserung!",
+    "plain_text": "Paul: Guten Tag, ich habe Halsschmerzen. Arzt: Seit wann haben Sie die Schmerzen? Paul: Seit zwei Tagen. Arzt: Haben Sie Fieber? Paul: Ja, 38 Grad. Arzt: Ich verschreibe Ihnen Medikamente und Ruhe. Paul: Danke, ich nehme sie heute Abend. Arzt: Gute Besserung!",
+    "question": "Wie hoch ist Pauls Fieber?",
+    "options": ["37 Grad", "38 Grad", "39 Grad"],
+    "answer": "38 Grad"
+  },
+  {
+    "title": "Im Zoo",
+    "text": "Anna: Hallo Tom, wollen wir die Elefanten sehen?\nTom: Ja, danach gehen wir zu den Giraffen.\nAnna: Super, ich möchte auch die Affen sehen.\nTom: Dann zuerst Elefanten, danach Giraffen und Affen.\nAnna: Perfekt, wir machen viele Fotos.\nTom: Ja, die Tiere sind sehr interessant.\nAnna: Ich freue mich auf den ganzen Tag.\nTom: Los geht’s!",
+    "plain_text": "Anna: Hallo Tom, wollen wir die Elefanten sehen? Tom: Ja, danach gehen wir zu den Giraffen. Anna: Super, ich möchte auch die Affen sehen. Tom: Dann zuerst Elefanten, danach Giraffen und Affen. Anna: Perfekt, wir machen viele Fotos. Tom: Ja, die Tiere sind sehr interessant. Anna: Ich freue mich auf den ganzen Tag. Tom: Los geht’s!",
+    "question": "Welche Tiere sehen sie zuerst?",
+    "options": ["Giraffen", "Elefanten", "Affen"],
+    "answer": "Elefanten"
+  },
+  {
+    "title": "Am Bahnhof",
+    "text": "Paul: Entschuldigung, wann fährt der Zug nach Berlin?\nSchaffner: In 20 Minuten.\nPaul: Muss ich noch ein Ticket kaufen?\nSchaffner: Ja, am Automaten neben dem Eingang.\nPaul: Danke! Wo genau ist der Automat?\nSchaffner: Direkt links neben der Eingangstür.\nPaul: Alles klar, ich gehe schnell hin.\nSchaffner: Gute Reise!",
+    "plain_text": "Paul: Entschuldigung, wann fährt der Zug nach Berlin? Schaffner: In 20 Minuten. Paul: Muss ich noch ein Ticket kaufen? Schaffner: Ja, am Automaten neben dem Eingang. Paul: Danke! Wo genau ist der Automat? Schaffner: Direkt links neben der Eingangstür. Paul: Alles klar, ich gehe schnell hin. Schaffner: Gute Reise!",
+    "question": "Wo kauft Paul das Ticket?",
+    "options": ["Beim Schaffner", "Am Automaten", "Im Zug"],
+    "answer": "Am Automaten"
+  },
+  {
+    "title": "Im Museum",
+    "text": "Lena: Hallo Anna, wollen wir das Naturkundemuseum besuchen?\nAnna: Ja, ich möchte die Dinosaurier sehen.\nLena: Danach gibt es eine Ausstellung über Vögel.\nAnna: Super, zuerst schauen wir die Dinosaurier an.\nLena: Danach die Vögel.\nAnna: Ich möchte viele Fotos machen.\nLena: Dann treffen wir uns um 11 Uhr am Eingang.\nAnna: Perfekt, bis morgen!",
+    "plain_text": "Lena: Hallo Anna, wollen wir das Naturkundemuseum besuchen? Anna: Ja, ich möchte die Dinosaurier sehen. Lena: Danach gibt es eine Ausstellung über Vögel. Anna: Super, zuerst schauen wir die Dinosaurier an. Lena: Danach die Vögel. Anna: Ich möchte viele Fotos machen. Lena: Dann treffen wir uns um 11 Uhr am Eingang. Anna: Perfekt, bis morgen!",
+    "question": "Was möchten sie zuerst sehen?",
+    "options": ["Vögel", "Dinosaurier", "Gemälde"],
+    "answer": "Dinosaurier"
+  }
+,
+  {
+    "title": "Im Supermarkt Obstabteilung",
+    "text": "Lena: Hallo Paul, ich brauche Äpfel und Bananen.\nPaul: Wie viele Äpfel möchtest du?\nLena: Vier Äpfel bitte und sechs Bananen.\nPaul: Möchtest du auch Orangen?\nLena: Nein danke, nur Äpfel und Bananen.\nPaul: Alles klar. Soll ich die Früchte wiegen?\nLena: Ja, bitte.\nPaul: Fertig, das macht zusammen 5 Euro.",
+    "plain_text": "Lena: Hallo Paul, ich brauche Äpfel und Bananen. Paul: Wie viele Äpfel möchtest du? Lena: Vier Äpfel bitte und sechs Bananen. Paul: Möchtest du auch Orangen? Lena: Nein danke, nur Äpfel und Bananen. Paul: Alles klar. Soll ich die Früchte wiegen? Lena: Ja, bitte. Paul: Fertig, das macht zusammen 5 Euro.",
+    "question": "Wie viele Bananen kauft Lena?",
+    "options": ["Sechs", "Vier", "Zwei"],
+    "answer": "Sechs"
+  },
+  {
+    "title": "Im Fitnessstudio",
+    "text": "Tom: Hallo Anna, willst du heute zusammen trainieren?\nAnna: Ja, ich möchte laufen und Gewichte heben.\nTom: Super, ich gehe zuerst auf das Laufband.\nAnna: Ich gehe auch, danach machen wir Kraftübungen.\nTom: Gut, dann fangen wir um 18 Uhr an.\nAnna: Perfekt, ich bringe eine Wasserflasche mit.\nTom: Ich auch. Bis später!\nAnna: Bis dann!",
+    "plain_text": "Tom: Hallo Anna, willst du heute zusammen trainieren? Anna: Ja, ich möchte laufen und Gewichte heben. Tom: Super, ich gehe zuerst auf das Laufband. Anna: Ich gehe auch, danach machen wir Kraftübungen. Tom: Gut, dann fangen wir um 18 Uhr an. Anna: Perfekt, ich bringe eine Wasserflasche mit. Tom: Ich auch. Bis später! Anna: Bis dann!",
+    "question": "Wann fangen Tom und Anna mit dem Training an?",
+    "options": ["17 Uhr", "18 Uhr", "19 Uhr"],
+    "answer": "18 Uhr"
+  },
+  {
+    "title": "Im Buchladen",
+    "text": "Lena: Guten Tag, ich suche ein Buch über Tiere.\nVerkäufer: Haben Sie ein spezielles Tier im Sinn?\nLena: Ja, ich möchte etwas über Katzen lesen.\nVerkäufer: Wir haben ein neues Buch über Katzenhaltung.\nLena: Das klingt gut. Ich nehme es.\nVerkäufer: Möchten Sie noch ein Lesezeichen?\nLena: Ja, bitte.\nVerkäufer: Das macht zusammen 12 Euro.",
+    "plain_text": "Lena: Guten Tag, ich suche ein Buch über Tiere. Verkäufer: Haben Sie ein spezielles Tier im Sinn? Lena: Ja, ich möchte etwas über Katzen lesen. Verkäufer: Wir haben ein neues Buch über Katzenhaltung. Lena: Das klingt gut. Ich nehme es. Verkäufer: Möchten Sie noch ein Lesezeichen? Lena: Ja, bitte. Verkäufer: Das macht zusammen 12 Euro.",
+    "question": "Welches Tier interessiert Lena?",
+    "options": ["Hunde", "Katzen", "Vögel"],
+    "answer": "Katzen"
+  },
+  {
+    "title": "Im Restaurant",
+    "text": "Paul: Guten Abend, ich hätte gern die Tageskarte.\nKellner: Heute gibt es Spaghetti und Salat.\nPaul: Ich nehme die Spaghetti bitte.\nKellner: Möchten Sie etwas zu trinken?\nPaul: Ja, ein Glas Wasser bitte.\nKellner: Kommt sofort.\nPaul: Danke! Ich setze mich am Fenster.\nKellner: Guten Appetit!",
+    "plain_text": "Paul: Guten Abend, ich hätte gern die Tageskarte. Kellner: Heute gibt es Spaghetti und Salat. Paul: Ich nehme die Spaghetti bitte. Kellner: Möchten Sie etwas zu trinken? Paul: Ja, ein Glas Wasser bitte. Kellner: Kommt sofort. Paul: Danke! Ich setze mich am Fenster. Kellner: Guten Appetit!",
+    "question": "Was bestellt Paul?",
+    "options": ["Salat", "Spaghetti", "Pizza"],
+    "answer": "Spaghetti"
+  },
+  {
+    "title": "Im Kino",
+    "text": "Anna: Hallo Tom, wollen wir heute ins Kino gehen?\nTom: Ja, welcher Film läuft?\nAnna: 'Abenteuer im Wald', er beginnt um 19 Uhr.\nTom: Super, ich kaufe die Karten online.\nAnna: Ich bringe Popcorn und Getränke.\nTom: Treffen wir uns vor dem Kino?\nAnna: Ja, um 18:45 Uhr.\nTom: Perfekt, bis später!",
+    "plain_text": "Anna: Hallo Tom, wollen wir heute ins Kino gehen? Tom: Ja, welcher Film läuft? Anna: 'Abenteuer im Wald', er beginnt um 19 Uhr. Tom: Super, ich kaufe die Karten online. Anna: Ich bringe Popcorn und Getränke. Tom: Treffen wir uns vor dem Kino? Anna: Ja, um 18:45 Uhr. Tom: Perfekt, bis später!",
+    "question": "Wann treffen sich Anna und Tom?",
+    "options": ["18:45 Uhr", "19 Uhr", "18 Uhr"],
+    "answer": "18:45 Uhr"
+  },
+  {
+    "title": "Im Zoo",
+    "text": "Lena: Hallo Paul, wollen wir die Elefanten sehen?\nPaul: Ja, danach gehen wir zu den Affen.\nLena: Ich möchte auch die Giraffen sehen.\nPaul: Dann zuerst Elefanten, danach Giraffen und Affen.\nLena: Super, wir machen viele Fotos.\nPaul: Ja, die Tiere sind interessant.\nLena: Ich freue mich auf den ganzen Tag.\nPaul: Los geht’s!",
+    "plain_text": "Lena: Hallo Paul, wollen wir die Elefanten sehen? Paul: Ja, danach gehen wir zu den Affen. Lena: Ich möchte auch die Giraffen sehen. Paul: Dann zuerst Elefanten, danach Giraffen und Affen. Lena: Super, wir machen viele Fotos. Paul: Ja, die Tiere sind interessant. Lena: Ich freue mich auf den ganzen Tag. Paul: Los geht’s!",
+    "question": "Welche Tiere sehen sie zuerst?",
+    "options": ["Affen", "Giraffen", "Elefanten"],
+    "answer": "Elefanten"
+  },
+  {
+    "title": "Beim Arzt",
+    "text": "Tom: Guten Tag, ich habe Bauchschmerzen.\nArzt: Seit wann haben Sie die Schmerzen?\nTom: Seit gestern Abend.\nArzt: Haben Sie Fieber?\nTom: Nein, nur Bauchweh.\nArzt: Ich gebe Ihnen Medikamente und Ruhe.\nTom: Danke, ich nehme sie heute Abend.\nArzt: Gute Besserung!",
+    "plain_text": "Tom: Guten Tag, ich habe Bauchschmerzen. Arzt: Seit wann haben Sie die Schmerzen? Tom: Seit gestern Abend. Arzt: Haben Sie Fieber? Tom: Nein, nur Bauchweh. Arzt: Ich gebe Ihnen Medikamente und Ruhe. Tom: Danke, ich nehme sie heute Abend. Arzt: Gute Besserung!",
+    "question": "Welche Beschwerden hat Tom?",
+    "options": ["Husten", "Bauchschmerzen", "Fieber"],
+    "answer": "Bauchschmerzen"
+  },
+  {
+    "title": "Am Bahnhof",
+    "text": "Paul: Entschuldigung, wann fährt der Zug nach Hamburg?\nSchaffner: In 15 Minuten.\nPaul: Muss ich ein Ticket kaufen?\nSchaffner: Ja, am Automaten.\nPaul: Danke, wo genau ist der Automat?\nSchaffner: Links neben dem Eingang.\nPaul: Alles klar, ich gehe hin.\nSchaffner: Gute Reise!",
+    "plain_text": "Paul: Entschuldigung, wann fährt der Zug nach Hamburg? Schaffner: In 15 Minuten. Paul: Muss ich ein Ticket kaufen? Schaffner: Ja, am Automaten. Paul: Danke, wo genau ist der Automat? Schaffner: Links neben dem Eingang. Paul: Alles klar, ich gehe hin. Schaffner: Gute Reise!",
+    "question": "Wo kauft Paul das Ticket?",
+    "options": ["Am Automaten", "Beim Schaffner", "Im Zug"],
+    "answer": "Am Automaten"
+  },
+  {
+    "title": "Im Park",
+    "text": "Lena: Hallo Anna, wollen wir im Park spazieren gehen?\nAnna: Ja, das Wetter ist schön.\nLena: Gehen wir zum See oder zum Spielplatz?\nAnna: Zum See, dort können wir die Enten sehen.\nLena: Super, wir nehmen einen Ball mit.\nAnna: Dann machen wir auch ein Picknick.\nLena: Ich bringe Getränke mit.\nAnna: Los geht’s!",
+    "plain_text": "Lena: Hallo Anna, wollen wir im Park spazieren gehen? Anna: Ja, das Wetter ist schön. Lena: Gehen wir zum See oder zum Spielplatz? Anna: Zum See, dort können wir die Enten sehen. Lena: Super, wir nehmen einen Ball mit. Anna: Dann machen wir auch ein Picknick. Lena: Ich bringe Getränke mit. Anna: Los geht’s!",
+    "question": "Wohin gehen Lena und Anna zuerst?",
+    "options": ["Zum Spielplatz", "Zum See", "In die Stadt"],
+    "answer": "Zum See"
+  },
+  {
+    "title": "Im Café",
+    "text": "Tom: Guten Morgen, ich hätte gern einen Cappuccino.\nKellner: Möchten Sie ein Stück Kuchen dazu?\nTom: Ja, ein Stück Apfelkuchen bitte.\nKellner: Möchten Sie den Kaffee groß oder klein?\nTom: Groß bitte.\nKellner: Kommt sofort.\nTom: Danke! Ich setze mich an den Tisch am Fenster.\nKellner: Viel Spaß beim Genießen!",
+    "plain_text": "Tom: Guten Morgen, ich hätte gern einen Cappuccino. Kellner: Möchten Sie ein Stück Kuchen dazu? Tom: Ja, ein Stück Apfelkuchen bitte. Kellner: Möchten Sie den Kaffee groß oder klein? Tom: Groß bitte. Kellner: Kommt sofort. Tom: Danke! Ich setze mich an den Tisch am Fenster. Kellner: Viel Spaß beim Genießen!",
+    "question": "Welchen Kuchen wählt Tom?",
+    "options": ["Schokoladenkuchen", "Apfelkuchen", "Käsekuchen"],
+    "answer": "Apfelkuchen"
+  }
+,
+  {
+    "title": "Beim Bäcker",
+    "text": "Lena: Guten Morgen, ich möchte bitte zwei Brötchen und ein Croissant.\nBäcker: Möchten Sie etwas trinken dazu?\nLena: Ja, einen Kaffee bitte.\nBäcker: Kommt sofort. Möchten Sie Zucker oder Milch?\nLena: Milch bitte.\nBäcker: Das macht zusammen 4 Euro.\nLena: Hier bitte.\nBäcker: Danke, einen schönen Tag!",
+    "plain_text": "Lena: Guten Morgen, ich möchte bitte zwei Brötchen und ein Croissant. Bäcker: Möchten Sie etwas trinken dazu? Lena: Ja, einen Kaffee bitte. Bäcker: Kommt sofort. Möchten Sie Zucker oder Milch? Lena: Milch bitte. Bäcker: Das macht zusammen 4 Euro. Lena: Hier bitte. Bäcker: Danke, einen schönen Tag!",
+    "question": "Was kauft Lena?",
+    "options": ["Zwei Brötchen und ein Croissant", "Ein Brötchen und Kuchen", "Drei Croissants"],
+    "answer": "Zwei Brötchen und ein Croissant"
+  },
+  {
+    "title": "Beim Friseur",
+    "text": "Tom: Guten Tag, ich möchte meine Haare schneiden lassen.\nFriseur: Wie kurz möchten Sie sie haben?\nTom: Nur ein bisschen kürzer, bitte.\nFriseur: Möchten Sie auch die Spitzen schneiden?\nTom: Ja, bitte.\nFriseur: Dann machen wir zuerst die Seiten.\nTom: Gut, danke.\nFriseur: Fertig, wie gefällt es Ihnen?\nTom: Sehr gut!",
+    "plain_text": "Tom: Guten Tag, ich möchte meine Haare schneiden lassen. Friseur: Wie kurz möchten Sie sie haben? Tom: Nur ein bisschen kürzer, bitte. Friseur: Möchten Sie auch die Spitzen schneiden? Tom: Ja, bitte. Friseur: Dann machen wir zuerst die Seiten. Tom: Gut, danke. Friseur: Fertig, wie gefällt es Ihnen? Tom: Sehr gut!",
+    "question": "Was möchte Tom beim Friseur?",
+    "options": ["Haare färben", "Haare schneiden", "Bart rasieren"],
+    "answer": "Haare schneiden"
+  },
+  {
+    "title": "Im Supermarkt Getränke",
+    "text": "Anna: Hallo, ich brauche Mineralwasser und Apfelsaft.\nVerkäufer: Wie viele Flaschen möchten Sie?\nAnna: Vier Flaschen Wasser und zwei Flaschen Saft.\nVerkäufer: Möchten Sie auch etwas Süßes?\nAnna: Nein danke.\nVerkäufer: Alles klar, das macht zusammen 10 Euro.\nAnna: Hier bitte.\nVerkäufer: Danke, einen schönen Tag noch!",
+    "plain_text": "Anna: Hallo, ich brauche Mineralwasser und Apfelsaft. Verkäufer: Wie viele Flaschen möchten Sie? Anna: Vier Flaschen Wasser und zwei Flaschen Saft. Verkäufer: Möchten Sie auch etwas Süßes? Anna: Nein danke. Verkäufer: Alles klar, das macht zusammen 10 Euro. Anna: Hier bitte. Verkäufer: Danke, einen schönen Tag noch!",
+    "question": "Wie viele Flaschen Saft kauft Anna?",
+    "options": ["Zwei", "Vier", "Sechs"],
+    "answer": "Zwei"
+  },
+  {
+    "title": "Im Fitnessstudio",
+    "text": "Lena: Hallo Tom, wollen wir heute trainieren?\nTom: Ja, ich gehe zuerst auf das Laufband.\nLena: Ich gehe danach auf die Hanteln.\nTom: Dann machen wir am Ende zusammen Dehnübungen.\nLena: Gut, ich bringe Wasser mit.\nTom: Ich auch.\nLena: Wir fangen um 17 Uhr an.\nTom: Perfekt, bis später!",
+    "plain_text": "Lena: Hallo Tom, wollen wir heute trainieren? Tom: Ja, ich gehe zuerst auf das Laufband. Lena: Ich gehe danach auf die Hanteln. Tom: Dann machen wir am Ende zusammen Dehnübungen. Lena: Gut, ich bringe Wasser mit. Tom: Ich auch. Lena: Wir fangen um 17 Uhr an. Tom: Perfekt, bis später!",
+    "question": "Wann beginnen Lena und Tom zu trainieren?",
+    "options": ["16 Uhr", "17 Uhr", "18 Uhr"],
+    "answer": "17 Uhr"
+  },
+  {
+    "title": "Im Park spazieren",
+    "text": "Paul: Hallo Anna, wollen wir im Park spazieren gehen?\nAnna: Ja, das Wetter ist schön.\nPaul: Gehen wir zum See oder zum Spielplatz?\nAnna: Zum See, dort können wir Enten beobachten.\nPaul: Super, wir nehmen einen Ball mit.\nAnna: Dann machen wir auch ein Picknick.\nPaul: Ich bringe Sandwiches mit.\nAnna: Los geht’s!",
+    "plain_text": "Paul: Hallo Anna, wollen wir im Park spazieren gehen? Anna: Ja, das Wetter ist schön. Paul: Gehen wir zum See oder zum Spielplatz? Anna: Zum See, dort können wir Enten beobachten. Paul: Super, wir nehmen einen Ball mit. Anna: Dann machen wir auch ein Picknick. Paul: Ich bringe Sandwiches mit. Anna: Los geht’s!",
+    "question": "Wohin gehen Paul und Anna zuerst?",
+    "options": ["Zum Spielplatz", "Zum See", "In die Stadt"],
+    "answer": "Zum See"
+  },
+  {
+    "title": "Im Zoo",
+    "text": "Lena: Hallo Paul, wollen wir die Elefanten sehen?\nPaul: Ja, danach gehen wir zu den Affen.\nLena: Ich möchte auch die Giraffen sehen.\nPaul: Dann zuerst Elefanten, danach Giraffen und Affen.\nLena: Super, wir machen viele Fotos.\nPaul: Ja, die Tiere sind interessant.\nLena: Ich freue mich auf den ganzen Tag.\nPaul: Los geht’s!",
+    "plain_text": "Lena: Hallo Paul, wollen wir die Elefanten sehen? Paul: Ja, danach gehen wir zu den Affen. Lena: Ich möchte auch die Giraffen sehen. Paul: Dann zuerst Elefanten, danach Giraffen und Affen. Lena: Super, wir machen viele Fotos. Paul: Ja, die Tiere sind interessant. Lena: Ich freue mich auf den ganzen Tag. Paul: Los geht’s!",
+    "question": "Welche Tiere sehen sie zuerst?",
+    "options": ["Affen", "Giraffen", "Elefanten"],
+    "answer": "Elefanten"
+  },
+  {
+    "title": "Im Café",
+    "text": "Tom: Guten Morgen, ich hätte gern einen Cappuccino.\nKellner: Möchten Sie ein Stück Kuchen dazu?\nTom: Ja, ein Stück Apfelkuchen bitte.\nKellner: Möchten Sie den Kaffee groß oder klein?\nTom: Groß bitte.\nKellner: Kommt sofort.\nTom: Danke! Ich setze mich an den Tisch am Fenster.\nKellner: Viel Spaß beim Genießen!",
+    "plain_text": "Tom: Guten Morgen, ich hätte gern einen Cappuccino. Kellner: Möchten Sie ein Stück Kuchen dazu? Tom: Ja, ein Stück Apfelkuchen bitte. Kellner: Möchten Sie den Kaffee groß oder klein? Tom: Groß bitte. Kellner: Kommt sofort. Tom: Danke! Ich setze mich an den Tisch am Fenster. Kellner: Viel Spaß beim Genießen!",
+    "question": "Welchen Kuchen wählt Tom?",
+    "options": ["Schokoladenkuchen", "Apfelkuchen", "Käsekuchen"],
+    "answer": "Apfelkuchen"
+  },
+  {
+    "title": "Im Krankenhaus",
+    "text": "Lena: Guten Tag, ich habe Husten und Fieber.\nArzt: Seit wann geht es Ihnen so?\nLena: Seit zwei Tagen.\nArzt: Ich verschreibe Ihnen Medikamente.\nLena: Muss ich zu Hause bleiben?\nArzt: Ja, Ruhe ist wichtig.\nLena: Danke, ich nehme die Tabletten.\nArzt: Gute Besserung!",
+    "plain_text": "Lena: Guten Tag, ich habe Husten und Fieber. Arzt: Seit wann geht es Ihnen so? Lena: Seit zwei Tagen. Arzt: Ich verschreibe Ihnen Medikamente. Lena: Muss ich zu Hause bleiben? Arzt: Ja, Ruhe ist wichtig. Lena: Danke, ich nehme die Tabletten. Arzt: Gute Besserung!",
+    "question": "Welche Beschwerden hat Lena?",
+    "options": ["Husten und Fieber", "Bauchschmerzen", "Kopfschmerzen"],
+    "answer": "Husten und Fieber"
+  },
+  {
+    "title": "Beim Bäcker frühstücken",
+    "text": "Paul: Guten Morgen, ich hätte gern ein Brötchen mit Käse.\nBäcker: Möchten Sie Butter dazu?\nPaul: Ja, bitte.\nBäcker: Möchten Sie auch einen Kaffee?\nPaul: Ja, ein großer Kaffee bitte.\nBäcker: Kommt sofort.\nPaul: Danke! Ich setze mich an den Tisch.\nBäcker: Guten Appetit!",
+    "plain_text": "Paul: Guten Morgen, ich hätte gern ein Brötchen mit Käse. Bäcker: Möchten Sie Butter dazu? Paul: Ja, bitte. Bäcker: Möchten Sie auch einen Kaffee? Paul: Ja, ein großer Kaffee bitte. Bäcker: Kommt sofort. Paul: Danke! Ich setze mich an den Tisch. Bäcker: Guten Appetit!",
+    "question": "Was möchte Paul essen?",
+    "options": ["Ein Croissant", "Ein Brötchen mit Käse", "Ein Sandwich"],
+    "answer": "Ein Brötchen mit Käse"
+  }
+,
+  {
+    "title": "Im Kino",
+    "text": "Anna: Hallo Tom, wollen wir heute ins Kino gehen?\nTom: Ja, welcher Film läuft?\nAnna: 'Abenteuer im Wald'.\nTom: Um wie viel Uhr beginnt der Film?\nAnna: Um 18 Uhr.\nTom: Super, sollen wir vorher etwas essen?\nAnna: Ja, wir können Pommes im Kino kaufen.\nTom: Gut, dann treffen wir uns um 17:45 Uhr.",
+    "plain_text": "Anna: Hallo Tom, wollen wir heute ins Kino gehen? Tom: Ja, welcher Film läuft? Anna: 'Abenteuer im Wald'. Tom: Um wie viel Uhr beginnt der Film? Anna: Um 18 Uhr. Tom: Super, sollen wir vorher etwas essen? Anna: Ja, wir können Pommes im Kino kaufen. Tom: Gut, dann treffen wir uns um 17:45 Uhr.",
+    "question": "Um wie viel Uhr treffen sich Anna und Tom?",
+    "options": ["17:30", "17:45", "18:00"],
+    "answer": "17:45"
+  },
+  {
+    "title": "Beim Arzttermin",
+    "text": "Lena: Guten Tag, ich habe seit gestern Bauchschmerzen.\nArzt: Haben Sie auch Fieber?\nLena: Nein, nur Schmerzen.\nArzt: Ich untersuche Sie. Bitte legen Sie sich auf die Liege.\nLena: Gut.\nArzt: Es sieht nach einer leichten Magenentzündung aus.\nLena: Muss ich Tabletten nehmen?\nArzt: Ja, zweimal täglich nach dem Essen.\nLena: Danke schön.",
+    "plain_text": "Lena: Guten Tag, ich habe seit gestern Bauchschmerzen. Arzt: Haben Sie auch Fieber? Lena: Nein, nur Schmerzen. Arzt: Ich untersuche Sie. Bitte legen Sie sich auf die Liege. Lena: Gut. Arzt: Es sieht nach einer leichten Magenentzündung aus. Lena: Muss ich Tabletten nehmen? Arzt: Ja, zweimal täglich nach dem Essen. Lena: Danke schön.",
+    "question": "Welche Beschwerden hat Lena?",
+    "options": ["Kopfschmerzen", "Bauchschmerzen", "Husten"],
+    "answer": "Bauchschmerzen"
+  },
+  {
+    "title": "Im Supermarkt Obst",
+    "text": "Paul: Hallo, ich möchte Äpfel und Bananen kaufen.\nVerkäufer: Wie viele Äpfel möchten Sie?\nPaul: Fünf Äpfel und sechs Bananen bitte.\nVerkäufer: Möchten Sie auch Orangen?\nPaul: Nein, danke.\nVerkäufer: Das macht zusammen 8 Euro.\nPaul: Hier bitte.\nVerkäufer: Danke, einen schönen Tag!\nPaul: Danke, Ihnen auch.",
+    "plain_text": "Paul: Hallo, ich möchte Äpfel und Bananen kaufen. Verkäufer: Wie viele Äpfel möchten Sie? Paul: Fünf Äpfel und sechs Bananen bitte. Verkäufer: Möchten Sie auch Orangen? Paul: Nein, danke. Verkäufer: Das macht zusammen 8 Euro. Paul: Hier bitte. Verkäufer: Danke, einen schönen Tag! Paul: Danke, Ihnen auch.",
+    "question": "Wie viele Bananen kauft Paul?",
+    "options": ["Sechs", "Fünf", "Vier"],
+    "answer": "Sechs"
+  },
+  {
+    "title": "Im Bahnhof",
+    "text": "Anna: Hallo, wann fährt der nächste Zug nach Berlin?\nSchalter: Um 14:30 Uhr.\nAnna: Welches Gleis?\nSchalter: Gleis 5.\nAnna: Danke, wie lange dauert die Fahrt?\nSchalter: Etwa drei Stunden.\nAnna: Gut, ich kaufe eine Fahrkarte.\nSchalter: Das macht 45 Euro.\nAnna: Hier bitte.",
+    "plain_text": "Anna: Hallo, wann fährt der nächste Zug nach Berlin? Schalter: Um 14:30 Uhr. Anna: Welches Gleis? Schalter: Gleis 5. Anna: Danke, wie lange dauert die Fahrt? Schalter: Etwa drei Stunden. Anna: Gut, ich kaufe eine Fahrkarte. Schalter: Das macht 45 Euro. Anna: Hier bitte.",
+    "question": "Wann fährt der nächste Zug nach Berlin?",
+    "options": ["14:00 Uhr", "14:30 Uhr", "15:00 Uhr"],
+    "answer": "14:30 Uhr"
+  },
+  {
+    "title": "Im Restaurant",
+    "text": "Tom: Guten Abend, ich hätte gern die Tageskarte.\nKellner: Heute haben wir Nudeln mit Tomatensoße.\nTom: Ein Glas Wasser dazu bitte.\nKellner: Möchten Sie etwas Vorspeise?\nTom: Ja, einen kleinen Salat.\nKellner: Kommt sofort.\nTom: Danke, es riecht gut.\nKellner: Guten Appetit!\nTom: Danke.",
+    "plain_text": "Tom: Guten Abend, ich hätte gern die Tageskarte. Kellner: Heute haben wir Nudeln mit Tomatensoße. Tom: Ein Glas Wasser dazu bitte. Kellner: Möchten Sie etwas Vorspeise? Tom: Ja, einen kleinen Salat. Kellner: Kommt sofort. Tom: Danke, es riecht gut. Kellner: Guten Appetit! Tom: Danke.",
+    "question": "Was bestellt Tom als Hauptgericht?",
+    "options": ["Pizza", "Nudeln mit Tomatensoße", "Suppe"],
+    "answer": "Nudeln mit Tomatensoße"
+  },
+  {
+    "title": "Im Café",
+    "text": "Lena: Hallo, ich möchte einen Latte Macchiato.\nKellner: Möchten Sie auch ein Stück Kuchen?\nLena: Ja, ein Stück Schokoladenkuchen bitte.\nKellner: Groß oder klein?\nLena: Groß bitte.\nKellner: Kommt sofort.\nLena: Danke, ich setze mich an den Tisch am Fenster.\nKellner: Viel Spaß beim Genießen!",
+    "plain_text": "Lena: Hallo, ich möchte einen Latte Macchiato. Kellner: Möchten Sie auch ein Stück Kuchen? Lena: Ja, ein Stück Schokoladenkuchen bitte. Kellner: Groß oder klein? Lena: Groß bitte. Kellner: Kommt sofort. Lena: Danke, ich setze mich an den Tisch am Fenster. Kellner: Viel Spaß beim Genießen!",
+    "question": "Welchen Kuchen wählt Lena?",
+    "options": ["Schokoladenkuchen", "Apfelkuchen", "Käsekuchen"],
+    "answer": "Schokoladenkuchen"
+  },
+  {
+    "title": "Beim Friseur",
+    "text": "Paul: Guten Tag, ich möchte meine Haare schneiden lassen.\nFriseur: Wie kurz möchten Sie?\nPaul: Nicht zu kurz, bitte.\nFriseur: Möchten Sie die Spitzen schneiden?\nPaul: Ja.\nFriseur: Dann waschen wir zuerst die Haare.\nPaul: Gut.\nFriseur: Fertig, wie gefällt es Ihnen?\nPaul: Sehr gut, danke!",
+    "plain_text": "Paul: Guten Tag, ich möchte meine Haare schneiden lassen. Friseur: Wie kurz möchten Sie? Paul: Nicht zu kurz, bitte. Friseur: Möchten Sie die Spitzen schneiden? Paul: Ja. Friseur: Dann waschen wir zuerst die Haare. Paul: Gut. Friseur: Fertig, wie gefällt es Ihnen? Paul: Sehr gut, danke!",
+    "question": "Was möchte Paul beim Friseur?",
+    "options": ["Haare schneiden", "Haare färben", "Bart rasieren"],
+    "answer": "Haare schneiden"
+  },
+  {
+    "title": "Im Park spazieren",
+    "text": "Anna: Hallo Tom, wollen wir im Park spazieren gehen?\nTom: Ja, das Wetter ist schön.\nAnna: Gehen wir zum Spielplatz oder zum See?\nTom: Zum Spielplatz, dort können wir Ball spielen.\nAnna: Super, ich bringe den Ball.\nTom: Ich bringe Wasser mit.\nAnna: Los geht’s!\nTom: Bis gleich!",
+    "plain_text": "Anna: Hallo Tom, wollen wir im Park spazieren gehen? Tom: Ja, das Wetter ist schön. Anna: Gehen wir zum Spielplatz oder zum See? Tom: Zum Spielplatz, dort können wir Ball spielen. Anna: Super, ich bringe den Ball. Tom: Ich bringe Wasser mit. Anna: Los geht’s! Tom: Bis gleich!",
+    "question": "Wohin gehen Anna und Tom zuerst?",
+    "options": ["Zum See", "Zum Spielplatz", "In die Stadt"],
+    "answer": "Zum Spielplatz"
+  },
+  {
+    "title": "Beim Einkaufen Kleidung",
+    "text": "Lena: Hallo, ich suche eine blaue Jacke.\nVerkäufer: Welche Größe brauchen Sie?\nLena: Größe M bitte.\nVerkäufer: Hier, bitte.\nLena: Kann ich sie anprobieren?\nVerkäufer: Natürlich, die Umkleide ist dort.\nLena: Die Jacke passt gut.\nVerkäufer: Möchten Sie sie kaufen?\nLena: Ja, bitte.",
+    "plain_text": "Lena: Hallo, ich suche eine blaue Jacke. Verkäufer: Welche Größe brauchen Sie? Lena: Größe M bitte. Verkäufer: Hier, bitte. Lena: Kann ich sie anprobieren? Verkäufer: Natürlich, die Umkleide ist dort. Lena: Die Jacke passt gut. Verkäufer: Möchten Sie sie kaufen? Lena: Ja, bitte.",
+    "question": "Welche Größe sucht Lena?",
+    "options": ["S", "M", "L"],
+    "answer": "M"
+  },
+  {
+    "title": "Im Zoo",
+    "text": "Tom: Hallo Anna, wollen wir die Elefanten sehen?\nAnna: Ja, danach gehen wir zu den Affen.\nTom: Ich möchte auch die Giraffen sehen.\nAnna: Dann zuerst Elefanten, danach Giraffen und Affen.\nTom: Super, wir machen viele Fotos.\nAnna: Ja, die Tiere sind interessant.\nTom: Ich freue mich auf den ganzen Tag.\nAnna: Los geht’s!",
+    "plain_text": "Tom: Hallo Anna, wollen wir die Elefanten sehen? Anna: Ja, danach gehen wir zu den Affen. Tom: Ich möchte auch die Giraffen sehen. Anna: Dann zuerst Elefanten, danach Giraffen und Affen. Tom: Super, wir machen viele Fotos. Anna: Ja, die Tiere sind interessant. Tom: Ich freue mich auf den ganzen Tag. Anna: Los geht’s!",
+    "question": "Welche Tiere sehen sie zuerst?",
+    "options": ["Affen", "Giraffen", "Elefanten"],
+    "answer": "Elefanten"
+  }
 ]
+
+
+
+
