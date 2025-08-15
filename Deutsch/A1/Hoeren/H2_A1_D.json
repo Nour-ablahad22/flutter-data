@@ -1,61 +1,80 @@
-
 [
 {
+"title": "Kino Besuch",
 "text": "Anna: Hallo Peter, was machst du heute Nachmittag?\nPeter: Hallo Anna! Ich gehe ins Kino. Willst du mitkommen?\nAnna: Ja, gerne! Welcher Film läuft?\nPeter: 'Die Abenteuer von Max'. Er beginnt um 16 Uhr.\nAnna: Super, dann treffen wir uns um 15:30 vor dem Kino.\nPeter: Perfekt, bis später!",
+"plain\_text": "Anna: Hallo Peter, was machst du heute Nachmittag? Peter: Hallo Anna! Ich gehe ins Kino. Willst du mitkommen? Anna: Ja, gerne! Welcher Film läuft? Peter: 'Die Abenteuer von Max'. Er beginnt um 16 Uhr. Anna: Super, dann treffen wir uns um 15:30 vor dem Kino. Peter: Perfekt, bis später!",
 "question": "Wann treffen sich Anna und Peter vor dem Film?",
 "options": ["Um 16 Uhr", "Um 15:30", "Um 15 Uhr"],
 "answer": "Um 15:30"
 },
 {
+"title": "Kaffee trinken",
 "text": "Maria: Guten Morgen Tom! Hast du schon gefrühstückt?\nTom: Nein, noch nicht. Ich habe keine Zeit gehabt.\nMaria: Ich auch nicht. Sollen wir zusammen einen Kaffee trinken?\nTom: Ja, das ist eine gute Idee. Wir können auch ein Croissant essen.\nMaria: Super, lass uns ins Café um die Ecke gehen.",
+"plain\_text": "Maria: Guten Morgen Tom! Hast du schon gefrühstückt? Tom: Nein, noch nicht. Ich habe keine Zeit gehabt. Maria: Ich auch nicht. Sollen wir zusammen einen Kaffee trinken? Tom: Ja, das ist eine gute Idee. Wir können auch ein Croissant essen. Maria: Super, lass uns ins Café um die Ecke gehen.",
 "question": "Was haben Maria und Tom beschlossen zu tun?",
 "options": ["Frühstück zu Hause essen", "Ins Café gehen", "Einkaufen gehen"],
 "answer": "Ins Café gehen"
 },
 {
+"title": "Fußball am Samstag",
 "text": "Lena: Hallo Paul, möchtest du am Samstag Fußball spielen?\nPaul: Ja, gerne! Um wie viel Uhr?\nLena: Um 10 Uhr auf dem Sportplatz neben dem Park.\nPaul: Super, soll ich meine Freunde auch einladen?\nLena: Ja, je mehr, desto besser!",
+"plain\_text": "Lena: Hallo Paul, möchtest du am Samstag Fußball spielen? Paul: Ja, gerne! Um wie viel Uhr? Lena: Um 10 Uhr auf dem Sportplatz neben dem Park. Paul: Super, soll ich meine Freunde auch einladen? Lena: Ja, je mehr, desto besser!",
 "question": "Wo werden sie Fußball spielen?",
 "options": ["Im Park", "Auf dem Sportplatz neben dem Park", "In der Schule"],
 "answer": "Auf dem Sportplatz neben dem Park"
 },
 {
+"title": "Museum Besuch",
 "text": "Paul: Hallo Anna, hast du Zeit am Freitag ins Museum zu gehen?\nAnna: Hallo Paul! Ja, gerne. Wann treffen wir uns?\nPaul: Um 14 Uhr am Eingang.\nAnna: Super, soll ich die Tickets schon kaufen?\nPaul: Ja, bitte, danke!",
+"plain\_text": "Paul: Hallo Anna, hast du Zeit am Freitag ins Museum zu gehen? Anna: Hallo Paul! Ja, gerne. Wann treffen wir uns? Paul: Um 14 Uhr am Eingang. Anna: Super, soll ich die Tickets schon kaufen? Paul: Ja, bitte, danke!",
 "question": "Wann treffen sich Paul und Anna am Freitag?",
 "options": ["Um 13 Uhr", "Um 14 Uhr", "Um 15 Uhr"],
 "answer": "Um 14 Uhr"
 },
 {
+"title": "Schwimmen gehen",
 "text": "Tom: Hallo Lisa, möchtest du morgen schwimmen gehen?\nLisa: Ja, gerne! Um wie viel Uhr sollen wir uns treffen?\nTom: Um 10 Uhr am Schwimmbad.\nLisa: Super, soll ich die Schwimmsachen mitbringen?\nTom: Ja, bitte!",
+"plain\_text": "Tom: Hallo Lisa, möchtest du morgen schwimmen gehen? Lisa: Ja, gerne! Um wie viel Uhr sollen wir uns treffen? Tom: Um 10 Uhr am Schwimmbad. Lisa: Super, soll ich die Schwimmsachen mitbringen? Tom: Ja, bitte!",
 "question": "Wann treffen sich Tom und Lisa zum Schwimmen?",
 "options": ["Um 9 Uhr", "Um 10 Uhr", "Um 11 Uhr"],
 "answer": "Um 10 Uhr"
 },
 {
+"title": "Wandern am Sonntag",
 "text": "Lena: Hallo Mark, willst du am Sonntag wandern gehen?\nMark: Ja, das klingt gut. Um wie viel Uhr treffen wir uns?\nLena: Um 8 Uhr am Bahnhof.\nMark: Super, soll ich Wasser und Snacks mitbringen?\nLena: Ja, bitte!",
+"plain\_text": "Lena: Hallo Mark, willst du am Sonntag wandern gehen? Mark: Ja, das klingt gut. Um wie viel Uhr treffen wir uns? Lena: Um 8 Uhr am Bahnhof. Mark: Super, soll ich Wasser und Snacks mitbringen? Lena: Ja, bitte!",
 "question": "Wo treffen sich Lena und Mark?",
 "options": ["Am Bahnhof", "Im Park", "Zu Hause"],
 "answer": "Am Bahnhof"
 },
 {
+"title": "Geburtstagsfeier",
 "text": "Anna: Hallo Tom, kommst du zum Geburtstag von Maria?\nTom: Ja, ich freue mich schon. Um wie viel Uhr beginnt die Feier?\nAnna: Um 18 Uhr.\nTom: Super, soll ich etwas mitbringen?\nAnna: Ja, vielleicht einen Kuchen.",
+"plain\_text": "Anna: Hallo Tom, kommst du zum Geburtstag von Maria? Tom: Ja, ich freue mich schon. Um wie viel Uhr beginnt die Feier? Anna: Um 18 Uhr. Tom: Super, soll ich etwas mitbringen? Anna: Ja, vielleicht einen Kuchen.",
 "question": "Wann beginnt die Geburtstagsfeier?",
 "options": ["Um 17 Uhr", "Um 18 Uhr", "Um 19 Uhr"],
 "answer": "Um 18 Uhr"
 },
 {
-"text": "Paul: Guten Morgen Anna, möchtest du zusammen frühstücken?\nAnna: Ja, gerne. Um wie viel Uhr sollen wir uns treffen?\nPaul: Um 9 Uhr im Café neben der Bäckerei.\nAnna: Super, soll ich Kaffee bestellen?\nPaul: Ja, bitte.",
+"title": "Frühstück im Café",
+"text": "Paul: Guten Morgen Anna, möchten wir zusammen frühstücken?\nAnna: Ja, gerne. Um wie viel Uhr sollen wir uns treffen?\nPaul: Um 9 Uhr im Café neben der Bäckerei.\nAnna: Super, soll ich Kaffee bestellen?\nPaul: Ja, bitte.",
+"plain\_text": "Paul: Guten Morgen Anna, möchten wir zusammen frühstücken? Anna: Ja, gerne. Um wie viel Uhr sollen wir uns treffen? Paul: Um 9 Uhr im Café neben der Bäckerei. Anna: Super, soll ich Kaffee bestellen? Paul: Ja, bitte.",
 "question": "Wo treffen sich Paul und Anna zum Frühstück?",
 "options": ["Im Café neben der Bäckerei", "Zu Hause", "Im Park"],
 "answer": "Im Café neben der Bäckerei"
 },
 {
+"title": "Theaterabend",
 "text": "Tom: Hallo Lisa, sollen wir heute Abend ins Theater gehen?\nLisa: Ja, das klingt gut. Wann beginnt die Vorstellung?\nTom: Um 19 Uhr.\nLisa: Super, sollen wir vorher etwas essen?\nTom: Ja, gerne.",
+"plain\_text": "Tom: Hallo Lisa, sollen wir heute Abend ins Theater gehen? Lisa: Ja, das klingt gut. Wann beginnt die Vorstellung? Tom: Um 19 Uhr. Lisa: Super, sollen wir vorher etwas essen? Tom: Ja, gerne.",
 "question": "Wann beginnt die Theateraufführung?",
 "options": ["Um 18 Uhr", "Um 19 Uhr", "Um 20 Uhr"],
 "answer": "Um 19 Uhr"
 },
 {
+"title": "Einkaufen gehen",
 "text": "Lena: Hallo Paul, wollen wir morgen einkaufen gehen?\nPaul: Ja, gerne. Wann wollen wir uns treffen?\nLena: Um 10 Uhr vor dem Supermarkt.\nPaul: Super, soll ich eine Einkaufsliste machen?\nLena: Ja, bitte.",
+"plain\_text": "Lena: Hallo Paul, wollen wir morgen einkaufen gehen? Paul: Ja, gerne. Wann wollen wir uns treffen? Lena: Um 10 Uhr vor dem Supermarkt. Paul: Super, soll ich eine Einkaufsliste machen? Lena: Ja, bitte.",
 "question": "Wann treffen sich Lena und Paul zum Einkaufen?",
 "options": ["Um 9 Uhr", "Um 10 Uhr", "Um 11 Uhr"],
 "answer": "Um 10 Uhr"
