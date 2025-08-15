@@ -17,5 +17,47 @@
 "question": "Wo werden sie Fußball spielen?",
 "options": ["Im Park", "Auf dem Sportplatz neben dem Park", "In der Schule"],
 "answer": "Auf dem Sportplatz neben dem Park"
+},
+{
+"text": "Paul: Hallo Anna, hast du Zeit am Freitag ins Museum zu gehen?\nAnna: Hallo Paul! Ja, gerne. Wann treffen wir uns?\nPaul: Um 14 Uhr am Eingang.\nAnna: Super, soll ich die Tickets schon kaufen?\nPaul: Ja, bitte, danke!",
+"question": "Wann treffen sich Paul und Anna am Freitag?",
+"options": ["Um 13 Uhr", "Um 14 Uhr", "Um 15 Uhr"],
+"answer": "Um 14 Uhr"
+},
+{
+"text": "Tom: Hallo Lisa, möchtest du morgen schwimmen gehen?\nLisa: Ja, gerne! Um wie viel Uhr sollen wir uns treffen?\nTom: Um 10 Uhr am Schwimmbad.\nLisa: Super, soll ich die Schwimmsachen mitbringen?\nTom: Ja, bitte!",
+"question": "Wann treffen sich Tom und Lisa zum Schwimmen?",
+"options": ["Um 9 Uhr", "Um 10 Uhr", "Um 11 Uhr"],
+"answer": "Um 10 Uhr"
+},
+{
+"text": "Lena: Hallo Mark, willst du am Sonntag wandern gehen?\nMark: Ja, das klingt gut. Um wie viel Uhr treffen wir uns?\nLena: Um 8 Uhr am Bahnhof.\nMark: Super, soll ich Wasser und Snacks mitbringen?\nLena: Ja, bitte!",
+"question": "Wo treffen sich Lena und Mark?",
+"options": ["Am Bahnhof", "Im Park", "Zu Hause"],
+"answer": "Am Bahnhof"
+},
+{
+"text": "Anna: Hallo Tom, kommst du zum Geburtstag von Maria?\nTom: Ja, ich freue mich schon. Um wie viel Uhr beginnt die Feier?\nAnna: Um 18 Uhr.\nTom: Super, soll ich etwas mitbringen?\nAnna: Ja, vielleicht einen Kuchen.",
+"question": "Wann beginnt die Geburtstagsfeier?",
+"options": ["Um 17 Uhr", "Um 18 Uhr", "Um 19 Uhr"],
+"answer": "Um 18 Uhr"
+},
+{
+"text": "Paul: Guten Morgen Anna, möchtest du zusammen frühstücken?\nAnna: Ja, gerne. Um wie viel Uhr sollen wir uns treffen?\nPaul: Um 9 Uhr im Café neben der Bäckerei.\nAnna: Super, soll ich Kaffee bestellen?\nPaul: Ja, bitte.",
+"question": "Wo treffen sich Paul und Anna zum Frühstück?",
+"options": ["Im Café neben der Bäckerei", "Zu Hause", "Im Park"],
+"answer": "Im Café neben der Bäckerei"
+},
+{
+"text": "Tom: Hallo Lisa, sollen wir heute Abend ins Theater gehen?\nLisa: Ja, das klingt gut. Wann beginnt die Vorstellung?\nTom: Um 19 Uhr.\nLisa: Super, sollen wir vorher etwas essen?\nTom: Ja, gerne.",
+"question": "Wann beginnt die Theateraufführung?",
+"options": ["Um 18 Uhr", "Um 19 Uhr", "Um 20 Uhr"],
+"answer": "Um 19 Uhr"
+},
+{
+"text": "Lena: Hallo Paul, wollen wir morgen einkaufen gehen?\nPaul: Ja, gerne. Wann wollen wir uns treffen?\nLena: Um 10 Uhr vor dem Supermarkt.\nPaul: Super, soll ich eine Einkaufsliste machen?\nLena: Ja, bitte.",
+"question": "Wann treffen sich Lena und Paul zum Einkaufen?",
+"options": ["Um 9 Uhr", "Um 10 Uhr", "Um 11 Uhr"],
+"answer": "Um 10 Uhr"
 }
 ]
