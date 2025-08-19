@@ -118,7 +118,192 @@
     "question": "Wann soll der Bericht abgegeben werden?",
     "options": {"a": "Heute bis Mittag", "b": "Morgen", "c": "Heute Abend"},
     "answer": "a"
-  }
+  },
+
+  {
+  "id": 21,
+  "title": "Im Supermarkt",
+  "text": "Anna geht am Samstagmorgen in den Supermarkt. Sie braucht Brot, Milch, Käse und Obst. Zuerst nimmt sie ein frisches Baguette, danach sucht sie die Abteilung mit Milchprodukten. Dort findet sie Milch und Käse. Später kauft sie noch Äpfel und Bananen. An der Kasse wartet sie ein paar Minuten, dann bezahlt sie mit Karte. Zum Schluss packt sie alles in ihre Tasche und geht nach Hause.",
+  "text_no_newline": "Anna geht am Samstagmorgen in den Supermarkt. Sie braucht Brot, Milch, Käse und Obst. Zuerst nimmt sie ein frisches Baguette, danach sucht sie die Abteilung mit Milchprodukten. Dort findet sie Milch und Käse. Später kauft sie noch Äpfel und Bananen. An der Kasse wartet sie ein paar Minuten, dann bezahlt sie mit Karte. Zum Schluss packt sie alles in ihre Tasche und geht nach Hause.",
+  "question": "Was kauft Anna zuerst?",
+  "options": {
+    "a": "Milch",
+    "b": "Ein Baguette",
+    "c": "Äpfel"
+  },
+  "answer": "b",
+  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/21.mp3"
+}
+,{
+  "id": 22,
+  "title": "Im Café",
+  "text": "Markus trifft seine Freundin Lena in einem kleinen Café in der Stadt. Er bestellt einen Kaffee und ein Stück Kuchen. Lena möchte lieber einen Tee und ein Croissant. Sie sitzen am Fenster und sprechen über ihre Pläne für das Wochenende. Markus will ins Kino gehen, und Lena möchte einen Spaziergang im Park machen. Nach einer Stunde bezahlen sie und verabschieden sich freundlich.",
+  "text_no_newline": "Markus trifft seine Freundin Lena in einem kleinen Café in der Stadt. Er bestellt einen Kaffee und ein Stück Kuchen. Lena möchte lieber einen Tee und ein Croissant. Sie sitzen am Fenster und sprechen über ihre Pläne für das Wochenende. Markus will ins Kino gehen, und Lena möchte einen Spaziergang im Park machen. Nach einer Stunde bezahlen sie und verabschieden sich freundlich.",
+  "question": "Was bestellt Markus?",
+  "options": {
+    "a": "Einen Tee und ein Croissant",
+    "b": "Einen Kaffee und ein Stück Kuchen",
+    "c": "Einen Saft und ein Sandwich"
+  },
+  "answer": "b",
+  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/22.mp3"
+}
+,{
+  "id": 23,
+  "title": "Im Zug",
+  "text": "Thomas fährt mit dem Zug von Berlin nach Hamburg. Die Fahrt dauert ungefähr zwei Stunden. Er sitzt am Fenster und liest eine Zeitung. Neben ihm sitzt eine ältere Frau, die ein Buch liest. Der Zug ist nicht sehr voll, und die Stimmung ist ruhig. Kurz vor Hamburg hört Thomas eine Ansage vom Zugbegleiter. Er bereitet seine Tasche vor und steht auf, als der Zug den Bahnhof erreicht.",
+  "text_no_newline": "Thomas fährt mit dem Zug von Berlin nach Hamburg. Die Fahrt dauert ungefähr zwei Stunden. Er sitzt am Fenster und liest eine Zeitung. Neben ihm sitzt eine ältere Frau, die ein Buch liest. Der Zug ist nicht sehr voll, und die Stimmung ist ruhig. Kurz vor Hamburg hört Thomas eine Ansage vom Zugbegleiter. Er bereitet seine Tasche vor und steht auf, als der Zug den Bahnhof erreicht.",
+  "question": "Was macht Thomas während der Fahrt?",
+  "options": {
+    "a": "Er schläft.",
+    "b": "Er liest eine Zeitung.",
+    "c": "Er hört Musik."
+  },
+  "answer": "b",
+  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/23.mp3"
+},{
+  "id": 24,
+  "title": "Im Park",
+  "text": "Es ist Sonntag, und die Sonne scheint. Viele Menschen sind im Park. Kinder spielen Fußball, und einige fahren mit dem Fahrrad. Auf einer Bank sitzt eine alte Frau und liest die Zeitung. Neben dem Spielplatz macht eine Familie ein Picknick. Ein Hund läuft fröhlich über die Wiese und bellt laut. Die Leute genießen das schöne Wetter und bleiben den ganzen Nachmittag draußen.",
+  "text_no_newline": "Es ist Sonntag, und die Sonne scheint. Viele Menschen sind im Park. Kinder spielen Fußball, und einige fahren mit dem Fahrrad. Auf einer Bank sitzt eine alte Frau und liest die Zeitung. Neben dem Spielplatz macht eine Familie ein Picknick. Ein Hund läuft fröhlich über die Wiese und bellt laut. Die Leute genießen das schöne Wetter und bleiben den ganzen Nachmittag draußen.",
+  "question": "Was macht die alte Frau im Park?",
+  "options": {
+    "a": "Sie liest die Zeitung.",
+    "b": "Sie macht ein Picknick.",
+    "c": "Sie spielt Fußball."
+  },
+  "answer": "a",
+  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/24.mp3"
+}
+,{
+  "id": 25,
+  "title": "Beim Arzt",
+  "text": "Maria fühlt sich nicht gut. Sie hat Kopfschmerzen und Husten. Deshalb geht sie am Montagmorgen zum Arzt. Im Wartezimmer sitzen schon drei andere Patienten. Nach zwanzig Minuten kommt sie endlich dran. Der Arzt fragt sie nach ihren Beschwerden und hört ihre Lunge ab. Er verschreibt ihr Medizin gegen den Husten und sagt, dass sie sich ausruhen soll. Maria bedankt sich und geht nach Hause.",
+  "text_no_newline": "Maria fühlt sich nicht gut. Sie hat Kopfschmerzen und Husten. Deshalb geht sie am Montagmorgen zum Arzt. Im Wartezimmer sitzen schon drei andere Patienten. Nach zwanzig Minuten kommt sie endlich dran. Der Arzt fragt sie nach ihren Beschwerden und hört ihre Lunge ab. Er verschreibt ihr Medizin gegen den Husten und sagt, dass sie sich ausruhen soll. Maria bedankt sich und geht nach Hause.",
+  "question": "Warum geht Maria zum Arzt?",
+  "options": {
+    "a": "Sie möchte Sport machen.",
+    "b": "Sie hat Kopfschmerzen und Husten.",
+    "c": "Sie muss arbeiten."
+  },
+  "answer": "b",
+  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/25.mp3"
+}
+,{
+  "id": 26,
+  "title": "In der Schule",
+  "text": "Lukas ist Schüler in einer kleinen Schule. Jeden Morgen beginnt der Unterricht um acht Uhr. Heute hat er zuerst Deutsch, dann Mathematik und später Sport. In der Pause spielt er mit seinen Freunden im Hof Fußball. Nach der letzten Stunde muss er noch Hausaufgaben machen. Am Nachmittag liest er ein Buch für den Deutschunterricht. Lukas findet die Schule manchmal anstrengend, aber er lernt viel.",
+  "text_no_newline": "Lukas ist Schüler in einer kleinen Schule. Jeden Morgen beginnt der Unterricht um acht Uhr. Heute hat er zuerst Deutsch, dann Mathematik und später Sport. In der Pause spielt er mit seinen Freunden im Hof Fußball. Nach der letzten Stunde muss er noch Hausaufgaben machen. Am Nachmittag liest er ein Buch für den Deutschunterricht. Lukas findet die Schule manchmal anstrengend, aber er lernt viel.",
+  "question": "Was macht Lukas in der Pause?",
+  "options": {
+    "a": "Er spielt Fußball.",
+    "b": "Er liest ein Buch.",
+    "c": "Er macht Hausaufgaben."
+  },
+  "answer": "a",
+  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/26.mp3"
+}
+,{
+  "id": 27,
+  "title": "Im Hotel",
+  "text": "Peter fährt für zwei Tage nach München und übernachtet in einem Hotel in der Nähe vom Bahnhof. An der Rezeption meldet er sich an und bekommt ein Zimmer im dritten Stock. Das Zimmer ist klein, aber sehr sauber. Es gibt ein Bett, einen Schreibtisch und ein Bad mit Dusche. Am Abend isst Peter im Restaurant des Hotels. Am nächsten Morgen frühstückt er und macht dann einen Ausflug in die Stadt.",
+  "text_no_newline": "Peter fährt für zwei Tage nach München und übernachtet in einem Hotel in der Nähe vom Bahnhof. An der Rezeption meldet er sich an und bekommt ein Zimmer im dritten Stock. Das Zimmer ist klein, aber sehr sauber. Es gibt ein Bett, einen Schreibtisch und ein Bad mit Dusche. Am Abend isst Peter im Restaurant des Hotels. Am nächsten Morgen frühstückt er und macht dann einen Ausflug in die Stadt.",
+  "question": "Wo übernachtet Peter?",
+  "options": {
+    "a": "Bei Freunden",
+    "b": "Im Hotel",
+    "c": "In einer Schule"
+  },
+  "answer": "b",
+  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/27.mp3"
+}
+,{
+  "id": 28,
+  "title": "Am Bahnhof",
+  "text": "Sabine möchte ihre Freundin in Köln besuchen. Sie geht zum Bahnhof in Frankfurt und kauft ein Ticket am Automaten. Der Zug fährt um 10:15 Uhr ab. Sabine wartet auf Gleis 7. Viele andere Leute stehen auch dort. Einige lesen, andere trinken Kaffee. Als der Zug einfährt, steigt Sabine ein und sucht einen Platz am Fenster. Sie freut sich auf die Reise und das Wiedersehen mit ihrer Freundin.",
+  "text_no_newline": "Sabine möchte ihre Freundin in Köln besuchen. Sie geht zum Bahnhof in Frankfurt und kauft ein Ticket am Automaten. Der Zug fährt um 10:15 Uhr ab. Sabine wartet auf Gleis 7. Viele andere Leute stehen auch dort. Einige lesen, andere trinken Kaffee. Als der Zug einfährt, steigt Sabine ein und sucht einen Platz am Fenster. Sie freut sich auf die Reise und das Wiedersehen mit ihrer Freundin.",
+  "question": "Wo wartet Sabine?",
+  "options": {
+    "a": "Auf Gleis 7",
+    "b": "Im Restaurant",
+    "c": "Am Schalter"
+  },
+  "answer": "a",
+  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/28.mp3"
+}
+,{
+  "id": 29,
+  "title": "Beim Einkaufen",
+  "text": "Herr Müller geht nach der Arbeit in den Supermarkt. Er braucht Nudeln, Tomaten, Wasser und Käse. Zuerst nimmt er Nudeln aus dem Regal, dann geht er in die Gemüseabteilung und sucht frische Tomaten. Anschließend holt er eine Flasche Mineralwasser und ein Stück Käse. An der Kasse bezahlt er mit Bargeld. Draußen packt er alles in seine Tasche und fährt mit dem Fahrrad nach Hause.",
+  "text_no_newline": "Herr Müller geht nach der Arbeit in den Supermarkt. Er braucht Nudeln, Tomaten, Wasser und Käse. Zuerst nimmt er Nudeln aus dem Regal, dann geht er in die Gemüseabteilung und sucht frische Tomaten. Anschließend holt er eine Flasche Mineralwasser und ein Stück Käse. An der Kasse bezahlt er mit Bargeld. Draußen packt er alles in seine Tasche und fährt mit dem Fahrrad nach Hause.",
+  "question": "Wie bezahlt Herr Müller an der Kasse?",
+  "options": {
+    "a": "Mit Karte",
+    "b": "Mit Bargeld",
+    "c": "Mit Gutschein"
+  },
+  "answer": "b",
+  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/29.mp3"
+}
+,{
+  "id": 30,
+  "title": "Bei der Bank",
+  "text": "Frau Schneider braucht Geld und geht zur Bank. Sie zieht eine Nummer und wartet in der Halle. Nach zehn Minuten ruft ein Mitarbeiter sie auf. Frau Schneider möchte Geld vom Konto abheben und auch eine Überweisung machen. Der Mitarbeiter hilft ihr freundlich. Danach geht sie noch zum Geldautomaten und prüft ihr Konto. Zum Schluss bedankt sie sich und verlässt die Bank zufrieden.",
+  "text_no_newline": "Frau Schneider braucht Geld und geht zur Bank. Sie zieht eine Nummer und wartet in der Halle. Nach zehn Minuten ruft ein Mitarbeiter sie auf. Frau Schneider möchte Geld vom Konto abheben und auch eine Überweisung machen. Der Mitarbeiter hilft ihr freundlich. Danach geht sie noch zum Geldautomaten und prüft ihr Konto. Zum Schluss bedankt sie sich und verlässt die Bank zufrieden.",
+  "question": "Was möchte Frau Schneider bei der Bank machen?",
+  "options": {
+    "a": "Ein Konto eröffnen",
+    "b": "Geld abheben und überweisen",
+    "c": "Einen Kredit aufnehmen"
+  },
+  "answer": "b",
+  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/30.mp3"
+},
+  {
+  "id": 31,
+  "title": "Beim Bäcker",
+  "text": "Am Morgen geht Frau Keller zum Bäcker. Sie möchte frisches Brot für das Frühstück kaufen. In der Auslage sieht sie viele Brötchen, Croissants und Kuchen. Sie bestellt ein Roggenbrot, vier Brötchen und ein Stück Apfelkuchen. Die Verkäuferin packt alles in eine Tüte und sagt den Preis. Frau Keller bezahlt und wünscht einen schönen Tag. Dann geht sie nach Hause und deckt den Frühstückstisch.",
+  "text_no_newline": "Am Morgen geht Frau Keller zum Bäcker. Sie möchte frisches Brot für das Frühstück kaufen. In der Auslage sieht sie viele Brötchen, Croissants und Kuchen. Sie bestellt ein Roggenbrot, vier Brötchen und ein Stück Apfelkuchen. Die Verkäuferin packt alles in eine Tüte und sagt den Preis. Frau Keller bezahlt und wünscht einen schönen Tag. Dann geht sie nach Hause und deckt den Frühstückstisch.",
+  "question": "Was kauft Frau Keller außer Brot?",
+  "options": {
+    "a": "Ein Sandwich",
+    "b": "Brötchen und Kuchen",
+    "c": "Milch und Butter"
+  },
+  "answer": "b",
+  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/31.mp3"
+}
+,{
+  "id": 32,
+  "title": "Im Restaurant",
+  "text": "Am Samstagabend geht Daniel mit seiner Familie in ein italienisches Restaurant. Der Kellner bringt die Speisekarte. Daniel bestellt eine Pizza Margherita, seine Frau nimmt Spaghetti, und die Kinder wollen Pommes mit Hähnchen. Zum Trinken gibt es Wasser und Apfelsaft. Nach dem Essen bestellt die Familie noch zwei Kugeln Eis als Nachtisch. Alle sind satt und zufrieden. Am Ende bezahlt Daniel die Rechnung.",
+  "text_no_newline": "Am Samstagabend geht Daniel mit seiner Familie in ein italienisches Restaurant. Der Kellner bringt die Speisekarte. Daniel bestellt eine Pizza Margherita, seine Frau nimmt Spaghetti, und die Kinder wollen Pommes mit Hähnchen. Zum Trinken gibt es Wasser und Apfelsaft. Nach dem Essen bestellt die Familie noch zwei Kugeln Eis als Nachtisch. Alle sind satt und zufrieden. Am Ende bezahlt Daniel die Rechnung.",
+  "question": "Was bestellt Daniel zum Essen?",
+  "options": {
+    "a": "Spaghetti",
+    "b": "Pizza Margherita",
+    "c": "Hähnchen mit Pommes"
+  },
+  "answer": "b",
+  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/32.mp3"
+}
+,{
+  "id": 33,
+  "title": "In der Bibliothek",
+  "text": "Jonas braucht ein Buch für seinen Deutschkurs. Deshalb geht er in die Stadtbibliothek. Am Eingang zeigt er seinen Bibliotheksausweis. Dann sucht er im Computer nach dem Buch. Es steht im zweiten Stock. Jonas findet das Buch schnell und nimmt es mit zur Ausleihe. Die Mitarbeiterin scannt den Ausweis und erklärt den Rückgabetermin. Jonas bedankt sich und freut sich, zu Hause lesen zu können.",
+  "text_no_newline": "Jonas braucht ein Buch für seinen Deutschkurs. Deshalb geht er in die Stadtbibliothek. Am Eingang zeigt er seinen Bibliotheksausweis. Dann sucht er im Computer nach dem Buch. Es steht im zweiten Stock. Jonas findet das Buch schnell und nimmt es mit zur Ausleihe. Die Mitarbeiterin scannt den Ausweis und erklärt den Rückgabetermin. Jonas bedankt sich und freut sich, zu Hause lesen zu können.",
+  "question": "Wo findet Jonas das Buch?",
+  "options": {
+    "a": "Im Erdgeschoss",
+    "b": "Im zweiten Stock",
+    "c": "Im ersten Stock"
+  },
+  "answer": "b",
+  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/33.mp3"
+}
+
+
+
 
 
 ]
