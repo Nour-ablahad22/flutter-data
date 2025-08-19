@@ -16,7 +16,8 @@
     "text_no_newline": "Julia: Entschuldigung, wo ist der Check-in für Lufthansa? Mitarbeiter: Am Schalter 12, gleich nach der Sicherheitskontrolle. Julia: Danke, wie lange dauert es, bis ich dort bin? Mitarbeiter: Ungefähr fünf Minuten zu Fuß. Julia: Super, danke für Ihre Hilfe. Mitarbeiter: Gern geschehen, gute Reise! Julia: Vielen Dank. Mitarbeiter: Auf Wiedersehen.",
     "question": "Wo ist der Check-in für Lufthansa?",
     "options": {"a": "Am Schalter 12", "b": "Am Schalter 5", "c": "Am Schalter 8"},
-    "answer": "a"
+    "answer": "a",
+    "audio_url": "https://example.com/audio1.mp3"
   },
   {
     "id": 10,
