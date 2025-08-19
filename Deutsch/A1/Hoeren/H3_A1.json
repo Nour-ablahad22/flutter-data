@@ -7,5 +7,116 @@
   {"id":5,"title":"Im Restaurant","text":"Sarah: Guten Abend, ich hätte gern das Tagesmenü.\nKellner: Sehr gern, möchten Sie dazu Wasser oder Saft?\nSarah: Wasser bitte.\nKellner: Kommt sofort.\nSarah: Danke!\nKellner: Guten Appetit!\nSarah: Vielen Dank, das Essen sieht lecker aus.\nKellner: Freut mich.","text_no_newline":"Sarah: Guten Abend, ich hätte gern das Tagesmenü. Kellner: Sehr gern, möchten Sie dazu Wasser oder Saft? Sarah: Wasser bitte. Kellner: Kommt sofort. Sarah: Danke! Kellner: Guten Appetit! Sarah: Vielen Dank, das Essen sieht lecker aus. Kellner: Freut mich.","question":"Was möchte Sarah trinken?","options":{"a":"Saft","b":"Wasser","c":"Kaffee"},"answer":"b"},
   {"id":6,"title":"Im Kino","text":"Tom: Hallo, zwei Karten für den Film bitte.\nKassiererin: Gerne, welcher Film?\nTom: ‚Die Abenteuer des Max‘.\nKassiererin: Die Karten kosten zwölf Euro.\nTom: Hier bitte.\nKassiererin: Danke! Der Film beginnt um 19 Uhr.\nTom: Perfekt, danke für die Info.\nKassiererin: Viel Spaß!","text_no_newline":"Tom: Hallo, zwei Karten für den Film bitte. Kassiererin: Gerne, welcher Film? Tom: ‚Die Abenteuer des Max‘. Kassiererin: Die Karten kosten zwölf Euro. Tom: Hier bitte. Kassiererin: Danke! Der Film beginnt um 19 Uhr. Tom: Perfekt, danke für die Info. Kassiererin: Viel Spaß!","question":"Wann beginnt der Film?","options":{"a":"Um 18 Uhr","b":"Um 19 Uhr","c":"Um 20 Uhr"},"answer":"b"},
   {"id":7,"title":"Im Zoo","text":"Anna: Schau mal, die Elefanten!\nBen: Sie sind riesig.\nAnna: Willst du auch zu den Löwen?\nBen: Ja, lass uns gehen.\nAnna: Um drei Uhr ist die Fütterung.\nBen: Toll, dann sollten wir da sein.\nAnna: Ich freue mich schon.\nBen: Ich auch!","text_no_newline":"Anna: Schau mal, die Elefanten! Ben: Sie sind riesig. Anna: Willst du auch zu den Löwen? Ben: Ja, lass uns gehen. Anna: Um drei Uhr ist die Fütterung. Ben: Toll, dann sollten wir da sein. Anna: Ich freue mich schon. Ben: Ich auch!","question":"Wann ist die Löwenfütterung?","options":{"a":"Um zwei Uhr","b":"Um drei Uhr","c":"Um vier Uhr"},"answer":"b"},
-  {"id":8,"title":"Am Markt","text":"Clara: Guten Morgen, ich hätte gern Äpfel.\nVerkäufer: Wie viele möchten Sie?\nClara: Einen Kilo bitte.\nVerkäufer: Hier, bitte schön.\nClara: Danke! Haben Sie auch Bananen?\nVerkäufer: Ja, die sind dort drüben.\nClara: Super, dann nehme ich auch ein Kilo.\nVerkäufer: Gerne.","text_no_newline":"Clara: Guten Morgen, ich hätte gern Äpfel. Verkäufer: Wie viele möchten Sie? Clara: Einen Kilo bitte. Verkäufer: Hier, bitte schön. Clara: Danke! Haben Sie auch Bananen? Verkäufer: Ja, die sind dort drüben. Clara: Super, dann nehme ich auch ein Kilo. Verkäufer: Gerne.","question":"Wie viele Kilo Äpfel möchte Clara?","options":{"a":"Ein Kilo","b":"Zwei Kilo","c":"Drei Kilo"},"answer":"a"}
+  {"id":8,"title":"Am Markt","text":"Clara: Guten Morgen, ich hätte gern Äpfel.\nVerkäufer: Wie viele möchten Sie?\nClara: Einen Kilo bitte.\nVerkäufer: Hier, bitte schön.\nClara: Danke! Haben Sie auch Bananen?\nVerkäufer: Ja, die sind dort drüben.\nClara: Super, dann nehme ich auch ein Kilo.\nVerkäufer: Gerne.","text_no_newline":"Clara: Guten Morgen, ich hätte gern Äpfel. Verkäufer: Wie viele möchten Sie? Clara: Einen Kilo bitte. Verkäufer: Hier, bitte schön. Clara: Danke! Haben Sie auch Bananen? Verkäufer: Ja, die sind dort drüben. Clara: Super, dann nehme ich auch ein Kilo. Verkäufer: Gerne.","question":"Wie viele Kilo Äpfel möchte Clara?","options":{"a":"Ein Kilo","b":"Zwei Kilo","c":"Drei Kilo"},"answer":"a"},
+  
+  {
+    "id": 9,
+    "title": "Am Flughafen",
+    "text": "Julia: Entschuldigung, wo ist der Check-in für Lufthansa?\nMitarbeiter: Am Schalter 12, gleich nach der Sicherheitskontrolle.\nJulia: Danke, wie lange dauert es, bis ich dort bin?\nMitarbeiter: Ungefähr fünf Minuten zu Fuß.\nJulia: Super, danke für Ihre Hilfe.\nMitarbeiter: Gern geschehen, gute Reise!\nJulia: Vielen Dank.\nMitarbeiter: Auf Wiedersehen.",
+    "text_no_newline": "Julia: Entschuldigung, wo ist der Check-in für Lufthansa? Mitarbeiter: Am Schalter 12, gleich nach der Sicherheitskontrolle. Julia: Danke, wie lange dauert es, bis ich dort bin? Mitarbeiter: Ungefähr fünf Minuten zu Fuß. Julia: Super, danke für Ihre Hilfe. Mitarbeiter: Gern geschehen, gute Reise! Julia: Vielen Dank. Mitarbeiter: Auf Wiedersehen.",
+    "question": "Wo ist der Check-in für Lufthansa?",
+    "options": {"a": "Am Schalter 12", "b": "Am Schalter 5", "c": "Am Schalter 8"},
+    "answer": "a"
+  },
+  {
+    "id": 10,
+    "title": "Im Hotel",
+    "text": "Stefan: Guten Tag, ich habe eine Reservierung auf den Namen Müller.\nRezeptionistin: Ja, Herr Müller, ein Einzelzimmer für zwei Nächte.\nStefan: Perfekt, kann ich das Zimmer schon um 12 Uhr beziehen?\nRezeptionistin: Normalerweise ab 14 Uhr, aber ich sehe, ob es schon fertig ist.\nStefan: Danke, das wäre sehr nett.\nRezeptionistin: Ihr Zimmer ist bereit, Sie können einchecken.\nStefan: Super, danke schön.\nRezeptionistin: Gern geschehen.",
+    "text_no_newline": "Stefan: Guten Tag, ich habe eine Reservierung auf den Namen Müller. Rezeptionistin: Ja, Herr Müller, ein Einzelzimmer für zwei Nächte. Stefan: Perfekt, kann ich das Zimmer schon um 12 Uhr beziehen? Rezeptionistin: Normalerweise ab 14 Uhr, aber ich sehe, ob es schon fertig ist. Stefan: Danke, das wäre sehr nett. Rezeptionistin: Ihr Zimmer ist bereit, Sie können einchecken. Stefan: Super, danke schön. Rezeptionistin: Gern geschehen.",
+    "question": "Wann ist das Zimmer normalerweise verfügbar?",
+    "options": {"a": "Ab 12 Uhr", "b": "Ab 14 Uhr", "c": "Ab 16 Uhr"},
+    "answer": "b"
+  },
+  {
+    "id": 11,
+    "title": "Im Supermarkt",
+    "text": "Anna: Entschuldigung, wo finde ich die Äpfel?\nVerkäufer: Im Gang 2, neben den Bananen.\nAnna: Danke, und wo ist die Milch?\nVerkäufer: Im Gang 5, am Ende rechts.\nAnna: Perfekt, danke für Ihre Hilfe.\nVerkäufer: Gern geschehen.\nAnna: Schön, dass Sie mir geholfen haben.\nVerkäufer: Kein Problem.",
+    "text_no_newline": "Anna: Entschuldigung, wo finde ich die Äpfel? Verkäufer: Im Gang 2, neben den Bananen. Anna: Danke, und wo ist die Milch? Verkäufer: Im Gang 5, am Ende rechts. Anna: Perfekt, danke für Ihre Hilfe. Verkäufer: Gern geschehen. Anna: Schön, dass Sie mir geholfen haben. Verkäufer: Kein Problem.",
+    "question": "Wo sind die Äpfel?",
+    "options": {"a": "Im Gang 2", "b": "Im Gang 5", "c": "Im Gang 1"},
+    "answer": "a"
+  },
+  {
+    "id": 12,
+    "title": "Im Restaurant",
+    "text": "Kellner: Guten Abend, haben Sie eine Reservierung?\nGast: Ja, auf den Namen Schneider.\nKellner: Sehr gut, hier ist Ihr Tisch am Fenster.\nGast: Danke, könnten wir gleich die Speisekarte haben?\nKellner: Natürlich, hier bitte. Möchten Sie etwas trinken?\nGast: Ja, ein Glas Wasser bitte.\nKellner: Kommt sofort.\nGast: Vielen Dank.",
+    "text_no_newline": "Kellner: Guten Abend, haben Sie eine Reservierung? Gast: Ja, auf den Namen Schneider. Kellner: Sehr gut, hier ist Ihr Tisch am Fenster. Gast: Danke, könnten wir gleich die Speisekarte haben? Kellner: Natürlich, hier bitte. Möchten Sie etwas trinken? Gast: Ja, ein Glas Wasser bitte. Kellner: Kommt sofort. Gast: Vielen Dank.",
+    "question": "Wo sitzt der Gast?",
+    "options": {"a": "Am Fenster", "b": "In der Mitte", "c": "Draußen"},
+    "answer": "a"
+  },
+  {
+    "id": 13,
+    "title": "Beim Arzt",
+    "text": "Arzt: Guten Tag, was fehlt Ihnen?\nPatient: Ich habe seit gestern starke Kopfschmerzen.\nArzt: Haben Sie auch Fieber oder Husten?\nPatient: Nein, nur Kopfschmerzen.\nArzt: Ich verschreibe Ihnen Tabletten, die helfen sollten.\nPatient: Danke. Muss ich mich ausruhen?\nArzt: Ja, bleiben Sie ein paar Tage zu Hause.\nPatient: In Ordnung, vielen Dank.",
+    "text_no_newline": "Arzt: Guten Tag, was fehlt Ihnen? Patient: Ich habe seit gestern starke Kopfschmerzen. Arzt: Haben Sie auch Fieber oder Husten? Patient: Nein, nur Kopfschmerzen. Arzt: Ich verschreibe Ihnen Tabletten, die helfen sollten. Patient: Danke. Muss ich mich ausruhen? Arzt: Ja, bleiben Sie ein paar Tage zu Hause. Patient: In Ordnung, vielen Dank.",
+    "question": "Was hat der Patient?",
+    "options": {"a": "Bauchschmerzen", "b": "Kopfschmerzen", "c": "Husten"},
+    "answer": "b"
+  },
+  {
+    "id": 14,
+    "title": "Im Zug",
+    "text": "Reisender: Entschuldigung, fährt dieser Zug nach Berlin?\nSchaffner: Ja, aber Sie müssen in Leipzig umsteigen.\nReisender: Danke. Wie lange dauert die Fahrt bis Leipzig?\nSchaffner: Ungefähr zwei Stunden.\nReisender: Und von dort nach Berlin?\nSchaffner: Noch einmal eine Stunde und dreißig Minuten.\nReisender: Perfekt, danke für die Information.\nSchaffner: Kein Problem, gute Reise.",
+    "text_no_newline": "Reisender: Entschuldigung, fährt dieser Zug nach Berlin? Schaffner: Ja, aber Sie müssen in Leipzig umsteigen. Reisender: Danke. Wie lange dauert die Fahrt bis Leipzig? Schaffner: Ungefähr zwei Stunden. Reisender: Und von dort nach Berlin? Schaffner: Noch einmal eine Stunde und dreißig Minuten. Reisender: Perfekt, danke für die Information. Schaffner: Kein Problem, gute Reise.",
+    "question": "Wo muss der Reisende umsteigen?",
+    "options": {"a": "In Dresden", "b": "In Leipzig", "c": "In Hamburg"},
+    "answer": "b"
+  },
+  {
+    "id": 15,
+    "title": "In der Schule",
+    "text": "Lehrer: Guten Morgen, habt ihr die Hausaufgaben gemacht?\nSchüler: Ja, aber die Aufgabe drei war schwierig.\nLehrer: Kein Problem, wir besprechen sie zusammen.\nSchülerin: Können wir die Lösung an der Tafel sehen?\nLehrer: Natürlich, kommt bitte nach vorne.\nSchüler: Danke, das hilft uns sehr.\nLehrer: Gern geschehen.\nSchülerin: Super.",
+    "text_no_newline": "Lehrer: Guten Morgen, habt ihr die Hausaufgaben gemacht? Schüler: Ja, aber die Aufgabe drei war schwierig. Lehrer: Kein Problem, wir besprechen sie zusammen. Schülerin: Können wir die Lösung an der Tafel sehen? Lehrer: Natürlich, kommt bitte nach vorne. Schüler: Danke, das hilft uns sehr. Lehrer: Gern geschehen. Schülerin: Super.",
+    "question": "Welche Aufgabe war schwierig?",
+    "options": {"a": "Aufgabe eins", "b": "Aufgabe drei", "c": "Aufgabe fünf"},
+    "answer": "b"
+  },
+  {
+    "id": 16,
+    "title": "Im Kino",
+    "text": "Lisa: Hallo, zwei Karten für den Film um acht Uhr bitte.\nKassierer: Natürlich, möchten Sie in der Mitte oder hinten sitzen?\nLisa: In der Mitte wäre perfekt.\nKassierer: Gut, das macht 20 Euro.\nLisa: Hier bitte.\nKassierer: Vielen Dank, der Saal ist Nummer 4, gleich rechts.\nLisa: Danke schön.\nKassierer: Viel Spaß beim Film.",
+    "text_no_newline": "Lisa: Hallo, zwei Karten für den Film um acht Uhr bitte. Kassierer: Natürlich, möchten Sie in der Mitte oder hinten sitzen? Lisa: In der Mitte wäre perfekt. Kassierer: Gut, das macht 20 Euro. Lisa: Hier bitte. Kassierer: Vielen Dank, der Saal ist Nummer 4, gleich rechts. Lisa: Danke schön. Kassierer: Viel Spaß beim Film.",
+    "question": "In welchem Saal läuft der Film?",
+    "options": {"a": "Nummer 2", "b": "Nummer 4", "c": "Nummer 6"},
+    "answer": "b"
+  },
+  {
+    "id": 17,
+    "title": "Beim Bäcker",
+    "text": "Kunde: Guten Morgen, ich hätte gern zwei Brötchen und ein Roggenbrot.\nBäckerin: Natürlich, möchten Sie die Brötchen geschnitten?\nKunde: Nein, das ist nicht nötig.\nBäckerin: Gut, das macht zusammen drei Euro fünfzig.\nKunde: Hier bitte.\nBäckerin: Danke, möchten Sie eine Tüte?\nKunde: Ja, bitte.\nBäckerin: Sehr gern, schönen Tag noch.",
+    "text_no_newline": "Kunde: Guten Morgen, ich hätte gern zwei Brötchen und ein Roggenbrot. Bäckerin: Natürlich, möchten Sie die Brötchen geschnitten? Kunde: Nein, das ist nicht nötig. Bäckerin: Gut, das macht zusammen drei Euro fünfzig. Kunde: Hier bitte. Bäckerin: Danke, möchten Sie eine Tüte? Kunde: Ja, bitte. Bäckerin: Sehr gern, schönen Tag noch.",
+    "question": "Was kauft der Kunde?",
+    "options": {"a": "Zwei Brötchen und ein Roggenbrot", "b": "Ein Stück Kuchen", "c": "Nur ein Brötchen"},
+    "answer": "a"
+  },
+  {
+    "id": 18,
+    "title": "Auf der Post",
+    "text": "Frau: Guten Tag, ich möchte dieses Paket nach Italien schicken.\nPostbeamter: Möchten Sie es als Standard- oder Expressversand senden?\nFrau: Wie lange dauert der Standardversand?\nPostbeamter: Ungefähr fünf Tage.\nFrau: Und der Expressversand?\nPostbeamter: Zwei Tage.\nFrau: Dann nehme ich Express.\nPostbeamter: Gut, das macht zwölf Euro.",
+    "text_no_newline": "Frau: Guten Tag, ich möchte dieses Paket nach Italien schicken. Postbeamter: Möchten Sie es als Standard- oder Expressversand senden? Frau: Wie lange dauert der Standardversand? Postbeamter: Ungefähr fünf Tage. Frau: Und der Expressversand? Postbeamter: Zwei Tage. Frau: Dann nehme ich Express. Postbeamter: Gut, das macht zwölf Euro.",
+    "question": "Wie lange dauert der Standardversand?",
+    "options": {"a": "Fünf Tage", "b": "Zwei Tage", "c": "Eine Woche"},
+    "answer": "a"
+  },
+  {
+    "id": 19,
+    "title": "Im Park",
+    "text": "Peter: Hallo Maria, wie geht es dir?\nMaria: Mir geht es gut, danke. Ich mache gerade einen Spaziergang.\nPeter: Schön, gehst du oft hier spazieren?\nMaria: Ja, fast jeden Tag, besonders am Nachmittag.\nPeter: Das ist gesund.\nMaria: Ja, und es macht Spaß, die frische Luft zu genießen.\nPeter: Hast du später Zeit für einen Kaffee?\nMaria: Ja, gerne.",
+    "text_no_newline": "Peter: Hallo Maria, wie geht es dir? Maria: Mir geht es gut, danke. Ich mache gerade einen Spaziergang. Peter: Schön, gehst du oft hier spazieren? Maria: Ja, fast jeden Tag, besonders am Nachmittag. Peter: Das ist gesund. Maria: Ja, und es macht Spaß, die frische Luft zu genießen. Peter: Hast du später Zeit für einen Kaffee? Maria: Ja, gerne.",
+    "question": "Wann geht Maria oft spazieren?",
+    "options": {"a": "Am Vormittag", "b": "Am Nachmittag", "c": "Am Abend"},
+    "answer": "b"
+  },
+  {
+    "id": 20,
+    "title": "Im Büro",
+    "text": "Chef: Guten Morgen, haben Sie den Bericht schon fertig?\nMitarbeiter: Noch nicht ganz, ich brauche noch eine Stunde.\nChef: In Ordnung, aber bitte heute bis Mittag abgeben.\nMitarbeiter: Ja, das schaffe ich.\nChef: Sehr gut, und haben Sie die E-Mails beantwortet?\nMitarbeiter: Ja, die sind erledigt.\nChef: Perfekt, danke für Ihre Arbeit.\nMitarbeiter: Gern geschehen.",
+    "text_no_newline": "Chef: Guten Morgen, haben Sie den Bericht schon fertig? Mitarbeiter: Noch nicht ganz, ich brauche noch eine Stunde. Chef: In Ordnung, aber bitte heute bis Mittag abgeben. Mitarbeiter: Ja, das schaffe ich. Chef: Sehr gut, und haben Sie die E-Mails beantwortet? Mitarbeiter: Ja, die sind erledigt. Chef: Perfekt, danke für Ihre Arbeit. Mitarbeiter: Gern geschehen.",
+    "question": "Wann soll der Bericht abgegeben werden?",
+    "options": {"a": "Heute bis Mittag", "b": "Morgen", "c": "Heute Abend"},
+    "answer": "a"
+  }
+
+
 ]
