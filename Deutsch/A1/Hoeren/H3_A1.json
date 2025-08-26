@@ -287,21 +287,303 @@
   "answer": "b",
   "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/32.mp3"
 }
+,
+  {
+    "id": 33,
+    "title": "In der Bibliothek",
+    "text": "Jonas braucht ein Buch für seinen Deutschkurs. Deshalb geht er in die Stadtbibliothek. Am Eingang zeigt er seinen Bibliotheksausweis. Dann sucht er im Computer nach dem Buch. Es steht im zweiten Stock. Jonas findet das Buch schnell und nimmt es mit zur Ausleihe. Die Mitarbeiterin scannt den Ausweis und erklärt den Rückgabetermin. Jonas bedankt sich und freut sich, zu Hause lesen zu können.",
+    "text_no_newline": "Jonas braucht ein Buch für seinen Deutschkurs. Deshalb geht er in die Stadtbibliothek. Am Eingang zeigt er seinen Bibliotheksausweis. Dann sucht er im Computer nach dem Buch. Es steht im zweiten Stock. Jonas findet das Buch schnell und nimmt es mit zur Ausleihe. Die Mitarbeiterin scannt den Ausweis und erklärt den Rückgabetermin. Jonas bedankt sich und freut sich, zu Hause lesen zu können.",
+    "question": "Wo findet Jonas das Buch?",
+    "options": {
+      "a": "Im Erdgeschoss",
+      "b": "Im zweiten Stock",
+      "c": "Im ersten Stock"
+    },
+    "answer": "b",
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/33.mp3"
+  },
+  {
+    "id": 34,
+    "title": "Einkaufen im Supermarkt",
+    "text": "Lena geht nach der Arbeit in den Supermarkt. Sie braucht Brot, Milch und Äpfel. Zuerst nimmt sie einen Einkaufswagen. Dann sucht sie die Produkte im Regal. An der Kasse bezahlt sie mit ihrer Karte. Danach packt sie die Lebensmittel in ihre Tasche. Zu Hause macht sie sich ein Brot und trinkt eine Tasse Tee.",
+    "text_no_newline": "Lena geht nach der Arbeit in den Supermarkt. Sie braucht Brot, Milch und Äpfel. Zuerst nimmt sie einen Einkaufswagen. Dann sucht sie die Produkte im Regal. An der Kasse bezahlt sie mit ihrer Karte. Danach packt sie die Lebensmittel in ihre Tasche. Zu Hause macht sie sich ein Brot und trinkt eine Tasse Tee.",
+    "question": "Was kauft Lena nicht?",
+    "options": {
+      "a": "Milch",
+      "b": "Brot",
+      "c": "Käse"
+    },
+    "answer": "c",
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/34.mp3"
+  },
+  {
+    "id": 35,
+    "title": "Zum Arzt gehen",
+    "text": "Tom hat Fieber und Halsschmerzen. Deshalb ruft er die Arztpraxis an. Die Sprechstunde beginnt um 15 Uhr. Tom kommt pünktlich. Die Ärztin untersucht ihn und verschreibt ihm Medizin. Danach geht Tom zur Apotheke, um das Rezept einzulösen. Zuhause legt er sich ins Bett und ruht sich aus.",
+    "text_no_newline": "Tom hat Fieber und Halsschmerzen. Deshalb ruft er die Arztpraxis an. Die Sprechstunde beginnt um 15 Uhr. Tom kommt pünktlich. Die Ärztin untersucht ihn und verschreibt ihm Medizin. Danach geht Tom zur Apotheke, um das Rezept einzulösen. Zuhause legt er sich ins Bett und ruht sich aus.",
+    "question": "Warum geht Tom zum Arzt?",
+    "options": {
+      "a": "Er hat Kopfschmerzen.",
+      "b": "Er hat Fieber und Halsschmerzen.",
+      "c": "Er hat Hunger."
+    },
+    "answer": "b",
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/35.mp3"
+  },
+  {
+    "id": 36,
+    "title": "Mit dem Fahrrad zur Schule",
+    "text": "Emil wohnt nicht weit von der Schule. Jeden Morgen fährt er mit dem Fahrrad dorthin. Er trägt immer einen Helm. Unterwegs trifft er seine Freundin Lea. Sie fahren zusammen und reden über die Hausaufgaben. Vor der Schule schließen sie ihre Räder an.",
+    "text_no_newline": "Emil wohnt nicht weit von der Schule. Jeden Morgen fährt er mit dem Fahrrad dorthin. Er trägt immer einen Helm. Unterwegs trifft er seine Freundin Lea. Sie fahren zusammen und reden über die Hausaufgaben. Vor der Schule schließen sie ihre Räder an.",
+    "question": "Wie fährt Emil zur Schule?",
+    "options": {
+      "a": "Mit dem Bus",
+      "b": "Mit dem Fahrrad",
+      "c": "Zu Fuß"
+    },
+    "answer": "b",
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/36.mp3"
+  },
+  {
+    "id": 37,
+    "title": "Ein Geschenk für Oma",
+    "text": "Am Samstag ist Omas Geburtstag. Anna möchte ihr ein schönes Geschenk machen. Sie malt ein Bild mit Blumen und einem Sonnenschein. Dann schreibt sie eine Karte: 'Liebe Oma, ich wünsche dir einen schönen Tag! Deine Anna'. Am Abend bringt sie das Geschenk vorbei. Oma freut sich sehr.",
+    "text_no_newline": "Am Samstag ist Omas Geburtstag. Anna möchte ihr ein schönes Geschenk machen. Sie malt ein Bild mit Blumen und einem Sonnenschein. Dann schreibt sie eine Karte: 'Liebe Oma, ich wünsche dir einen schönen Tag! Deine Anna'. Am Abend bringt sie das Geschenk vorbei. Oma freut sich sehr.",
+    "question": "Was schenkt Anna ihrer Oma?",
+    "options": {
+      "a": "Ein Buch",
+      "b": "Eine Torte",
+      "c": "Ein Bild"
+    },
+    "answer": "c",
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/37.mp3"
+  }
 ,{
-  "id": 33,
-  "title": "In der Bibliothek",
-  "text": "Jonas braucht ein Buch für seinen Deutschkurs. Deshalb geht er in die Stadtbibliothek. Am Eingang zeigt er seinen Bibliotheksausweis. Dann sucht er im Computer nach dem Buch. Es steht im zweiten Stock. Jonas findet das Buch schnell und nimmt es mit zur Ausleihe. Die Mitarbeiterin scannt den Ausweis und erklärt den Rückgabetermin. Jonas bedankt sich und freut sich, zu Hause lesen zu können.",
-  "text_no_newline": "Jonas braucht ein Buch für seinen Deutschkurs. Deshalb geht er in die Stadtbibliothek. Am Eingang zeigt er seinen Bibliotheksausweis. Dann sucht er im Computer nach dem Buch. Es steht im zweiten Stock. Jonas findet das Buch schnell und nimmt es mit zur Ausleihe. Die Mitarbeiterin scannt den Ausweis und erklärt den Rückgabetermin. Jonas bedankt sich und freut sich, zu Hause lesen zu können.",
-  "question": "Wo findet Jonas das Buch?",
+  "id": 38,
+  "title": "Der Hund im Park",
+  "text": "Max geht jeden Morgen mit seinem Hund Luna in den Park. Luna ist ein kleiner brauner Hund und sehr fröhlich. Sie läuft schnell und bellt andere Hunde an. Max ruft: „Luna, komm her!“ Luna kommt zurück und bekommt ein Leckerli. Dann setzen sich beide auf eine Bank. Max trinkt Kaffee, und Luna schläft. Es ist ein schöner Morgen.",
+  "text_no_newline": "Max geht jeden Morgen mit seinem Hund Luna in den Park. Luna ist ein kleiner brauner Hund und sehr fröhlich. Sie läuft schnell und bellt andere Hunde an. Max ruft: „Luna, komm her!“ Luna kommt zurück und bekommt ein Leckerli. Dann setzen sich beide auf eine Bank. Max trinkt Kaffee, und Luna schläft. Es ist ein schöner Morgen.",
+  "question": "Was macht Luna, nachdem sie zurückkommt?",
   "options": {
-    "a": "Im Erdgeschoss",
-    "b": "Im zweiten Stock",
-    "c": "Im ersten Stock"
+    "a": "Sie spielt mit anderen Hunden.",
+    "b": "Sie bekommt ein Leckerli.",
+    "c": "Sie trinkt Wasser."
   },
   "answer": "b",
-  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/33.mp3"
+  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/38.mp3"
+},{
+  "id": 39,
+  "title": "Das Wetter am Wochenende",
+  "text": "Am Samstag wacht Mia auf und schaut aus dem Fenster. Es regnet stark. Die Straße ist nass. Mia möchte spazieren gehen, aber sie braucht einen Regenschirm. Sie zieht ihre Jacke an und geht trotzdem kurz raus. Am Sonntag scheint die Sonne. Mia freut sich. Sie setzt sich in den Garten und liest ein Buch. Das Wetter ist jetzt viel besser.",
+  "text_no_newline": "Am Samstag wacht Mia auf und schaut aus dem Fenster. Es regnet stark. Die Straße ist nass. Mia möchte spazieren gehen, aber sie braucht einen Regenschirm. Sie zieht ihre Jacke an und geht trotzdem kurz raus. Am Sonntag scheint die Sonne. Mia freut sich. Sie setzt sich in den Garten und liest ein Buch. Das Wetter ist jetzt viel besser.",
+  "question": "Warum geht Mia am Samstag nur kurz raus?",
+  "options": {
+    "a": "Weil es kalt ist.",
+    "b": "Weil es regnet.",
+    "c": "Weil sie müde ist."
+  },
+  "answer": "b",
+  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/39.mp3"
+},{
+  "id": 40,
+  "title": "Zu spät zum Bus",
+  "text": "Lea will mit dem Bus zur Schule fahren. Sie kommt an die Haltestelle, aber der Bus fährt gerade weg. Lea ist traurig. Sie muss 20 Minuten warten. In der Zeit liest sie ihre Hausaufgaben. Endlich kommt der nächste Bus. Lea steigt ein und bezahlt ihr Ticket. Der Bus ist voll, aber ein älterer Mann steht auf und gibt ihr seinen Platz.",
+  "text_no_newline": "Lea will mit dem Bus zur Schule fahren. Sie kommt an die Haltestelle, aber der Bus fährt gerade weg. Lea ist traurig. Sie muss 20 Minuten warten. In der Zeit liest sie ihre Hausaufgaben. Endlich kommt der nächste Bus. Lea steigt ein und bezahlt ihr Ticket. Der Bus ist voll, aber ein älterer Mann steht auf und gibt ihr seinen Platz.",
+  "question": "Warum bekommt Lea im Bus einen Sitzplatz?",
+  "options": {
+    "a": "Weil sie zuerst einstieg.",
+    "b": "Weil ein Mann ihr seinen Platz gibt.",
+    "c": "Weil sie krank ist."
+  },
+  "answer": "b",
+  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/40.mp3"
+},{
+  "id": 41,
+  "title": "Im Café",
+  "text": "Paul ist mit seiner Freundin im Café. Er bestellt einen Kaffee und ein Stück Kuchen. Die Bedienung bringt schnell die Bestellung. Der Kuchen schmeckt sehr gut. Paul trinkt seinen Kaffee und unterhält sich. Am Ende bezahlt er an der Kasse. Er gibt ein kleines Trinkgeld. Dann verlassen sie das Café und gehen spazieren.",
+  "text_no_newline": "Paul ist mit seiner Freundin im Café. Er bestellt einen Kaffee und ein Stück Kuchen. Die Bedienung bringt schnell die Bestellung. Der Kuchen schmeckt sehr gut. Paul trinkt seinen Kaffee und unterhält sich. Am Ende bezahlt er an der Kasse. Er gibt ein kleines Trinkgeld. Dann verlassen sie das Café und gehen spazieren.",
+  "question": "Was bestellt Paul?",
+  "options": {
+    "a": "Tee und Sandwich",
+    "b": "Kaffee und Kuchen",
+    "c": "Milch und Apfel"
+  },
+  "answer": "b",
+  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/41.mp3"
+},{
+  "id": 42,
+  "title": "Fahrrad kaputt",
+  "text": "Oma hat ein Problem mit ihrem Fahrrad. Die Kette ist abgesprungen. Sie kann nicht weiterfahren. Ihr Nachbar sieht das und hilft ihr. Er holt ein Werkzeug und repariert das Rad. Oma dankt ihm sehr. Jetzt kann sie wieder fahren. Sie fährt langsam zum Markt, um frisches Gemüse zu kaufen. Das Fahrrad funktioniert gut.",
+  "text_no_newline": "Oma hat ein Problem mit ihrem Fahrrad. Die Kette ist abgesprungen. Sie kann nicht weiterfahren. Ihr Nachbar sieht das und hilft ihr. Er holt ein Werkzeug und repariert das Rad. Oma dankt ihm sehr. Jetzt kann sie wieder fahren. Sie fährt langsam zum Markt, um frisches Gemüse zu kaufen. Das Fahrrad funktioniert gut.",
+  "question": "Wer repariert Omas Fahrrad?",
+  "options": {
+    "a": "Ihr Sohn",
+    "b": "Ihr Nachbar",
+    "c": "Ein Polizist"
+  },
+  "answer": "b",
+  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/42.mp3"
+},{
+  "id": 43,
+  "title": "Die verschwundene Tasche",
+  "text": "Am Ende des Schultags merkt Ben, dass seine Tasche weg ist. Er sucht überall: im Klassenzimmer, auf dem Flur, im Pausenhof. Plötzlich ruft seine Lehrerin: „Ben, deine Tasche ist hier!“ Sie liegt hinter der Garderobe. Ben freut sich sehr. Er bedankt sich und geht nach Hause. Zum Glück ist nichts kaputt.",
+  "text_no_newline": "Am Ende des Schultags merkt Ben, dass seine Tasche weg ist. Er sucht überall: im Klassenzimmer, auf dem Flur, im Pausenhof. Plötzlich ruft seine Lehrerin: „Ben, deine Tasche ist hier!“ Sie liegt hinter der Garderobe. Ben freut sich sehr. Er bedankt sich und geht nach Hause. Zum Glück ist nichts kaputt.",
+  "question": "Wo wird Bens Tasche gefunden?",
+  "options": {
+    "a": "Unter dem Tisch",
+    "b": "Hinter der Garderobe",
+    "c": "Im Lehrerzimmer"
+  },
+  "answer": "b",
+  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/43.mp3"
+},{
+  "id": 44,
+  "title": "Urlaub am Meer",
+  "text": "Im Sommer fährt die Familie Müller an die Nordsee. Das Wetter ist sonnig und warm. Die Kinder bauen eine Sandburg am Strand. Der Vater schwimmt im Meer. Die Mutter liest ein Buch unter einem Sonnenschirm. Am Abend essen sie Fisch im Restaurant. Es ist ein schöner Tag. Sie sind sehr glücklich und müde.",
+  "text_no_newline": "Im Sommer fährt die Familie Müller an die Nordsee. Das Wetter ist sonnig und warm. Die Kinder bauen eine Sandburg am Strand. Der Vater schwimmt im Meer. Die Mutter liest ein Buch unter einem Sonnenschirm. Am Abend essen sie Fisch im Restaurant. Es ist ein schöner Tag. Sie sind sehr glücklich und müde.",
+  "question": "Was machen die Kinder am Strand?",
+  "options": {
+    "a": "Sie spielen Fußball.",
+    "b": "Sie bauen eine Sandburg.",
+    "c": "Sie schwimmen im Meer."
+  },
+  "answer": "b",
+  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/44.mp3"
+},{
+  "id": 45,
+  "title": "Der verlorene Teddy",
+  "text": "Lina merkt, dass ihr Teddy verschwunden ist. Sie sucht überall: im Zimmer, unter dem Bett, im Rucksack. Sie ist traurig. Ihre Mutter hilft ihr. Plötzlich findet der Hund den Teddy hinter der Couch. Lina freut sich sehr. Sie umarmt ihren Teddy. Jetzt geht es ihr besser. Sie spielt mit ihm bis zum Schlafengehen.",
+  "text_no_newline": "Lina merkt, dass ihr Teddy verschwunden ist. Sie sucht überall: im Zimmer, unter dem Bett, im Rucksack. Sie ist traurig. Ihre Mutter hilft ihr. Plötzlich findet der Hund den Teddy hinter der Couch. Lina freut sich sehr. Sie umarmt ihren Teddy. Jetzt geht es ihr besser. Sie spielt mit ihm bis zum Schlafengehen.",
+  "question": "Wer findet den Teddy?",
+  "options": {
+    "a": "Die Mutter",
+    "b": "Der Hund",
+    "c": "Der Bruder"
+  },
+  "answer": "b",
+  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/45.mp3"
+},{
+  "id": 46,
+  "title": "Der neue Busfahrplan",
+  "text": "Seit Montag gilt ein neuer Busfahrplan. Herr Klein liest ihn jeden Morgen. Der Bus kommt jetzt zehn Minuten früher. Er muss früher aufstehen. Am Anfang war er verwirrt. Jetzt hat er sich daran gewöhnt. Er nimmt immer die Zeitung mit. Während der Fahrt liest er die Nachrichten. So beginnt sein Tag ruhig.",
+  "text_no_newline": "Seit Montag gilt ein neuer Busfahrplan. Herr Klein liest ihn jeden Morgen. Der Bus kommt jetzt zehn Minuten früher. Er muss früher aufstehen. Am Anfang war er verwirrt. Jetzt hat er sich daran gewöhnt. Er nimmt immer die Zeitung mit. Während der Fahrt liest er die Nachrichten. So beginnt sein Tag ruhig.",
+  "question": "Warum muss Herr Klein früher aufstehen?",
+  "options": {
+    "a": "Weil der Bus früher kommt.",
+    "b": "Weil er krank ist.",
+    "c": "Weil er joggen geht."
+  },
+  "answer": "a",
+  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/46.mp3"
+},{
+  "id": 47,
+  "title": "Geburtstagsüberraschung",
+  "text": "Heute ist Saras Geburtstag. Ihre Freunde kommen heimlich ins Haus. Sie verstecken sich hinter der Couch und unter dem Tisch. Als Sara hereinkommt, rufen alle: „Überraschung!“ Sara lacht laut. Es gibt Kuchen, Geschenke und Musik. Sara tanzt mit ihren Freunden. Sie fühlt sich sehr glücklich. Es ist ein toller Tag.",
+  "text_no_newline": "Heute ist Saras Geburtstag. Ihre Freunde kommen heimlich ins Haus. Sie verstecken sich hinter der Couch und unter dem Tisch. Als Sara hereinkommt, rufen alle: „Überraschung!“ Sara lacht laut. Es gibt Kuchen, Geschenke und Musik. Sara tanzt mit ihren Freunden. Sie fühlt sich sehr glücklich. Es ist ein toller Tag.",
+  "question": "Was machen Saras Freunde, als sie hereinkommt?",
+  "options": {
+    "a": "Sie singen ein Lied.",
+    "b": "Sie rufen: „Überraschung!“",
+    "c": "Sie geben ihr Geld."
+  },
+  "answer": "b",
+  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/47.mp3"
+},
+{
+  "id": 48,
+  "title": "Beim Bäcker",
+  "text": "Frau Wagner geht morgens zum Bäcker. Sie kauft frisches Brot und zwei Brötchen. Die Bäckersfrau grüßt freundlich. Frau Wagner bezahlt mit einem Zehn-Euro-Schein. Sie bekommt Wechselgeld zurück. Auf dem Heimweg riecht sie das frische Brot. Zu Hause macht sie sich eine Scheibe mit Butter. Es schmeckt wunderbar.",
+  "text_no_newline": "Frau Wagner geht morgens zum Bäcker. Sie kauft frisches Brot und zwei Brötchen. Die Bäckersfrau grüßt freundlich. Frau Wagner bezahlt mit einem Zehn-Euro-Schein. Sie bekommt Wechselgeld zurück. Auf dem Heimweg riecht sie das frische Brot. Zu Hause macht sie sich eine Scheibe mit Butter. Es schmeckt wunderbar.",
+  "question": "Was kauft Frau Wagner nicht?",
+  "options": {
+    "a": "Brötchen",
+    "b": "Butter",
+    "c": "Brot"
+  },
+  "answer": "b",
+  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/48.mp3"
+},{
+  "id": 49,
+  "title": "Der erste Schultag",
+  "text": "Heute ist Liams erster Tag in der neuen Schule.\nEr ist ein bisschen nervös.\nSeine Mutter bringt ihn und sagt: „Viel Glück!“\nDie Lehrerin heißt Frau Becker.\nSie zeigt ihm seinen Platz.\nLiam sitzt neben einem Jungen namens Finn.\nFinn lächelt und sagt: „Hallo!“\nNach der Stunde spielen sie zusammen.\nLiam hat keine Angst mehr.\nEr freut sich auf morgen.",
+  "text_no_newline": "Heute ist Liams erster Tag in der neuen Schule. Er ist ein bisschen nervös. Seine Mutter bringt ihn und sagt: „Viel Glück!“ Die Lehrerin heißt Frau Becker. Sie zeigt ihm seinen Platz. Liam sitzt neben einem Jungen namens Finn. Finn lächelt und sagt: „Hallo!“ Nach der Stunde spielen sie zusammen. Liam hat keine Angst mehr. Er freut sich auf morgen.",
+  "question": "Wie heißt die Lehrerin?",
+  "options": {
+    "a": "Frau Müller",
+    "b": "Frau Becker",
+    "c": "Frau Schmidt"
+  },
+  "answer": "b",
+  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/49.mp3"
+},{
+  "id": 50,
+  "title": "Plötzlich regnet es",
+  "text": "Emma geht mit ihrem Fahrrad nach Hause.\nDer Himmel ist grau.\nPlötzlich fängt es stark zu regnen an.\nEmma hat keinen Regenschirm dabei.\nIhre Jacke wird nass.\nSchnell fährt sie unter eine Bushaltestelle.\nDort wartet schon ein Mann.\nEr teilt seinen großen Schirm mit ihr.\nEmma dankt ihm freundlich.\nNach zehn Minuten hört der Regen auf.\nSie fährt weiter nach Hause.",
+  "text_no_newline": "Emma geht mit ihrem Fahrrad nach Hause. Der Himmel ist grau. Plötzlich fängt es stark zu regnen an. Emma hat keinen Regenschirm dabei. Ihre Jacke wird nass. Schnell fährt sie unter eine Bushaltestelle. Dort wartet schon ein Mann. Er teilt seinen großen Schirm mit ihr. Emma dankt ihm freundlich. Nach zehn Minuten hört der Regen auf. Sie fährt weiter nach Hause.",
+  "question": "Wer hilft Emma im Regen?",
+  "options": {
+    "a": "Eine Frau",
+    "b": "Ein Junge",
+    "c": "Ein Mann"
+  },
+  "answer": "c",
+  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/50.mp3"
 }
-
+  ,{
+  "id": 50,
+  "title": "Plötzlich regnet es",
+  "text": "Emma geht mit ihrem Fahrrad nach Hause.\nDer Himmel ist grau.\nPlötzlich fängt es stark zu regnen an.\nEmma hat keinen Regenschirm dabei.\nIhre Jacke wird nass.\nSchnell fährt sie unter eine Bushaltestelle.\nDort wartet schon ein Mann.\nEr teilt seinen großen Schirm mit ihr.\nEmma dankt ihm freundlich.\nNach zehn Minuten hört der Regen auf.\nSie fährt weiter nach Hause.",
+  "text_no_newline": "Emma geht mit ihrem Fahrrad nach Hause. Der Himmel ist grau. Plötzlich fängt es stark zu regnen an. Emma hat keinen Regenschirm dabei. Ihre Jacke wird nass. Schnell fährt sie unter eine Bushaltestelle. Dort wartet schon ein Mann. Er teilt seinen großen Schirm mit ihr. Emma dankt ihm freundlich. Nach zehn Minuten hört der Regen auf. Sie fährt weiter nach Hause.",
+  "question": "Wer hilft Emma im Regen?",
+  "options": {
+    "a": "Eine Frau",
+    "b": "Ein Junge",
+    "c": "Ein Mann"
+  },
+  "answer": "c",
+  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/50.mp3"
+},{
+  "id": 51,
+  "title": "Krank im Bett",
+  "text": "Leo hat Schnupfen und Fieber.\nEr muss zu Hause bleiben.\nSeine Mutter bringt ihm Tee und Suppe.\nLeo liegt im Bett und schaut einen Film.\nSein Bruder malt ihm eine Karte.\nDarauf steht: „Gute Besserung!“\nLeo lächelt.\nAm Abend fühlt er sich schon besser.\nEr hofft, morgen wieder zur Schule zu können.\nEr trinkt noch einen Tee und schläft ein.",
+  "text_no_newline": "Leo hat Schnupfen und Fieber. Er muss zu Hause bleiben. Seine Mutter bringt ihm Tee und Suppe. Leo liegt im Bett und schaut einen Film. Sein Bruder malt ihm eine Karte. Darauf steht: „Gute Besserung!“ Leo lächelt. Am Abend fühlt er sich schon besser. Er hofft, morgen wieder zur Schule zu können. Er trinkt noch einen Tee und schläft ein.",
+  "question": "Was bringt Leos Mutter ihm?",
+  "options": {
+    "a": "Kaffee und Brot",
+    "b": "Tee und Suppe",
+    "c": "Milch und Kuchen"
+  },
+  "answer": "b",
+  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/51.mp3"
+},{
+  "id": 52,
+  "title": "Die Wäscheleine",
+  "text": "Opa Heinrich hängt die Wäsche in den Garten.\nDie Sonne scheint und der Wind weht leicht.\nHemden, Socken und Handtücher flattern an der Leine.\nPlötzlich kommt ein starker Wind.\nEine Socke fliegt weg und landet im Baum!\nOpa lacht und holt eine Leiter.\nEr fischt die Socke mit einem Stock heraus.\nDann trinkt er eine Tasse Kaffee.\nDie Wäsche trocknet gut.",
+  "text_no_newline": "Opa Heinrich hängt die Wäsche in den Garten. Die Sonne scheint und der Wind weht leicht. Hemden, Socken und Handtücher flattern an der Leine. Plötzlich kommt ein starker Wind. Eine Socke fliegt weg und landet im Baum! Opa lacht und holt eine Leiter. Er fischt die Socke mit einem Stock heraus. Dann trinkt er eine Tasse Kaffee. Die Wäsche trocknet gut.",
+  "question": "Wo landet die Socke?",
+  "options": {
+    "a": "Im Teich",
+    "b": "Im Baum",
+    "c": "Auf dem Dach"
+  },
+  "answer": "b",
+  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/52.mp3"
+},{
+  "id": 53,
+  "title": "Der Kuchen im Ofen",
+  "text": "Frau Klein backt einen Apfelkuchen.\nSie mischt Mehl, Zucker und Eier.\nDann schneidet sie die Äpfel klein.\nDer Kuchen kommt in den Ofen.\nNach 40 Minuten riecht es lecker.\nAber plötzlich piept der Rauchmelder!\nDer Kuchen ist zu dunkel.\nSie hat die Zeit vergessen.\nTrotzdem probiert die Familie ein Stück.\nEr schmeckt etwas bitter, aber sie lachen.\nNächstes Mal wird er besser!",
+  "text_no_newline": "Frau Klein backt einen Apfelkuchen. Sie mischt Mehl, Zucker und Eier. Dann schneidet sie die Äpfel klein. Der Kuchen kommt in den Ofen. Nach 40 Minuten riecht es lecker. Aber plötzlich piept der Rauchmelder! Der Kuchen ist zu dunkel. Sie hat die Zeit vergessen. Trotzdem probiert die Familie ein Stück. Er schmeckt etwas bitter, aber sie lachen. Nächstes Mal wird er besser!",
+  "question": "Warum piept der Rauchmelder?",
+  "options": {
+    "a": "Weil es brennt.",
+    "b": "Weil der Kuchen zu süß ist.",
+    "c": "Weil der Ofen kaputt ist."
+  },
+  "answer": "a",
+  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/53.mp3"
+},
+  
+  
 
 
 
