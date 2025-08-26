@@ -581,7 +581,138 @@
   },
   "answer": "a",
   "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/53.mp3"
+},{
+  "id": 54,
+  "title": "Mit dem Rad zur Arbeit",
+  "text": "Herr Wagner fährt jeden Tag mit dem Fahrrad zur Arbeit.\nEr wohnt nur zehn Minuten vom Büro entfernt.\nEr trägt einen Helm und eine helle Jacke.\nUnterwegs grüßt er Nachbarn.\nEinmal bleibt er stecken, weil die Kette gerissen ist.\nEin junger Mann hilft ihm.\nZusammen reparieren sie das Rad.\nDanach fährt Herr Wagner weiter.\nEr kommt pünktlich an.\nEr dankt dem Helfer mit einem Lächeln.",
+  "text_no_newline": "Herr Wagner fährt jeden Tag mit dem Fahrrad zur Arbeit. Er wohnt nur zehn Minuten vom Büro entfernt. Er trägt einen Helm und eine helle Jacke. Unterwegs grüßt er Nachbarn. Einmal bleibt er stecken, weil die Kette gerissen ist. Ein junger Mann hilft ihm. Zusammen reparieren sie das Rad. Danach fährt Herr Wagner weiter. Er kommt pünktlich an. Er dankt dem Helfer mit einem Lächeln.",
+  "question": "Warum bleibt Herr Wagner unterwegs stehen?",
+  "options": {
+    "a": "Weil er müde ist.",
+    "b": "Weil die Kette gerissen ist.",
+    "c": "Weil er den Weg verliert."
+  },
+  "answer": "b",
+  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/54.mp3"
+},{
+  "id": 55,
+  "title": "Das Paket an der Tür",
+  "text": "Frau Hoffmann erwartet ein Paket.\nSie hat ein neues Handy bestellt.\nDer Lieferbote klingelt um 14 Uhr.\nAber sie ist nicht zu Hause.\nEr hinterlässt eine Karte im Briefkasten.\nAm Abend liest sie die Karte.\nDas Paket ist in der Packstation.\nSie holt es am nächsten Tag ab.\nSie scannt den Code und öffnet das Fach.\nDas Handy ist sicher verpackt.\nSie freut sich sehr.",
+  "text_no_newline": "Frau Hoffmann erwartet ein Paket. Sie hat ein neues Handy bestellt. Der Lieferbote klingelt um 14 Uhr. Aber sie ist nicht zu Hause. Er hinterlässt eine Karte im Briefkasten. Am Abend liest sie die Karte. Das Paket ist in der Packstation. Sie holt es am nächsten Tag ab. Sie scannt den Code und öffnet das Fach. Das Handy ist sicher verpackt. Sie freut sich sehr.",
+  "question": "Wo ist das Paket, als Frau Hoffmann nicht zu Hause ist?",
+  "options": {
+    "a": "Bei der Nachbarin",
+    "b": "In der Packstation",
+    "c": "Im Büro"
+  },
+  "answer": "b",
+  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/55.mp3"
+},{
+  "id": 56,
+  "title": "Der verirrte Kater",
+  "text": "Ein kleiner Kater sitzt im Baum vor dem Haus.\nEr miaut laut, aber kommt nicht herunter.\nDie Nachbarin sieht ihn und ruft: „Komm, kleiner!“\nDer Kater hat Angst.\nSie holt Milch und stellt sie auf den Boden.\nNach einer Weile traut er sich.\nEr springt vom Baum und trinkt die Milch.\nDann geht er zu einem Jungen namens Ben.\nBen erkennt ihn: „Das ist Minka aus Nachbars Garten!“\nEr bringt ihn zurück.",
+  "text_no_newline": "Ein kleiner Kater sitzt im Baum vor dem Haus. Er miaut laut, aber kommt nicht herunter. Die Nachbarin sieht ihn und ruft: „Komm, kleiner!“ Der Kater hat Angst. Sie holt Milch und stellt sie auf den Boden. Nach einer Weile traut er sich. Er springt vom Baum und trinkt die Milch. Dann geht er zu einem Jungen namens Ben. Ben erkennt ihn: „Das ist Minka aus Nachbars Garten!“ Er bringt ihn zurück.",
+  "question": "Wer bringt den Kater nach Hause?",
+  "options": {
+    "a": "Die Nachbarin",
+    "b": "Der Postbote",
+    "c": "Ben"
+  },
+  "answer": "c",
+  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/56.mp3"
+},{
+  "id": 57,
+  "title": "Blumen für die Lehrerin",
+  "text": "Am letzten Schultag macht die Klasse eine Überraschung.\nDie Kinder pflücken wilde Blumen auf der Wiese.\nSie binden kleine Sträuße mit Schnur zusammen.\nJeder schreibt eine Karte.\nAm Morgen geben sie Frau Meier alles.\nSie freut sich sehr.\n„Danke“, sagt sie. „Das ist sehr lieb von euch!“\nDann stellt sie die Blumen in eine Vase auf das Pult.\nDie Klasse applaudiert.\nEs ist ein schöner Abschied.",
+  "text_no_newline": "Am letzten Schultag macht die Klasse eine Überraschung. Die Kinder pflücken wilde Blumen auf der Wiese. Sie binden kleine Sträuße mit Schnur zusammen. Jeder schreibt eine Karte. Am Morgen geben sie Frau Meier alles. Sie freut sich sehr. „Danke“, sagt sie. „Das ist sehr lieb von euch!“ Dann stellt sie die Blumen in eine Vase auf das Pult. Die Klasse applaudiert. Es ist ein schöner Abschied.",
+  "question": "Warum bekommen die Kinder Blumen?",
+  "options": {
+    "a": "Weil sie bestehen haben.",
+    "b": "Weil es der letzte Schultag ist.",
+    "c": "Weil die Lehrerin krank ist."
+  },
+  "answer": "b",
+  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/57.mp3"
+},{
+  "id": 58,
+  "title": "Aufräumen am Samstag",
+  "text": "Samstagmorgen: Familie Schulz räumt gemeinsam auf.\nJeder hat eine Aufgabe.\nLina stellt die Bücher ins Regal.\nIhr Bruder Tim wischt den Tisch.\nDie Mutter putzt das Badezimmer.\nDer Vater bringt den Müll raus.\nNach einer Stunde ist alles sauber.\nSie machen eine Pause.\nDie Eltern trinken Kaffee.\nDie Kinder essen Kekse.\nDann spielen sie ein Brettspiel.\nEs war anstrengend, aber schön.",
+  "text_no_newline": "Samstagmorgen: Familie Schulz räumt gemeinsam auf. Jeder hat eine Aufgabe. Lina stellt die Bücher ins Regal. Ihr Bruder Tim wischt den Tisch. Die Mutter putzt das Badezimmer. Der Vater bringt den Müll raus. Nach einer Stunde ist alles sauber. Sie machen eine Pause. Die Eltern trinken Kaffee. Die Kinder essen Kekse. Dann spielen sie ein Brettspiel. Es war anstrengend, aber schön.",
+  "question": "Was macht Tim beim Aufräumen?",
+  "options": {
+    "a": "Er fegt den Boden.",
+    "b": "Er wischt den Tisch.",
+    "c": "Er sortiert die Spielsachen."
+  },
+  "answer": "b",
+  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/58.mp3"
+},{
+  "id": 59,
+  "title": "Der neue Nachbar",
+  "text": "In der Wohnung nebenan wohnt jetzt eine neue Familie.\nEin Junge heißt Tom und ist acht Jahre alt.\nEr spricht kaum Deutsch.\nLuis, sein neuer Nachbar, klopft an die Tür.\nEr lädt Tom zum Spielen ein.\nSie spielen mit kleinen Autos auf dem Boden.\nSpäter zeigen sie sich gegenseitig ihre Bilder.\nToms Mama bringt Kekse.\nLuis freut sich.\nAm Abend sagt Tom: „Danke für den schönen Tag!“",
+  "text_no_newline": "In der Wohnung nebenan wohnt jetzt eine neue Familie. Ein Junge heißt Tom und ist acht Jahre alt. Er spricht kaum Deutsch. Luis, sein neuer Nachbar, klopft an die Tür. Er lädt Tom zum Spielen ein. Sie spielen mit kleinen Autos auf dem Boden. Später zeigen sie sich gegenseitig ihre Bilder. Toms Mama bringt Kekse. Luis freut sich. Am Abend sagt Tom: „Danke für den schönen Tag!“",
+  "question": "Was machen Luis und Tom zusammen?",
+  "options": {
+    "a": "Sie backen Kekse.",
+    "b": "Sie spielen mit Autos.",
+    "c": "Sie gehen spazieren."
+  },
+  "answer": "b",
+  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/59.mp3"
 },
+  {
+  "id": 60,
+  "title": "Ein schöner Sonntag",
+  "text": "Die Sonne scheint. Die Familie geht in den Park.\nDie Kinder laufen voraus.\nSie spielen Fangen und Federball.\nDie Eltern setzen sich auf eine Bank.\nSie trinken Wasser und essen Obst.\nEin Hund läuft an ihnen vorbei.\nEin kleiner Vogel sitzt auf einem Ast.\nNach zwei Stunden gehen alle nach Hause.\nDie Kinder sind müde, aber glücklich.\nZu Hause duschen sie und essen Abendbrot.",
+  "text_no_newline": "Die Sonne scheint. Die Familie geht in den Park. Die Kinder laufen voraus. Sie spielen Fangen und Federball. Die Eltern setzen sich auf eine Bank. Sie trinken Wasser und essen Obst. Ein Hund läuft an ihnen vorbei. Ein kleiner Vogel sitzt auf einem Ast. Nach zwei Stunden gehen alle nach Hause. Die Kinder sind müde, aber glücklich. Zu Hause duschen sie und essen Abendbrot.",
+  "question": "Was machen die Eltern im Park?",
+  "options": {
+    "a": "Sie spielen mit den Kindern.",
+    "b": "Sie setzen sich und ruhen.",
+    "c": "Sie kaufen Eis."
+  },
+  "answer": "b",
+  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/60.mp3"
+},{
+  "id": 61,
+  "title": "Zu spät aufgestanden",
+  "text": "Lea schläft lange am Morgen.\nIhr Wecker hat nicht geklingelt.\nSie wacht erst um 8 Uhr auf.\nDie Schule beginnt um 8:15!\nSchnell zieht sie sich an.\nSie nimmt keine Brötchen mit.\nSie rennt zum Bus.\nLeider kommt sie zu spät.\nDie Lehrerin sagt: „Mach das bitte morgen früh!“\nLea nickt und setzt sich leise an ihren Platz.",
+  "text_no_newline": "Lea schläft lange am Morgen. Ihr Wecker hat nicht geklingelt. Sie wacht erst um 8 Uhr auf. Die Schule beginnt um 8:15! Schnell zieht sie sich an. Sie nimmt keine Brötchen mit. Sie rennt zum Bus. Leider kommt sie zu spät. Die Lehrerin sagt: „Mach das bitte morgen früh!“ Lea nickt und setzt sich leise an ihren Platz.",
+  "question": "Warum kommt Lea zu spät?",
+  "options": {
+    "a": "Weil der Bus nicht kommt.",
+    "b": "Weil ihr Wecker nicht klingelt.",
+    "c": "Weil sie krank ist."
+  },
+  "answer": "b",
+  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/61.mp3"
+},{
+  "id": 62,
+  "title": "Auf dem Wochenmarkt",
+  "text": "Oma geht jeden Samstag auf den Markt.\nDort gibt es frisches Obst, Gemüse und Brot.\nHeute kauft sie Äpfel, Karotten und Eier.\nDer Händler lächelt und gibt ihr eine Tomate extra.\nOma dankt freundlich.\nSie bezahlt mit Münzen.\nDanach trinkt sie einen Tee beim Imbiss.\nZum Schluss trifft sie ihre Freundin.\nSie unterhalten sich über das Wetter.\nDann geht Oma nach Hause.",
+  "text_no_newline": "Oma geht jeden Samstag auf den Markt. Dort gibt es frisches Obst, Gemüse und Brot. Heute kauft sie Äpfel, Karotten und Eier. Der Händler lächelt und gibt ihr eine Tomate extra. Oma dankt freundlich. Sie bezahlt mit Münzen. Danach trinkt sie einen Tee beim Imbiss. Zum Schluss trifft sie ihre Freundin. Sie unterhalten sich über das Wetter. Dann geht Oma nach Hause.",
+  "question": "Was bekommt Oma extra?",
+  "options": {
+    "a": "Eine Birne",
+    "b": "Eine Tomate",
+    "c": "Ein Brötchen"
+  },
+  "answer": "b",
+  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/62.mp3"
+},{
+  "id": 63,
+  "title": "Im Spielzeugladen",
+  "text": "Paul ist mit seiner Mama im Spielzeugladen.\nEr sieht viele Autos, Puppen und Spiele.\nEr möchte ein kleines Feuerwehrauto kaufen.\nEr zählt sein Spargeld.\nEs reicht fast.\nDie Verkäuferin sagt: „Ich nehme auch zwei Euro in Münzen.“\nPaul freut sich sehr.\nEr bezahlt und packt das Auto ein.\nZu Hause zeigt er es seinem Hund.\nDer Hund bellt laut, als Paul das Auto bewegt.",
+  "text_no_newline": "Paul ist mit seiner Mama im Spielzeugladen. Er sieht viele Autos, Puppen und Spiele. Er möchte ein kleines Feuerwehrauto kaufen. Er zählt sein Spargeld. Es reicht fast. Die Verkäuferin sagt: „Ich nehme auch zwei Euro in Münzen.“ Paul freut sich sehr. Er bezahlt und packt das Auto ein. Zu Hause zeigt er es seinem Hund. Der Hund bellt laut, als Paul das Auto bewegt.",
+  "question": "Was kauft Paul?",
+  "options": {
+    "a": "Eine Puppe",
+    "b": "Ein Feuerwehrauto",
+    "c": "Ein Brettspiel"
+  },
+  "answer": "b",
+  "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/63.mp3"
+}
   
   
 
