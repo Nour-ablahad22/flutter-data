@@ -1161,7 +1161,7 @@
 }
 ,
   {
-  "title": "Weitere 10 gemischte Fragen – Teil 6",
+  "title": "Thema 10 B",
   "texts": [
     {
       "text": "Sie möchten Gitarre spielen lernen. A) www.musikschule-klang.de: Gitarrenunterricht für Anfänger und Fortgeschrittene. B) www.autoservice-direkt.de: Ölwechsel und Inspektion.",
@@ -1797,7 +1797,7 @@
   ]
 },
   {
-  "title": "Gemischte Fragen – Verschiedene Themen 2",
+  "title": "Thema 15 B",
   "texts": [
     {
       "text": "Sie möchten eine Pizza bestellen. A) www.pizzaservice-express.de: Lieferung in 30 Minuten. B) www.buchhandlung-lesen.de: Große Auswahl an Romanen und Sachbüchern.",
@@ -2011,7 +2011,7 @@
 ,
 
   {
-  "title": "Gemischte Fragen – Verschiedene Themen 4",
+  "title": "Thema 16 B",
   "texts": [
     {
       "text": "Sie suchen einen Friseurtermin. A) www.friseur-schnell.de: Termine ohne Wartezeit. B) www.auto-tuning.de: Leistungssteigerung für Autos.",
@@ -3179,7 +3179,7 @@
   ]
 }
 ,{
-  "title": "Gemischte Fragen – Verschiedene Themen 15",
+  "title": "Thema 26 B",
   "texts": [
     {
       "text": "Sie möchten ein Paket verschicken. A) Postfiliale Mitte – Briefe, Pakete, Einschreiben. B) Imbiss Wurst & mehr – Heiße Würstchen und Pommes.",
@@ -4229,7 +4229,7 @@
   ]
 }
 ,{
-  "title": "Gemischte Fragen – Verschiedene Themen 25",
+  "title": "Thema 35 B",
   "texts": [
     {
       "text": "Im Park: 'Bitte betreten Sie die Rasenflächen nicht.'",
@@ -4970,6 +4970,7 @@
   
 
 ]
+
 
 
 
