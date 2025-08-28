@@ -1,6 +1,6 @@
 [
   {
-    "title": "Thema D_A1_100",
+    "title": "Thema 1",
     "texts": [
       {
         "text": "Liebe Frau Becker, vielen Dank für Ihre nette Einladung zum Mittagessen. Ich freue mich sehr darauf. Mein Zug kommt um 12 Uhr an. Kann ich Ihnen beim Kochen helfen? Bis bald! Herzliche Grüße, Jens.",
@@ -150,7 +150,7 @@
 
 
 {
-  "title": "Gemischte Fragen",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Sehr geehrte Fahrgäste! Ab 22 Uhr sind unsere Schalter geschlossen. Fahrkarten bekommen Sie dann an unseren Automaten.",
@@ -249,7 +249,7 @@
 
 
 {
-  "title": "Gemischte Fragen - Teil 2",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Am Sonntagvormittag öffnet der Blumenladen von 9 bis 12 Uhr.",
@@ -306,7 +306,7 @@
 ,
 
 {
-  "title": "Gemischte Fragen - 10 Fragen",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Sie möchten am Samstagabend mit Freunden tanzen gehen. A) www.tanzen-macht-spass.de: Tanzschule mit neuen Kursen. B) www.wohin-am-wochenende.de: Tanz-Restaurant mit langer Öffnungszeit.",
@@ -414,7 +414,7 @@
 
 
 {
-  "title": "Neue gemischte Fragen",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Im Park findet am Samstag ein kostenloses Yoga-Event statt. Beginn ist um 10 Uhr.",
@@ -521,7 +521,7 @@
 ,
 
 {
-  "title": "Weitere gemischte Fragen",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Im Kino läuft heute Abend ein neuer Actionfilm. Die Vorstellung beginnt um 20 Uhr.",
@@ -630,7 +630,7 @@
 ,
 
 {
-  "title": "Noch mehr gemischte Fragen",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Das Schwimmbad ist dienstags geschlossen.",
@@ -738,7 +738,7 @@
 
 
 {
-  "title": "Weitere 10 Fragen gemischt",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Die Postfiliale schließt werktags um 18 Uhr.",
@@ -844,7 +844,7 @@
 },
 
 {
-  "title": "Weitere 10 gemischte Fragen",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Das Theaterstück beginnt um 19:30 Uhr.",
@@ -949,7 +949,7 @@
   ]
 },
   {
-  "title": "Weitere 10 gemischte Fragen – Teil 4",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Im Café Sonnenschein gibt es Frühstück von 7 bis 11 Uhr.",
@@ -1055,7 +1055,7 @@
 }
 ,
   {
-  "title": "Weitere 10 gemischte Fragen – Teil 5",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Sie möchten im Park joggen gehen. A) www.outdoor-sport.de: Infos zu Laufstrecken, Training und Gruppen. B) www.fitnessstudio24.de: Angebote für Indoor-Fitnessgeräte.",
@@ -1267,7 +1267,7 @@
 }
 ,
   {
-  "title": "Weitere 10 gemischte Fragen – Teil 7",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Sie möchten am Sonntag zum Friseur gehen. A) www.friseur-sonnenschein.de: Geöffnet Montag–Samstag. B) www.hair-and-style.de: Auch sonntags von 10–14 Uhr geöffnet.",
@@ -1373,7 +1373,7 @@
 }
 ,
   {
-  "title": "Weitere 10 gemischte Fragen – Teil 8",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Sie möchten am Wochenende ins Museum gehen. A) www.kunsthalle-berlin.de: Samstag und Sonntag von 10–18 Uhr geöffnet. B) www.freizeitpark-fun.de: Attraktionen für Kinder und Familien.",
@@ -1479,7 +1479,7 @@
 }
 ,
   {
-  "title": "Weitere 10 gemischte Fragen – Teil 9",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Sie möchten ein Fahrrad reparieren lassen. A) www.radservice24.de: Reparatur, Ersatzteile, Service. B) www.buchhandlung-seitenweise.de: Große Auswahl an Romanen und Fachbüchern.",
@@ -1585,7 +1585,7 @@
 }
 ,
   {
-  "title": "Weitere 10 gemischte Fragen – Teil 10",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Sie möchten einen Sprachkurs im Ausland machen. A) www.sprachenwelt.de: Deutsch, Englisch, Spanisch in Europa. B) www.kochschule24.de: Back- und Kochkurse für Anfänger.",
@@ -1692,7 +1692,7 @@
 ,
 
   {
-  "title": "Gemischte Fragen – Verschiedene Themen",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Sie möchten ein Auto kaufen. A) www.autohandel-gross.de: Große Auswahl an Neuwagen und Gebrauchtwagen. B) www.gartenfreunde.de: Pflanzen, Werkzeuge und Gartenzubehör.",
@@ -1904,7 +1904,7 @@
 ,
 
   {
-  "title": "Gemischte Fragen – Verschiedene Themen 3",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Sie möchten einen Handwerker für Reparaturen finden. A) www.handwerkerservice24.de: Elektriker, Klempner, Maler. B) www.blumenversand.de: Blumensträuße und Pflanzen online bestellen.",
@@ -2118,7 +2118,7 @@
 ,
 
   {
-  "title": "Gemischte Fragen – Verschiedene Themen 5",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Sie suchen einen Arzttermin. A) www.arztpraxis-gesund.de: Allgemeinmedizin und Fachärzte. B) www.fitnessstudio-fit.de: Kurse und Geräte für Fitness.",
@@ -2226,7 +2226,7 @@
 
 
   {
-  "title": "Gemischte Fragen – Verschiedene Themen 6",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Sie wollen einen Hund kaufen. A) www.hundezucht.de: Verschiedene Hunderassen und Welpen. B) www.autohandel.de: Gebrauchtwagen und Neuwagen.",
@@ -2333,7 +2333,7 @@
 ,
 
   {
-  "title": "Gemischte Fragen – Verschiedene Themen 7",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Sie möchten einen Kurs besuchen. A) www.sprachschule-berlin.de: Deutsch- und Englischkurse. B) www.fitnessstudio-fit.de: Fitness- und Yoga-Kurse.",
@@ -2439,7 +2439,7 @@
 }
 ,
 {
-  "title": "Gemischte Fragen – Verschiedene Themen 8",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Sie möchten ein Auto kaufen. A) www.autohaus-neu.de: Neue und gebrauchte Autos. B) www.fahrradladen.de: Fahrräder und Zubehör.",
@@ -2546,7 +2546,7 @@
 ,
 
   {
-  "title": "Gemischte Fragen – Verschiedene Themen 9",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Sie suchen einen Ort für eine Hochzeit. A) www.hochzeitslocation.de: Große Säle und Garten für Hochzeiten. B) www.sportzentrum.de: Hallen für Sportveranstaltungen.",
@@ -2653,7 +2653,7 @@
 ,
 
   {
-  "title": "Gemischte Fragen – Verschiedene Themen 10",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Sie möchten einen Hund kaufen. A) www.hundezucht.de: Verschiedene Hunderassen und Welpen. B) www.katzenfreunde.de: Informationen über Katzenhaltung.",
@@ -2759,7 +2759,7 @@
 }
 ,
 {
-  "title": "Gemischte Fragen – Verschiedene Themen 11",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Sie möchten am Wochenende wandern. A) www.bergwandern.de: Geführte Wandertouren in den Alpen. B) www.kochschule.de: Backkurse für Anfänger.",
@@ -2864,7 +2864,7 @@
   ]
 }
 ,{
-  "title": "Gemischte Fragen – Verschiedene Themen 12",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Sie möchten Brot und Brötchen kaufen. A) Bäckerei Sonnenschein – täglich frisch gebacken. B) Reinigung Blanka – Hemdenservice und Textilpflege.",
@@ -2969,7 +2969,7 @@
   ]
 }
 ,{
-  "title": "Gemischte Fragen – Verschiedene Themen 13",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Sie haben Hunger und möchten etwas Warmes essen. A) Restaurant Bella Italia – Pasta und Pizza täglich frisch. B) Schreibwarenladen Kugel – Stifte, Hefte und Papier.",
@@ -3074,7 +3074,7 @@
   ]
 }
 ,{
-  "title": "Gemischte Fragen – Verschiedene Themen 14",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Sie möchten am Sonntagmorgen frische Brötchen kaufen. A) Bäckerei Frühauf – Sonntag geöffnet von 7–11 Uhr. B) Modegeschäft Elegant – Kleider und Schuhe.",
@@ -3284,7 +3284,7 @@
   ]
 }
 ,{
-  "title": "Gemischte Fragen – Verschiedene Themen 16",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Sie möchten morgen früh zum Flughafen fahren. A) Taxi Ruf 24 – 24h-Service, pünktlich und günstig. B) Kino am Park – Heute Abend: Komödie & Action.",
@@ -3389,7 +3389,7 @@
   ]
 }
 ,{
-  "title": "Gemischte Fragen – Verschiedene Themen 17",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Sie haben Zahnschmerzen. A) Zahnarztpraxis Dr. Müller – Termine auch ohne Anmeldung. B) Tierklinik Nord – Für Hunde, Katzen und Kleintiere.",
@@ -3494,7 +3494,7 @@
   ]
 }
 ,{
-  "title": "Gemischte Fragen – Verschiedene Themen 18",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Sie möchten eine Zeitung kaufen. A) Kiosk am Markt – Zeitungen, Zeitschriften, Snacks. B) Schuhhaus Becker – Neue Kollektion jetzt reduziert.",
@@ -3599,7 +3599,7 @@
   ]
 }
 ,{
-  "title": "Gemischte Fragen – Verschiedene Themen 19",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Sie brauchen einen neuen Reisepass. A) Bürgerbüro Mitte – Dokumente, Pass, Anmeldung. B) Café Mokka – Frühstück und Kuchen täglich ab 8 Uhr.",
@@ -3704,7 +3704,7 @@
   ]
 }
 ,{
-  "title": "Gemischte Fragen – Verschiedene Themen 20",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Sie haben Zahnschmerzen. A) Zahnarztpraxis Dr. Müller – Notdienst auch am Wochenende. B) Blumenladen Flora – frische Sträuße täglich.",
@@ -3809,7 +3809,7 @@
   ]
 }
 ,{
-  "title": "Gemischte Fragen – Verschiedene Themen 21",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Sie möchten Ihre Haare schneiden lassen. A) Friseursalon Schön & Fein – Termine nach Vereinbarung. B) Elektrofachgeschäft – Fernseher, Radios, Stereoanlagen.",
@@ -3914,7 +3914,7 @@
   ]
 }
 ,{
-  "title": "Gemischte Fragen – Verschiedene Themen 22",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Sie möchten einen Deutschkurs besuchen. A) Sprachschule Global – Intensivkurse A1–C1. B) Bäckerei Krüger – täglich frische Brötchen.",
@@ -4019,7 +4019,7 @@
   ]
 }
 ,{
-  "title": "Gemischte Fragen – Verschiedene Themen 23",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Sie möchten ein Fahrrad reparieren lassen. A) Fahrradwerkstatt Radfix – Reparatur aller Markenräder. B) Café Sonnenblume – Frühstück, Kuchen und Kaffee.",
@@ -4124,7 +4124,7 @@
   ]
 }
 ,{
-  "title": "Gemischte Fragen – Verschiedene Themen 24",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Im Supermarkt: 'Kasse 3 ist geschlossen.'",
@@ -4334,7 +4334,7 @@
   ]
 }
 ,{
-  "title": "Gemischte Fragen – Verschiedene Themen 26",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Im Supermarkt: 'Kasse 3 ist heute geschlossen. Bitte benutzen Sie die anderen Kassen.'",
@@ -4439,7 +4439,7 @@
   ]
 }
 ,{
-  "title": "Gemischte Fragen – Verschiedene Themen 27",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Im Schaufenster: 'Winterkleidung jetzt stark reduziert – bis zu 50 % Rabatt!'",
@@ -4544,7 +4544,7 @@
   ]
 }
 ,{
-  "title": "Gemischte Fragen – Verschiedene Themen 28",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Aushang: 'Fahrradwerkstatt geschlossen vom 12. bis 16. August wegen Urlaub.'",
@@ -4649,7 +4649,7 @@
   ]
 }
 ,{
-  "title": "Gemischte Fragen – Verschiedene Themen 29",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Aushang: 'Das Fitnessstudio bleibt am 3. Oktober geschlossen (Feiertag).' ",
@@ -4754,7 +4754,7 @@
   ]
 }
 ,{
-  "title": "Gemischte Fragen – Verschiedene Themen 30",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Plakat: 'Kino Central – Jeden Mittwoch Kinotag. Alle Filme für 6 Euro.'",
@@ -4859,7 +4859,7 @@
   ]
 }
 ,{
-  "title": "Gemischte Fragen – Verschiedene Themen 31",
+  "title": "Thema 1",
   "texts": [
     {
       "text": "Im Supermarkt: 'Milch heute im Angebot – nur 0,79 € pro Liter.'",
@@ -4970,6 +4970,7 @@
   
 
 ]
+
 
 
 
