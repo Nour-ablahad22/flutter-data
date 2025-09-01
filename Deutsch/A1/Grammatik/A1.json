@@ -1,1 +1,155 @@
 
+{
+  "grammatik_A1": [
+    {
+      "id": 1,
+      "regel": "Nomen/Substantive",
+      "beschreibung": "جميع الأسماء تبدأ بحرف كبير ولها جنس وحالة.",
+      "beispiel": "der Hund, die Blume, das Auto"
+    },
+    {
+      "id": 2,
+      "regel": "Artikel",
+      "beschreibung": "أدوات التعريف والنكرة تتغير حسب الجنس والحالة.",
+      "beispiel": "der Mann, ein Mann, die Frau, eine Frau"
+    },
+    {
+      "id": 3,
+      "regel": "Personalpronomen",
+      "beschreibung": "ضمائر الفاعل مثل ich, du, er, sie, es, wir, ihr, sie, Sie",
+      "beispiel": "Ich gehe nach Hause."
+    },
+    {
+      "id": 4,
+      "regel": "Possessivpronomen",
+      "beschreibung": "ضمائر الملكية مثل mein, dein, sein, ihr, unser, euer",
+      "beispiel": "Das ist mein Buch."
+    },
+    {
+      "id": 5,
+      "regel": "Verben regelmäßig",
+      "beschreibung": "تصريف الأفعال النظامية حسب الفاعل.",
+      "beispiel": "ich spiele, du spielst, er spielt"
+    },
+    {
+      "id": 6,
+      "regel": "Verben unregelmäßig",
+      "beschreibung": "تصريف الأفعال الشاذة غير النظامية.",
+      "beispiel": "ich gehe, du gehst, er geht"
+    },
+    {
+      "id": 7,
+      "regel": "Hilfsverben",
+      "beschreibung": "الأفعال المساعدة: sein, haben, werden، تستخدم لتكوين أزمنة مركبة.",
+      "beispiel": "Ich habe gegessen. Ich bin gekommen."
+    },
+    {
+      "id": 8,
+      "regel": "Adjektive",
+      "beschreibung": "الصفات تأتي قبل الاسم وتتغير حسب الجنس والحالة.",
+      "beispiel": "ein kleiner Hund, eine schöne Blume"
+    },
+    {
+      "id": 9,
+      "regel": "Präpositionen",
+      "beschreibung": "حروف الجر تحدد الحالة بعد الاسم.",
+      "beispiel": "mit (Dativ), für (Akkusativ), in (Wechselpräposition)"
+    },
+    {
+      "id": 10,
+      "regel": "Satzbau",
+      "beschreibung": "ترتيب الكلمات الأساسي: فاعل + فعل + مفعول.",
+      "beispiel": "Ich esse einen Apfel."
+    },
+    {
+      "id": 11,
+      "regel": "Fragen",
+      "beschreibung": "أسئلة نعم/لا أو W-Fragen.",
+      "beispiel": "Kommst du? Wo wohnst du?"
+    },
+    {
+      "id": 12,
+      "regel": "Zeiten Präsens",
+      "beschreibung": "يستخدم للتحدث عن الحاضر.",
+      "beispiel": "Ich lerne Deutsch."
+    },
+    {
+      "id": 13,
+      "regel": "Perfekt",
+      "beschreibung": "للتحدث عن الماضي مع الأفعال المساعدة.",
+      "beispiel": "Ich habe Deutsch gelernt."
+    },
+    {
+      "id": 14,
+      "regel": "Futur I",
+      "beschreibung": "للتحدث عن المستقبل.",
+      "beispiel": "Ich werde morgen arbeiten."
+    },
+    {
+      "id": 15,
+      "regel": "Negation",
+      "beschreibung": "النفي بكلمة nicht أو kein.",
+      "beispiel": "Ich spiele nicht. Ich habe kein Auto."
+    },
+    {
+      "id": 16,
+      "regel": "Zahlen und Uhrzeit",
+      "beschreibung": "تعلم الأعداد والتاريخ والأيام والأشهر.",
+      "beispiel": "eins, zwei, drei; Montag, Januar; 12 Uhr"
+    },
+    {
+      "id": 17,
+      "regel": "Konjunktionen",
+      "beschreibung": "روابط بسيطة مثل und, oder, aber, denn, weil.",
+      "beispiel": "Ich esse und trinke. Ich gehe nach Hause, weil es spät ist."
+    },
+    {
+      "id": 18,
+      "regel": "Komparativ und Superlativ",
+      "beschreibung": "للمقارنة بين الأشياء أو الأعلى درجة.",
+      "beispiel": "größer, am größten; schöner, am schönsten"
+    },
+    {
+      "id": 19,
+      "regel": "Imperativ",
+      "beschreibung": "صيغة الأمر.",
+      "beispiel": "Komm! Mach mit!"
+    },
+    {
+      "id": 20,
+      "regel": "Tageszeiten und Wochentage",
+      "beschreibung": "التحدث عن الوقت وأيام الأسبوع.",
+      "beispiel": "am Montag, um 15 Uhr"
+    },
+    {
+      "id": 21,
+      "regel": "Ortsangaben",
+      "beschreibung": "التعبير عن المكان باستخدام حروف الجر.",
+      "beispiel": "Ich bin im Park. Ich gehe zum Supermarkt."
+    },
+    {
+      "id": 22,
+      "regel": "Modalverben",
+      "beschreibung": "أفعال التعبير عن الرغبة أو القدرة: können, wollen, müssen, sollen, dürfen, mögen",
+      "beispiel": "Ich kann schwimmen. Ich möchte Eis essen."
+    },
+    {
+      "id": 23,
+      "regel": "Trennbare Verben",
+      "beschreibung": "أفعال مركبة يمكن فصلها.",
+      "beispiel": "Ich stehe um 7 Uhr auf."
+    },
+    {
+      "id": 24,
+      "regel": "Untrennbare Verben",
+      "beschreibung": "أفعال مركبة لا تنفصل.",
+      "beispiel": "Ich verstehe das. Ich bekomme Hilfe."
+    },
+    {
+      "id": 25,
+      "regel": "Wortstellung in Nebensätzen",
+      "beschreibung": "في الجملة الفرعية، الفعل يأتي في النهاية.",
+      "beispiel": "Ich weiß, dass du heute kommst."
+    }
+  ]
+}
