@@ -1,1 +1,31 @@
 
+{
+  "Artikel": {
+    "regel": "Artikel",
+    "beschreibung": "أدوات التعريف والنكرة تتغير حسب جنس وحالة الاسم.",
+    "beschreibung_deutsch": "Definite und Indefinite Artikel ändern sich nach Genus und Kasus des Nomens.",
+    "beispiel": "der Mann, die Frau, das Kind, ein Mann, eine Frau, ein Kind",
+    "beispiel_saetze": [
+      "Der Mann liest ein Buch.",
+      "Die Frau kocht das Abendessen.",
+      "Das Kind spielt im Garten.",
+      "Ein Mann fährt mit dem Auto.",
+      "Eine Frau geht einkaufen.",
+      "Ein Kind malt ein Bild.",
+      "Der Hund schläft auf dem Sofa.",
+      "Die Katze klettert auf den Baum.",
+      "Das Auto steht vor dem Haus.",
+      "Ein Vogel singt im Baum.",
+      "Eine Blume wächst im Garten.",
+      "Der Lehrer erklärt die Aufgabe.",
+      "Die Lampe steht auf dem Tisch.",
+      "Das Wetter ist heute schön.",
+      "Ein Junge spielt Fußball.",
+      "Eine Frau liest die Zeitung.",
+      "Der Apfel ist rot.",
+      "Die Sonne scheint am Himmel.",
+      "Das Haus ist groß.",
+      "Ein Hund läuft im Park."
+    ]
+  }
+}
