@@ -1,1 +1,31 @@
 
+{
+  "Personalpronomen": {
+    "regel": "Personalpronomen",
+    "beschreibung": "ضمائر الفاعل التي تستخدم بدل الاسم لتجنب التكرار.",
+    "beschreibung_deutsch": "Personalpronomen ersetzen Nomen im Satz, um Wiederholungen zu vermeiden.",
+    "beispiel": "ich, du, er, sie, es, wir, ihr, sie, Sie",
+    "beispiel_saetze": [
+      "Ich gehe zur Schule.",
+      "Du spielst Fußball.",
+      "Er liest ein Buch.",
+      "Sie kocht das Abendessen.",
+      "Es regnet heute.",
+      "Wir lernen Deutsch.",
+      "Ihr spielt Karten.",
+      "Sie schlafen im Zimmer.",
+      "Ich trinke Wasser.",
+      "Du bist müde.",
+      "Er fährt mit dem Fahrrad.",
+      "Sie singt ein Lied.",
+      "Es ist kalt draußen.",
+      "Wir essen Pizza.",
+      "Ihr habt viel Spaß.",
+      "Sie kommen morgen.",
+      "Ich schreibe einen Brief.",
+      "Du liest die Zeitung.",
+      "Er arbeitet im Büro.",
+      "Sie spielt Klavier."
+    ]
+  }
+}
