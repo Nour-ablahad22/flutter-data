@@ -1,1 +1,356 @@
 
+{
+  "messages": [
+    {
+      "id": 1,
+      "topic": "Geburtstagsfeier Kollege",
+      "aufgabe_text": "Ihr neuer Kollege, Herr Jensch, hat Sie am Dienstag um 15 Uhr zu seiner Geburtstagsfeier im Büro eingeladen. Schreiben Sie an Herrn Jensch: - Warum schreiben Sie? - Später kommen? - Helfen?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Später kommen?", "Helfen?"],
+      "antwort": "Lieber Herr Jensch, vielen Dank für Ihre Einladung. Leider komme ich später. Am Dienstag habe ich um 14 Uhr einen Arzttermin. Um 15:30 Uhr bin ich da. Soll ich einen Kuchen mitbringen? Herzliche Grüße xxx yyy"
+    },
+    {
+      "id": 2,
+      "topic": "Eigene Geburtstagseinladung",
+      "aufgabe_text": "Sie möchten Ihren Geburtstag feiern und Ihre Freunde Susanne und Paul einladen. Schreiben Sie an Susanne und Paul: - Warum schreiben Sie? - Tag und Uhrzeit? - Kommen: Wie?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Tag und Uhrzeit?", "Kommen: Wie?"],
+      "antwort": "Liebe Susanne, lieber Paul, ich möchte euch zu meiner Geburtstagsfeier einladen. Am Samstag um 12 Uhr im Park machen wir ein Picknick. Bitte kommt mit dem Fahrrad oder Taxi. Viele Grüße xxx yyy"
+    },
+    {
+      "id": 3,
+      "topic": "Reise nach Dresden",
+      "aufgabe_text": "Sie möchten im August Dresden besuchen. Schreiben Sie an die Touristeninformation: - Warum schreiben Sie? - Informationen über Kulturprogramm? - Hoteladressen?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Informationen über Kulturprogramm?", "Hoteladressen?"],
+      "antwort": "Sehr geehrte Damen und Herren, ich möchte im August nach Dresden fahren. Haben Sie Informationen über Filme, Museen oder ein Kulturprogramm? Bitte schicken Sie mir auch Hoteladressen. Vielen Dank. Mit freundlichen Grüßen xxx yyy"
+    },
+    {
+      "id": 4,
+      "topic": "Arzttermin verschieben",
+      "aufgabe_text": "Sie haben am Montag einen Termin beim Arzt, können aber nicht kommen. Schreiben Sie an die Praxis: - Warum schreiben Sie? - Neuer Termin? - Uhrzeit?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Neuer Termin?", "Uhrzeit?"],
+      "antwort": "Sehr geehrte Damen und Herren, ich habe am Montag einen Termin, aber leider bin ich krank. Bitte geben Sie mir einen neuen Termin. Geht es am Mittwoch um 10 Uhr? Mit freundlichen Grüßen xxx yyy"
+    },
+    {
+      "id": 5,
+      "topic": "Einladung ins Kino",
+      "aufgabe_text": "Ihr Freund Paul liebt Filme. Schreiben Sie an Paul: - Warum schreiben Sie? - Wann? - Welcher Film?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wann?", "Welcher Film?"],
+      "antwort": "Lieber Paul, hast du Lust, ins Kino zu gehen? Am Freitag um 19 Uhr läuft ein neuer Film im City-Kino. Wollen wir zusammen hingehen? Viele Grüße xxx yyy"
+    },
+    {
+      "id": 6,
+      "topic": "Absage einer Einladung",
+      "aufgabe_text": "Ihre Freundin Maria hat Sie zu einer Party eingeladen, aber Sie können nicht kommen. Schreiben Sie an Maria: - Warum schreiben Sie? - Warum nicht? - Neuer Vorschlag?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Warum nicht?", "Neuer Vorschlag?"],
+      "antwort": "Liebe Maria, vielen Dank für deine Einladung. Leider kann ich am Samstag nicht kommen, ich muss arbeiten. Wollen wir uns nächste Woche treffen? Herzliche Grüße xxx yyy"
+    },
+    {
+      "id": 7,
+      "topic": "Hotelanfrage",
+      "aufgabe_text": "Sie möchten im Juli nach Berlin fahren. Schreiben Sie an ein Hotel: - Warum schreiben Sie? - Zimmer? - Preis?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Zimmer?", "Preis?"],
+      "antwort": "Sehr geehrte Damen und Herren, ich fahre im Juli nach Berlin. Haben Sie ein Doppelzimmer vom 10. bis 15. Juli frei? Wie teuer ist das pro Nacht? Vielen Dank. Mit freundlichen Grüßen xxx yyy"
+    },
+    {
+      "id": 8,
+      "topic": "Kaffee mit Freundin",
+      "aufgabe_text": "Sie möchten Ihre Freundin Anna zu sich einladen. Schreiben Sie an Anna: - Warum schreiben Sie? - Wann? - Was machen Sie?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wann?", "Was machen Sie?"],
+      "antwort": "Liebe Anna, ich möchte dich zu mir zum Kaffee einladen. Am Sonntag um 16 Uhr bist du herzlich willkommen. Wir trinken Kaffee, essen Kuchen und sprechen viel. Viele Grüße xxx yyy"
+    },
+    {
+      "id": 9,
+      "topic": "Treffen verschieben",
+      "aufgabe_text": "Sie haben mit Ihrem Freund Thomas ein Treffen am Freitag, aber Sie können nicht. Schreiben Sie an Thomas: - Warum schreiben Sie? - Warum nicht? - Neuer Termin?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Warum nicht?", "Neuer Termin?"],
+      "antwort": "Lieber Thomas, unser Treffen am Freitag ist schwierig für mich, ich habe keine Zeit. Können wir uns am Sonntag um 15 Uhr treffen? Herzliche Grüße xxx yyy"
+    },
+    {
+      "id": 10,
+      "topic": "Abendessen Einladung",
+      "aufgabe_text": "Sie möchten Ihre Kollegin Sabine zum Abendessen einladen. Schreiben Sie an Sabine: - Warum schreiben Sie? - Wann? - Was essen Sie?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wann?", "Was essen Sie?"],
+      "antwort": "Liebe Sabine, ich lade dich herzlich zum Abendessen ein. Am Samstag um 19 Uhr bei mir zu Hause. Wir kochen Pasta und trinken Wein. Viele Grüße xxx yyy"
+    },
+    {
+      "id": 11,
+      "topic": "Picknick im Park",
+      "aufgabe_text": "Sie möchten ein Picknick machen und Ihre Freunde einladen. Schreiben Sie an Ihre Freunde: - Warum schreiben Sie? - Wann und wo? - Was bringen Sie mit?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wann und wo?", "Was bringen Sie mit?"],
+      "antwort": "Liebe Freunde, ich möchte euch zum Picknick einladen. Am Sonntag um 12 Uhr im Stadtpark. Ich bringe Obst, Getränke und Brot mit. Viele Grüße xxx yyy"
+    },
+    {
+      "id": 12,
+      "topic": "Oma besuchen",
+      "aufgabe_text": "Sie möchten Ihre Oma besuchen. Schreiben Sie an Oma: - Warum schreiben Sie? - Wann kommen Sie? - Was bringen Sie mit?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wann kommen Sie?", "Was bringen Sie mit?"],
+      "antwort": "Liebe Oma, ich schreibe dir, weil ich dich besuchen möchte. Am Samstag um 10 Uhr komme ich zu dir. Ich bringe einen Kuchen mit. Viele Grüße xxx yyy"
+    },
+    {
+      "id": 13,
+      "topic": "Kursinformation",
+      "aufgabe_text": "Sie möchten einen Deutschkurs machen. Schreiben Sie an die Sprachschule: - Warum schreiben Sie? - Wann beginnt der Kurs? - Preis?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wann beginnt der Kurs?", "Preis?"],
+      "antwort": "Sehr geehrte Damen und Herren, ich interessiere mich für einen Deutschkurs. Wann beginnt der Kurs im September? Wie hoch ist der Preis? Vielen Dank. Mit freundlichen Grüßen xxx yyy"
+    },
+    {
+      "id": 14,
+      "topic": "Treffen im Café",
+      "aufgabe_text": "Sie möchten Ihre Freundin Lisa im Café treffen. Schreiben Sie an Lisa: - Warum schreiben Sie? - Wann? - Wo?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wann?", "Wo?"],
+      "antwort": "Liebe Lisa, wollen wir uns im Café treffen? Am Freitag um 16 Uhr im Café Central. Wir trinken Kaffee und sprechen zusammen. Viele Grüße xxx yyy"
+    },
+    {
+      "id": 15,
+      "topic": "Urlaub am Meer",
+      "aufgabe_text": "Sie möchten Urlaub am Meer machen. Schreiben Sie an die Touristeninformation: - Warum schreiben Sie? - Hotel? - Aktivitäten?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Hotel?", "Aktivitäten?"],
+      "antwort": "Sehr geehrte Damen und Herren, ich möchte im Juli Urlaub am Meer machen. Haben Sie Informationen über Hotels und Aktivitäten am Strand? Vielen Dank. Mit freundlichen Grüßen xxx yyy"
+    },
+    {
+      "id": 16,
+      "topic": "Party Einladung",
+      "aufgabe_text": "Sie möchten eine Party machen. Schreiben Sie an Ihre Freunde: - Warum schreiben Sie? - Wann? - Was machen Sie?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wann?", "Was machen Sie?"],
+      "antwort": "Liebe Freunde, ich lade euch zu meiner Party ein. Am Samstag um 20 Uhr bei mir zu Hause. Wir tanzen, essen Pizza und haben Spaß. Viele Grüße xxx yyy"
+    },
+    {
+      "id": 17,
+      "topic": "Sport machen",
+      "aufgabe_text": "Sie möchten mit Ihrem Freund Paul Sport machen. Schreiben Sie an Paul: - Warum schreiben Sie? - Wann? - Welche Sportart?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wann?", "Welche Sportart?"],
+      "antwort": "Lieber Paul, hast du Lust, Sport zu machen? Am Sonntag um 10 Uhr im Park. Wir spielen Fußball zusammen. Viele Grüße xxx yyy"
+    },
+    {
+      "id": 18,
+      "topic": "Hilfe beim Umzug",
+      "aufgabe_text": "Sie ziehen um und brauchen Hilfe. Schreiben Sie an Ihren Freund Alex: - Warum schreiben Sie? - Wobei helfen? - Wann?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wobei helfen?", "Wann?"],
+      "antwort": "Lieber Alex, ich brauche deine Hilfe beim Umzug. Am Samstagvormittag kannst du mir bitte helfen? Ich habe viele Kisten. Herzliche Grüße xxx yyy"
+    },
+    {
+      "id": 19,
+      "topic": "Konzertbesuch",
+      "aufgabe_text": "Ihre Freundin Maria liebt Musik. Schreiben Sie an Maria: - Warum schreiben Sie? - Wann? - Welche Musik?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wann?", "Welche Musik?"],
+      "antwort": "Liebe Maria, hast du Lust, ins Konzert zu gehen? Am Freitag um 20 Uhr spielt eine Rockband in der Stadthalle. Wollen wir zusammen hingehen? Viele Grüße xxx yyy"
+    },
+    {
+      "id": 20,
+      "topic": "Restaurantbesuch",
+      "aufgabe_text": "Sie möchten mit Ihrem Freund Ben essen gehen. Schreiben Sie an Ben: - Warum schreiben Sie? - Wann? - Welches Restaurant?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wann?", "Welches Restaurant?"],
+      "antwort": "Lieber Ben, ich möchte mit dir essen gehen. Am Samstag um 18 Uhr im italienischen Restaurant Roma. Wir essen Pizza und Pasta. Viele Grüße xxx yyy"
+    },
+    {
+      "id": 21,
+      "topic": "Ferien bei Freunden",
+      "aufgabe_text": "Sie möchten Ihre Ferien bei Freunden verbringen. Schreiben Sie an Ihre Freunde: - Warum schreiben Sie? - Wann kommen Sie? - Wie lange bleiben Sie?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wann kommen Sie?", "Wie lange bleiben Sie?"],
+      "antwort": "Liebe Freunde, ich möchte meine Ferien bei euch verbringen. Am Montag komme ich zu euch und bleibe eine Woche. Ich freue mich sehr. Viele Grüße xxx yyy"
+    },
+    {
+      "id": 22,
+      "topic": "Hochzeit Einladung",
+      "aufgabe_text": "Sie heiraten bald und möchten Ihre Freundin Sarah einladen. Schreiben Sie an Sarah: - Warum schreiben Sie? - Wann und wo? - Was machen Sie?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wann und wo?", "Was machen Sie?"],
+      "antwort": "Liebe Sarah, ich möchte dich zu meiner Hochzeit einladen. Am Samstag um 14 Uhr im Rathaus feiern wir. Danach essen wir zusammen im Restaurant. Viele Grüße xxx yyy"
+    },
+    {
+      "id": 23,
+      "topic": "Hausaufgaben Hilfe",
+      "aufgabe_text": "Sie haben Probleme mit Deutschhausaufgaben. Schreiben Sie an Ihre Freundin Lea: - Warum schreiben Sie? - Wobei Hilfe? - Wann treffen?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wobei Hilfe?", "Wann treffen?"],
+      "antwort": "Liebe Lea, ich habe Probleme mit meinen Deutschhausaufgaben. Kannst du mir bitte helfen? Am Donnerstag nach der Schule habe ich Zeit. Viele Grüße xxx yyy"
+    },
+    {
+      "id": 24,
+      "topic": "Sportverein",
+      "aufgabe_text": "Sie möchten sich für einen Sportkurs anmelden. Schreiben Sie an den Sportverein: - Warum schreiben Sie? - Kurs? - Preis?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Kurs?", "Preis?"],
+      "antwort": "Sehr geehrte Damen und Herren, ich möchte mich für einen Sportkurs anmelden. Haben Sie einen Kurs für Schwimmen? Wie viel kostet der Kurs? Vielen Dank. Mit freundlichen Grüßen xxx yyy"
+    },
+    {
+      "id": 25,
+      "topic": "Nachhilfe geben",
+      "aufgabe_text": "Ihre Nachbarin Frau Keller hat ein Kind, das Hilfe braucht. Schreiben Sie an Frau Keller: - Warum schreiben Sie? - Wobei helfen? - Wann?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wobei helfen?", "Wann?"],
+      "antwort": "Liebe Frau Keller, ich habe gehört, Ihr Kind braucht Hilfe in Mathematik. Soll ich am Dienstag um 17 Uhr kommen und mit ihm lernen? Herzliche Grüße xxx yyy"
+    }
+  ,
+    {
+      "id": 26,
+      "topic": "Einkaufshilfe für Nachbar",
+      "aufgabe_text": "Ihr Nachbar Herr Meier ist krank und kann nicht einkaufen. Schreiben Sie an Herrn Meier: - Warum schreiben Sie? - Wobei helfen? - Wann?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wobei helfen?", "Wann?"],
+      "antwort": "Lieber Herr Meier, ich habe gehört, Sie sind krank. Soll ich für Sie einkaufen? Ich kann am Samstagvormittag kommen. Ich bringe Brot, Milch und Obst mit. Herzliche Grüße xxx yyy"
+    },
+    {
+      "id": 27,
+      "topic": "Einladung zum Picknick",
+      "aufgabe_text": "Sie möchten mit Ihren Freunden ein Picknick machen. Schreiben Sie an Ihre Freunde: - Warum schreiben Sie? - Wann und wo? - Was mitbringen?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wann und wo?", "Was mitbringen?"],
+      "antwort": "Liebe Freunde, ich möchte euch zu einem Picknick einladen. Am Sonntag um 11 Uhr im Stadtpark. Ich bringe Obst, Getränke und Brot mit. Viele Grüße xxx yyy"
+    },
+    {
+      "id": 28,
+      "topic": "Nachhilfe geben",
+      "aufgabe_text": "Ihr Freund Tom hat Probleme in Deutsch. Schreiben Sie an Tom: - Warum schreiben Sie? - Wobei helfen? - Wann?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wobei helfen?", "Wann?"],
+      "antwort": "Lieber Tom, ich habe gehört, du brauchst Hilfe in Deutsch. Ich kann dir beim Lesen und Schreiben helfen. Am Mittwoch um 16 Uhr? Viele Grüße xxx yyy"
+    },
+    {
+      "id": 29,
+      "topic": "Kochabend planen",
+      "aufgabe_text": "Sie möchten einen Kochabend machen. Schreiben Sie an Ihre Freundin Julia: - Warum schreiben Sie? - Wann? - Was kochen?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wann?", "Was kochen?"],
+      "antwort": "Liebe Julia, ich möchte einen Kochabend machen. Am Freitag um 18 Uhr bei mir. Wir kochen Pasta und einen Salat. Ich freue mich auf dich! Viele Grüße xxx yyy"
+    },
+    {
+      "id": 30,
+      "topic": "Besuch im Zoo",
+      "aufgabe_text": "Sie möchten mit Ihren Freunden in den Zoo gehen. Schreiben Sie an Ihre Freunde: - Warum schreiben Sie? - Wann? - Wie kommen Sie?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wann?", "Wie kommen Sie?"],
+      "antwort": "Liebe Freunde, ich möchte mit euch in den Zoo gehen. Am Samstag um 10 Uhr. Bitte kommt mit dem Fahrrad oder Bus. Ich freue mich auf euch. Viele Grüße xxx yyy"
+    },
+    {
+      "id": 31,
+      "topic": "Einladung zum Sport",
+      "aufgabe_text": "Sie möchten Ihren Freund Alex zum Joggen einladen. Schreiben Sie an Alex: - Warum schreiben Sie? - Wann? - Wo?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wann?", "Wo?"],
+      "antwort": "Lieber Alex, ich möchte mit dir joggen. Am Sonntag um 9 Uhr im Park. Wir laufen zusammen und trinken danach einen Kaffee. Viele Grüße xxx yyy"
+    },
+    {
+      "id": 32,
+      "topic": "Kaffee trinken mit Kollegin",
+      "aufgabe_text": "Sie möchten Ihre Kollegin Eva auf einen Kaffee treffen. Schreiben Sie an Eva: - Warum schreiben Sie? - Wann? - Wo?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wann?", "Wo?"],
+      "antwort": "Liebe Eva, wollen wir zusammen Kaffee trinken? Am Donnerstag um 15 Uhr im Café Central. Wir können ein bisschen plaudern und Kuchen essen. Viele Grüße xxx yyy"
+    },
+    {
+      "id": 33,
+      "topic": "Einladung zur Ausstellung",
+      "aufgabe_text": "Sie möchten Ihre Freunde in eine Kunstausstellung einladen. Schreiben Sie an Ihre Freunde: - Warum schreiben Sie? - Wann? - Welche Ausstellung?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wann?", "Welche Ausstellung?"],
+      "antwort": "Liebe Freunde, ich möchte euch in die neue Kunstausstellung einladen. Am Samstag um 14 Uhr im Stadtmuseum. Wir sehen moderne Kunst und treffen uns danach im Café. Viele Grüße xxx yyy"
+    },
+    {
+      "id": 34,
+      "topic": "Besuch im Schwimmbad",
+      "aufgabe_text": "Sie möchten mit Ihrem Freund Ben ins Schwimmbad gehen. Schreiben Sie an Ben: - Warum schreiben Sie? - Wann? - Wie lange?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wann?", "Wie lange?"],
+      "antwort": "Lieber Ben, ich möchte mit dir ins Schwimmbad gehen. Am Sonntag um 11 Uhr. Wir bleiben ungefähr zwei Stunden und essen danach Eis. Viele Grüße xxx yyy"
+    },
+    {
+      "id": 35,
+      "topic": "Einladung zur Weihnachtsfeier",
+      "aufgabe_text": "Sie möchten Ihre Kollegen zur Weihnachtsfeier einladen. Schreiben Sie an Ihre Kollegen: - Warum schreiben Sie? - Wann? - Wo?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wann?", "Wo?"],
+      "antwort": "Liebe Kollegen, ich möchte euch zu unserer Weihnachtsfeier einladen. Am Freitag um 18 Uhr im Büro. Wir essen zusammen, trinken Glühwein und feiern. Herzliche Grüße xxx yyy"
+    },
+    {
+      "id": 36,
+      "topic": "Tierheim besuchen",
+      "aufgabe_text": "Sie möchten mit Ihren Freunden ins Tierheim gehen. Schreiben Sie an Ihre Freunde: - Warum schreiben Sie? - Wann? - Was machen Sie dort?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wann?", "Was machen Sie dort?"],
+      "antwort": "Liebe Freunde, ich möchte mit euch das Tierheim besuchen. Am Samstag um 10 Uhr. Wir helfen, die Tiere zu füttern und zu spielen. Viele Grüße xxx yyy"
+    },
+    {
+      "id": 37,
+      "topic": "Einkauf für Party",
+      "aufgabe_text": "Sie organisieren eine Party und müssen einkaufen. Schreiben Sie an Ihren Freund Paul: - Warum schreiben Sie? - Wobei helfen? - Wann?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wobei helfen?", "Wann?"],
+      "antwort": "Lieber Paul, ich organisiere eine Party und brauche Hilfe beim Einkaufen. Kannst du am Samstag um 10 Uhr mit mir gehen? Wir kaufen Getränke und Snacks. Viele Grüße xxx yyy"
+    },
+    {
+      "id": 38,
+      "topic": "Einladung zum Picknick im Park",
+      "aufgabe_text": "Sie möchten einen sonnigen Tag im Park genießen. Schreiben Sie an Ihre Freunde: - Warum schreiben Sie? - Wann? - Was mitbringen?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wann?", "Was mitbringen?"],
+      "antwort": "Liebe Freunde, ich möchte mit euch ein Picknick im Park machen. Am Sonntag um 13 Uhr. Ich bringe Sandwiches, Obst und Getränke mit. Viele Grüße xxx yyy"
+    },
+    {
+      "id": 39,
+      "topic": "Besuch auf dem Bauernhof",
+      "aufgabe_text": "Sie möchten mit Ihrer Familie einen Bauernhof besuchen. Schreiben Sie an den Bauernhof: - Warum schreiben Sie? - Wann? - Wie viele Personen?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wann?", "Wie viele Personen?"],
+      "antwort": "Sehr geehrte Damen und Herren, ich möchte mit meiner Familie Ihren Bauernhof besuchen. Am Samstag um 11 Uhr. Wir sind fünf Personen. Vielen Dank. Mit freundlichen Grüßen xxx yyy"
+    },
+    {
+      "id": 40,
+      "topic": "Einladung zum Kinoabend",
+      "aufgabe_text": "Sie möchten Ihre Freunde zu einem Kinoabend einladen. Schreiben Sie an Ihre Freunde: - Warum schreiben Sie? - Wann? - Welcher Film?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wann?", "Welcher Film?"],
+      "antwort": "Liebe Freunde, ich möchte euch zu einem Kinoabend einladen. Am Freitag um 19 Uhr im City-Kino. Wir sehen den neuen Actionfilm. Viele Grüße xxx yyy"
+    },
+    {
+      "id": 41,
+      "topic": "Besuch im Museum",
+      "aufgabe_text": "Sie möchten ein Museum besuchen. Schreiben Sie an Ihre Freundin Lisa: - Warum schreiben Sie? - Wann? - Welche Ausstellung?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wann?", "Welche Ausstellung?"],
+      "antwort": "Liebe Lisa, ich möchte mit dir das Museum besuchen. Am Samstag um 14 Uhr. Wir sehen die Ausstellung über alte Kunst. Viele Grüße xxx yyy"
+    },
+    {
+      "id": 42,
+      "topic": "Gartenarbeit helfen",
+      "aufgabe_text": "Ihr Nachbar Herr Müller braucht Hilfe im Garten. Schreiben Sie an Herrn Müller: - Warum schreiben Sie? - Wobei helfen? - Wann?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wobei helfen?", "Wann?"],
+      "antwort": "Lieber Herr Müller, ich habe gehört, Sie brauchen Hilfe im Garten. Soll ich am Samstag um 10 Uhr kommen? Ich kann Unkraut jäten und Blumen gießen. Herzliche Grüße xxx yyy"
+    },
+    {
+      "id": 43,
+      "topic": "Einladung zum Frühstück",
+      "aufgabe_text": "Sie möchten Ihre Freundin Anna zum Frühstück einladen. Schreiben Sie an Anna: - Warum schreiben Sie? - Wann? - Was essen Sie?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wann?", "Was essen Sie?"],
+      "antwort": "Liebe Anna, ich möchte dich zum Frühstück einladen. Am Sonntag um 10 Uhr bei mir. Wir essen Brötchen, Obst und trinken Kaffee. Viele Grüße xxx yyy"
+    },
+    {
+      "id": 44,
+      "topic": "Spaziergang im Park",
+      "aufgabe_text": "Sie möchten mit Ihrem Freund Tom einen Spaziergang machen. Schreiben Sie an Tom: - Warum schreiben Sie? - Wann? - Wo?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wann?", "Wo?"],
+      "antwort": "Lieber Tom, ich möchte mit dir einen Spaziergang machen. Am Samstag um 15 Uhr im Stadtpark. Wir gehen spazieren und reden über unsere Woche. Viele Grüße xxx yyy"
+    },
+    {
+      "id": 45,
+      "topic": "Besuch im Theater",
+      "aufgabe_text": "Sie möchten ins Theater gehen. Schreiben Sie an Ihre Freundin Lisa: - Warum schreiben Sie? - Wann? - Welches Stück?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wann?", "Welches Stück?"],
+      "antwort": "Liebe Lisa, ich möchte mit dir ins Theater gehen. Am Freitag um 19 Uhr. Wir sehen das Stück ‚Der Kleine Prinz‘. Viele Grüße xxx yyy"
+    },
+    {
+      "id": 46,
+      "topic": "Fahrradtour planen",
+      "aufgabe_text": "Sie möchten eine Fahrradtour machen. Schreiben Sie an Ihre Freunde: - Warum schreiben Sie? - Wann? - Wohin?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wann?", "Wohin?"],
+      "antwort": "Liebe Freunde, ich möchte mit euch eine Fahrradtour machen. Am Sonntag um 9 Uhr. Wir fahren zum See und machen dort ein Picknick. Viele Grüße xxx yyy"
+    },
+    {
+      "id": 47,
+      "topic": "Einladung zum Bowling",
+      "aufgabe_text": "Sie möchten Ihre Freunde zum Bowling einladen. Schreiben Sie an Ihre Freunde: - Warum schreiben Sie? - Wann? - Wo?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wann?", "Wo?"],
+      "antwort": "Liebe Freunde, ich möchte euch zum Bowling einladen. Am Samstag um 18 Uhr im Bowlingcenter. Wir spielen zwei Stunden und essen danach Pizza. Viele Grüße xxx yyy"
+    },
+    {
+      "id": 48,
+      "topic": "Besuch im Botanischen Garten",
+      "aufgabe_text": "Sie möchten mit Ihrer Freundin Sarah den Botanischen Garten besuchen. Schreiben Sie an Sarah: - Warum schreiben Sie? - Wann? - Was sehen Sie?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wann?", "Was sehen Sie?"],
+      "antwort": "Liebe Sarah, ich möchte mit dir den Botanischen Garten besuchen. Am Sonntag um 11 Uhr. Wir sehen viele Blumen und exotische Pflanzen. Viele Grüße xxx yyy"
+    },
+    {
+      "id": 49,
+      "topic": "Kuchen backen",
+      "aufgabe_text": "Sie möchten mit Ihrem Freund Paul Kuchen backen. Schreiben Sie an Paul: - Warum schreiben Sie? - Wann? - Welchen Kuchen?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wann?", "Welchen Kuchen?"],
+      "antwort": "Lieber Paul, ich möchte mit dir Kuchen backen. Am Samstag um 15 Uhr bei mir. Wir machen einen Schokoladenkuchen. Viele Grüße xxx yyy"
+    },
+    {
+      "id": 50,
+      "topic": "Weihnachtsmarkt besuchen",
+      "aufgabe_text": "Sie möchten mit Ihrer Freundin Anna den Weihnachtsmarkt besuchen. Schreiben Sie an Anna: - Warum schreiben Sie? - Wann? - Was machen Sie dort?",
+      "aufgabe_points": ["Warum schreiben Sie?", "Wann?", "Was machen Sie dort?"],
+      "antwort": "Liebe Anna, ich möchte mit dir den Weihnachtsmarkt besuchen. Am Samstag um 16 Uhr. Wir trinken Glühwein, essen Lebkuchen und sehen die Lichter. Viele Grüße xxx yyy"
+    }
+  ]
+}
