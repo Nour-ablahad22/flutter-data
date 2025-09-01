@@ -4,127 +4,127 @@
     {
       "id": 1,
       "regel": "Nomen/Substantive",
-      "url":
+      "url":"https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/refs/heads/main/Deutsch/A1/Grammatik/Verbs/Nomen-Substantive.json"
     },
     {
       "id": 2,
       "regel": "Artikel",
-      "url":
+      "url":"https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/refs/heads/main/Deutsch/A1/Grammatik/Verbs/Artikel.json"
     },
     {
       "id": 3,
       "regel": "Personalpronomen",
-      "url":
+      "url":"https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/refs/heads/main/Deutsch/A1/Grammatik/Verbs/Personalpronomen.json"
     },
     {
       "id": 4,
       "regel": "Possessivpronomen",
-      "url":
+      "url":"https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/refs/heads/main/Deutsch/A1/Grammatik/Verbs/Possessivpronomen.json"
     },
     {
       "id": 5,
       "regel": "Verben regelmäßig",
-      "url":
+      "url":"https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/refs/heads/main/Deutsch/A1/Grammatik/Verbs/Verben-regelmaessig.json"
     },
     {
       "id": 6,
       "regel": "Verben unregelmäßig",
-      "url":
+      "url":"https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/refs/heads/main/Deutsch/A1/Grammatik/Verbs/Verben-unregelmaessig.json"
     },
     {
       "id": 7,
       "regel": "Hilfsverben",
-      "url":
+      "url":"https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/refs/heads/main/Deutsch/A1/Grammatik/Verbs/Hilfsverben.json"
     },
     {
       "id": 8,
       "regel": "Adjektive",
-      "url":
+      "url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/refs/heads/main/Deutsch/A1/Grammatik/Verbs/Adjektive.json"
     },
     {
       "id": 9,
       "regel": "Präpositionen",
-      "url":
+      "url":"https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/refs/heads/main/Deutsch/A1/Grammatik/Verbs/Praepositionen.json"
     },
     {
       "id": 10,
       "regel": "Satzbau",
-      "url":
+      "url":"https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/refs/heads/main/Deutsch/A1/Grammatik/Verbs/Satzbau.json"
     },
     {
       "id": 11,
       "regel": "Fragen",
-      "url":
+      "url":"https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/refs/heads/main/Deutsch/A1/Grammatik/Verbs/Fragen.json"
     },
     {
       "id": 12,
       "regel": "Zeiten Präsens",
-      "url":
+      "url":"https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/refs/heads/main/Deutsch/A1/Grammatik/Verbs/Zeiten-Praesens.json"
     },
     {
       "id": 13,
       "regel": "Perfekt",
-      "url":
+      "url":"https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/refs/heads/main/Deutsch/A1/Grammatik/Verbs/Perfekt.json"
     },
     {
       "id": 14,
       "regel": "Futur I",
-      "url":
+      "url":"https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/refs/heads/main/Deutsch/A1/Grammatik/Verbs/Futur-I.json"
     },
     {
       "id": 15,
       "regel": "Negation",
-      "url":
+      "url":"https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/refs/heads/main/Deutsch/A1/Grammatik/Verbs/Negation.json"
     },
     {
       "id": 16,
       "regel": "Zahlen und Uhrzeit",
-      "url":
+      "url":"https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/refs/heads/main/Deutsch/A1/Grammatik/Verbs/Zahlen-und-Uhrzeit.json"
     },
     {
       "id": 17,
       "regel": "Konjunktionen",
-      "url":
+      "url":"https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/refs/heads/main/Deutsch/A1/Grammatik/Verbs/Konjunktionen.json"
     },
     {
       "id": 18,
       "regel": "Komparativ und Superlativ",
-      "url":
+      "url":"https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/refs/heads/main/Deutsch/A1/Grammatik/Verbs/Komparativ-und-Superlativ.json"
     },
     {
       "id": 19,
       "regel": "Imperativ",
-      "url":
+      "url":"https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/refs/heads/main/Deutsch/A1/Grammatik/Verbs/Imperativ.json"
     },
     {
       "id": 20,
       "regel": "Tageszeiten und Wochentage",
-      "url":
+      "url":"https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/refs/heads/main/Deutsch/A1/Grammatik/Verbs/Tageszeiten-und-Wochentage.json"
     },
     {
       "id": 21,
       "regel": "Ortsangaben",
-      "url":
+      "url":"https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/refs/heads/main/Deutsch/A1/Grammatik/Verbs/Ortsangaben.json"
     },
     {
       "id": 22,
       "regel": "Modalverben",
-      "url":
+      "url":"https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/refs/heads/main/Deutsch/A1/Grammatik/Verbs/Modalverben.json"
     },
     {
       "id": 23,
       "regel": "Trennbare Verben",
-      "url":
+      "url":"https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/refs/heads/main/Deutsch/A1/Grammatik/Verbs/Trennbare-Verben.json"
     },
     {
       "id": 24,
       "regel": "Untrennbare Verben",
-      "url":
+      "url":"https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/refs/heads/main/Deutsch/A1/Grammatik/Verbs/Untrennbare-Verben.json"
     },
     {
       "id": 25,
       "regel": "Wortstellung in Nebensätzen",
-      "url":
+      "url":"https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/refs/heads/main/Deutsch/A1/Grammatik/Verbs/Wortstellung-in-Nebensaetzen.json"
     }
   ]
 }
