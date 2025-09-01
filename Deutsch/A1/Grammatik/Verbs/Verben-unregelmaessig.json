@@ -1,1 +1,31 @@
 
+{
+  "Verben-unregelmaessig": {
+    "regel": "Unregelmäßige Verben",
+    "beschreibung": "الأفعال الشاذة تتغير جذريًا في بعض التصريفات.",
+    "beschreibung_deutsch": "Unregelmäßige Verben haben unregelmäßige Formen, z.B.: ich gehe, du gehst, er geht.",
+    "beispiel": "gehen → ich gehe, du gehst, er geht",
+    "beispiel_saetze": [
+      "Ich gehe zur Schule.",
+      "Du gehst nach Hause.",
+      "Er geht ins Büro.",
+      "Wir gehen in den Park.",
+      "Ihr geht ins Kino.",
+      "Sie gehen einkaufen.",
+      "Ich sehe den Hund.",
+      "Du siehst die Katze.",
+      "Er sieht das Auto.",
+      "Wir sehen einen Film.",
+      "Ihr seht das Spiel.",
+      "Sie sehen die Kinder.",
+      "Ich esse einen Apfel.",
+      "Du isst Brot.",
+      "Er isst Suppe.",
+      "Wir essen zusammen.",
+      "Ihr esst Pizza.",
+      "Sie essen Eis.",
+      "Ich fahre nach Berlin.",
+      "Du fährst mit dem Bus."
+    ]
+  }
+}
