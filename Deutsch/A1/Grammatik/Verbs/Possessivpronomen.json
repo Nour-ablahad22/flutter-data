@@ -1,1 +1,31 @@
 
+{
+  "Possessivpronomen": {
+    "regel": "Possessivpronomen",
+    "beschreibung": "ضمائر الملكية لتحديد ملكية شيء لشخص ما.",
+    "beschreibung_deutsch": "Possessivpronomen zeigen, wem etwas gehört: mein, dein, sein, ihr, unser, euer.",
+    "beispiel": "mein Buch, deine Katze, sein Auto",
+    "beispiel_saetze": [
+      "Das ist mein Buch.",
+      "Ist das dein Stift?",
+      "Sein Auto ist rot.",
+      "Ihr Hund ist groß.",
+      "Unser Haus ist schön.",
+      "Euer Garten ist toll.",
+      "Meine Tasche ist neu.",
+      "Deine Schuhe sind schwarz.",
+      "Seine Uhr ist teuer.",
+      "Ihre Jacke ist warm.",
+      "Unser Auto fährt schnell.",
+      "Eure Katze schläft viel.",
+      "Mein Freund ist nett.",
+      "Deine Schwester ist nett.",
+      "Sein Fahrrad ist alt.",
+      "Ihre Kinder spielen draußen.",
+      "Unser Lehrer ist freundlich.",
+      "Eure Freunde sind lustig.",
+      "Mein Handy ist kaputt.",
+      "Dein Hund ist süß."
+    ]
+  }
+}
