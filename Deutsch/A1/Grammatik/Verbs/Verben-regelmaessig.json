@@ -1,1 +1,31 @@
 
+{
+  "Verben-regelmaessig": {
+    "regel": "Regelmäßige Verben",
+    "beschreibung": "الأفعال النظامية تصرف حسب الفاعل بنفس النمط.",
+    "beschreibung_deutsch": "Regelmäßige Verben werden nach einem festen Muster konjugiert: ich spiele, du spielst, er spielt.",
+    "beispiel": "spielen → ich spiele, du spielst, er spielt",
+    "beispiel_saetze": [
+      "Ich spiele Fußball.",
+      "Du spielst Gitarre.",
+      "Er spielt Karten.",
+      "Wir spielen im Park.",
+      "Ihr spielt zusammen.",
+      "Sie spielen Schach.",
+      "Ich lerne Deutsch.",
+      "Du lernst Englisch.",
+      "Er lernt Französisch.",
+      "Wir lernen viel.",
+      "Ihr lernt Deutsch.",
+      "Sie lernen Spanisch.",
+      "Ich koche das Abendessen.",
+      "Du kochst Reis.",
+      "Er kocht Suppe.",
+      "Wir kochen zusammen.",
+      "Ihr kocht gut.",
+      "Sie kochen Pasta.",
+      "Ich arbeite im Büro.",
+      "Du arbeitest zu Hause."
+    ]
+  }
+}
