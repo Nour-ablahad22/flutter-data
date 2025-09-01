@@ -1,1 +1,31 @@
 
+{
+  "Hilfsverben": {
+    "regel": "Hilfsverben",
+    "beschreibung": "الأفعال المساعدة تُستخدم لتكوين أزمنة مركبة أو للتعبير عن الحالة.",
+    "beschreibung_deutsch": "Hilfsverben: sein, haben, werden. Sie helfen, Zeiten zu bilden oder Zustände zu beschreiben.",
+    "beispiel": "Ich habe gegessen. Ich bin gekommen.",
+    "beispiel_saetze": [
+      "Ich bin müde.",
+      "Du bist krank.",
+      "Er ist Lehrer.",
+      "Wir sind zu Hause.",
+      "Ihr seid freundlich.",
+      "Sie sind glücklich.",
+      "Ich habe ein Buch.",
+      "Du hast eine Katze.",
+      "Er hat ein Auto.",
+      "Wir haben Hunger.",
+      "Ihr habt Durst.",
+      "Sie haben viele Freunde.",
+      "Ich werde Arzt.",
+      "Du wirst müde.",
+      "Er wird alt.",
+      "Wir werden Lehrer.",
+      "Ihr werdet schnell.",
+      "Sie werden Kinder haben.",
+      "Ich habe gegessen.",
+      "Du bist gekommen."
+    ]
+  }
+}
