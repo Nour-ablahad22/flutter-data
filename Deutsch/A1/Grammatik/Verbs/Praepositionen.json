@@ -1,1 +1,31 @@
 
+{
+  "Praepositionen": {
+    "regel": "Präpositionen",
+    "beschreibung": "حروف الجر تحدد الحالة بعد الاسم (Akkusativ أو Dativ).",
+    "beschreibung_deutsch": "Präpositionen bestimmen den Kasus: Akkusativ, Dativ oder Wechselpräpositionen.",
+    "beispiel": "mit (Dativ), für (Akkusativ), in (Wechselpräposition)",
+    "beispiel_saetze": [
+      "Ich gehe mit dem Freund spazieren.",
+      "Das Geschenk ist für die Lehrerin.",
+      "Wir fahren in die Stadt.",
+      "Das Buch liegt auf dem Tisch.",
+      "Ich komme aus der Schule.",
+      "Er fährt zum Bahnhof.",
+      "Wir sitzen unter dem Baum.",
+      "Die Lampe hängt über dem Tisch.",
+      "Sie steht neben der Tür.",
+      "Der Hund läuft hinter dem Haus.",
+      "Ich gehe durch den Park.",
+      "Das Bild hängt an der Wand.",
+      "Wir treffen uns vor dem Kino.",
+      "Er kommt aus der Stadt.",
+      "Das Auto steht zwischen den Bäumen.",
+      "Ich gehe ohne den Freund.",
+      "Der Junge läuft um den Baum.",
+      "Die Katze springt auf das Sofa.",
+      "Wir sitzen bei der Tante.",
+      "Sie fährt mit dem Bus."
+    ]
+  }
+}
