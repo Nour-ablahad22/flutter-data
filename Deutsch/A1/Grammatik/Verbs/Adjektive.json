@@ -1,1 +1,31 @@
 
+{
+  "Adjektive": {
+    "regel": "Adjektive",
+    "beschreibung": "الصفات تأتي قبل الاسم وتتغير حسب الجنس والحالة.",
+    "beschreibung_deutsch": "Adjektive stehen vor dem Nomen und passen sich nach Genus und Kasus an.",
+    "beispiel": "ein kleiner Hund, eine schöne Blume",
+    "beispiel_saetze": [
+      "Der kleine Hund spielt.",
+      "Die schöne Blume blüht.",
+      "Das rote Auto fährt schnell.",
+      "Ein großer Mann kommt.",
+      "Eine alte Frau liest.",
+      "Ein neues Buch liegt auf dem Tisch.",
+      "Die jungen Kinder spielen.",
+      "Der lange Weg ist anstrengend.",
+      "Die kalte Suppe schmeckt nicht.",
+      "Ein netter Freund hilft.",
+      "Das warme Wasser ist gut.",
+      "Die frische Milch ist lecker.",
+      "Ein schneller Hund läuft.",
+      "Die bunte Lampe leuchtet.",
+      "Der dunkle Himmel ist bewölkt.",
+      "Die helle Sonne scheint.",
+      "Ein interessantes Buch liegt da.",
+      "Die kleine Katze schläft.",
+      "Der freundliche Lehrer erklärt.",
+      "Die schöne Stadt ist bekannt."
+    ]
+  }
+}
