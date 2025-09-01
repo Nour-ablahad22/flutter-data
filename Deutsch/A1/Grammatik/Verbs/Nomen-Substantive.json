@@ -1,1 +1,31 @@
 
+{
+  "Nomen-Substantive": {
+    "regel": "Nomen/Substantive",
+    "beschreibung": "جميع الأسماء تبدأ بحرف كبير ولها جنس وحالة.",
+    "beschreibung_deutsch": "Alle Nomen beginnen mit einem Großbuchstaben und haben ein Genus und einen Kasus.",
+    "beispiel": "der Hund, die Blume, das Auto",
+    "beispiel_saetze": [
+      "Der Hund spielt im Garten.",
+      "Die Katze schläft auf dem Sofa.",
+      "Das Auto ist rot.",
+      "Ein Mann liest die Zeitung.",
+      "Eine Frau kocht das Abendessen.",
+      "Das Kind spielt mit dem Ball.",
+      "Die Schule beginnt um 8 Uhr.",
+      "Der Lehrer erklärt die Aufgabe.",
+      "Die Lampe steht auf dem Tisch.",
+      "Das Buch liegt auf dem Stuhl.",
+      "Ein Hund läuft im Park.",
+      "Eine Katze klettert auf den Baum.",
+      "Der Apfel ist lecker.",
+      "Die Blumen sind schön.",
+      "Das Wetter ist heute gut.",
+      "Ein Vogel singt im Baum.",
+      "Eine Frau liest ein Buch.",
+      "Der Junge spielt Fußball.",
+      "Die Sonne scheint am Himmel.",
+      "Das Kind malt ein Bild."
+    ]
+  }
+}
