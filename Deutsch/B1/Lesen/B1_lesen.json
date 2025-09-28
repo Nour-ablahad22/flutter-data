@@ -199,7 +199,7 @@
       }
     ]
   },
-  [
+  
   {
     "title": "Thema 6",
     "texts": [
@@ -399,6 +399,208 @@
         ]
       }
     ]
-  }
-]
+  },
+  
+  {
+    "title": "Thema 11",
+    "texts": [
+      {
+        "text": "Seit einem Jahr spiele ich in einer Fußballmannschaft für Jugendliche. Ich war vorher nie besonders sportlich, aber ein Freund hat mich eingeladen: „Komm einfach mal mit!“ Am Anfang war ich unsicher – ich kannte die Regeln nicht gut und hatte Angst, Fehler zu machen. Doch die anderen waren sehr nett und geduldig.\n\nJetzt trainieren wir zweimal pro Woche. Jedes Mal lerne ich etwas Neues: wie man dribbelt, passt oder Tore schießt. Unser Trainer, Herr Müller, sagt immer: „Wichtig ist nicht, ob du gewinnst, sondern dass du Spaß hast und zusammenarbeitest.“\n\nLetzten Monat hatten wir unser erstes richtiges Spiel gegen eine andere Mannschaft. Ich war nervös, aber auch aufgeregt. Als ich ins Team kam, jubelten die anderen. In der zweiten Halbzeit schoss ich mein erstes Tor! Alle umarmten mich. Auch wenn wir das Spiel knapp verloren haben, war es ein toller Tag.\n\nFußball hat mein Leben verändert. Ich bin fitter, selbstbewusster und habe viele neue Freunde gefunden. Manchmal gehe ich auch früher schlafen, weil ich am nächsten Tag trainiere. Meine Eltern sind stolz auf mich. Sie sagen: „Du hast Ausdauer entwickelt.“\n\nIch hoffe, dass ich lange weiterspiele. Vielleicht kann ich eines Tages sogar Trainer werden und jüngeren Kindern helfen – genau wie Herr Müller mir geholfen hat.",
+        "questions": [
+          {
+            "question": "Der Schreiber spielte schon immer gerne Fußball.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Das Team trainiert dreimal pro Woche.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Der Trainer legt großen Wert auf Spaß und Teamarbeit.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Die Mannschaft gewann das erste Spiel deutlich.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Der Schreiber schoss sein erstes Tor im Spiel.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Der Schreiber möchte später einmal Trainer werden.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Thema 12",
+    "texts": [
+      {
+        "text": "An meiner Schule gibt es seit diesem Jahr einen Umwelt-Club. Die Idee kam von zwei Schülern, die sahen, wie viel Müll in der Pausenhalle lag – Plastikflaschen, Verpackungen, Papier. Sie sprachen mit der Lehrerin, und so entstand der Club.\n\nIch habe mich sofort angemeldet. Jetzt treffen wir uns jede Woche. Wir sammeln Müll auf dem Schulhof, trennen den Abfall besser und machen Plakate mit Tipps zum Umweltschutz. Letzte Woche bauten wir sogar einen kleinen Kompost für die Blumenbeete.\n\nEinmal im Monat machen wir eine Aktion: letztes Mal sammelten wir Plastik am Flussufer. Über 30 Schüler kamen! Wir trugen Handschuhe und benutzten Greifzangen. Am Ende hatten wir sechs volle Säcke. Eine Biologielehrerin erklärte uns, warum Plastik in der Natur gefährlich ist – besonders für Tiere.\n\nUnser nächstes Ziel ist, dass die Schule keine Einwegflaschen mehr verkauft. Wir haben eine Petition gestartet und über 100 Unterschriften gesammelt. Die Direktorin sagte: „Ihr macht gute Arbeit. Wir denken darüber nach.“\n\nEs macht mich stolz, dabei zu sein. Ich habe gelernt, dass jeder kleine Beitrag zählt. Zuhause trenne ich jetzt den Müll besser, und meine Eltern verwenden wiederverwendbare Taschen. Der Umwelt-Club hat nicht nur die Schule verändert – er hat auch mich verändert.",
+        "questions": [
+          {
+            "question": "Der Umwelt-Club wurde von der Direktorin gegründet.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Die Schüler sammelten Plastik am Fluss.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Der Club trifft sich jeden Tag.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Die Schule verkauft jetzt keine Einwegflaschen mehr.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Der Schreiber hat durch den Club sein Verhalten geändert.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Die Petition hatte weniger als 50 Unterschriften.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Thema 13",
+    "texts": [
+      {
+        "text": "Vor drei Monaten habe ich angefangen, Klavier zu lernen. Ich wollte schon immer Musik machen, aber ich dachte, ich bin zu alt dafür. Meine Nachbarin, Frau Klein, spielt Klavier und bot an, mir Unterricht zu geben – kostenlos!\n\nAm Anfang war alles schwer. Ich kannte keine Noten und drückte oft falsche Tasten. Manchmal wollte ich aufhören. Aber Frau Klein sagte: „Jeder fängt klein an. Nur üben bringt Fortschritt.“ Also übte ich jeden Tag 15 Minuten.\n\nNach sechs Wochen konnte ich mein erstes Lied spielen: „Mondlicht“. Es war nur langsam und leise, aber ich war stolz! Meine Familie applaudierte, als ich es vorspielte.\n\nLetzte Woche hatte ich mein erstes kleines Konzert – vor meinen Eltern, Frau Klein und zwei Nachbarn. Ich spielte zwei Lieder. Meine Hände zitterten, aber ich machte keine großen Fehler. Danach sagte Frau Klein: „Du hast hart gearbeitet. Weiter so!“\n\nJetzt übe ich fast jeden Tag 30 Minuten. Ich lerne neue Lieder und versuche, schneller zu lesen. Musik macht mir große Freude. Ich merke, dass Geduld und Ausdauer wichtig sind – nicht nur beim Klavierspielen, sondern im Leben. Vielleicht spiele ich eines Tages sogar in einem echten Konzert!",
+        "questions": [
+          {
+            "question": "Der Schreiber nahm schon als Kind Klavierunterricht.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Frau Klein unterrichtet den Schreiber kostenlos.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Der Schreiber übte nie zu Hause.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Er spielte sein erstes Lied vor einem großen Publikum.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Der Schreiber gab fast den Unterricht auf.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Musik hat den Schreiber frustriert und unglücklich gemacht.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Thema 14",
+    "texts": [
+      {
+        "text": "Vor zwei Jahren bekam ich einen kleinen Hund – einen Mischling namens Leo. Er war damals erst acht Wochen alt und hatte Angst vor allem: Staubsauger, laute Geräusche, sogar Treppen! Ich musste ihm viel Geduld entgegenbringen.\n\nIch lernte, wie man Hunde ausbildet: mit positiver Bestärkung, klaren Signalen und Routine. Jeden Tag ging ich mit ihm spazieren, übte „Sitz“ und „Platz“ und belohnte ihn mit Leckerlis. Langsam wurde er sicherer.\n\nHeute ist Leo ein freundlicher, fröhlicher Hund. Er liebt es, im Park zu spielen und andere Hunde zu treffen. Besonders stolz bin ich darauf, dass er jetzt keine Angst mehr vor dem Aufzug hat – früher ist er immer weggelaufen!\n\nLetzten Monat nahmen wir an einem Hunde-Trainingstag teil. Dort zeigte Leo alle Tricks, die er gelernt hat: Drehen, Apportieren, Bleiben. Der Trainer sagte: „Leo ist ein großartiger Hund – und du bist eine tolle Besitzerin.“\n\nDie Arbeit mit Leo hat mir viel beigebracht: Verantwortung, Geduld und Liebe ohne Worte. Manchmal, wenn ich traurig bin, legt er einfach seinen Kopf auf mein Knie. Das hilft mehr als viele Worte. Ich bin dankbar, dass Leo bei mir ist. Er ist nicht nur ein Haustier – er ist ein Teil meiner Familie.",
+        "questions": [
+          {
+            "question": "Leo war als Welpe sehr mutig.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Der Schreiber belohnte Leo mit Spielzeug beim Training.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Leo hat heute keine Angst mehr vor dem Aufzug.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Leo nahm an einem Wettkampf für Hunde teil.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Der Hundetrainer lobte sowohl Leo als auch die Besitzerin.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Leo zeigt keine Gefühle gegenüber seiner Besitzerin.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Thema 15",
+    "texts": [
+      {
+        "text": "Früher habe ich jeden Morgen verschlafen. Ich stand immer in letzter Minute auf, rannte zur Bushaltestelle und kam oft zu spät in die Schule. Meine Lehrer waren unzufrieden, und ich fühlte mich gestresst.\n\nDann las ich einen Artikel über morgendliche Routinen. Da stand: „Wer früh aufsteht, hat einen ruhigen Start in den Tag.“ Ich beschloss, es zu probieren. Ich stellte den Wecker eine Stunde früher – um 6:30 Uhr.\n\nZuerst war es schwer. Ich war müde und wollte nur schlafen. Aber ich zwang mich aufzustehen. Ich trank Wasser, machte fünf Minuten Dehnen und aß ein gesundes Frühstück. Manchmal hörte ich auch ruhige Musik.\n\nNach zwei Wochen merkte ich den Unterschied: Ich war wacher, gelaunt und stressfreier. Ich kam pünktlich zur Schule und hatte sogar Zeit, meine Hausaufgaben noch einmal zu kontrollieren.\n\nMeine Eltern bemerkten es auch. „Du wirkst ausgeglichener“, sagte mein Vater. Und meine beste Freundin fragte: „Was ist dein Geheimnis?“ Ich erzählte ihr von meiner neuen Routine.\n\nJetzt liebe ich meine Morgenstunden. Es fühlt sich an, als hätte ich mehr Zeit – und mehr Kontrolle über meinen Tag. Ich empfehle es jedem: Probiert eine gesunde Morgengewohnheit aus. Es muss nicht viel sein – nur kleine Schritte bringen große Veränderungen.",
+        "questions": [
+          {
+            "question": "Der Schreiber war immer pünktlich in der Schule.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Der Schreiber las einen Artikel über Sport.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Er stellte den Wecker früher.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Er begann, abends länger fernzusehen.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Die neue Routine half ihm, entspannter zu sein.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Seine Freundin gab ihm den Tipp zur Morgengewohnheit.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          }
+        ]
+      }
+    ]
+  },
+
+
 ]
