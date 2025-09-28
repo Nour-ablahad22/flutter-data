@@ -602,5 +602,206 @@
     ]
   },
 
+  {
+    "title": "Thema 16: Ein neuer Anfang in der Berufsausbildung",
+    "texts": [
+      {
+        "text": "Vor sechs Monaten habe ich meine Schule abgeschlossen und begann eine Ausbildung zur Verkäuferin. Ich war sehr nervös, weil ich noch nie in einem Geschäft gearbeitet hatte. Meine erste Woche war schwierig: Ich wusste nicht, wie man die Kasse bedient, wo die Produkte stehen oder wie man mit Kunden spricht.\n\nMeine Kollegin Anna half mir viel. Sie zeigte mir alles geduldig und beantwortete alle meine Fragen. „Mach dir keinen Stress“, sagte sie. „Jeder fängt mal an.“ Nach ein paar Wochen wurde alles leichter. Ich lernte, Waren einzuräumen, Rechnungen auszudrucken und freundlich auf Kunden zuzugehen.\n\nLetzte Woche hatte ich zum ersten Mal eine eigene Schicht – zwei Stunden allein im Laden. Mein Chef vertraute mir. Ich war aufgeregt, aber stolz. Als ein Kunde nach einem bestimmten Produkt fragte, wusste ich sofort, wo es steht. Er lächelte und sagte: „Danke, du kennst dich gut aus!“\n\nAm Abend erzählte ich meinen Eltern davon. Sie waren stolz auf mich. Mein Vater sagte: „Du hast schon so viel gelernt – das ist ein großer Schritt ins Berufsleben.“\n\nJetzt freue ich mich jeden Tag auf die Arbeit. Ich habe gemerkt, dass Selbstvertrauen mit Erfahrung kommt. Ich hoffe, dass ich am Ende der Ausbildung erfolgreich bin und einen guten Job behalte. Für mich ist das nicht nur Arbeit – es ist ein neuer Anfang.",
+        "questions": [
+          {
+            "question": "Die Erzählerin hat vor der Ausbildung viel Erfahrung im Verkauf.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Anna war die Chefin des Ladens.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Die Erzählerin arbeitete einmal allein im Laden.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Der Kunde war unzufrieden mit der Hilfe.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Die Familie ist stolz auf die Fortschritte.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Die Ausbildung dauert nur drei Monate.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Thema 17: Der erste Besuch in einer fremden Stadt",
+    "texts": [
+      {
+        "text": "Letztes Wochenende besuchte ich zum ersten Mal Berlin. Ich war noch nie dort, aber meine Tante lebt in der Nähe und lud mich ein. Ich war aufgeregt – neue Stadt, neue Menschen, alles unbekannt.\n\nAls mein Zug ankam, stand meine Tante schon am Bahnhof. Sie umarmte mich und zeigte mir gleich die wichtigsten Dinge: wo man Tickets kauft, wie die U-Bahn funktioniert und wo es gutes Essen gibt. Am ersten Tag spazierten wir durch die Innenstadt. Wir sahen das Brandenburger Tor, den Reichstag und einen großen Markt mit vielen Ständen.\n\nAm nächsten Morgen ging ich allein zum Park. Ich hatte die Karte auf dem Handy, aber trotzdem lief ich falsch. Plötzlich stand ich vor einem kleinen Café. Eine ältere Frau kam heraus und fragte: „Suchst du etwas?“ Ich erklärte, dass ich zum See möchte. Sie lächelte und zeigte mir den Weg – zu Fuß und ganz einfach.\n\nSpäter setzte ich mich ans Wasser, aß ein Eis und beobachtete die Enten. Es war ruhig und schön. Abends erzählte ich meiner Tante von der freundlichen Frau. „Das ist typisch Berliner“, sagte sie lachend. „Hinter der Härte steckt oft viel Herzlichkeit.“\n\nIch liebe diese Stadt jetzt schon. Es war nicht perfekt – ich habe mich verlaufen, das Wetter war wechselhaft – aber genau das macht eine echte Reise aus. Nächstes Mal möchte ich mit einem Freund kommen und länger bleiben.",
+        "questions": [
+          {
+            "question": "Die Erzählerin kennt Berlin sehr gut.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Die Tante holte die Erzählerin vom Bahnhof ab.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Die Erzählerin fuhr mit dem Flugzeug nach Berlin.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Eine fremde Frau half ihr, den Weg zu finden.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Das Wetter war die ganze Zeit sonnig.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Die Erzählerin möchte Berlin nie wieder besuchen.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Thema 18: Gemeinsam kochen lernen",
+    "texts": [
+      {
+        "text": "Früher konnte ich kaum ein Ei kochen. Meine Eltern machten immer das Essen. Aber als ich allein in eine kleine Wohnung zog, musste ich kochen lernen – sonst gab es nur Brot oder Fertiggerichte!\n\nIch bat meine Oma um Hilfe. Jeden Sonntag rief sie mich an und erklärte mir ein neues Rezept: Suppe, Nudeln, Kartoffelpfanne. Zuerst machte ich viele Fehler – Salz zu viel, Wasser vergessen, Pfanne angebrannt. Aber Oma sagte immer: „Kein Problem! Kochen lernt man durch Üben.“\n\nNach ein paar Wochen traute ich mich, Freunde einzuladen. Ich kochte Spaghetti mit Tomatensoße – mein erstes eigenes Menü! Es schmeckte gut, und alle lobten mich. Eine Freundin sagte: „Du bist jetzt fast besser als deine Oma!“\n\nLetzte Woche überraschte ich meine Eltern mit einem kompletten Abendessen: Vorspeise, Hauptgericht und Nachtisch. Mein Vater staunte: „Wer bist du? Und was hast du mit meiner Tochter gemacht?“\n\nHeute liebe ich das Kochen. Es ist entspannend, kreativ und macht Freude. Manchmal rufe ich noch Oma an – aber jetzt eher, um ein neues Rezept zu teilen, nicht um eins zu lernen. Wer hätte gedacht, dass aus dem Mädchen, das ein Ei nicht kochen konnte, eine richtige Köchin wird?",
+        "questions": [
+          {
+            "question": "Die Erzählerin lebte immer allein.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Die Oma half mit Telefonanrufen.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Die Erzählerin machte nie Fehler beim Kochen.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Sie lud ihre Freunde zu einem Festessen ein.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Ihr Vater war enttäuscht vom Essen.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Sie hasst es heute, in der Küche zu stehen.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Thema 19: Der Umzug in eine neue Wohnung",
+    "texts": [
+      {
+        "text": "Letzten Monat bin ich in eine neue Wohnung gezogen. Meine alte Wohnung war klein und laut – direkt neben einer Baustelle. Die neue Wohnung ist ruhiger, heller und hat sogar einen kleinen Balkon.\n\nDer Umzug war anstrengend. Ich packte wochenlang Kartons: Bücher, Kleidung, Fotos, Küchenutensilien. Meine Freunde halfen mir am Umzugstag. Wir trugen Möbel, stapelten Kisten und lachten viel – besonders als das Regal fast umfiel!\n\nIn den ersten Tagen wusste ich nicht, wo etwas ist. Ich suchte ständig nach meinem Ladekabel oder der Zahnbürste. Aber langsam wurde alles besser. Ich richtete mein Zimmer ein, kaufte Pflanzen für den Balkon und hängte Bilder an die Wand.\n\nLetzte Woche klopfte meine Nachbarin an die Tür. Sie brachte einen Kuchen und sagte: „Willkommen! Wenn du etwas brauchst, sag einfach Bescheid.“ Ich war gerührt. Später tranken wir zusammen Kaffee und unterhielten uns über die Gegend.\n\nJetzt fühle ich mich endlich zu Hause. Die neue Wohnung ist mehr als vier Wände – sie ist ein Ort, wo ich mich wohl fühle. Ich habe gelernt: Ein Umzug ist nicht nur ein Ortswechsel, sondern auch ein neuer Lebensabschnitt. Und mit netten Nachbarn und guter Laune wird alles leichter.",
+        "questions": [
+          {
+            "question": "Die alte Wohnung war hell und ruhig.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Freunde halfen beim Umzug.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Die Erzählerin fand sofort alles in der neuen Wohnung.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Die Nachbarin brachte einen Kuchen.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Die Erzählerin bereut den Umzug.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Die neue Wohnung hat keinen Balkon.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Thema 20: Eine Fahrradtour mit unerwartetem Ende",
+    "texts": [
+      {
+        "text": "Am letzten Sonntag machte ich mit meinem Bruder eine Fahrradtour in die Berge. Das Wetter war perfekt – sonnig, aber nicht zu heiß. Wir nahmen Rucksäcke mit Wasser, Snacks und einer Karte. Unser Ziel war ein kleiner See, den wir noch nie besucht hatten.\n\nDie Fahrt dauerte zwei Stunden. Unterwegs sahen wir wilde Blumen, Vögel und sogar ein Reh. Wir machten Fotos und genossen die frische Luft. Als wir den See erreichten, war es wunderschön: blauer Himmel, ruhiges Wasser, Stille.\n\nWir aßen unser Picknick und ruhten uns aus. Auf dem Rückweg jedoch begann es plötzlich zu regnen – stark und kalt! Unsere Jacken waren nass, die Straße glitschig. Mein Fahrrad hatte einen Platten. Mein Bruder sagte: „Kein Problem, ich helfe dir.“ Er reparierte es mit einem kleinen Werkzeug.\n\nLangsam und vorsichtig fuhren wir weiter. Als wir nach Hause kamen, waren wir durchnässt – aber glücklich. Unsere Eltern lachten: „Was für ein Abenteuer!“\n\nObwohl der Tag nicht perfekt war, war er unvergesslich. Wir haben zusammen gehalten, gelacht und ein Problem gemeinsam gelöst. Nächstes Mal nehmen wir bessere Jacken und ein Handy mit – aber die Tour würde ich jederzeit wieder machen!",
+        "questions": [
+          {
+            "question": "Die Fahrradtour fand bei schlechtem Wetter statt.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Die Geschwister hatten keine Karte dabei.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Sie sahen ein Reh während der Fahrt.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Das Fahrrad hatte einen Platten.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Der Bruder reparierte das Fahrrad nicht.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Die Eltern waren wütend über das nasse Ende.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          }
+        ]
+      }
+    ]
+  }
+
 
 ]
