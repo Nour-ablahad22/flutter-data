@@ -1,37 +1,69 @@
 [
   {
-    "title": "Thema 1",
+    "id": 1,
+    "title": "Thema 1: Ein Austauschjahr in Deutschland",
     "texts": [
       {
-        "text": "Letzte Woche hatte ich einen wirklich stressigen Tag. Ich war den ganzen Tag bei der Arbeit, und am Abend musste ich noch einkaufen, weil wir fast nichts im Haus hatten. Als ich mit vollen Einkaufstaschen nach Hause kam, fand ich einen kleinen Zettel an meiner Wohnungstür. Darauf stand: „Liebe Nachbarin, ich habe Ihre Tasche vor dem Supermarkt gefunden. Sie lag auf einer Bank. Ich habe sie in mein Auto gelegt und wollte sie Ihnen bringen. Aber Sie waren nicht zu Hause. Deshalb habe ich die Tasche bei der Hausmeisterin abgegeben. Viele Grüße, Thomas.“\n\nIch war total überrascht! Meine Handtasche war verschwunden? Schnell suchte ich in meiner Jacke – ja, tatsächlich! Die kleine Umhängetasche mit meinem Portemonnaie, meinen Schlüsseln und meinem Personalausweis war weg. Ich hatte sie wohl beim Bezahlen im Supermarkt liegen lassen.\n\nSofort ging ich zur Hausmeisterin. Und da war sie – meine Tasche, genau wie ich sie verloren hatte. Alles war noch drin: Geld, Karten, sogar mein Notizbuch. Ich war so erleichtert! Ich fragte die Hausmeisterin nach Thomas. Sie sagte, er sei ein junger Mann aus dem dritten Stock, aber sie wisse nicht, welche Wohnung.\n\nAm nächsten Tag schrieb ich einen Dankesbrief und legte ihn in seinen Briefkasten: „Lieber Thomas, vielen, vielen Dank, dass du meine Tasche gefunden und sicher aufbewahrt hast. Du hast mir viel Ärger erspart. Ich hoffe, ich kann dir eines Tages helfen. Mit herzlichen Grüßen, Anna.“\n\nIch weiß nicht, ob er den Brief gelesen hat. Aber ich hoffe, er weiß, wie dankbar ich bin. Solche Menschen machen das Leben schöner. Es ist schön zu sehen, dass es noch viele ehrliche und hilfsbereite Menschen gibt. Manchmal vergisst man das im Alltag. Aber solche kleinen Momente erinnern uns daran, dass Güte und Respekt wichtig sind.",
+        "text": "Letztes Jahr hatte ich die Möglichkeit, ein Austauschjahr in Deutschland zu machen. Ich war siebzehn Jahre alt und wohnte normalerweise in Spanien. Am Anfang war ich sehr aufgeregt, weil ich mein Zuhause für fast ein Jahr verlassen würde. Ich wollte unbedingt neue Freunde finden, die Kultur kennenlernen und mein Deutsch verbessern. Meine Austauschfamilie lebte in einer kleinen Stadt in Nordrhein-Westfalen. Sie bestand aus den Eltern und einer Tochter in meinem Alter. Am ersten Tag war alles neu: das Haus, die Nachbarn, die Schule. Meine Gasteltern halfen mir, mich schnell einzuleben. Jeden Morgen frühstückten wir gemeinsam und unterhielten uns. Die Schule war am Anfang sehr schwierig, weil die Lehrer schnell sprachen. Glücklicherweise waren meine Klassenkameraden hilfsbereit und erklärten mir Aufgaben, wenn ich sie nicht verstand. Ich nahm auch an der Theater-AG teil, die mir sehr half, die Sprache besser zu lernen. In meiner Freizeit machte ich Ausflüge mit meiner Familie. Wir besuchten Schlösser, gingen wandern und manchmal ins Kino. Besonders beeindruckend fand ich die Landschaft und die Natur, die ich vorher nur aus Büchern kannte. Natürlich hatte ich auch Heimweh. An manchen Tagen war es schwer, meine Familie und Freunde zu vermissen. Doch ich lernte, selbstständig zu sein und Verantwortung zu übernehmen. Nach einigen Monaten konnte ich schon flüssig Deutsch sprechen und mich gut verständigen. Am Ende des Jahres war ich stolz auf das, was ich erreicht hatte. Ich hatte nicht nur eine neue Sprache gelernt, sondern auch viele neue Erfahrungen gesammelt und Freunde fürs Leben gefunden. Dieses Austauschjahr hat mein Leben verändert und mir gezeigt, wie wichtig es ist, offen für Neues zu sein und neue Kulturen zu entdecken.",
         "questions": [
           {
-            "question": "Anna hat ihre Tasche in der Wohnung verloren.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Der Finder hieß Thomas.",
+            "question": "Der Erzähler machte ein Austauschjahr in Deutschland.",
             "options": ["Richtig", "Falsch"],
             "answer": "Richtig"
           },
           {
-            "question": "Thomas hat die Tasche ins Fundbüro gebracht.",
+            "question": "Die Austauschfamilie hatte keine Kinder.",
             "options": ["Richtig", "Falsch"],
             "answer": "Falsch"
           },
           {
-            "question": "Das Geld war nicht mehr in der Tasche.",
+            "question": "Die Schule war am Anfang schwierig.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Der Erzähler hatte keine Heimwehprobleme.",
             "options": ["Richtig", "Falsch"],
             "answer": "Falsch"
           },
           {
-            "question": "Anna hat Thomas persönlich gedankt.",
+            "question": "Am Ende konnte der Erzähler flüssig Deutsch sprechen.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Thema 2: Ein Tag im Freizeitpark",
+    "texts": [
+      {
+        "text": "Letzten Samstag besuchte ich mit meiner Familie einen großen Freizeitpark. Wir fuhren früh morgens los, weil wir den ganzen Tag nutzen wollten. Schon am Eingang war es laut, bunt und voller Menschen. Wir gingen zuerst zu den Achterbahnen. Ich war nervös, aber die Fahrt machte richtig Spaß. Danach fuhren wir mit dem Riesenrad und hatten einen tollen Blick über den ganzen Park. Zwischendurch aßen wir Pommes, Eis und tranken Limonade. Nach dem Mittag machten wir eine Pause auf einer Wiese, spielten kleine Spiele und kauften Souvenirs. Besonders spannend fand ich das Gruselkabinett, obwohl ich mich manchmal erschreckte. Am Nachmittag sahen wir eine Show mit Akrobaten und Tieren. Die Tiere waren sehr gut trainiert, und die Künstler beeindruckten mich mit ihren Tricks. Am Abend fuhren wir müde, aber glücklich nach Hause. Ich war froh, dass ich diesen Tag mit meiner Familie erleben konnte, und ich hoffe, bald wieder in diesen Freizeitpark zu gehen.",
+        "questions": [
+          {
+            "question": "Der Erzähler war alleine im Freizeitpark.",
             "options": ["Richtig", "Falsch"],
             "answer": "Falsch"
           },
           {
-            "question": "Die Hausmeisterin wusste, in welcher Wohnung Thomas wohnt.",
+            "question": "Sie fuhren mit dem Riesenrad.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Sie aßen Pommes und Eis.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Am Ende sahen sie eine Show.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Der Tag war langweilig.",
             "options": ["Richtig", "Falsch"],
             "answer": "Falsch"
           }
@@ -40,38 +72,34 @@
     ]
   },
   {
-    "title": "Thema 2",
+    "id": 3,
+    "title": "Thema 3: Ein Sommerjob im Supermarkt",
     "texts": [
       {
-        "text": "Letzten Samstag war ich mit meinem Hund Max im Park. Es war ein schöner Tag, die Sonne schien, und viele Leute waren unterwegs. Max liebt es, frei zu laufen, also habe ich ihn von der Leine gelassen – aber nur für kurze Zeit. Plötzlich hörte ich einen lauten Knall – ein Feuerwerk! Max erschrak sehr und rannte weg. Ich rief seinen Namen, lief hinter ihm her, aber er war schon verschwunden zwischen den Bäumen.\n\nIch war völlig verzweifelt. Max ist nicht nur mein Haustier, er ist wie ein Familienmitglied. Ich suchte stundenlang im Park, fragte andere Spaziergänger, ob sie ihn gesehen hatten. Niemand hatte ihn bemerkt. Danach ging ich nach Hause und machte mir große Sorgen. Ich hängte überall Suchplakate auf: an Laternen, in Supermärkten, an Bushaltestellen. Darauf stand: „Hund verloren! Name: Max. Farbe: braun-weiß. Belohnung bei Rückgabe.“\n\nAm nächsten Tag klingelte das Telefon. Eine Frau sagte: „Ich glaube, ich habe Ihren Hund gefunden. Er läuft seit gestern Abend vor meinem Haus herum. Er sieht hungrig aus, aber freundlich.“ Sie beschrieb Max genau – es war wirklich er! Ich fuhr sofort zu ihr. Als Max mich sah, bellte er freudig und sprang an mir hoch. Ich war so glücklich, dass ich fast geweint hätte.\n\nDie Frau, Frau Becker, hatte Max ins Haus geholt, ihm Futter gegeben und auf den Plakaten meinen Namen gesehen. Ohne ihre Hilfe hätte ich Max vielleicht nie wiedergefunden. Ich wollte ihr Geld geben, aber sie sagte: „Nein, danke. Es reicht mir, wenn Max wieder bei Ihnen ist.“\n\nHeute schreibe ich diesen Text, weil ich Frau Becker danken möchte. Lieber Finderin, vielen, vielen Dank! Sie haben nicht nur Max geholfen, sondern auch mir. Solche Menschen zeigen, wie wichtig Mitgefühl ist.",
+        "text": "Letzten Sommer arbeitete ich vier Wochen in einem Supermarkt. Ich wollte Geld verdienen und Erfahrungen sammeln. Meine Aufgaben waren Regale auffüllen, Kunden helfen und an der Kasse arbeiten. Am ersten Tag war ich nervös, weil alles neu war. Meine Kollegen erklärten mir die Arbeit Schritt für Schritt. Besonders an der Kasse musste ich aufmerksam sein und freundlich zu den Kunden sprechen. Ich lernte viel über den Umgang mit Menschen, Teamarbeit und Verantwortung. Zwischendurch war es anstrengend, aber meistens machte es Spaß. Ich konnte auch selbstständig kleine Entscheidungen treffen, zum Beispiel die Regale nach Produkten sortieren oder Kunden beraten. Am Ende meines Jobs bekam ich ein kleines Gehalt und ein Lob von der Filialleiterin. Ich war stolz auf mich und dankbar für die Erfahrung. Dieser Sommerjob hat mir gezeigt, wie wichtig Arbeit und Verantwortung sind, aber auch, wie viel man durch Freundlichkeit und Zusammenarbeit lernen kann.",
         "questions": [
           {
-            "question": "Max hatte Angst vor dem Feuerwerk.",
+            "question": "Der Erzähler arbeitete in einem Supermarkt.",
             "options": ["Richtig", "Falsch"],
             "answer": "Richtig"
           },
           {
-            "question": "Max wurde am selben Tag gefunden.",
+            "question": "Er musste nur die Kasse bedienen.",
             "options": ["Richtig", "Falsch"],
             "answer": "Falsch"
           },
           {
-            "question": "Der Besitzer hat kein Suchplakat aufgehängt.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Frau Becker hat Max gefüttert.",
+            "question": "Er lernte viel über Teamarbeit.",
             "options": ["Richtig", "Falsch"],
             "answer": "Richtig"
           },
           {
-            "question": "Die Frau hat die Belohnung angenommen.",
+            "question": "Am Ende bekam er ein Lob.",
             "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
+            "answer": "Richtig"
           },
           {
-            "question": "Max hat seinen Besitzer nicht erkannt.",
+            "question": "Der Job war langweilig und nutzlos.",
             "options": ["Richtig", "Falsch"],
             "answer": "Falsch"
           }
@@ -80,118 +108,34 @@
     ]
   },
   {
-    "title": "Thema 3",
+    "id": 4,
+    "title": "Thema 4: Eine Fahrradtour am Fluss",
     "texts": [
       {
-        "text": "Vor zwei Wochen habe ich meine Brille verloren. Das war ein großes Problem, weil ich ohne Brille fast nichts sehe. Ich trug sie beim Mittagessen im Café neben meiner Arbeit. Danach ging ich zurück ins Büro – und merkte erst Stunden später, dass sie nicht mehr in meiner Tasche war.\n\nIch dachte sofort ans Café. Ich rief dort an, aber niemand hatte eine Brille gefunden. Traurig kaufte ich am nächsten Tag eine neue – doch dann kam die Überraschung: Drei Tage später erhielt ich ein Paket per Post. Darin lag meine alte Brille – mit einem Zettel: „Ich fand Ihre Brille unter dem Tisch im Café. Da stand Ihr Name auf dem Etui, habe ich gesucht, wo Sie arbeiten. Hier ist sie wieder! Gute Besserung für Ihre Augen :).“ Unterschrieben war mit „Ein Kollege?“\n\nIch war total gerührt! Offenbar hatte jemand aus meinem Bürogebäude sie gefunden und extra per Post geschickt. Ich zeigte den Zettel allen Kollegen, aber niemand gab es zu. Vielleicht will derjenige anonym bleiben.\n\nTrotzdem möchte ich sagen: Lieber unbekannter Helfer, vielen Dank! Es ist nicht nur um die Brille gegangen, sondern um die Fürsorge. Du hast mir gezeigt, dass kleine Taten große Wirkung haben können. In unserer hektischen Welt bedeutet so etwas sehr viel. Ich werde versuchen, genauso hilfsbereit zu sein, wenn ich einmal etwas finde.",
+        "text": "Am Sonntag machte ich mit meinen Freunden eine Fahrradtour. Wir fuhren entlang eines schönen Flusses und genossen das schöne Wetter. Die Landschaft war grün, mit vielen Bäumen und Wiesen. Nach einer Stunde machten wir eine Pause auf einer Wiese, aßen Sandwiches und tranken Wasser. Danach spielten wir ein kleines Ballspiel, bevor wir weiterfuhren. Plötzlich begann es zu regnen, und wir mussten uns beeilen, um nicht nass zu werden. Wir fuhren schnell nach Hause und lachten über die Situation. Trotz des Regens hatten wir viel Spaß und erzählten uns Geschichten aus der Schulwoche. Ich habe an diesem Tag gelernt, dass man auch bei schlechtem Wetter Freude haben kann, wenn man zusammen ist. Am Ende des Tages waren wir müde, aber glücklich über die schöne Zeit, die wir miteinander verbracht hatten. Es war eine perfekte Kombination aus Sport, Natur und Freundschaft.",
         "questions": [
           {
-            "question": "Die Brille war sehr wichtig für den Schreiber.",
+            "question": "Die Freunde machten eine Fahrradtour.",
             "options": ["Richtig", "Falsch"],
             "answer": "Richtig"
           },
           {
-            "question": "Die Brille wurde im Büro gefunden.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Der Finder hat die Brille persönlich zurückgegeben.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Der Name des Schreibers stand auf dem Brillenetui.",
+            "question": "Sie machten eine Pause auf einer Wiese.",
             "options": ["Richtig", "Falsch"],
             "answer": "Richtig"
           },
           {
-            "question": "Der Finder hat sich mit Namen vorgestellt.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Der Schreiber hat die Brille nie wiedergefunden.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Thema 4",
-    "texts": [
-      {
-        "text": "Letzten Monat habe ich versehentlich mein Ladegerät im Zug vergessen. Es war ein langer Arbeitstag, und ich war müde. Als ich zu Hause ankam, merkte ich: Mein Handy-Ladegerät fehlte! Ich benutze es jeden Tag, und ohne geht gar nichts.\n\nAm nächsten Morgen rief ich die Fundstelle der Bahn an. Die Mitarbeiterin fragte nach Datum, Strecke und Zugnummer. Dann sagte sie: „Es tut mir leid, wir haben nichts mit Ihrem Namen gefunden.“ Enttäuscht legte ich auf.\n\nDoch drei Tage später erhielt ich eine E-Mail von einem Fremden. Er schrieb: „Ich habe ein Ladegerät im Zug gefunden. Auf dem Kabel steht Ihr Firmenname. Ich arbeite in derselben Stadt. Können wir uns treffen?“ Ich konnte es kaum glauben!\n\nWir trafen uns am Bahnhof. Er gab mir das Ladegerät – vollständig, kein Kratzer. Ich wollte ihm Geld geben oder ein Geschenk, aber er lächelte nur und sagte: „Kein Problem. Ich würde das Gleiche tun, wenn ich etwas verliere.“\n\nDiese Begegnung hat mich tief beeindruckt. Heute frage ich mich oft: Was wäre, wenn alle so handeln würden? Ich habe den Mann nicht gut gekannt, aber er hat Vertrauen und Menschlichkeit gezeigt. Ich hoffe, ich begegne ihm wieder – oder kann eines Tages jemandem genauso helfen.",
-        "questions": [
-          {
-            "question": "Der Schreiber hat das Ladegerät im Flughafen verloren.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Die Bahn-Fundstelle hatte das Ladegerät nicht.",
+            "question": "Es begann plötzlich zu regnen.",
             "options": ["Richtig", "Falsch"],
             "answer": "Richtig"
           },
           {
-            "question": "Der Finder kannte den Schreiber persönlich.",
+            "question": "Sie blieben den ganzen Tag drinnen.",
             "options": ["Richtig", "Falsch"],
             "answer": "Falsch"
           },
           {
-            "question": "Der Firmenname half, den Besitzer zu finden.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Richtig"
-          },
-          {
-            "question": "Der Finder hat Geld für die Rückgabe verlangt.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Das Ladegerät war kaputt, als es zurückgegeben wurde.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Thema 5",
-    "texts": [
-      {
-        "text": "Letztes Jahr im Winter habe ich meinen Schal verloren. Es war ein besonderer Schal – meine Oma hat ihn selbst gestrickt. Ich trug ihn beim Spaziergang im Park. Danach war er weg. Ich suchte überall, aber vergeblich. Ich war sehr traurig, denn es war nicht nur ein Kleidungsstück, sondern ein Erinnerungsstück.\n\nEin paar Wochen später klingelte es an meiner Tür. Ein Jugendlicher stand da mit dem Schal in der Hand. Er sagte: „Ich fand diesen Schal auf einer Bank im Park. Da stand Ihr Name im Etikett, also habe ich Ihre Adresse gesucht. Ist das Ihrer?“ Ich war sprachlos!\n\nJa, es war meiner! Ich bedankte mich tausendmal. Er wollte nichts dafür – nicht mal eine Tasse Tee. Er sagte nur: „Ich weiß, wie wichtig Erinnerungen sind.“\n\nSpäter erfuhr ich, dass er den Schal zwei Wochen lang bei sich aufbewahrt hatte, bis er genug Mut hatte, mich zu besuchen. Ich war tief berührt von seiner Ehrlichkeit und seinem Respekt.\n\nLieber junger Mann, falls du das irgendwann liest: Nochmals vielen, vielen Dank. Du hast mehr getan, als einen Schal zurückzugeben. Du hast eine Erinnerung gerettet. Und du hast mir gezeigt, dass es noch viele gute Menschen gibt – besonders junge Menschen mit großem Herz.",
-        "questions": [
-          {
-            "question": "Der Schal war ein Geschenk der Oma.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Richtig"
-          },
-          {
-            "question": "Der Schal wurde im Supermarkt gefunden.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Der Finder hat den Schal im Müll gefunden.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Im Schal stand der Name des Besitzers.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Richtig"
-          },
-          {
-            "question": "Der Junge hat eine Belohnung verlangt.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Der Schreiber hat den Jungen nie wiedergesehen.",
+            "question": "Trotz des Regens hatten sie Spaß.",
             "options": ["Richtig", "Falsch"],
             "answer": "Richtig"
           }
@@ -199,80 +143,73 @@
       }
     ]
   },
+  {
+    "id": 5,
+    "title": "Thema 5: Ein Besuch beim Zahnarzt",
+    "texts": [
+      {
+        "text": "Gestern musste ich zum Zahnarzt, weil ich Zahnschmerzen hatte. Ich war ein bisschen nervös, weil ich nicht wusste, was passieren würde. Die Zahnärztin war jedoch sehr freundlich und erklärte jeden Schritt. Zuerst untersuchte sie meine Zähne und fand ein kleines Loch. Dann machte sie eine Füllung, damit ich keine Schmerzen mehr haben würde. Während der Behandlung war ich etwas unruhig, aber die Zahnärztin beruhigte mich. Nach der Behandlung konnte ich wieder normal essen und hatte keine Schmerzen mehr. Am Ende gab sie mir Tipps zum Zähneputzen und erklärte, wie ich meine Zähne besser pflegen kann. Ich war froh, dass der Besuch gut verlaufen ist und dass die Schmerzen verschwunden waren. Es war eine lehrreiche Erfahrung und hat mir gezeigt, wie wichtig regelmäßige Zahnarztbesuche sind, um Probleme früh zu erkennen.",
+        "questions": [
+          {
+            "question": "Der Erzähler ging zum Zahnarzt wegen Bauchschmerzen.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Die Zahnärztin war freundlich.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Es gab ein kleines Loch im Zahn.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Nach der Behandlung hatte er keine Schmerzen mehr.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Die Zahnärztin gab Tipps zum Zähneputzen.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          }
+        ]
+      }
+    ]
+  },
+
   
   {
-    "title": "Thema 6",
+    "id": 6,
+    "title": "Thema 6: Ein Tag am Strand",
     "texts": [
       {
-        "text": "Letztes Jahr im Herbst zog meine beste Freundin Lina in eine andere Stadt. Wir hatten uns jeden Tag gesehen – in der Schule, beim Sport oder einfach nur beim Eis essen. Als sie wegging, war ich sehr traurig. Ich dachte, unsere Freundschaft wird schwächer, weil wir uns nicht mehr oft sehen.\n\nDoch dann kam die Überraschung: Jeden Monat erhielt ich einen handgeschriebenen Brief von ihr. Manchmal mit Fotos, manchmal mit kleinen Zeichnungen oder Witzen. In einem Brief schrieb sie: „Ich vermisse dich! Aber Freundschaft braucht keine Entfernung.“\n\nIhre Briefe machten mich jedes Mal glücklich. Ich begann auch, ihr zu schreiben. Wir teilten alles: Schulaufgaben, Probleme mit Eltern, neue Hobbys. Es fühlte sich an, als wäre sie immer noch ein Teil meines Alltags.\n\nIm Frühling besuchte sie mich endlich. Wir gingen ins Kino, spazieren und aßen unser Lieblingsessen. Es war, als wäre keine Zeit vergangen. Am Abend sagte sie: „Unsere Briefe haben uns verbunden. Das ist etwas Besonderes.“\n\nHeute schreiben wir nicht mehr so oft, aber wir telefonieren regelmäßig. Diese Erfahrung hat mir gezeigt, dass echte Freundschaft stark sein kann – auch über große Entfernungen hinweg. Es braucht nur ein bisschen Mühe und Aufmerksamkeit. Ich bin froh, dass Lina meine Freundin ist. Und wer weiß? Vielleicht veröffentlichen wir eines Tages unsere Briefe als Buch!",
+        "text": "Letzten Sommer fuhr ich mit meiner Familie an die Küste, um ein paar Tage am Strand zu verbringen. Wir mieteten eine kleine Ferienwohnung in der Nähe des Meeres. Am ersten Morgen wachten wir früh auf, weil wir den Sonnenaufgang am Strand sehen wollten. Es war wunderschön, die Sonne ging langsam über dem Wasser auf und färbte den Himmel orange und rosa. Nach dem Frühstück gingen wir schwimmen. Das Wasser war erfrischend, und wir spielten viele Spiele im Meer, wie Wasserball und Tauchen. Später bauten wir Sandburgen und sammelten Muscheln. Zum Mittagessen kauften wir frische Fischbrötchen bei einem kleinen Stand am Strand. Am Nachmittag machten wir einen Spaziergang entlang der Küste und entdeckten kleine Buchten und Felsen. Am Abend grillten wir auf dem Balkon unserer Ferienwohnung und sahen den Sonnenuntergang. Diese Tage am Meer waren sehr entspannend, und ich habe die Natur, das Rauschen der Wellen und die Zeit mit meiner Familie sehr genossen. Ich habe gelernt, wie wichtig es ist, sich Zeit zu nehmen, um die einfachen Dinge im Leben zu genießen und neue Energie zu tanken.",
         "questions": [
           {
-            "question": "Lina zog in eine andere Schule in derselben Stadt.",
+            "question": "Die Familie war in den Bergen.",
             "options": ["Richtig", "Falsch"],
             "answer": "Falsch"
           },
           {
-            "question": "Die Freundinnen schrieben sich monatlich Briefe.",
+            "question": "Sie sahen den Sonnenaufgang am Strand.",
             "options": ["Richtig", "Falsch"],
             "answer": "Richtig"
           },
           {
-            "question": "Die Briefe enthielten nie Fotos.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Die beiden Mädchen telefonierten nie.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Lina besuchte ihre Freundin im Sommer.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Die Freundschaft wurde durch die Briefe gestärkt.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Richtig"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Thema 7",
-    "texts": [
-      {
-        "text": "Vor zwei Monaten meldete ich mich bei einem Freiwilligenprojekt an. Ich wollte helfen, aber ich hatte Angst, dass ich nichts richtig machen würde. Die Gruppe trifft sich jeden Samstag in der Stadt, um Obdachlosen Essen zu bringen.\n\nAm ersten Tag war ich nervös. Ich wusste nicht, was ich sagen sollte. Doch die anderen waren sehr freundlich. Sie zeigten mir, wie man die Speisen verteilt, wie man respektvoll spricht und auf welche Dinge man achten muss.\n\nNach ein paar Wochen fühlte ich mich schon viel sicherer. Ein Mann namens Peter kam oft. Er erzählte mir von seinem Leben, von seiner Familie und davon, wie er auf die Straße kam. Ich hörte einfach zu. Manchmal gab ich ihm eine Decke oder warme Socken.\n\nEines Tages sagte er: „Danke, dass du kommst. Nicht viele Menschen sehen mich an. Du bist anders.“ Diese Worte berührten mich sehr. Ich half nicht nur ihm – er hat auch mir geholfen, die Welt anders zu sehen.\n\nJetzt freue ich mich jeden Samstag auf das Projekt. Ich habe gemerkt, dass kleine Gesten viel bedeuten können. Ein Lächeln, ein Gruß, ein warmes Essen – das gibt Hoffnung. Und ich habe neue Freunde gefunden, die genauso denken wie ich. Ich bin stolz darauf, dabei zu sein.",
-        "questions": [
-          {
-            "question": "Der Schreiber hilft jeden Tag im Projekt.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Die Freiwilligen geben Essen an Obdachlose weiter.",
+            "question": "Sie bauten Sandburgen und sammelten Muscheln.",
             "options": ["Richtig", "Falsch"],
             "answer": "Richtig"
           },
           {
-            "question": "Der Schreiber fühlte sich am Anfang wohl.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Peter bedankte sich bei dem Schreiber.",
+            "question": "Am Abend grillten sie auf dem Balkon.",
             "options": ["Richtig", "Falsch"],
             "answer": "Richtig"
           },
           {
-            "question": "Der Schreiber gab Peter Geld.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Das Projekt findet montags statt.",
+            "question": "Der Aufenthalt war langweilig und stressig.",
             "options": ["Richtig", "Falsch"],
             "answer": "Falsch"
           }
@@ -281,38 +218,34 @@
     ]
   },
   {
-    "title": "Thema 8",
+    "id": 7,
+    "title": "Thema 7: Ein Besuch im Tierpark",
     "texts": [
       {
-        "text": "Mein Onkel lebt allein in einem kleinen Haus am Stadtrand. Vor einigen Monaten fiel er im Badezimmer und verletzte sich am Bein. Niemand wusste davon – erst nach zwei Tagen fand ihn ein Nachbar. Seitdem macht sich die Familie Sorgen: Was wäre, wenn so etwas wieder passiert?\n\nWir beschlossen, ihm ein Handy mit großen Tasten zu kaufen. Es hat einen Notrufknopf. Wenn er Hilfe braucht, drückt er einfach die Taste – und automatisch wird meine Mutter angerufen. Außerdem zeigt es die Uhrzeit groß an und hat eine einfache Bedienung.\n\nAnfangs wollte Onkel Paul das Handy nicht benutzen. Er sagte: „Ich bin nicht alt!“ Aber nach ein paar Wochen merkte er, wie praktisch es ist. Er ruft jetzt öfter an, um zu erzählen, wie sein Tag war.\n\nLetzte Woche rief das Handy plötzlich bei meiner Mutter an. Onkel Paul hatte den Notrufknopf gedrückt. Er rutschte vor der Tür aus, konnte aber alleine aufstehen. Meine Mutter fuhr sofort hin. Er war okay, aber froh, dass jemand kam.\n\nSeitdem sagt er: „Dieses Handy hat mir Sicherheit gegeben.“ Wir sind erleichtert. Es ist schön zu wissen, dass er nicht allein ist, wenn etwas passiert. Technik kann wirklich helfen – besonders für ältere Menschen.",
+        "text": "Vor einigen Wochen besuchte ich mit meiner Klasse einen Tierpark. Wir waren sehr aufgeregt, viele Tiere zu sehen, die wir sonst nur aus Büchern kannten. Zuerst gingen wir zu den Affen. Sie spielten miteinander, kletterten auf Bäumen und machten lustige Geräusche. Danach besuchten wir die Raubtiere: Löwen, Tiger und Leoparden. Es war beeindruckend, wie groß und stark diese Tiere sind. Wir bekamen von einem Tierpfleger viele Informationen über die Lebensweise und Ernährung der Tiere. Später gingen wir zu den Vögeln, sahen bunte Papageien und hörten verschiedene Vogelstimmen. Zwischendurch machten wir ein Picknick auf einer Wiese im Park. Am Nachmittag durften wir einige Tiere füttern, wie Ziegen und Kaninchen. Es war aufregend, die Tiere hautnah zu erleben. Ich habe an diesem Tag viel gelernt über Tiere, ihre Gewohnheiten und die Verantwortung der Menschen, sie zu schützen. Dieser Ausflug hat mir gezeigt, dass der Schutz der Natur und der Tiere sehr wichtig ist.",
         "questions": [
           {
-            "question": "Onkel Paul fiel im Garten.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Das Handy hat einen Notrufknopf.",
+            "question": "Die Klasse besuchte einen Tierpark.",
             "options": ["Richtig", "Falsch"],
             "answer": "Richtig"
           },
           {
-            "question": "Onkel Paul wollte das Handy sofort benutzen.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Der Nachbar rief den Notruf für Onkel Paul.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Onkel Paul ist letzte Woche wieder ausgerutscht.",
+            "question": "Sie sahen Affen und Raubtiere.",
             "options": ["Richtig", "Falsch"],
             "answer": "Richtig"
           },
           {
-            "question": "Das Handy hat keine großen Tasten.",
+            "question": "Die Schüler durften keine Tiere füttern.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Der Ausflug war lehrreich.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Niemand machte ein Picknick.",
             "options": ["Richtig", "Falsch"],
             "answer": "Falsch"
           }
@@ -321,38 +254,34 @@
     ]
   },
   {
-    "title": "Thema 9",
+    "id": 8,
+    "title": "Thema 8: Ein Tag im Museum",
     "texts": [
       {
-        "text": "In meiner Klasse gab es ein neues Mädchen: Amina. Sie kam vor zwei Monaten aus Syrien. Zuerst sprach sie kaum Deutsch. Die anderen redeten schnell, und sie verstand oft nichts. Ich sah, dass sie traurig war und sich einsam fühlte.\n\nIch beschloss, ihr zu helfen. Jeden Tag erklärte ich ihr neue Wörter, korrigierte ihre Sätze und übte mit ihr. Manchmal machten wir Hausaufgaben zusammen. Nach einiger Zeit verbesserte sich ihr Deutsch stark. Sie lächelte mehr und traute sich, im Unterricht mitzumachen.\n\nLetzte Woche hielt Amina eine Präsentation – auf Deutsch! Sie sprach über ihre Heimat, ihre Familie und warum sie Deutschland mag. Alle klatschten laut. Danach kam sie zu mir und sagte: „Danke, dass du geduldig warst. Ohne dich wäre das nicht möglich gewesen.“\n\nIch war gerührt. Ich dachte, ich hätte nur ein bisschen geholfen. Aber für sie bedeutete es viel. Jetzt sind wir gute Freundinnen. Wir gehen zusammen zur Bibliothek, essen in der Pause und planen sogar einen Ausflug.\n\nDiese Erfahrung hat mir gezeigt, wie wichtig Unterstützung ist – besonders wenn man in ein neues Land kommt. Mit Geduld und Freundlichkeit kann man viel erreichen. Ich bin stolz darauf, Amina geholfen zu haben. Und ich habe auch viel von ihr gelernt – über Mut, Hoffnung und Dankbarkeit.",
+        "text": "Letzte Woche besuchte ich mit meiner Schule ein historisches Museum. Wir wollten mehr über die Geschichte unserer Stadt und des Landes lernen. Zuerst sahen wir alte Waffen, Kleidung und Werkzeuge. Es war faszinierend zu sehen, wie die Menschen früher lebten. Danach gingen wir in eine Ausstellung über die Industrialisierung. Wir sahen alte Maschinen und lernten, wie die Arbeit in Fabriken früher war. Ein Museumsführer erklärte uns die wichtigsten Fakten und erzählte interessante Geschichten. Zwischendurch machten wir Notizen und diskutierten in kleinen Gruppen über das Gesehene. Am Ende der Führung durften wir im Museumsshop Souvenirs kaufen. Ich entschied mich für ein kleines Buch über die Stadtgeschichte. Der Besuch im Museum war sehr lehrreich und interessant. Ich habe viel Neues gelernt, das ich vorher nicht wusste, und es hat mir Spaß gemacht, Geschichte auf diese Weise zu erleben.",
         "questions": [
           {
-            "question": "Amina sprach fließend Deutsch, als sie ankam.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Die Erzählerin half Amina mit Deutsch.",
+            "question": "Die Schüler besuchten ein historisches Museum.",
             "options": ["Richtig", "Falsch"],
             "answer": "Richtig"
           },
           {
-            "question": "Amina hielt eine Präsentation auf Arabisch.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Die Klasse hat Amina nach der Präsentation applaudiert.",
+            "question": "Sie sahen alte Waffen, Kleidung und Werkzeuge.",
             "options": ["Richtig", "Falsch"],
             "answer": "Richtig"
           },
           {
-            "question": "Amina und die Erzählerin sind jetzt Feinde.",
+            "question": "Der Museumsführer erklärte alles genau.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Die Schüler durften keine Souvenirs kaufen.",
             "options": ["Richtig", "Falsch"],
             "answer": "Falsch"
           },
           {
-            "question": "Die Erzählerin hat nichts von Amina gelernt.",
+            "question": "Der Museumsbesuch war langweilig.",
             "options": ["Richtig", "Falsch"],
             "answer": "Falsch"
           }
@@ -361,119 +290,34 @@
     ]
   },
   {
-    "title": "Thema 10",
+    "id": 9,
+    "title": "Thema 9: Ein Tag mit Freunden im Park",
     "texts": [
       {
-        "text": "Letzten Winter war ich mit meinen Eltern im Skiurlaub. Ich war noch nie auf Skiern, also nahm ich am ersten Tag einen Kurs. Der Skilehrer hieß Tom und war sehr geduldig. Er zeigte mir, wie man steht, fährt und bremst.\n\nAm dritten Tag wollte ich alleine fahren. Ich dachte, ich könnte es schon gut. Doch auf einer steilen Piste verlor ich die Kontrolle, stürzte und konnte nicht mehr aufstehen. Mein Bein tat weh, und ich hatte Angst.\n\nPlötzlich kam ein Mädchen auf Skiern zu mir. Sie half mir hoch, fragte, ob alles okay sei, und brachte mich langsam zum Rand der Piste. Dort setzte ich mich, und sie holte ihren Rucksack. Sie gab mir eine Decke und eine heiße Schokolade. „Alles wird gut“, sagte sie. „Ich war auch mal Anfänger.“\n\nSpäter erfuhr ich, dass sie mit ihrer Familie im selben Hotel wohnte. Am Abend sah ich sie im Speisesaal. Ich dankte ihr persönlich. Sie lächelte und sagte: „Kein Problem. Wir müssen uns gegenseitig helfen.“\n\nAm nächsten Tag lud sie mich ein, mit ihr und ihren Freunden zu fahren. Ich lernte viel und hatte endlich Spaß auf den Skiern. Ohne ihre Hilfe wäre der Urlaub vielleicht schlecht gewesen. Ich habe ihre Freundlichkeit nicht vergessen. Manchmal reicht eine kleine Geste, um einen schlechten Moment in einen schönen Tag zu verwandeln.",
+        "text": "Am Samstag traf ich mich mit meinen Freunden im Stadtpark. Wir wollten den Tag draußen verbringen und das schöne Wetter genießen. Zuerst spielten wir Fußball auf einer großen Wiese. Danach machten wir ein Picknick mit Sandwiches, Obst und Getränken. Wir unterhielten uns über Schule, Hobbys und Pläne für den Sommer. Später gingen wir spazieren und entdeckten einen kleinen Teich mit Enten und Schwänen. Wir fütterten die Tiere mit etwas Brot und machten viele Fotos. Es war sehr entspannend, an der frischen Luft zu sein und gemeinsam Zeit zu verbringen. Am Abend verabschiedeten wir uns und jeder ging nach Hause. Ich war froh über den schönen Tag und darüber, wie viel Spaß man auch ohne besondere Aktivitäten haben kann. Solche Tage mit Freunden sind wichtig, um sich zu erholen und die Freundschaft zu stärken.",
         "questions": [
           {
-            "question": "Der Schreiber war schon oft Ski gefahren.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Der Schreiber stürzte auf einer flachen Piste.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Ein Mädchen half dem Schreiber nach dem Sturz.",
+            "question": "Der Erzähler traf sich mit seinen Freunden im Park.",
             "options": ["Richtig", "Falsch"],
             "answer": "Richtig"
           },
           {
-            "question": "Das Mädchen gab dem Schreiber kaltes Wasser.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Die beiden wohnten im selben Hotel.",
+            "question": "Sie spielten Fußball und machten ein Picknick.",
             "options": ["Richtig", "Falsch"],
             "answer": "Richtig"
           },
           {
-            "question": "Der Schreiber hatte keinen Spaß im Urlaub.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          }
-        ]
-      }
-    ]
-  },
-  
-  {
-    "title": "Thema 11",
-    "texts": [
-      {
-        "text": "Seit einem Jahr spiele ich in einer Fußballmannschaft für Jugendliche. Ich war vorher nie besonders sportlich, aber ein Freund hat mich eingeladen: „Komm einfach mal mit!“ Am Anfang war ich unsicher – ich kannte die Regeln nicht gut und hatte Angst, Fehler zu machen. Doch die anderen waren sehr nett und geduldig.\n\nJetzt trainieren wir zweimal pro Woche. Jedes Mal lerne ich etwas Neues: wie man dribbelt, passt oder Tore schießt. Unser Trainer, Herr Müller, sagt immer: „Wichtig ist nicht, ob du gewinnst, sondern dass du Spaß hast und zusammenarbeitest.“\n\nLetzten Monat hatten wir unser erstes richtiges Spiel gegen eine andere Mannschaft. Ich war nervös, aber auch aufgeregt. Als ich ins Team kam, jubelten die anderen. In der zweiten Halbzeit schoss ich mein erstes Tor! Alle umarmten mich. Auch wenn wir das Spiel knapp verloren haben, war es ein toller Tag.\n\nFußball hat mein Leben verändert. Ich bin fitter, selbstbewusster und habe viele neue Freunde gefunden. Manchmal gehe ich auch früher schlafen, weil ich am nächsten Tag trainiere. Meine Eltern sind stolz auf mich. Sie sagen: „Du hast Ausdauer entwickelt.“\n\nIch hoffe, dass ich lange weiterspiele. Vielleicht kann ich eines Tages sogar Trainer werden und jüngeren Kindern helfen – genau wie Herr Müller mir geholfen hat.",
-        "questions": [
-          {
-            "question": "Der Schreiber spielte schon immer gerne Fußball.",
+            "question": "Sie besuchten einen Zoo.",
             "options": ["Richtig", "Falsch"],
             "answer": "Falsch"
           },
           {
-            "question": "Das Team trainiert dreimal pro Woche.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Der Trainer legt großen Wert auf Spaß und Teamarbeit.",
+            "question": "Der Tag war entspannend.",
             "options": ["Richtig", "Falsch"],
             "answer": "Richtig"
           },
           {
-            "question": "Die Mannschaft gewann das erste Spiel deutlich.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Der Schreiber schoss sein erstes Tor im Spiel.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Richtig"
-          },
-          {
-            "question": "Der Schreiber möchte später einmal Trainer werden.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Richtig"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Thema 12",
-    "texts": [
-      {
-        "text": "An meiner Schule gibt es seit diesem Jahr einen Umwelt-Club. Die Idee kam von zwei Schülern, die sahen, wie viel Müll in der Pausenhalle lag – Plastikflaschen, Verpackungen, Papier. Sie sprachen mit der Lehrerin, und so entstand der Club.\n\nIch habe mich sofort angemeldet. Jetzt treffen wir uns jede Woche. Wir sammeln Müll auf dem Schulhof, trennen den Abfall besser und machen Plakate mit Tipps zum Umweltschutz. Letzte Woche bauten wir sogar einen kleinen Kompost für die Blumenbeete.\n\nEinmal im Monat machen wir eine Aktion: letztes Mal sammelten wir Plastik am Flussufer. Über 30 Schüler kamen! Wir trugen Handschuhe und benutzten Greifzangen. Am Ende hatten wir sechs volle Säcke. Eine Biologielehrerin erklärte uns, warum Plastik in der Natur gefährlich ist – besonders für Tiere.\n\nUnser nächstes Ziel ist, dass die Schule keine Einwegflaschen mehr verkauft. Wir haben eine Petition gestartet und über 100 Unterschriften gesammelt. Die Direktorin sagte: „Ihr macht gute Arbeit. Wir denken darüber nach.“\n\nEs macht mich stolz, dabei zu sein. Ich habe gelernt, dass jeder kleine Beitrag zählt. Zuhause trenne ich jetzt den Müll besser, und meine Eltern verwenden wiederverwendbare Taschen. Der Umwelt-Club hat nicht nur die Schule verändert – er hat auch mich verändert.",
-        "questions": [
-          {
-            "question": "Der Umwelt-Club wurde von der Direktorin gegründet.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Die Schüler sammelten Plastik am Fluss.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Richtig"
-          },
-          {
-            "question": "Der Club trifft sich jeden Tag.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Die Schule verkauft jetzt keine Einwegflaschen mehr.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Der Schreiber hat durch den Club sein Verhalten geändert.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Richtig"
-          },
-          {
-            "question": "Die Petition hatte weniger als 50 Unterschriften.",
+            "question": "Am Abend blieben sie alle im Park über Nacht.",
             "options": ["Richtig", "Falsch"],
             "answer": "Falsch"
           }
@@ -482,118 +326,34 @@
     ]
   },
   {
-    "title": "Thema 13",
+    "id": 10,
+    "title": "Thema 10: Ein Besuch auf dem Bauernhof",
     "texts": [
       {
-        "text": "Vor drei Monaten habe ich angefangen, Klavier zu lernen. Ich wollte schon immer Musik machen, aber ich dachte, ich bin zu alt dafür. Meine Nachbarin, Frau Klein, spielt Klavier und bot an, mir Unterricht zu geben – kostenlos!\n\nAm Anfang war alles schwer. Ich kannte keine Noten und drückte oft falsche Tasten. Manchmal wollte ich aufhören. Aber Frau Klein sagte: „Jeder fängt klein an. Nur üben bringt Fortschritt.“ Also übte ich jeden Tag 15 Minuten.\n\nNach sechs Wochen konnte ich mein erstes Lied spielen: „Mondlicht“. Es war nur langsam und leise, aber ich war stolz! Meine Familie applaudierte, als ich es vorspielte.\n\nLetzte Woche hatte ich mein erstes kleines Konzert – vor meinen Eltern, Frau Klein und zwei Nachbarn. Ich spielte zwei Lieder. Meine Hände zitterten, aber ich machte keine großen Fehler. Danach sagte Frau Klein: „Du hast hart gearbeitet. Weiter so!“\n\nJetzt übe ich fast jeden Tag 30 Minuten. Ich lerne neue Lieder und versuche, schneller zu lesen. Musik macht mir große Freude. Ich merke, dass Geduld und Ausdauer wichtig sind – nicht nur beim Klavierspielen, sondern im Leben. Vielleicht spiele ich eines Tages sogar in einem echten Konzert!",
+        "text": "Letzten Monat besuchte ich mit meiner Klasse einen Bauernhof. Wir wollten lernen, wie die Tiere leben und wie Lebensmittel produziert werden. Zuerst sahen wir die Kühe und halfen beim Füttern. Es war interessant zu beobachten, wie die Tiere gefüttert und gepflegt werden. Danach gingen wir zu den Schafen, Ziegen und Hühnern. Wir durften frische Eier sammeln und kleine Zicklein streicheln. Zwischendurch erklärte uns der Bauer, wie man Milch verarbeitet und Käse herstellt. Danach machten wir eine Pause und tranken frisch gepressten Apfelsaft. Später durften wir noch im Garten helfen, Gemüse zu pflanzen und Blumen zu gießen. Ich habe an diesem Tag viel über die Landwirtschaft gelernt und verstanden, wie viel Arbeit hinter Lebensmitteln steckt. Es war ein lehrreicher und schöner Tag auf dem Bauernhof, den ich so schnell nicht vergessen werde.",
         "questions": [
           {
-            "question": "Der Schreiber nahm schon als Kind Klavierunterricht.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Frau Klein unterrichtet den Schreiber kostenlos.",
+            "question": "Die Klasse besuchte einen Bauernhof.",
             "options": ["Richtig", "Falsch"],
             "answer": "Richtig"
           },
           {
-            "question": "Der Schreiber übte nie zu Hause.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Er spielte sein erstes Lied vor einem großen Publikum.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Der Schreiber gab fast den Unterricht auf.",
+            "question": "Die Schüler durften Zicklein streicheln.",
             "options": ["Richtig", "Falsch"],
             "answer": "Richtig"
           },
           {
-            "question": "Musik hat den Schreiber frustriert und unglücklich gemacht.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Thema 14",
-    "texts": [
-      {
-        "text": "Vor zwei Jahren bekam ich einen kleinen Hund – einen Mischling namens Leo. Er war damals erst acht Wochen alt und hatte Angst vor allem: Staubsauger, laute Geräusche, sogar Treppen! Ich musste ihm viel Geduld entgegenbringen.\n\nIch lernte, wie man Hunde ausbildet: mit positiver Bestärkung, klaren Signalen und Routine. Jeden Tag ging ich mit ihm spazieren, übte „Sitz“ und „Platz“ und belohnte ihn mit Leckerlis. Langsam wurde er sicherer.\n\nHeute ist Leo ein freundlicher, fröhlicher Hund. Er liebt es, im Park zu spielen und andere Hunde zu treffen. Besonders stolz bin ich darauf, dass er jetzt keine Angst mehr vor dem Aufzug hat – früher ist er immer weggelaufen!\n\nLetzten Monat nahmen wir an einem Hunde-Trainingstag teil. Dort zeigte Leo alle Tricks, die er gelernt hat: Drehen, Apportieren, Bleiben. Der Trainer sagte: „Leo ist ein großartiger Hund – und du bist eine tolle Besitzerin.“\n\nDie Arbeit mit Leo hat mir viel beigebracht: Verantwortung, Geduld und Liebe ohne Worte. Manchmal, wenn ich traurig bin, legt er einfach seinen Kopf auf mein Knie. Das hilft mehr als viele Worte. Ich bin dankbar, dass Leo bei mir ist. Er ist nicht nur ein Haustier – er ist ein Teil meiner Familie.",
-        "questions": [
-          {
-            "question": "Leo war als Welpe sehr mutig.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Der Schreiber belohnte Leo mit Spielzeug beim Training.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Leo hat heute keine Angst mehr vor dem Aufzug.",
+            "question": "Sie durften Eier sammeln.",
             "options": ["Richtig", "Falsch"],
             "answer": "Richtig"
           },
           {
-            "question": "Leo nahm an einem Wettkampf für Hunde teil.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Der Hundetrainer lobte sowohl Leo als auch die Besitzerin.",
+            "question": "Der Bauer erklärte die Käseherstellung.",
             "options": ["Richtig", "Falsch"],
             "answer": "Richtig"
           },
           {
-            "question": "Leo zeigt keine Gefühle gegenüber seiner Besitzerin.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Thema 15",
-    "texts": [
-      {
-        "text": "Früher habe ich jeden Morgen verschlafen. Ich stand immer in letzter Minute auf, rannte zur Bushaltestelle und kam oft zu spät in die Schule. Meine Lehrer waren unzufrieden, und ich fühlte mich gestresst.\n\nDann las ich einen Artikel über morgendliche Routinen. Da stand: „Wer früh aufsteht, hat einen ruhigen Start in den Tag.“ Ich beschloss, es zu probieren. Ich stellte den Wecker eine Stunde früher – um 6:30 Uhr.\n\nZuerst war es schwer. Ich war müde und wollte nur schlafen. Aber ich zwang mich aufzustehen. Ich trank Wasser, machte fünf Minuten Dehnen und aß ein gesundes Frühstück. Manchmal hörte ich auch ruhige Musik.\n\nNach zwei Wochen merkte ich den Unterschied: Ich war wacher, gelaunt und stressfreier. Ich kam pünktlich zur Schule und hatte sogar Zeit, meine Hausaufgaben noch einmal zu kontrollieren.\n\nMeine Eltern bemerkten es auch. „Du wirkst ausgeglichener“, sagte mein Vater. Und meine beste Freundin fragte: „Was ist dein Geheimnis?“ Ich erzählte ihr von meiner neuen Routine.\n\nJetzt liebe ich meine Morgenstunden. Es fühlt sich an, als hätte ich mehr Zeit – und mehr Kontrolle über meinen Tag. Ich empfehle es jedem: Probiert eine gesunde Morgengewohnheit aus. Es muss nicht viel sein – nur kleine Schritte bringen große Veränderungen.",
-        "questions": [
-          {
-            "question": "Der Schreiber war immer pünktlich in der Schule.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Der Schreiber las einen Artikel über Sport.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Er stellte den Wecker früher.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Richtig"
-          },
-          {
-            "question": "Er begann, abends länger fernzusehen.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Die neue Routine half ihm, entspannter zu sein.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Richtig"
-          },
-          {
-            "question": "Seine Freundin gab ihm den Tipp zur Morgengewohnheit.",
+            "question": "Der Tag war langweilig und uninteressant.",
             "options": ["Richtig", "Falsch"],
             "answer": "Falsch"
           }
@@ -603,38 +363,34 @@
   },
 
   {
-    "title": "Thema 16: Ein neuer Anfang in der Berufsausbildung",
+    "id": 11,
+    "title": "Thema 11: Ein Tag im Zoo",
     "texts": [
       {
-        "text": "Vor sechs Monaten habe ich meine Schule abgeschlossen und begann eine Ausbildung zur Verkäuferin. Ich war sehr nervös, weil ich noch nie in einem Geschäft gearbeitet hatte. Meine erste Woche war schwierig: Ich wusste nicht, wie man die Kasse bedient, wo die Produkte stehen oder wie man mit Kunden spricht.\n\nMeine Kollegin Anna half mir viel. Sie zeigte mir alles geduldig und beantwortete alle meine Fragen. „Mach dir keinen Stress“, sagte sie. „Jeder fängt mal an.“ Nach ein paar Wochen wurde alles leichter. Ich lernte, Waren einzuräumen, Rechnungen auszudrucken und freundlich auf Kunden zuzugehen.\n\nLetzte Woche hatte ich zum ersten Mal eine eigene Schicht – zwei Stunden allein im Laden. Mein Chef vertraute mir. Ich war aufgeregt, aber stolz. Als ein Kunde nach einem bestimmten Produkt fragte, wusste ich sofort, wo es steht. Er lächelte und sagte: „Danke, du kennst dich gut aus!“\n\nAm Abend erzählte ich meinen Eltern davon. Sie waren stolz auf mich. Mein Vater sagte: „Du hast schon so viel gelernt – das ist ein großer Schritt ins Berufsleben.“\n\nJetzt freue ich mich jeden Tag auf die Arbeit. Ich habe gemerkt, dass Selbstvertrauen mit Erfahrung kommt. Ich hoffe, dass ich am Ende der Ausbildung erfolgreich bin und einen guten Job behalte. Für mich ist das nicht nur Arbeit – es ist ein neuer Anfang.",
+        "text": "Letzten Monat besuchte ich mit meiner Familie den Zoo. Wir wollten viele verschiedene Tiere sehen und einen schönen Tag zusammen verbringen. Am Eingang des Zoos gab es Karten zu kaufen, und wir entschieden uns für eine Familienkarte. Zuerst gingen wir zu den Elefanten. Es war beeindruckend zu sehen, wie groß sie sind und wie sie miteinander spielen. Danach besuchten wir die Affen, die sehr aktiv waren und oft kletterten. Wir beobachteten sie lange, weil sie so lustig waren. Später gingen wir zu den Raubtieren: Löwen, Tiger und Leoparden. Die Tiere lagen oft in der Sonne, aber manchmal bewegten sie sich und zeigten ihre Stärke. Zwischendurch machten wir eine Pause und aßen im Zoo-Restaurant Pommes, Eis und tranken Saft. Am Nachmittag besuchten wir noch die Vögel, Pinguine und Kängurus. Wir machten viele Fotos und notierten uns interessante Informationen über die Tiere. Am Ende des Tages waren wir müde, aber sehr zufrieden. Der Zoobesuch war lehrreich, weil ich viel über die Lebensweise der Tiere gelernt habe, und es hat Spaß gemacht, Zeit mit meiner Familie zu verbringen.",
         "questions": [
           {
-            "question": "Die Erzählerin hat vor der Ausbildung viel Erfahrung im Verkauf.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Anna war die Chefin des Ladens.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Die Erzählerin arbeitete einmal allein im Laden.",
+            "question": "Die Familie besuchte einen Zoo.",
             "options": ["Richtig", "Falsch"],
             "answer": "Richtig"
           },
           {
-            "question": "Der Kunde war unzufrieden mit der Hilfe.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Die Familie ist stolz auf die Fortschritte.",
+            "question": "Sie gingen zuerst zu den Elefanten.",
             "options": ["Richtig", "Falsch"],
             "answer": "Richtig"
           },
           {
-            "question": "Die Ausbildung dauert nur drei Monate.",
+            "question": "Die Affen waren ruhig und bewegten sich nicht.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Am Nachmittag besuchten sie noch die Vögel und Kängurus.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Der Zoobesuch war langweilig.",
             "options": ["Richtig", "Falsch"],
             "answer": "Falsch"
           }
@@ -643,38 +399,34 @@
     ]
   },
   {
-    "title": "Thema 17: Der erste Besuch in einer fremden Stadt",
+    "id": 12,
+    "title": "Thema 12: Ein Tag auf dem Flohmarkt",
     "texts": [
       {
-        "text": "Letztes Wochenende besuchte ich zum ersten Mal Berlin. Ich war noch nie dort, aber meine Tante lebt in der Nähe und lud mich ein. Ich war aufgeregt – neue Stadt, neue Menschen, alles unbekannt.\n\nAls mein Zug ankam, stand meine Tante schon am Bahnhof. Sie umarmte mich und zeigte mir gleich die wichtigsten Dinge: wo man Tickets kauft, wie die U-Bahn funktioniert und wo es gutes Essen gibt. Am ersten Tag spazierten wir durch die Innenstadt. Wir sahen das Brandenburger Tor, den Reichstag und einen großen Markt mit vielen Ständen.\n\nAm nächsten Morgen ging ich allein zum Park. Ich hatte die Karte auf dem Handy, aber trotzdem lief ich falsch. Plötzlich stand ich vor einem kleinen Café. Eine ältere Frau kam heraus und fragte: „Suchst du etwas?“ Ich erklärte, dass ich zum See möchte. Sie lächelte und zeigte mir den Weg – zu Fuß und ganz einfach.\n\nSpäter setzte ich mich ans Wasser, aß ein Eis und beobachtete die Enten. Es war ruhig und schön. Abends erzählte ich meiner Tante von der freundlichen Frau. „Das ist typisch Berliner“, sagte sie lachend. „Hinter der Härte steckt oft viel Herzlichkeit.“\n\nIch liebe diese Stadt jetzt schon. Es war nicht perfekt – ich habe mich verlaufen, das Wetter war wechselhaft – aber genau das macht eine echte Reise aus. Nächstes Mal möchte ich mit einem Freund kommen und länger bleiben.",
+        "text": "Am Sonntag besuchte ich mit meiner Freundin einen großen Flohmarkt in der Stadt. Es gab viele Stände mit Kleidung, Büchern, Spielsachen, Schmuck und alten Möbeln. Wir schlenderten durch die Gassen und sahen uns alles genau an. Ich fand ein altes Buch, das ich schon lange gesucht hatte, und kaufte es für wenig Geld. Meine Freundin entdeckte eine schöne Halskette, die perfekt zu ihrem Kleid passte. Wir unterhielten uns mit den Verkäufern und erfuhren viele Geschichten über die alten Gegenstände. Zwischendurch machten wir eine Pause und tranken Kaffee an einem kleinen Stand. Es war interessant, die vielen verschiedenen Sachen zu sehen und zu lernen, wie man gut feilschen kann. Am Ende kauften wir einige Dinge für unsere Wohnungen und gingen zufrieden nach Hause. Dieser Tag hat mir gezeigt, dass Flohmärkte nicht nur zum Einkaufen da sind, sondern auch ein Erlebnis voller Entdeckungen und Gespräche sein können.",
         "questions": [
           {
-            "question": "Die Erzählerin kennt Berlin sehr gut.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Die Tante holte die Erzählerin vom Bahnhof ab.",
+            "question": "Die Freunde besuchten einen Flohmarkt.",
             "options": ["Richtig", "Falsch"],
             "answer": "Richtig"
           },
           {
-            "question": "Die Erzählerin fuhr mit dem Flugzeug nach Berlin.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Eine fremde Frau half ihr, den Weg zu finden.",
+            "question": "Es gab Stände mit Kleidung, Büchern und Spielsachen.",
             "options": ["Richtig", "Falsch"],
             "answer": "Richtig"
           },
           {
-            "question": "Das Wetter war die ganze Zeit sonnig.",
+            "question": "Sie kauften gar nichts.",
             "options": ["Richtig", "Falsch"],
             "answer": "Falsch"
           },
           {
-            "question": "Die Erzählerin möchte Berlin nie wieder besuchen.",
+            "question": "Sie tranken zwischendurch Kaffee.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Der Besuch war langweilig.",
             "options": ["Richtig", "Falsch"],
             "answer": "Falsch"
           }
@@ -683,38 +435,34 @@
     ]
   },
   {
-    "title": "Thema 18: Gemeinsam kochen lernen",
+    "id": 13,
+    "title": "Thema 13: Ein Besuch im Planetarium",
     "texts": [
       {
-        "text": "Früher konnte ich kaum ein Ei kochen. Meine Eltern machten immer das Essen. Aber als ich allein in eine kleine Wohnung zog, musste ich kochen lernen – sonst gab es nur Brot oder Fertiggerichte!\n\nIch bat meine Oma um Hilfe. Jeden Sonntag rief sie mich an und erklärte mir ein neues Rezept: Suppe, Nudeln, Kartoffelpfanne. Zuerst machte ich viele Fehler – Salz zu viel, Wasser vergessen, Pfanne angebrannt. Aber Oma sagte immer: „Kein Problem! Kochen lernt man durch Üben.“\n\nNach ein paar Wochen traute ich mich, Freunde einzuladen. Ich kochte Spaghetti mit Tomatensoße – mein erstes eigenes Menü! Es schmeckte gut, und alle lobten mich. Eine Freundin sagte: „Du bist jetzt fast besser als deine Oma!“\n\nLetzte Woche überraschte ich meine Eltern mit einem kompletten Abendessen: Vorspeise, Hauptgericht und Nachtisch. Mein Vater staunte: „Wer bist du? Und was hast du mit meiner Tochter gemacht?“\n\nHeute liebe ich das Kochen. Es ist entspannend, kreativ und macht Freude. Manchmal rufe ich noch Oma an – aber jetzt eher, um ein neues Rezept zu teilen, nicht um eins zu lernen. Wer hätte gedacht, dass aus dem Mädchen, das ein Ei nicht kochen konnte, eine richtige Köchin wird?",
+        "text": "Letzte Woche besuchte ich mit meiner Klasse das Planetarium. Wir wollten mehr über Sterne, Planeten und das Universum lernen. Zuerst schauten wir eine Präsentation über die Entstehung der Erde und die Planeten unseres Sonnensystems. Es war sehr spannend zu sehen, wie alles begann und wie groß das Universum ist. Danach durften wir durch das Teleskop schauen und die Sterne beobachten. Wir sahen verschiedene Sternbilder und lernten ihre Namen kennen. Ein Mitarbeiter erklärte uns auch, wie Astronauten im Weltall leben und arbeiten. Zwischendurch durften wir Fragen stellen, und es war interessant zu hören, wie Wissenschaftler neue Planeten entdecken. Am Ende des Besuchs erhielten wir ein kleines Poster mit den wichtigsten Sternbildern. Ich fand den Tag sehr lehrreich und spannend, weil ich viel über das Weltall gelernt habe und noch neugieriger auf die Sterne geworden bin. Dieser Besuch hat mir gezeigt, wie faszinierend die Wissenschaft sein kann.",
         "questions": [
           {
-            "question": "Die Erzählerin lebte immer allein.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Die Oma half mit Telefonanrufen.",
+            "question": "Die Klasse besuchte ein Planetarium.",
             "options": ["Richtig", "Falsch"],
             "answer": "Richtig"
           },
           {
-            "question": "Die Erzählerin machte nie Fehler beim Kochen.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Sie lud ihre Freunde zu einem Festessen ein.",
+            "question": "Sie lernten etwas über Sterne und Planeten.",
             "options": ["Richtig", "Falsch"],
             "answer": "Richtig"
           },
           {
-            "question": "Ihr Vater war enttäuscht vom Essen.",
+            "question": "Sie sahen keine Sternbilder.",
             "options": ["Richtig", "Falsch"],
             "answer": "Falsch"
           },
           {
-            "question": "Sie hasst es heute, in der Küche zu stehen.",
+            "question": "Am Ende erhielten sie ein Poster.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Der Besuch war uninteressant.",
             "options": ["Richtig", "Falsch"],
             "answer": "Falsch"
           }
@@ -723,38 +471,34 @@
     ]
   },
   {
-    "title": "Thema 19: Der Umzug in eine neue Wohnung",
+    "id": 14,
+    "title": "Thema 14: Ein Tag im Schwimmbad",
     "texts": [
       {
-        "text": "Letzten Monat bin ich in eine neue Wohnung gezogen. Meine alte Wohnung war klein und laut – direkt neben einer Baustelle. Die neue Wohnung ist ruhiger, heller und hat sogar einen kleinen Balkon.\n\nDer Umzug war anstrengend. Ich packte wochenlang Kartons: Bücher, Kleidung, Fotos, Küchenutensilien. Meine Freunde halfen mir am Umzugstag. Wir trugen Möbel, stapelten Kisten und lachten viel – besonders als das Regal fast umfiel!\n\nIn den ersten Tagen wusste ich nicht, wo etwas ist. Ich suchte ständig nach meinem Ladekabel oder der Zahnbürste. Aber langsam wurde alles besser. Ich richtete mein Zimmer ein, kaufte Pflanzen für den Balkon und hängte Bilder an die Wand.\n\nLetzte Woche klopfte meine Nachbarin an die Tür. Sie brachte einen Kuchen und sagte: „Willkommen! Wenn du etwas brauchst, sag einfach Bescheid.“ Ich war gerührt. Später tranken wir zusammen Kaffee und unterhielten uns über die Gegend.\n\nJetzt fühle ich mich endlich zu Hause. Die neue Wohnung ist mehr als vier Wände – sie ist ein Ort, wo ich mich wohl fühle. Ich habe gelernt: Ein Umzug ist nicht nur ein Ortswechsel, sondern auch ein neuer Lebensabschnitt. Und mit netten Nachbarn und guter Laune wird alles leichter.",
+        "text": "Letzten Samstag besuchte ich mit meinen Freunden das städtische Schwimmbad. Wir wollten schwimmen, rutschen und den Tag genießen. Zuerst gingen wir ins Becken zum Schwimmen. Wir spielten Wasserball und machten verschiedene Sprünge vom Sprungbrett. Danach gingen wir auf die Wasserrutschen. Sie waren schnell und aufregend, und wir lachten viel. Zwischendurch tranken wir Wasser und aßen kleine Snacks wie Obst und Sandwiches. Später entspannten wir im Außenbereich auf Liegestühlen und genossen die Sonne. Wir unterhielten uns über Schule, Hobbys und Pläne für den Sommer. Am Ende des Tages waren wir müde, aber glücklich über die gemeinsame Zeit. Ich habe gelernt, dass es wichtig ist, zusammen Spaß zu haben und sich zu bewegen. Der Tag im Schwimmbad war sehr schön und hat mir viel Freude bereitet.",
         "questions": [
           {
-            "question": "Die alte Wohnung war hell und ruhig.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Freunde halfen beim Umzug.",
+            "question": "Die Freunde gingen ins Schwimmbad.",
             "options": ["Richtig", "Falsch"],
             "answer": "Richtig"
           },
           {
-            "question": "Die Erzählerin fand sofort alles in der neuen Wohnung.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Die Nachbarin brachte einen Kuchen.",
+            "question": "Sie spielten Wasserball und gingen auf Wasserrutschen.",
             "options": ["Richtig", "Falsch"],
             "answer": "Richtig"
           },
           {
-            "question": "Die Erzählerin bereut den Umzug.",
+            "question": "Sie entspannten im Außenbereich.",
             "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
+            "answer": "Richtig"
           },
           {
-            "question": "Die neue Wohnung hat keinen Balkon.",
+            "question": "Am Ende waren sie müde, aber glücklich.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Der Tag war langweilig.",
             "options": ["Richtig", "Falsch"],
             "answer": "Falsch"
           }
@@ -763,38 +507,34 @@
     ]
   },
   {
-    "title": "Thema 20: Eine Fahrradtour mit unerwartetem Ende",
+    "id": 15,
+    "title": "Thema 15: Ein Spaziergang im Wald",
     "texts": [
       {
-        "text": "Am letzten Sonntag machte ich mit meinem Bruder eine Fahrradtour in die Berge. Das Wetter war perfekt – sonnig, aber nicht zu heiß. Wir nahmen Rucksäcke mit Wasser, Snacks und einer Karte. Unser Ziel war ein kleiner See, den wir noch nie besucht hatten.\n\nDie Fahrt dauerte zwei Stunden. Unterwegs sahen wir wilde Blumen, Vögel und sogar ein Reh. Wir machten Fotos und genossen die frische Luft. Als wir den See erreichten, war es wunderschön: blauer Himmel, ruhiges Wasser, Stille.\n\nWir aßen unser Picknick und ruhten uns aus. Auf dem Rückweg jedoch begann es plötzlich zu regnen – stark und kalt! Unsere Jacken waren nass, die Straße glitschig. Mein Fahrrad hatte einen Platten. Mein Bruder sagte: „Kein Problem, ich helfe dir.“ Er reparierte es mit einem kleinen Werkzeug.\n\nLangsam und vorsichtig fuhren wir weiter. Als wir nach Hause kamen, waren wir durchnässt – aber glücklich. Unsere Eltern lachten: „Was für ein Abenteuer!“\n\nObwohl der Tag nicht perfekt war, war er unvergesslich. Wir haben zusammen gehalten, gelacht und ein Problem gemeinsam gelöst. Nächstes Mal nehmen wir bessere Jacken und ein Handy mit – aber die Tour würde ich jederzeit wieder machen!",
+        "text": "Letzten Sonntag machte ich mit meiner Familie einen langen Spaziergang im Wald. Das Wetter war sonnig und angenehm. Wir gingen auf einem Wanderweg, der durch viele Bäume und Wiesen führte. Unterwegs hörten wir Vögel zwitschern und entdeckten kleine Tiere wie Eichhörnchen und Hasen. Wir machten viele Fotos von der Natur und sammelten schöne Blätter und Steine. Zwischendurch machten wir eine Pause, tranken Wasser und aßen Snacks. Wir unterhielten uns über die Natur, die Tiere und unsere Pläne für die kommende Woche. Am Ende des Spaziergangs kamen wir zu einem kleinen See, der sehr ruhig und schön war. Wir setzten uns ans Ufer und genossen die Sonne. Dieser Tag im Wald war sehr erholsam und hat mir gezeigt, wie wichtig es ist, Zeit in der Natur zu verbringen und die Ruhe zu genießen.",
         "questions": [
           {
-            "question": "Die Fahrradtour fand bei schlechtem Wetter statt.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Die Geschwister hatten keine Karte dabei.",
-            "options": ["Richtig", "Falsch"],
-            "answer": "Falsch"
-          },
-          {
-            "question": "Sie sahen ein Reh während der Fahrt.",
+            "question": "Die Familie machte einen Spaziergang im Wald.",
             "options": ["Richtig", "Falsch"],
             "answer": "Richtig"
           },
           {
-            "question": "Das Fahrrad hatte einen Platten.",
+            "question": "Sie entdeckten Eichhörnchen und Hasen.",
             "options": ["Richtig", "Falsch"],
             "answer": "Richtig"
           },
           {
-            "question": "Der Bruder reparierte das Fahrrad nicht.",
+            "question": "Sie machten keine Pausen.",
             "options": ["Richtig", "Falsch"],
             "answer": "Falsch"
           },
           {
-            "question": "Die Eltern waren wütend über das nasse Ende.",
+            "question": "Am Ende kamen sie zu einem kleinen See.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Der Spaziergang war langweilig.",
             "options": ["Richtig", "Falsch"],
             "answer": "Falsch"
           }
@@ -802,6 +542,8 @@
       }
     ]
   }
+
+
 
 
 ]
