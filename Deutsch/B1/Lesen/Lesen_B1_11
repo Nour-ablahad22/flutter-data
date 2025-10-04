@@ -1,1 +1,425 @@
-a
+[
+  {
+    "id": 1,
+    "title": "Thema 2: Gesunde Ernährung im Alltag",
+    "texts": [
+      {
+        "text": "Gesunde Ernährung ist sehr wichtig für das Wohlbefinden und die Gesundheit. Viele Menschen essen oft Fast Food oder Süßigkeiten, weil es schnell geht, aber das belastet den Körper. Besser ist es, frisches Obst, Gemüse, Vollkornprodukte und mageres Fleisch zu essen. So bekommt der Körper alle wichtigen Vitamine und Mineralstoffe. Außerdem sollte man genug Wasser trinken – mindestens anderthalb bis zwei Liter am Tag. Wer regelmäßig selbst kocht, kann besser kontrollieren, was er isst, und entwickelt gesunde Gewohnheiten. Auch das Frühstück sollte nicht ausgelassen werden, denn es liefert Energie für den Tag. Kleine Snacks zwischendurch sind in Ordnung, aber es ist wichtig, auf Qualität und Menge zu achten. Eine bewusste Ernährung kann Krankheiten vorbeugen und das Wohlbefinden steigern. Wichtig ist außerdem Bewegung, denn Ernährung und Bewegung gehören zusammen für einen gesunden Lebensstil.",
+        "questions": [
+          {
+            "question": "Warum ist gesunde Ernährung wichtig?",
+            "options": ["Sie macht schnell satt.", "Sie verbessert das Wohlbefinden und die Gesundheit.", "Sie spart Geld."],
+            "answer": "Sie verbessert das Wohlbefinden und die Gesundheit."
+          },
+          {
+            "question": "Was sollte man täglich trinken?",
+            "options": ["Mindestens anderthalb bis zwei Liter Wasser.", "Nur Saft oder Softdrinks.", "Gar nichts, Wasser ist nicht wichtig."],
+            "answer": "Mindestens anderthalb bis zwei Liter Wasser."
+          },
+          {
+            "question": "Warum ist es gut, selbst zu kochen?",
+            "options": ["Man kann besser kontrollieren, was man isst.", "Es ist immer schneller als Fast Food.", "Man braucht keine Zutaten."],
+            "answer": "Man kann besser kontrollieren, was man isst."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Thema 2: Gesunde Ernährung im Alltag",
+    "texts": [
+      {
+        "text": "Gesunde Ernährung ist sehr wichtig für das Wohlbefinden und die Gesundheit. Viele Menschen essen oft Fast Food oder Süßigkeiten, weil es schnell geht, aber das belastet den Körper. Besser ist es, frisches Obst, Gemüse, Vollkornprodukte und mageres Fleisch zu essen. So bekommt der Körper alle wichtigen Vitamine und Mineralstoffe. Außerdem sollte man genug Wasser trinken – mindestens anderthalb bis zwei Liter am Tag. Wer regelmäßig selbst kocht, kann besser kontrollieren, was er isst, und entwickelt gesunde Gewohnheiten. Auch das Frühstück sollte nicht ausgelassen werden, denn es liefert Energie für den Tag. Kleine Snacks zwischendurch sind in Ordnung, aber es ist wichtig, auf Qualität und Menge zu achten. Eine bewusste Ernährung kann Krankheiten vorbeugen und das Wohlbefinden steigern. Wichtig ist außerdem Bewegung, denn Ernährung und Bewegung gehören zusammen für einen gesunden Lebensstil.",
+        "questions": [
+          {
+            "question": "Warum ist gesunde Ernährung wichtig?",
+            "options": ["Sie macht schnell satt.", "Sie verbessert das Wohlbefinden und die Gesundheit.", "Sie spart Geld."],
+            "answer": "Sie verbessert das Wohlbefinden und die Gesundheit."
+          },
+          {
+            "question": "Was sollte man täglich trinken?",
+            "options": ["Mindestens anderthalb bis zwei Liter Wasser.", "Nur Saft oder Softdrinks.", "Gar nichts, Wasser ist nicht wichtig."],
+            "answer": "Mindestens anderthalb bis zwei Liter Wasser."
+          },
+          {
+            "question": "Warum ist es gut, selbst zu kochen?",
+            "options": ["Man kann besser kontrollieren, was man isst.", "Es ist immer schneller als Fast Food.", "Man braucht keine Zutaten."],
+            "answer": "Man kann besser kontrollieren, was man isst."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Thema 3: Umweltfreundliche Verkehrsmittel",
+    "texts": [
+      {
+        "text": "In vielen Städten wird der Verkehr immer dichter. Autos verursachen Abgase, die die Luft verschmutzen und das Klima belasten. Deshalb setzen immer mehr Menschen auf umweltfreundliche Verkehrsmittel. Fahrradfahren, Bus und Bahn oder Carsharing sind gute Alternativen. Wer kurze Strecken mit dem Fahrrad fährt, tut nicht nur etwas für die Umwelt, sondern auch für die eigene Gesundheit. Öffentliche Verkehrsmittel sind praktisch und verringern die Anzahl der Autos auf den Straßen. Carsharing ermöglicht, ein Auto nur bei Bedarf zu nutzen und spart Kosten. Viele Städte fördern diese Alternativen durch bessere Radwege, günstigere Tickets oder spezielle Parkplätze. Auf diese Weise kann jeder einen Beitrag zum Klimaschutz leisten und die Lebensqualität in der Stadt verbessern. Wer umsteigt, reduziert Lärm, Abgase und Staus und unterstützt nachhaltige Mobilität.",
+        "questions": [
+          {
+            "question": "Warum setzen Menschen auf umweltfreundliche Verkehrsmittel?",
+            "options": ["Um die Umwelt zu schützen und Abgase zu reduzieren.", "Um mehr Autos zu kaufen.", "Um länger im Stau zu stehen."],
+            "answer": "Um die Umwelt zu schützen und Abgase zu reduzieren."
+          },
+          {
+            "question": "Welche Vorteile hat Fahrradfahren?",
+            "options": ["Es schadet der Gesundheit.", "Es ist gut für die Umwelt und die Gesundheit.", "Es kostet sehr viel Geld."],
+            "answer": "Es ist gut für die Umwelt und die Gesundheit."
+          },
+          {
+            "question": "Was ist Carsharing?",
+            "options": ["Ein Auto besitzen, das immer genutzt wird.", "Ein Auto nur bei Bedarf nutzen.", "Ein neues Verkehrsmittel für die Straße."],
+            "answer": "Ein Auto nur bei Bedarf nutzen."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Thema 4: Digitales Lernen in Schulen",
+    "texts": [
+      {
+        "text": "Digitale Medien werden in Schulen immer wichtiger. Viele Lehrer nutzen Computer, Tablets oder interaktive Tafeln, um den Unterricht abwechslungsreicher zu gestalten. Lernplattformen bieten den Schülern die Möglichkeit, Aufgaben online zu bearbeiten und zusätzliche Informationen zu bekommen. Videos und Online-Kurse ergänzen den Unterricht und machen ihn anschaulicher. Vorteile des digitalen Lernens sind Flexibilität, individuelle Förderung und moderne Technologien. Allerdings müssen Lehrer und Schüler geschult sein, um die Geräte richtig zu nutzen. Zu viel Bildschirmzeit kann auch überlasten, deshalb sollte ein ausgewogener Einsatz stattfinden. Schulen, die digitale Medien gezielt einsetzen, verbessern den Lernprozess und steigern die Motivation der Schüler. Außerdem lernen die Kinder früh den Umgang mit modernen Technologien, was für die Zukunft wichtig ist.",
+        "questions": [
+          {
+            "question": "Warum werden digitale Medien in Schulen genutzt?",
+            "options": ["Um den Unterricht abwechslungsreicher und moderner zu gestalten.", "Um Bücher zu ersetzen.", "Damit Schüler nicht mehr lernen müssen."],
+            "answer": "Um den Unterricht abwechslungsreicher und moderner zu gestalten."
+          },
+          {
+            "question": "Welche Gefahr gibt es bei zu viel Bildschirmzeit?",
+            "options": ["Überlastung der Schüler.", "Schneller lernen.", "Mehr Freizeit haben."],
+            "answer": "Überlastung der Schüler."
+          },
+          {
+            "question": "Was lernen die Schüler durch digitale Medien frühzeitig?",
+            "options": ["Den Umgang mit modernen Technologien.", "Nur Mathe und Deutsch.", "Gar nichts Wichtiges."],
+            "answer": "Den Umgang mit modernen Technologien."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Thema 5: Freizeit und Hobbys",
+    "texts": [
+      {
+        "text": "Freizeit ist für viele Menschen wichtig, um sich zu erholen und neue Energie zu tanken. Hobbys helfen dabei, den Alltag auszugleichen. Sport, Musik, Lesen oder kreative Tätigkeiten machen Spaß und fördern die Gesundheit. Sportarten wie Laufen, Schwimmen oder Yoga halten fit und stärken das Herz-Kreislauf-System. Musik oder Malen fördern Kreativität und Entspannung. Lesen erweitert den Horizont und verbessert die Sprachkenntnisse. Hobbys können auch sozial sein: Vereinsmitgliedschaften oder Gruppenaktivitäten fördern den Kontakt zu anderen Menschen. Wer regelmäßig seinen Hobbys nachgeht, fühlt sich ausgeglichener und zufriedener. Freizeit sollte bewusst geplant werden, damit sie Erholung und Freude bringt. So entsteht ein guter Ausgleich zu Arbeit, Schule oder Studium.",
+        "questions": [
+          {
+            "question": "Warum sind Hobbys wichtig?",
+            "options": ["Sie helfen beim Ausgleich des Alltags und fördern Gesundheit und Kreativität.", "Sie kosten viel Geld.", "Sie ersetzen Schule und Arbeit."],
+            "answer": "Sie helfen beim Ausgleich des Alltags und fördern Gesundheit und Kreativität."
+          },
+          {
+            "question": "Welche Hobbys fördern die Fitness?",
+            "options": ["Laufen, Schwimmen, Yoga.", "Lesen und Malen.", "Musik hören."],
+            "answer": "Laufen, Schwimmen, Yoga."
+          },
+          {
+            "question": "Wie können Hobbys sozial sein?",
+            "options": ["Durch Vereinsmitgliedschaften und Gruppenaktivitäten.", "Durch alleinige Aktivitäten zu Hause.", "Durch Fernsehen."],
+            "answer": "Durch Vereinsmitgliedschaften und Gruppenaktivitäten."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Thema 6: Urlaub in den Bergen",
+    "texts": [
+      {
+        "text": "Viele Menschen verbringen ihren Urlaub gern in den Bergen. Die frische Luft, die Ruhe und die schöne Natur ziehen Besucher an. Wanderungen in den Bergen sind eine beliebte Aktivität und bieten Bewegung an der frischen Luft. Auch Radfahren oder Klettern machen Spaß und fördern die Fitness. In den Bergregionen gibt es oft kleine Hotels oder Ferienwohnungen, in denen sich die Gäste wohlfühlen. Die Natur schützt und bietet Erholung, fern von Stress und Lärm der Stadt. Außerdem kann man regionale Spezialitäten probieren und die Kultur der Region kennenlernen. Winterurlaub ist besonders beliebt für Skifahrer und Snowboarder. Ein Urlaub in den Bergen bietet eine gute Mischung aus Aktivität, Erholung und Naturerlebnis und ist für Menschen jeden Alters geeignet.",
+        "questions": [
+          {
+            "question": "Warum fahren viele Menschen in die Berge?",
+            "options": ["Wegen der frischen Luft, Ruhe und Natur.", "Um in der Stadt zu bleiben.", "Um Stress zu haben."],
+            "answer": "Wegen der frischen Luft, Ruhe und Natur."
+          },
+          {
+            "question": "Welche Aktivitäten sind in den Bergen beliebt?",
+            "options": ["Wandern, Radfahren, Klettern.", "Nur Fernsehen.", "Nur Einkaufen."],
+            "answer": "Wandern, Radfahren, Klettern."
+          },
+          {
+            "question": "Warum ist Winterurlaub in den Bergen besonders beliebt?",
+            "options": ["Für Skifahrer und Snowboarder.", "Um im Hotel zu bleiben.", "Weil es dort wärmer ist."],
+            "answer": "Für Skifahrer und Snowboarder."
+          }
+        ]
+      }
+    ]
+  },
+
+
+  {
+    "id": 7,
+    "title": "Thema 7: Fitness und Sport im Alltag",
+    "texts": [
+      {
+        "text": "Regelmäßige Bewegung ist wichtig für die Gesundheit. Sportarten wie Laufen, Radfahren oder Schwimmen stärken das Herz-Kreislauf-System, die Muskeln und die Gelenke. Wer täglich mindestens 30 Minuten aktiv ist, kann Krankheiten vorbeugen und das Wohlbefinden steigern. Sport hilft auch, Stress abzubauen und die Konzentration zu verbessern. Viele Menschen kombinieren Sport mit anderen Aktivitäten, zum Beispiel Spazierengehen in der Natur oder Fitnesskurse im Verein. Dabei ist es wichtig, die Belastung langsam zu steigern und auf den Körper zu hören. Anfänger sollten mit einfachen Übungen beginnen und sich nicht überfordern. Durch gemeinsame Aktivitäten mit Freunden oder der Familie macht Bewegung mehr Spaß und motiviert zusätzlich. Regelmäßiger Sport kann langfristig die Lebensqualität deutlich erhöhen.",
+        "questions": [
+          {
+            "question": "Warum ist regelmäßige Bewegung wichtig?",
+            "options": ["Sie stärkt das Herz-Kreislauf-System und beugt Krankheiten vor.", "Sie macht müde.", "Sie ist nur für Profis wichtig."],
+            "answer": "Sie stärkt das Herz-Kreislauf-System und beugt Krankheiten vor."
+          },
+          {
+            "question": "Wie lange sollte man täglich aktiv sein?",
+            "options": ["Mindestens 30 Minuten.", "Nur einmal pro Woche.", "Eine Stunde nur im Fitnessstudio."],
+            "answer": "Mindestens 30 Minuten."
+          },
+          {
+            "question": "Warum macht Sport in der Gruppe mehr Spaß?",
+            "options": ["Man ist motivierter und kann gemeinsam aktiv sein.", "Weil man schneller fertig ist.", "Man braucht weniger Kleidung."],
+            "answer": "Man ist motivierter und kann gemeinsam aktiv sein."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Thema 8: Recycling und Abfallvermeidung",
+    "texts": [
+      {
+        "text": "Recycling und Abfallvermeidung sind wichtige Maßnahmen zum Umweltschutz. Viele Produkte können wiederverwendet oder recycelt werden, zum Beispiel Papier, Glas und Kunststoff. Wer Müll trennt, trägt dazu bei, Ressourcen zu sparen und die Umwelt zu schützen. Außerdem sollte man darauf achten, Abfall zu vermeiden, indem man Produkte mehrfach verwendet oder Verpackungen reduziert. Supermärkte bieten oft Mehrwegprodukte an, und auch zu Hause kann man kreativ sein, um Müll zu reduzieren. Kinder lernen schon früh in der Schule, warum Recycling wichtig ist und wie man richtig trennt. Wer bewusst einkauft und Abfall vermeidet, leistet einen aktiven Beitrag zum Schutz der Natur und zur Schonung von Rohstoffen.",
+        "questions": [
+          {
+            "question": "Warum ist Recycling wichtig?",
+            "options": ["Es spart Ressourcen und schützt die Umwelt.", "Es kostet viel Geld.", "Es ist nur für Firmen wichtig."],
+            "answer": "Es spart Ressourcen und schützt die Umwelt."
+          },
+          {
+            "question": "Welche Materialien können recycelt werden?",
+            "options": ["Papier, Glas und Kunststoff.", "Nur Lebensmittel.", "Nur Kleidung."],
+            "answer": "Papier, Glas und Kunststoff."
+          },
+          {
+            "question": "Wie kann man Abfall vermeiden?",
+            "options": ["Produkte mehrfach verwenden oder Verpackungen reduzieren.", "Alles in den Müll werfen.", "Nur Einwegprodukte kaufen."],
+            "answer": "Produkte mehrfach verwenden oder Verpackungen reduzieren."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Thema 9: Haustiere und Verantwortung",
+    "texts": [
+      {
+        "text": "Ein Haustier zu haben macht Freude, bringt aber auch Verantwortung mit sich. Hunde, Katzen oder andere Tiere brauchen Futter, Pflege und Aufmerksamkeit. Wer ein Haustier hält, muss sich um seine Gesundheit kümmern, regelmäßig zum Tierarzt gehen und ausreichend Zeit für Bewegung und Spiel einplanen. Kinder lernen durch ein Haustier Verantwortung, Geduld und Einfühlungsvermögen. Auch die Umgebung profitiert, wenn Haustiere artgerecht gehalten werden. Bevor man sich für ein Tier entscheidet, sollte man überlegen, ob man genügend Zeit, Platz und finanzielle Mittel hat. Haustiere können das Leben bereichern und soziale Kontakte fördern, aber sie sind kein Spielzeug und brauchen eine langfristige Fürsorge.",
+        "questions": [
+          {
+            "question": "Was braucht ein Haustier?",
+            "options": ["Futter, Pflege und Aufmerksamkeit.", "Nur Futter.", "Nur einen Schlafplatz."],
+            "answer": "Futter, Pflege und Aufmerksamkeit."
+          },
+          {
+            "question": "Was lernen Kinder durch Haustiere?",
+            "options": ["Verantwortung, Geduld und Einfühlungsvermögen.", "Nur spielen.", "Nichts Wichtiges."],
+            "answer": "Verantwortung, Geduld und Einfühlungsvermögen."
+          },
+          {
+            "question": "Was sollte man vor der Anschaffung überlegen?",
+            "options": ["Zeit, Platz und finanzielle Mittel.", "Nur den Namen des Tieres.", "Nur das Aussehen."],
+            "answer": "Zeit, Platz und finanzielle Mittel."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Thema 10: Wetter und Klima",
+    "texts": [
+      {
+        "text": "Das Wetter beeinflusst unseren Alltag stark. Sonnige Tage machen gute Laune, Regen sorgt manchmal für Gemütlichkeit oder Einschränkungen im Freien. Klima bezeichnet das langfristige Wetter einer Region über viele Jahre. Klimaveränderungen können extreme Wetterlagen wie Stürme, Hitze oder Überschwemmungen verursachen. Wissenschaftler beobachten das Klima genau und warnen vor den Folgen des Klimawandels. Jeder kann einen Beitrag leisten, um das Klima zu schützen, zum Beispiel durch Energiesparen, weniger Auto fahren oder nachhaltigen Konsum. Auch Bildung und Aufklärung über die Bedeutung von Klima und Umweltschutz sind wichtig, damit Menschen bewusste Entscheidungen treffen. So kann man die negativen Folgen für Umwelt und Gesellschaft verringern.",
+        "questions": [
+          {
+            "question": "Was bezeichnet das Klima?",
+            "options": ["Das langfristige Wetter einer Region.", "Nur das heutige Wetter.", "Die Temperatur in einem Haus."],
+            "answer": "Das langfristige Wetter einer Region."
+          },
+          {
+            "question": "Welche Folgen kann Klimaveränderung haben?",
+            "options": ["Stürme, Hitze oder Überschwemmungen.", "Nur schönes Wetter.", "Keine Auswirkungen."],
+            "answer": "Stürme, Hitze oder Überschwemmungen."
+          },
+          {
+            "question": "Wie kann jeder das Klima schützen?",
+            "options": ["Energiesparen, weniger Auto fahren, nachhaltigen Konsum.", "Mehr Auto fahren.", "Alles verbrauchen ohne nachzudenken."],
+            "answer": "Energiesparen, weniger Auto fahren, nachhaltigen Konsum."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Thema 11: Lesen und Bildung",
+    "texts": [
+      {
+        "text": "Lesen fördert Wissen, Kreativität und Sprachfähigkeit. Schon Kinder profitieren vom Vorlesen und von Büchern, die ihre Fantasie anregen. Erwachsene erweitern ihren Horizont durch Lesen von Zeitungen, Fachbüchern oder Romanen. Bildung ist eng mit dem Lesen verbunden, da man Informationen aufnehmen und verstehen kann. Schulen und Bibliotheken fördern die Lesekompetenz und ermöglichen den Zugang zu Wissen. Regelmäßiges Lesen stärkt die Konzentration und verbessert die Ausdrucksfähigkeit. Auch digitale Medien können beim Lernen helfen, doch Bücher bleiben eine wichtige Grundlage. Wer viel liest, entwickelt bessere Sprachkenntnisse, kann sich leichter ausdrücken und erhält neue Perspektiven auf die Welt.",
+        "questions": [
+          {
+            "question": "Warum ist Lesen wichtig?",
+            "options": ["Es fördert Wissen, Kreativität und Sprachfähigkeit.", "Es macht müde.", "Es ist nur für Kinder."],
+            "answer": "Es fördert Wissen, Kreativität und Sprachfähigkeit."
+          },
+          {
+            "question": "Wie profitieren Kinder vom Lesen?",
+            "options": ["Ihre Fantasie wird angeregt.", "Sie lernen nur Zahlen.", "Sie werden faul."],
+            "answer": "Ihre Fantasie wird angeregt."
+          },
+          {
+            "question": "Welche Vorteile hat regelmäßiges Lesen für Erwachsene?",
+            "options": ["Bessere Konzentration, Ausdrucksfähigkeit und neue Perspektiven.", "Nur Unterhaltung.", "Keine Vorteile."],
+            "answer": "Bessere Konzentration, Ausdrucksfähigkeit und neue Perspektiven."
+          }
+        ]
+      }
+    ]
+  }
+,
+
+  [
+  {
+    "id": 12,
+    "title": "Thema 12: Online-Shopping und seine Vorteile",
+    "texts": [
+      {
+        "text": "Online-Shopping wird immer beliebter, weil es bequem ist und Zeit spart. Kunden können Produkte von zu Hause aus vergleichen und bestellen, ohne in Geschäfte gehen zu müssen. Viele Online-Shops bieten Rabatte und Sonderaktionen an. Auch der Versand ist oft schnell, und man bekommt die Produkte direkt nach Hause geliefert. Allerdings sollte man auf sichere Webseiten achten und persönliche Daten schützen. Bewertungen und Kommentare anderer Käufer helfen, die Qualität eines Produkts einzuschätzen. Trotz der Vorteile bevorzugen einige Menschen weiterhin das Einkaufen vor Ort, weil sie die Produkte anfassen oder direkt mit Verkäufern sprechen möchten. Online-Shopping ist praktisch, doch man sollte verantwortungsbewusst einkaufen, um Impulskäufe zu vermeiden.",
+        "questions": [
+          {
+            "question": "Warum ist Online-Shopping beliebt?",
+            "options": ["Weil es bequem ist und Zeit spart.", "Weil es teuer ist.", "Weil man nicht bezahlen muss."],
+            "answer": "Weil es bequem ist und Zeit spart."
+          },
+          {
+            "question": "Was hilft beim Einschätzen der Produktqualität?",
+            "options": ["Bewertungen und Kommentare anderer Käufer.", "Nur Fotos.", "Der Name des Shops."],
+            "answer": "Bewertungen und Kommentare anderer Käufer."
+          },
+          {
+            "question": "Warum bevorzugen manche Menschen Einkaufen vor Ort?",
+            "options": ["Um Produkte anzufassen und Verkäufer zu fragen.", "Um Geld zu sparen.", "Um online zu sein."],
+            "answer": "Um Produkte anzufassen und Verkäufer zu fragen."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Thema 13: Pflanzen im Alltag",
+    "texts": [
+      {
+        "text": "Pflanzen verschönern Wohnungen, Gärten und Büros. Sie verbessern das Raumklima, filtern Schadstoffe aus der Luft und sorgen für ein angenehmes Ambiente. Viele Menschen haben Zimmerpflanzen wie Ficus, Aloe Vera oder Orchideen, weil sie pflegeleicht sind und die Stimmung heben. Auch Balkon- und Gartenpflanzen bieten Entspannung und helfen, die Natur bewusst zu erleben. Pflanzen brauchen Pflege, wie regelmäßiges Gießen, Dünger und Licht. Kinder können durch die Arbeit mit Pflanzen Verantwortung lernen und den Lebenszyklus der Natur verstehen. Wer Pflanzen liebt, fühlt sich oft ruhiger und zufriedener, da Grünpflanzen einen positiven Einfluss auf Psyche und Gesundheit haben.",
+        "questions": [
+          {
+            "question": "Welche Vorteile haben Pflanzen in Innenräumen?",
+            "options": ["Sie verbessern das Raumklima und filtern Schadstoffe.", "Sie machen Lärm.", "Sie brauchen keinen Platz."],
+            "answer": "Sie verbessern das Raumklima und filtern Schadstoffe."
+          },
+          {
+            "question": "Warum sind Zimmerpflanzen beliebt?",
+            "options": ["Sie sind pflegeleicht und heben die Stimmung.", "Sie kosten sehr viel Geld.", "Sie wachsen nur draußen."],
+            "answer": "Sie sind pflegeleicht und heben die Stimmung."
+          },
+          {
+            "question": "Was lernen Kinder durch Pflanzen?",
+            "options": ["Verantwortung und den Lebenszyklus der Natur.", "Nur Mathe.", "Wie man Spiele spielt."],
+            "answer": "Verantwortung und den Lebenszyklus der Natur."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Thema 14: Öffentliche Bibliotheken",
+    "texts": [
+      {
+        "text": "Öffentliche Bibliotheken sind wichtige Einrichtungen für Bildung und Kultur. Sie bieten Bücher, Zeitungen, Zeitschriften und digitale Medien für alle Altersgruppen an. Besucher können sich informieren, lernen oder einfach in Ruhe lesen. Viele Bibliotheken veranstalten Lesungen, Workshops oder Vorträge, um das Interesse an Literatur und Wissen zu fördern. Öffentliche Bibliotheken sind oft kostenlos oder sehr günstig. Sie bieten einen Raum für Konzentration und Weiterbildung, besonders für Schüler, Studenten oder Berufstätige. Durch Bibliotheken haben Menschen Zugang zu Wissen, unabhängig von ihrem Einkommen. Bibliotheken spielen eine große Rolle, um Bildung und gesellschaftliche Teilhabe zu fördern.",
+        "questions": [
+          {
+            "question": "Welche Angebote gibt es in Bibliotheken?",
+            "options": ["Bücher, Zeitschriften, digitale Medien und Veranstaltungen.", "Nur Bücher.", "Nur Computer."],
+            "answer": "Bücher, Zeitschriften, digitale Medien und Veranstaltungen."
+          },
+          {
+            "question": "Warum sind Bibliotheken wichtig?",
+            "options": ["Sie fördern Bildung, Wissen und gesellschaftliche Teilhabe.", "Sie verkaufen Produkte.", "Sie machen Lärm."],
+            "answer": "Sie fördern Bildung, Wissen und gesellschaftliche Teilhabe."
+          },
+          {
+            "question": "Wer kann Bibliotheken nutzen?",
+            "options": ["Alle Menschen, unabhängig vom Einkommen.", "Nur Schüler.", "Nur Erwachsene."],
+            "answer": "Alle Menschen, unabhängig vom Einkommen."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Thema 15: Verkehrssicherheit",
+    "texts": [
+      {
+        "text": "Verkehrssicherheit ist ein wichtiges Thema in allen Städten und auf dem Land. Regeln wie Geschwindigkeitsbegrenzungen, Ampeln und Zebrastreifen sollen Unfälle vermeiden. Fußgänger, Radfahrer und Autofahrer müssen aufmerksam sein und Verkehrszeichen beachten. Besonders Kinder und ältere Menschen sind oft gefährdet, deshalb ist Rücksichtnahme im Straßenverkehr wichtig. Schulen und Vereine bieten manchmal spezielle Verkehrstrainings an, um richtiges Verhalten zu lernen. Moderne Technologien wie Ampelüberwachung oder Assistenzsysteme in Autos erhöhen die Sicherheit zusätzlich. Wer vorsichtig fährt und Regeln beachtet, schützt sich selbst und andere und verringert das Unfallrisiko.",
+        "questions": [
+          {
+            "question": "Warum ist Verkehrssicherheit wichtig?",
+            "options": ["Um Unfälle zu vermeiden und Menschen zu schützen.", "Um schneller zu fahren.", "Um Autos zu verkaufen."],
+            "answer": "Um Unfälle zu vermeiden und Menschen zu schützen."
+          },
+          {
+            "question": "Wer muss aufmerksam sein?",
+            "options": ["Fußgänger, Radfahrer und Autofahrer.", "Nur Autofahrer.", "Nur Fußgänger."],
+            "answer": "Fußgänger, Radfahrer und Autofahrer."
+          },
+          {
+            "question": "Wie können moderne Technologien helfen?",
+            "options": ["Ampelüberwachung und Assistenzsysteme erhöhen die Sicherheit.", "Sie machen alles langsamer.", "Sie ersetzen Verkehrsschilder."],
+            "answer": "Ampelüberwachung und Assistenzsysteme erhöhen die Sicherheit."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Thema 16: Musik und ihre Wirkung",
+    "texts": [
+      {
+        "text": "Musik begleitet Menschen in vielen Situationen. Sie kann die Stimmung heben, entspannen oder motivieren. Musik wird in der Schule, zu Hause oder bei Freizeitaktivitäten genutzt. Klassische Musik wirkt beruhigend, während schnelle Rhythmen beim Sport oder Tanzen Energie geben. Auch Kinder profitieren von Musik: Sie fördert die Sprachentwicklung, Konzentration und Kreativität. Viele Menschen hören Musik zur Entspannung nach einem stressigen Tag oder als Motivation bei der Arbeit. Konzerte und gemeinsames Musizieren stärken zudem das Gemeinschaftsgefühl. Musik ist ein wichtiger Teil der Kultur und des täglichen Lebens und beeinflusst unsere Emotionen positiv.",
+        "questions": [
+          {
+            "question": "Welche Wirkung kann Musik haben?",
+            "options": ["Sie kann die Stimmung heben, entspannen oder motivieren.", "Sie macht immer müde.", "Sie schadet der Gesundheit."],
+            "answer": "Sie kann die Stimmung heben, entspannen oder motivieren."
+          },
+          {
+            "question": "Welche Musik wirkt beruhigend?",
+            "options": ["Klassische Musik.", "Schnelle Rhythmen beim Sport.", "Laute Rockmusik."],
+            "answer": "Klassische Musik."
+          },
+          {
+            "question": "Wie profitieren Kinder von Musik?",
+            "options": ["Förderung von Sprachentwicklung, Konzentration und Kreativität.", "Sie lernen nur Tanzen.", "Sie hören Musik nicht."],
+            "answer": "Förderung von Sprachentwicklung, Konzentration und Kreativität."
+          }
+        ]
+      }
+    ]
+  }
+
+
+]
