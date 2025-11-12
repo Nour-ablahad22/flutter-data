@@ -14,7 +14,7 @@
   "frage_3": "Thomas spielt später in einer Band.",
   "Antwort_3": ["A) Richtig", "B) Falsch"],
   "antwort_3_richtig": "A",
-      "imageUrl": "https://example.com/images/grillfest.webp"
+
 }
 ,
   
@@ -32,7 +32,7 @@
   "frage_3": "Clara hat einen Trainer.",
   "Antwort_3": ["A) Richtig", "B) Falsch"],
   "antwort_3_richtig": "A",
-      "imageUrl": "https://example.com/images/grillfest.webp"
+
 }
 ,{
     "id": "4",
