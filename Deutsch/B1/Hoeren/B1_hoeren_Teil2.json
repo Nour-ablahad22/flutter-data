@@ -1,18 +1,32 @@
-
 [
-  {"id":1,"title":"Im Café 222","text":"Anna: Guten Morgen! Ich hätte gern einen Kaffee, bitte.\nKellner: Guten Morgen! Möchten Sie Zucker und Milch dazu?\nAnna: Ja, bitte.\nKellner: Kommt sofort. Möchten Sie auch ein Stück Kuchen?\nAnna: Oh ja, ein Stück Schokoladenkuchen bitte.\nKellner: Alles klar. Das macht fünf Euro.\nAnna: Vielen Dank!\nKellner: Gern geschehen.",
-    "text_no_newline":"Anna: Guten Morgen! Ich hätte gern einen Kaffee, bitte. Kellner: Guten Morgen! Möchten Sie Zucker und Milch dazu? Anna: Ja, bitte. Kellner: Kommt sofort. Möchten Sie auch ein Stück Kuchen? Anna: Oh ja, ein Stück Schokoladenkuchen bitte. Kellner: Alles klar. Das macht fünf Euro. Anna: Vielen Dank! Kellner: Gern geschehen.","question":"Was bestellt Anna?","options":{"a":"Einen Tee","b":"Einen Kaffee und Kuchen","c":"Ein Sandwich"},"answer":"b"},
-  {"id":2,"title":"Im Supermarkt","text":"Paul: Entschuldigung, wo finde ich die Milch?\nVerkäuferin: Die Milch ist im Gang 3, neben den Eiern.\nPaul: Danke! Und wo ist das Brot?\nVerkäuferin: Das ist im Gang 1, links neben den Backwaren.\nPaul: Super, danke für Ihre Hilfe.\nVerkäuferin: Gern geschehen.\nPaul: Schön, dass Sie mir geholfen haben.\nVerkäuferin: Kein Problem, gern!","text_no_newline":"Paul: Entschuldigung, wo finde ich die Milch? Verkäuferin: Die Milch ist im Gang 3, neben den Eiern. Paul: Danke! Und wo ist das Brot? Verkäuferin: Das ist im Gang 1, links neben den Backwaren. Paul: Super, danke für Ihre Hilfe. Verkäuferin: Gern geschehen. Paul: Schön, dass Sie mir geholfen haben. Verkäuferin: Kein Problem, gern!","question":"Wo findet Paul die Milch?","options":{"a":"Im Gang 1","b":"Im Gang 3","c":"Im Gang 5"},"answer":"b"},
-  {"id":3,"title":"Im Park","text":"Lisa: Hallo Tom, möchtest du spazieren gehen?\nTom: Ja, gern. Es ist schönes Wetter.\nLisa: Wollen wir zum See gehen?\nTom: Gute Idee.\nLisa: Dann lass uns um drei Uhr treffen.\nTom: Perfekt, ich bringe ein paar Snacks mit.\nLisa: Super, ich freue mich!\nTom: Bis später!",
-    "text_no_newline":"Lisa: Hallo Tom, möchtest du spazieren gehen? Tom: Ja, gern. Es ist schönes Wetter. Lisa: Wollen wir zum See gehen? Tom: Gute Idee. Lisa: Dann lass uns um drei Uhr treffen. Tom: Perfekt, ich bringe ein paar Snacks mit. Lisa: Super, ich freue mich! Tom: Bis später!","question":"Wann treffen sich Lisa und Tom?","options":{"a":"Um zwei Uhr","b":"Um drei Uhr","c":"Um vier Uhr"},"answer":"b"},
-  {"id":4,"title":"Am Bahnhof","text":"Max: Entschuldigung, wann fährt der Zug nach Berlin?\nSchaffner: Um acht Uhr.\nMax: Danke, wo kann ich die Fahrkarte kaufen?\nSchaffner: Am Schalter neben dem Eingang.\nMax: Alles klar, ich gehe gleich hin.\nSchaffner: Viel Spaß auf der Reise!\nMax: Danke!\nSchaffner: Gern geschehen.",
-    "text_no_newline":"Max: Entschuldigung, wann fährt der Zug nach Berlin? Schaffner: Um acht Uhr. Max: Danke, wo kann ich die Fahrkarte kaufen? Schaffner: Am Schalter neben dem Eingang. Max: Alles klar, ich gehe gleich hin. Schaffner: Viel Spaß auf der Reise! Max: Danke! Schaffner: Gern geschehen.","question":"Wann fährt der Zug nach Berlin?","options":{"a":"Um acht Uhr","b":"Um neun Uhr","c":"Um sieben Uhr"},"answer":"a"},
-  {"id":5,"title":"Im Restaurant","text":"Sarah: Guten Abend, ich hätte gern das Tagesmenü.\nKellner: Sehr gern, möchten Sie dazu Wasser oder Saft?\nSarah: Wasser bitte.\nKellner: Kommt sofort.\nSarah: Danke!\nKellner: Guten Appetit!\nSarah: Vielen Dank, das Essen sieht lecker aus.\nKellner: Freut mich.",
-    "text_no_newline":"Sarah: Guten Abend, ich hätte gern das Tagesmenü. Kellner: Sehr gern, möchten Sie dazu Wasser oder Saft? Sarah: Wasser bitte. Kellner: Kommt sofort. Sarah: Danke! Kellner: Guten Appetit! Sarah: Vielen Dank, das Essen sieht lecker aus. Kellner: Freut mich.","question":"Was möchte Sarah trinken?","options":{"a":"Saft","b":"Wasser","c":"Kaffee"},"answer":"b"},
-  {"id":6,"title":"Im Kino","text":"Tom: Hallo, zwei Karten für den Film bitte.\nKassiererin: Gerne, welcher Film?\nTom: ‚Die Abenteuer des Max‘.\nKassiererin: Die Karten kosten zwölf Euro.\nTom: Hier bitte.\nKassiererin: Danke! Der Film beginnt um 19 Uhr.\nTom: Perfekt, danke für die Info.\nKassiererin: Viel Spaß!",
-    "text_no_newline":"Tom: Hallo, zwei Karten für den Film bitte. Kassiererin: Gerne, welcher Film? Tom: ‚Die Abenteuer des Max‘. Kassiererin: Die Karten kosten zwölf Euro. Tom: Hier bitte. Kassiererin: Danke! Der Film beginnt um 19 Uhr. Tom: Perfekt, danke für die Info. Kassiererin: Viel Spaß!","question":"Wann beginnt der Film?","options":{"a":"Um 18 Uhr","b":"Um 19 Uhr","c":"Um 20 Uhr"},"answer":"b"},
-  {"id":7,"title":"Im Zoo","text":"Anna: Schau mal, die Elefanten!\nBen: Sie sind riesig.\nAnna: Willst du auch zu den Löwen?\nBen: Ja, lass uns gehen.\nAnna: Um drei Uhr ist die Fütterung.\nBen: Toll, dann sollten wir da sein.\nAnna: Ich freue mich schon.\nBen: Ich auch!",
-    "text_no_newline":"Anna: Schau mal, die Elefanten! Ben: Sie sind riesig. Anna: Willst du auch zu den Löwen? Ben: Ja, lass uns gehen. Anna: Um drei Uhr ist die Fütterung. Ben: Toll, dann sollten wir da sein. Anna: Ich freue mich schon. Ben: Ich auch!","question":"Wann ist die Löwenfütterung?","options":{"a":"Um zwei Uhr","b":"Um drei Uhr","c":"Um vier Uhr"},"answer":"b"},
-  {"id":8,"title":"Am Markt","text":"Clara: Guten Morgen, ich hätte gern Äpfel.\nVerkäufer: Wie viele möchten Sie?\nClara: Einen Kilo bitte.\nVerkäufer: Hier, bitte schön.\nClara: Danke! Haben Sie auch Bananen?\nVerkäufer: Ja, die sind dort drüben.\nClara: Super, dann nehme ich auch ein Kilo.\nVerkäufer: Gerne.",
-    "text_no_newline":"Clara: Guten Morgen, ich hätte gern Äpfel. Verkäufer: Wie viele möchten Sie? Clara: Einen Kilo bitte. Verkäufer: Hier, bitte schön. Clara: Danke! Haben Sie auch Bananen? Verkäufer: Ja, die sind dort drüben. Clara: Super, dann nehme ich auch ein Kilo. Verkäufer: Gerne.","question":"Wie viele Kilo Äpfel möchte Clara?","options":{"a":"Ein Kilo","b":"Zwei Kilo","c":"Drei Kilo"},"answer":"a"}
+  {
+    "id": 1,
+    "title": "Im Café 2222",
+    "text": "Anna: Guten Morgen! Ich hätte gern einen Kaffee, bitte.\nKellner: Guten Morgen! Möchten Sie Zucker und Milch dazu?\nAnna: Ja, bitte.\nKellner: Kommt sofort. Möchten Sie auch ein Stück Kuchen?\nAnna: Oh ja, ein Stück Schokoladenkuchen bitte.\nKellner: Alles klar. Das macht fünf Euro.\nAnna: Vielen Dank!\nKellner: Gern geschehen.",
+    "text_no_newline": "Anna: Guten Morgen! Ich hätte gern einen Kaffee, bitte. Kellner: Guten Morgen! Möchten Sie Zucker und Milch dazu? Anna: Ja, bitte. Kellner: Kommt sofort. Möchten Sie auch ein Stück Kuchen? Anna: Oh ja, ein Stück Schokoladenkuchen bitte. Kellner: Alles klar. Das macht fünf Euro. Anna: Vielen Dank! Kellner: Gern geschehen.",
+    "question": "Was bestellt Anna?",
+    "options": { "a": "Einen Tee", "b": "Einen Kaffee und Kuchen", "c": "Ein Sandwich" },
+    "answer": "b",
+    "audioUrl": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/2.mp3"
+  },
+  {
+    "id": 2,
+    "title": "Im Supermarkt  33333",
+    "text": "Paul: Entschuldigung, wo finde ich die Milch?\nVerkäuferin: Die Milch ist im Gang 3, neben den Eiern.\nPaul: Danke! Und wo ist das Brot?\nVerkäuferin: Das ist im Gang 1, links neben den Backwaren.\nPaul: Super, danke für Ihre Hilfe.\nVerkäuferin: Gern geschehen.\nPaul: Schön, dass Sie mir geholfen haben.\nVerkäuferin: Kein Problem, gern!",
+    "text_no_newline": "Paul: Entschuldigung, wo finde ich die Milch? Verkäuferin: Die Milch ist im Gang 3, neben den Eiern. Paul: Danke! Und wo ist das Brot? Verkäuferin: Das ist im Gang 1, links neben den Backwaren. Paul: Super, danke für Ihre Hilfe. Verkäuferin: Gern geschehen. Paul: Schön, dass Sie mir geholfen haben. Verkäuferin: Kein Problem, gern!",
+    "question": "Wo findet Paul die Milch?",
+    "options": { "a": "Im Gang 1", "b": "Im Gang 3", "c": "Im Gang 5" },
+    "answer": "b",
+    "audioUrl": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/2.mp3"
+  },
+  {
+    "id": 3,
+    "title": "Im Park",
+    "text": "Lisa: Hallo Tom, möchtest du spazieren gehen?\nTom: Ja, gern. Es ist schönes Wetter.\nLisa: Wollen wir zum See gehen?\nTom: Gute Idee.\nLisa: Dann lass uns um drei Uhr treffen.\nTom: Perfekt, ich bringe ein paar Snacks mit.\nLisa: Super, ich freue mich!\nTom: Bis später!",
+    "text_no_newline": "Lisa: Hallo Tom, möchtest du spazieren gehen? Tom: Ja, gern. Es ist schönes Wetter. Lisa: Wollen wir zum See gehen? Tom: Gute Idee. Lisa: Dann lass uns um drei Uhr treffen. Tom: Perfekt, ich bringe ein paar Snacks mit. Lisa: Super, ich freue mich! Tom: Bis später!",
+    "question": "Wann treffen sich Lisa und Tom?",
+    "options": { "a": "Um zwei Uhr", "b": "Um drei Uhr", "c": "Um vier Uhr" },
+    "answer": "b",
+    "audioUrl": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/2.mp3"
+  }
 ]
