@@ -1,5 +1,6 @@
 [
   {
+    "id": "1",
     "title": "Im Krankenhaus",
     "text": "Anna: Hallo, ich habe seit gestern Abend starke Kopfschmerzen.\nArzt: Haben Sie Fieber oder Schwindel?\nAnna: Nein, nur starke Kopfschmerzen.\nArzt: Ich schreibe Ihnen ein Rezept für Tabletten. Nehmen Sie die Tabletten dreimal am Tag nach dem Essen.\nAnna: Danke, kann ich nach der Arbeit kommen, um die Tabletten abzuholen?\nArzt: Ja, kein Problem.",
     "plain_text": "Anna: Hallo, ich habe seit gestern Abend starke Kopfschmerzen. Arzt: Haben Sie Fieber oder Schwindel? Anna: Nein, nur starke Kopfschmerzen. Arzt: Ich schreibe Ihnen ein Rezept für Tabletten. Nehmen Sie die Tabletten dreimal am Tag nach dem Essen. Anna: Danke, kann ich nach der Arbeit kommen, um die Tabletten abzuholen? Arzt: Ja, kein Problem.",
@@ -8,6 +9,7 @@
     "answer": "Dreimal am Tag"
   },
   {
+    "id": "2",
     "title": "Beim Bäcker",
     "text": "Tom: Guten Morgen, ich hätte gern ein Brot und zwei Brötchen.\nBäcker: Möchten Sie das Brot schwarz oder hell?\nTom: Schwarz, bitte.\nBäcker: Sonst noch etwas?\nTom: Nein, danke.\nBäcker: Kommt sofort. Möchten Sie die Brötchen frisch aus dem Ofen?\nTom: Ja, bitte, ich nehme die frisch gebackenen.",
     "plain_text": "Tom: Guten Morgen, ich hätte gern ein Brot und zwei Brötchen. Bäcker: Möchten Sie das Brot schwarz oder hell? Tom: Schwarz, bitte. Bäcker: Sonst noch etwas? Tom: Nein, danke. Bäcker: Kommt sofort. Möchten Sie die Brötchen frisch aus dem Ofen? Tom: Ja, bitte, ich nehme die frisch gebackenen.",
