@@ -7,7 +7,7 @@
     "question": "Was bestellt Anna?",
     "options": { "a": "Einen Tee", "b": "Einen Kaffee und Kuchen", "c": "Ein Sandwich" },
     "answer": "b",
-    "audioUrl": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/10.mp3"
+
   },
   {
     "id": 2,
@@ -17,7 +17,7 @@
     "question": "Wo findet Paul die Milch?",
     "options": { "a": "Im Gang 1", "b": "Im Gang 3", "c": "Im Gang 5" },
     "answer": "b",
-    "audioUrl": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/10.mp3"
+
   },
   {
     "id": 3,
@@ -27,6 +27,6 @@
     "question": "Wann treffen sich Lisa und Tom?",
     "options": { "a": "Um zwei Uhr", "b": "Um drei Uhr", "c": "Um vier Uhr" },
     "answer": "b",
-    "audioUrl": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/10.mp3"
+
   }
 ]
