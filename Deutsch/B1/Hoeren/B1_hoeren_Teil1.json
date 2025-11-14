@@ -6,7 +6,7 @@
     "text_no_newline": "Anna: Guten Morgen! Ich hätte gern einen Kaffee, bitte. Kellner: Guten Morgen! Möchten Sie Zucker und Milch dazu? Anna: Ja, bitte. Kellner: Kommt sofort. Möchten Sie auch ein Stück Kuchen? Anna: Oh ja, ein Stück Schokoladenkuchen bitte. Kellner: Alles klar. Das macht fünf Euro. Anna: Vielen Dank! Kellner: Gern geschehen.",
     "question": "Was bestellt Anna?",
     "options": { "a": "Einen Tee", "b": "Einen Kaffee und Kuchen", "c": "Ein Sandwich" },
-    "answer": "b",
+    "answer": "b"
     
   },
   {
@@ -16,7 +16,7 @@
     "text_no_newline": "Paul: Entschuldigung, wo finde ich die Milch? Verkäuferin: Die Milch ist im Gang 3, neben den Eiern. Paul: Danke! Und wo ist das Brot? Verkäuferin: Das ist im Gang 1, links neben den Backwaren. Paul: Super, danke für Ihre Hilfe. Verkäuferin: Gern geschehen. Paul: Schön, dass Sie mir geholfen haben. Verkäuferin: Kein Problem, gern!",
     "question": "Wo findet Paul die Milch?",
     "options": { "a": "Im Gang 1", "b": "Im Gang 3", "c": "Im Gang 5" },
-    "answer": "b",
+    "answer": "b"
     
   },
   {
@@ -26,7 +26,7 @@
     "text_no_newline": "Lisa: Hallo Tom, möchtest du spazieren gehen? Tom: Ja, gern. Es ist schönes Wetter. Lisa: Wollen wir zum See gehen? Tom: Gute Idee. Lisa: Dann lass uns um drei Uhr treffen. Tom: Perfekt, ich bringe ein paar Snacks mit. Lisa: Super, ich freue mich! Tom: Bis später!",
     "question": "Wann treffen sich Lisa und Tom?",
     "options": { "a": "Um zwei Uhr", "b": "Um drei Uhr", "c": "Um vier Uhr" },
-    "answer": "b",
+    "answer": "b"
     
   }
 ]
