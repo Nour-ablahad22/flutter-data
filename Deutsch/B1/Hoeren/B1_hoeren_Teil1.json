@@ -8,7 +8,6 @@
     "options": { "a": "Einen Tee", "b": "Einen Kaffee und Kuchen", "c": "Ein Sandwich" },
     "answer": "b",
     "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/10.mp3"
-    
   },
   {
     "id": 2,
@@ -29,6 +28,5 @@
     "options": { "a": "Um zwei Uhr", "b": "Um drei Uhr", "c": "Um vier Uhr" },
     "answer": "b",
     "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/10.mp3"
-    
   }
 ]
