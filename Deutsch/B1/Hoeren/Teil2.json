@@ -1,1 +1,34 @@
-f
+[
+{
+  "id": 1,
+  "title": "Stadtmuseum München Führung",
+  "text": "Ich freue mich, Sie heute hier zu dieser Führung begrüßen zu dürfen und hoffe, Sie hatten bisher bereits einen schönen Aufenthalt hier bei uns in München. Mein Name ist Jan Kiefer und ich möchte Sie heute ein wenig in die Geschichte und die Besonderheiten der bayerischen Landeshauptstadt einweihen. Wir haben Glück, aufgrund des so wunderschönen Frühlingswetters sind die meisten Leute heute wohl eher im Biergarten zu finden und wir haben das Museum fast ganz für uns. Genießen Sie es und sehen Sie sich in Ruhe um, so wie jetzt ist es hier wirklich selten. Normalerweise herrscht hier ein ziemliches Gedränge, besonders weil ein Teil des Gebäudes während der letzten drei Monate wegen Renovierung geschlossen war. Unser Rundgang durch das Museum dauert ungefähr zweieinhalb Stunden. Wir werden zunächst gemeinsam die Hauptausstellung, die für uns heute von besonderem Interesse ist, besuchen. Danach haben Sie noch Gelegenheit, die Sonderausstellung im 2.Stock zu besuchen, wenn Sie möchten. Dort gibt es eine wirklich interessante Foto-Ausstellung von jungen Münchner Fotografen und wie sie die Stadt sehen, die ja für viele Einheimische die schönste Stadt der Welt ist. Oder soll ich lieber Dorf sagen? Schließlich wird die Stadt oft genug als solches verspottet. Zu Unrecht, wie ich finde. Außerdem können Sie sich bei Interesse noch die Sammlung „Musik“ ansehen. Um 16 Uhr treffen wir uns dann alle wieder hier im Eingangsbereich, direkt gegenüber dem Café. Ihre Taschen können Sie an der Garderobe dort drüben abgeben. Viele verbinden mit München vor allem das Oktoberfest und schöne Biergärten. Einige haben besonders die bayerische Küche im Blick, wenn sie an München denken. Aber ich kann Ihnen versichern, München ist noch viel mehr und hat viel mehr zu bieten als Weißwurst und Lederhose. Doch wofür steht nun eigentlich München? Wir wollen dieser Frage heute hier im Museum vor allem historisch nachgehen und sehen, welche Ereignisse haben München auch zu dem gemacht, was es heute ist. Ich werde Ihnen zu jedem Abschnitt jeweils ein paar einführende Informationen präsentieren. Dann können Sie sich alles erstmal allein ansehen und dann werde ich Ihre Fragen zu den einzelnen Themen beantworten. Im Anschluss sollten Sie einen der schönen Biergärten besuchen, die es hier überall gibt. Wir haben zwar hier rund um das Stadtmuseum auch einige moderne Cafés und schicke Restaurants, aber die finden Sie ja in jeder Stadt. Doch jetzt ersteinmal zu unserer Ausstellung, bitte folgen Sie mir hier entlang.",
+  "text_no_newline": "Ich freue mich, Sie heute hier zu dieser Führung begrüßen zu dürfen und hoffe, Sie hatten bisher bereits einen schönen Aufenthalt hier bei uns in München. Mein Name ist Jan Kiefer und ich möchte Sie heute ein wenig in die Geschichte und die Besonderheiten der bayerischen Landeshauptstadt einweihen. Wir haben Glück, aufgrund des so wunderschönen Frühlingswetters sind die meisten Leute heute wohl eher im Biergarten zu finden und wir haben das Museum fast ganz für uns. Genießen Sie es und sehen Sie sich in Ruhe um, so wie jetzt ist es hier wirklich selten. Normalerweise herrscht hier ein ziemliches Gedränge, besonders weil ein Teil des Gebäudes während der letzten drei Monate wegen Renovierung geschlossen war. Unser Rundgang durch das Museum dauert ungefähr zweieinhalb Stunden. Wir werden zunächst gemeinsam die Hauptausstellung, die für uns heute von besonderem Interesse ist, besuchen. Danach haben Sie noch Gelegenheit, die Sonderausstellung im 2.Stock zu besuchen, wenn Sie möchten. Dort gibt es eine wirklich interessante Foto-Ausstellung von jungen Münchner Fotografen und wie sie die Stadt sehen, die ja für viele Einheimische die schönste Stadt der Welt ist. Oder soll ich lieber Dorf sagen? Schließlich wird die Stadt oft genug als solches verspottet. Zu Unrecht, wie ich finde. Außerdem können Sie sich bei Interesse noch die Sammlung „Musik“ ansehen. Um 16 Uhr treffen wir uns dann alle wieder hier im Eingangsbereich, direkt gegenüber dem Café. Ihre Taschen können Sie an der Garderobe dort drüben abgeben. Viele verbinden mit München vor allem das Oktoberfest und schöne Biergärten. Einige haben besonders die bayerische Küche im Blick, wenn sie an München denken. Aber ich kann Ihnen versichern, München ist noch viel mehr und hat viel mehr zu bieten als Weißwurst und Lederhose. Doch wofür steht nun eigentlich München? Wir wollen dieser Frage heute hier im Museum vor allem historisch nachgehen und sehen, welche Ereignisse haben München auch zu dem gemacht, was es heute ist. Ich werde Ihnen zu jedem Abschnitt jeweils ein paar einführende Informationen präsentieren. Dann können Sie sich alles erstmal allein ansehen und dann werde ich Ihre Fragen zu den einzelnen Themen beantworten. Im Anschluss sollten Sie einen der schönen Biergärten besuchen, die es hier überall gibt. Wir haben zwar hier rund um das Stadtmuseum auch einige moderne Cafés und schicke Restaurants, aber die finden Sie ja in jeder Stadt. Doch jetzt ersteinmal zu unserer Ausstellung, bitte folgen Sie mir hier entlang.",
+  "question": "Das Museum ist ...",
+  "options": { "a": "sehr voll", "b": "teilweise geschlossen", "c": "ziemlich leer" },
+  "answer": "c",
+  "additional_questions": [
+    {
+      "question": "Was zeigt der Museumsführer den Touristen?",
+      "options": { "a": "alle Ausstellungen", "b": "die Hauptausstellung", "c": "die Sonderausstellungen" },
+      "answer": "b"
+    },
+    {
+      "question": "Wo ist der Treffpunkt am Nachmittag?",
+      "options": { "a": "am Eingang", "b": "an der Garderobe", "c": "im Café" },
+      "answer": "a"
+    },
+    {
+      "question": "Die Ausstellung beschäftigt sich mit …",
+      "options": { "a": "dem Oktoberfest", "b": "der bayerischen Küche", "c": "der Geschichte Münchens" },
+      "answer": "c"
+    },
+    {
+      "question": "Der Museumsführer empfiehlt den Teilnehmern einen ...",
+      "options": { "a": "Restaurantbesuch", "b": "Cafébesuch", "c": "Biergartenbesuch" },
+      "answer": "c"
+    }
+  ],
+  "audio_url": ""
+}
+]
