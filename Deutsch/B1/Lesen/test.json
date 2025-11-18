@@ -1,85 +1,32 @@
-[{
-  "id": 2,
-  "title": "Thema: Anzeigen und passende Personen",
-  "texts": [
-    {
-      "text": "Es gibt verschiedene Anzeigen für Deutschlernende: Jobs im Sommer, Hörbücher, Magazine mit Nachrichten, Online-Lernportale, vereinfachte Literatur, Schreibkurse und flexible Abendkurse. Jede Person sucht etwas anderes und muss die passende Anzeige finden.",
-      "anzeigen": [
-        {
-          "id": "A",
-          "content": "Neu im Verlagsprogramm: Schweizer Autoren, leicht gemacht. Nach 100 Lernstunden schon literarische Kurzgeschichten, Romane und Gedichte lesen? Kein Problem! Die Reihe „Schweizer Autoren, leicht gemacht“ bietet Deutschlernern vereinfachte Originalversionen für uneingeschränktes Lesevergnügen. www.schweizer-leseverlag.ch"
-        },
-        {
-          "id": "B",
-          "content": "Trainingsprogramm Deutsch. Sie wollen Ihre Sprachkenntnisse verbessern, haben aber keine Zeit für Kurse? Dann lernen Sie Deutsch im Internet! Unser Lernportal bietet Ihnen gratis: – 10 Kurslektionen für Anfänger und Fortgeschrittene – Erklärungen zur Grammatik – alle Übungen online verfügbar. www.sprachenlernen.de"
-        },
-        {
-          "id": "C",
-          "content": "DEUTSCH IN DER SCHWEIZ. Unser Angebot: – Intensivkurse mit 20-30 Wochenstunden – Schreibkurse (auch als Fernstudium!) – Sommerkurse für Jugendliche und Erwachsene (mit Freizeitprogramm) – Kurs: Deutsch im Hotel. Wir bieten nur Tageskurse an! www.deutschinderschweiz.ch"
-        },
-        {
-          "id": "D",
-          "content": "Job & Sprache-Net. Wir bieten Jobs für Deutschlernende in Deutschland, Österreich und in der Schweiz. Perfektionieren Sie Ihre Sprachkenntnisse und sammeln Sie Erfahrungen in den Arbeitsbereichen Hotel und Restaurant. Dauer: bis zu 3 Monate (Juni –August). Kosten für Unterkunft und Verpflegung werden übernommen. Informationen: www.jobundsprache-net.com"
-        },
-        {
-          "id": "E",
-          "content": "Sprachschule ORION sucht engagierte Trainer und Trainerinnen (Vollzeit). Kurszeiten von 8:00–17:00 h. Niveaus A1–C1. allgemeine und berufsbezogene Sprachkurse (z. B. Deutsch für den Tourismus). Bewerbungen an: office@deutschintensiv.de"
-        },
-        {
-          "id": "F",
-          "content": "Deutsch erLesen. Das Magazin Deutsch erLesen richtet sich an Deutschinteressierte im In- und Ausland. Es erscheint einmal im Monat und enthält aktuelle Originalartikel aus der deutschen Presse. Deutschland erfahren & Deutsch lernen! Bestellen Sie noch heute Ihr Probeexemplar: info@deutsch-erlesen.de"
-        },
-        {
-          "id": "G",
-          "content": "Verlag für deutsche Literatur sucht Lektor/Lektorin für die Auswahl und Korrektur von Werken junger deutscher Autoren. Unser Verlagsprogramm umfasst Romane, Gedichtbände und Hörbücher. Schicken Sie Ihre Bewerbung an: junge-literatur@berlin.de"
-        },
-        {
-          "id": "H",
-          "content": "Deutsch in Linz. Deutsch-Intensivkurse Mo bis Fr von 9:30–13h und von 14:00–17h. Kurse für Berufstätige. Für Berufstätige und Vielbeschäftigte bieten wir flexible Kurszeiten an (Termine nach Wunsch). Online-Einstufungstest auf www.deutschinlinz-schule.at"
-        },
-        {
-          "id": "J",
-          "content": "Neues Computerprogramm von DIGITAL LEARNING. Für Büromanagement und Buchhaltung in englischer und deutscher Sprache. Ab sofort im Buchhandel erhältlich. Infos: software@digital-learning.net"
-        }
-      ],
-      "questions": [
-        {
-          "question": "Welche Anzeige passt zu Leon, der im Sommer im Tourismus arbeiten möchte?",
-          "options": ["Anzeige D: Job & Sprache-Net", "Anzeige B: Online-Lernportal", "Anzeige A: Schweizer Autoren"],
-          "answer": "Anzeige D: Job & Sprache-Net"
-        },
-        {
-          "question": "Welche Anzeige passt zu Giovanna, die Hörbücher sucht?",
-          "options": ["Anzeige G: Verlag für deutsche Literatur", "Anzeige F: Magazin Deutsch erLesen", "Anzeige C: Schreibkurse"],
-          "answer": "Anzeige G: Verlag für deutsche Literatur"
-        },
-        {
-          "question": "Welche Anzeige passt zu Mirjeta, die keine Zeit für einen Kurs hat, aber Nachrichten lesen möchte?",
-          "options": ["Anzeige F: Magazin Deutsch erLesen", "Anzeige B: Online-Lernportal", "Anzeige A: Schweizer Autoren"],
-          "answer": "Anzeige F: Magazin Deutsch erLesen"
-        },
-        {
-          "question": "Welche Anzeige passt zu Maria, die am Computer Deutsch lernen möchte?",
-          "options": ["Anzeige B: Online-Lernportal", "Anzeige D: Job & Sprache-Net", "Anzeige H: Deutsch in Linz"],
-          "answer": "Anzeige B: Online-Lernportal"
-        },
-        {
-          "question": "Welche Anzeige passt zu Susan, die einfache Literatur lesen möchte?",
-          "options": ["Anzeige A: Schweizer Autoren, leicht gemacht", "Anzeige G: Verlag für deutsche Literatur", "Anzeige C: Schreibkurse"],
-          "answer": "Anzeige A: Schweizer Autoren, leicht gemacht"
-        },
-        {
-          "question": "Welche Anzeige passt zu Miroslav, der seinen schriftlichen Ausdruck verbessern will?",
-          "options": ["Anzeige C: Schreibkurse", "Anzeige D: Job & Sprache-Net", "Anzeige H: Deutsch in Linz"],
-          "answer": "Anzeige C: Schreibkurse"
-        },
-        {
-          "question": "Welche Anzeige passt zu Juan, der nur am Abend einen Kurs besuchen kann?",
-          "options": ["Anzeige H: Deutsch in Linz", "Anzeige B: Online-Lernportal", "Anzeige F: Magazin Deutsch erLesen"],
-          "answer": "Anzeige H: Deutsch in Linz"
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": 2,
+    "title": "Thema: Anzeigen und passende Personen  3333",
+    "texts": [
+      {
+        "text": "Es gibt verschiedene Anzeigen ...",
+        "anzeigen": [
+          {"id": "A", "content": "Neu im Verlagsprogramm ..."},
+          {"id": "B", "content": "Trainingsprogramm Deutsch ..."},
+          {"id": "C", "content": "DEUTSCH IN DER SCHWEIZ ..."},
+          {"id": "D", "content": "Job & Sprache-Net ..."},
+          {"id": "E", "content": "Sprachschule ORION ..."},
+          {"id": "F", "content": "Deutsch erLesen ..."},
+          {"id": "G", "content": "Verlag für deutsche Literatur ..."},
+          {"id": "H", "content": "Deutsch in Linz ..."},
+          {"id": "J", "content": "Neues Computerprogramm ..."}
+        ],
+        "questions": [
+          {
+            "question": "Welche Anzeige passt zu Leon ...?",
+            "answer": "D"
+          },
+          {
+            "question": "Welche Anzeige passt zu Giovanna ...?",
+            "answer": "G"
+          }
+        ]
+      }
+    ]
+  }
 ]
