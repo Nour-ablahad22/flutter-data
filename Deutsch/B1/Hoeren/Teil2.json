@@ -84,9 +84,7 @@
     ],
     "audio_url": "https://example.com/audio7.mp3"
   }
-]
-################################
-[
+,
   {
     "id": 8,
     "title": "Kunstgalerie in Köln",
@@ -155,11 +153,7 @@
     ],
     "audio_url": "https://example.com/audio11.mp3"
   }
-]
-
-
-#####################
-[
+,
   {
     "id": 12,
     "title": "Aquarium in Hamburg",
@@ -228,11 +222,7 @@
     ],
     "audio_url": "https://example.com/audio15.mp3"
   }
-]
-######################
-
-
-[
+,
   {
     "id": 16,
     "title": "Planetarium Berlin",
@@ -318,13 +308,7 @@
     ],
     "audio_url": "https://example.com/audio20.mp3"
   }
-]
-
-
-################
-
-
-[
+,
   {
     "id": 21,
     "title": "Kunstgalerie Hamburg",
@@ -410,12 +394,7 @@
     ],
     "audio_url": "https://example.com/audio25.mp3"
   }
-]
-
-
-##############################
-
-[
+,
   {
     "id": 26,
     "title": "Botanischer Garten Berlin",
@@ -450,12 +429,7 @@
     ],
     "audio_url": "https://example.com/audio27.mp3"
   }
-]
-
-
-#################################
-
-[
+,
   {
     "id": 28,
     "title": "Planetarium Hamburg",
@@ -507,12 +481,7 @@
     ],
     "audio_url": "https://example.com/audio30.mp3"
   }
-]
-
-
-######################
-
-[
+,
   {
     "id": 31,
     "title": "Kunstmuseum Stuttgart",
@@ -581,13 +550,76 @@
     ],
     "audio_url": "https://example.com/audio34.mp3"
   }
+,
+  {
+    "id": 35,
+    "title": "Seilbahn-Museum Köln",
+    "text": "Guten Morgen, ich heiße Andreas Klein und heiße Sie im Seilbahn-Museum Köln willkommen. Heute ist ein Freitag, und es ist leicht regnerisch. Es sind nur wenige Besucher hier, daher können wir die Ausstellung in Ruhe erkunden. Unser Rundgang dauert etwa 95 Minuten. Zuerst sehen wir die Geschichte der Seilbahnen: alte Fotos, Modelle und technische Pläne. Danach besuchen wir den Bereich der modernen Seilbahntechnik: Kabel, Gondeln und Sicherheitsvorrichtungen. Wir hören ein Audio: Ein Ingenieur erklärt die Entwicklung der Seilbahnen, Sicherheitsmaßnahmen und interessante Bauprojekte weltweit. Im nächsten Bereich gibt es ein Mitmachangebot: Kinder können kleine Modelle von Gondeln bauen und testen, wie diese funktionieren. Wir sehen auch alte Zeitungsartikel über berühmte Seilbahnprojekte. Am Ende können Besucher ein kleines Modell einer Gondel als Andenken mitnehmen. Bitte treffen Sie sich um 16:45 Uhr am Ausgang. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Köln sei nur für Dom und Karneval bekannt. Aber hier entdecken wir Technik, Ingenieurskunst und Geschichte der Seilbahnen. Jedes Exponat erzählt eine Geschichte von Innovation, Planung und Reisen. Fragen Sie jederzeit! Viel Spaß beim Rundgang und beim Entdecken der Seilbahntechnik.",
+    "text_no_newline": "Guten Morgen, ich heiße Andreas Klein und heiße Sie im Seilbahn-Museum Köln willkommen. Heute ist ein Freitag, und es ist leicht regnerisch. Es sind nur wenige Besucher hier, daher können wir die Ausstellung in Ruhe erkunden. Unser Rundgang dauert etwa 95 Minuten. Zuerst sehen wir die Geschichte der Seilbahnen: alte Fotos, Modelle und technische Pläne. Danach besuchen wir den Bereich der modernen Seilbahntechnik: Kabel, Gondeln und Sicherheitsvorrichtungen. Wir hören ein Audio: Ein Ingenieur erklärt die Entwicklung der Seilbahnen, Sicherheitsmaßnahmen und interessante Bauprojekte weltweit. Im nächsten Bereich gibt es ein Mitmachangebot: Kinder können kleine Modelle von Gondeln bauen und testen, wie diese funktionieren. Wir sehen auch alte Zeitungsartikel über berühmte Seilbahnprojekte. Am Ende können Besucher ein kleines Modell einer Gondel als Andenken mitnehmen. Bitte treffen Sie sich um 16:45 Uhr am Ausgang. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Köln sei nur für Dom und Karneval bekannt. Aber hier entdecken wir Technik, Ingenieurskunst und Geschichte der Seilbahnen. Jedes Exponat erzählt eine Geschichte von Innovation, Planung und Reisen. Fragen Sie jederzeit! Viel Spaß beim Rundgang und beim Entdecken der Seilbahntechnik.",
+    "word_count": 470,
+    "question": "Was können Besucher am Ende mitnehmen?",
+    "options": { "a": "ein Gondelmodell", "b": "ein Foto", "c": "eine Zeitung" },
+    "answer": "a",
+    "additional_questions": [
+      { "question": "Wer erklärt die Seilbahntechnik im Audio?", "options": { "a": "ein Ingenieur", "b": "ein Historiker", "c": "ein Künstler" }, "answer": "a" },
+      { "question": "Was sehen Besucher zuerst?", "options": { "a": "alte Fotos und Modelle", "b": "moderne Gondeln", "c": "Zeitungsartikel" }, "answer": "a" },
+      { "question": "Wo sollen Besucher ihre Taschen abgeben?", "options": { "a": "an der Garderobe", "b": "am Ausgang", "c": "im Mitmachbereich" }, "answer": "a" },
+      { "question": "Was ist das Hauptthema des Museums?", "options": { "a": "Technik und Geschichte der Seilbahnen", "b": "Karneval in Köln", "c": "Kölner Dom" }, "answer": "a" }
+    ],
+    "audio_url": "https://example.com/audio35.mp3"
+  },
+  {
+    "id": 36,
+    "title": "Aquarium Hamburg",
+    "text": "Guten Morgen, ich heiße Karin Lehmann und heiße Sie im Aquarium Hamburg willkommen. Heute ist ein Samstag, und es ist sonnig, aber kühl. Es sind nur wenige Besucher hier, sodass wir die Fische und Meerestiere in Ruhe beobachten können. Unser Rundgang dauert etwa 95 Minuten. Zuerst besuchen wir das Becken mit tropischen Fischen: bunte Barsche, Clownfische und Korallenbewohner. Danach gehen wir zum Bereich der Haie und Rochen: verschiedene Arten werden gezeigt, mit Informationstafeln über ihre Lebensweise und Nahrung. Wir hören ein Audio: Ein Biologe erklärt, wie wichtig diese Tiere für die Ökosysteme sind und wie das Aquarium sie schützt. Im nächsten Bereich gibt es ein Mitmachangebot: Kinder können kleine Modelle von Fischen basteln und lernen, welche Arten bedroht sind. Wir sehen auch Aquarienpflanzen und Unterwasserlandschaften. Am Ende können Besucher einen kleinen Fisch-Aufkleber als Andenken mitnehmen. Bitte treffen Sie sich um 16:30 Uhr am Ausgang. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Hamburg sei nur Hafen und Schiffe. Aber hier entdecken wir die faszinierende Unterwasserwelt, ihre Vielfalt und Schönheit. Jedes Tier erzählt eine Geschichte von Anpassung, Überleben und Ökologie. Fragen Sie jederzeit! Viel Spaß beim Rundgang und beim Entdecken der Meeresbewohner.",
+    "text_no_newline": "Guten Morgen, ich heiße Karin Lehmann und heiße Sie im Aquarium Hamburg willkommen. Heute ist ein Samstag, und es ist sonnig, aber kühl. Es sind nur wenige Besucher hier, sodass wir die Fische und Meerestiere in Ruhe beobachten können. Unser Rundgang dauert etwa 95 Minuten. Zuerst besuchen wir das Becken mit tropischen Fischen: bunte Barsche, Clownfische und Korallenbewohner. Danach gehen wir zum Bereich der Haie und Rochen: verschiedene Arten werden gezeigt, mit Informationstafeln über ihre Lebensweise und Nahrung. Wir hören ein Audio: Ein Biologe erklärt, wie wichtig diese Tiere für die Ökosysteme sind und wie das Aquarium sie schützt. Im nächsten Bereich gibt es ein Mitmachangebot: Kinder können kleine Modelle von Fischen basteln und lernen, welche Arten bedroht sind. Wir sehen auch Aquarienpflanzen und Unterwasserlandschaften. Am Ende können Besucher einen kleinen Fisch-Aufkleber als Andenken mitnehmen. Bitte treffen Sie sich um 16:30 Uhr am Ausgang. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Hamburg sei nur Hafen und Schiffe. Aber hier entdecken wir die faszinierende Unterwasserwelt, ihre Vielfalt und Schönheit. Jedes Tier erzählt eine Geschichte von Anpassung, Überleben und Ökologie. Fragen Sie jederzeit! Viel Spaß beim Rundgang und beim Entdecken der Meeresbewohner.",
+    "word_count": 478,
+    "question": "Was können Besucher am Ende mitnehmen?",
+    "options": { "a": "einen Fisch-Aufkleber", "b": "ein Fischmodell", "c": "eine Broschüre" },
+    "answer": "a",
+    "additional_questions": [
+      { "question": "Wer erklärt die Tiere im Audio?", "options": { "a": "ein Biologe", "b": "ein Taucher", "c": "ein Tierpfleger" }, "answer": "a" },
+      { "question": "Welche Tiere sehen wir zuerst?", "options": { "a": "Haie und Rochen", "b": "tropische Fische", "c": "Pinguine" }, "answer": "b" },
+      { "question": "Wo sollen Besucher ihre Taschen abgeben?", "options": { "a": "am Ausgang", "b": "an der Garderobe", "c": "im Mitmachbereich" }, "answer": "b" },
+      { "question": "Was ist das Hauptthema des Museums?", "options": { "a": "Unterwasserwelt und Ökologie", "b": "Hafen und Schiffe", "c": "Tierparks" }, "answer": "a" }
+    ],
+    "audio_url": "https://example.com/audio36.mp3"
+  },
+  {
+    "id": 37,
+    "title": "Planetarium Berlin",
+    "text": "Guten Tag, ich heiße Thomas Richter und heiße Sie im Planetarium Berlin willkommen. Heute ist ein Sonntag, und es ist leicht bewölkt. Es sind nur wenige Besucher hier, sodass wir die Sterne und Planeten in Ruhe beobachten können. Unser Rundgang dauert etwa 95 Minuten. Zuerst besuchen wir die Ausstellung über das Sonnensystem: Planetenmodelle, Mondkrater und Informationen über die Umlaufbahnen. Danach besuchen wir den Bereich der Sternbilder: alte Karten, Projektoren und digitale Darstellungen der Sterne. Wir hören ein Audio: Ein Astronom erklärt die Entstehung der Planeten, die Bewegungen der Himmelskörper und die Entdeckung neuer Exoplaneten. Im nächsten Bereich gibt es ein Mitmachangebot: Kinder können selbst Sternkarten erstellen und lernen, wie man die Sternbilder erkennt. Wir sehen auch historische Teleskope und alte Bücher über Astronomie. Am Ende können Besucher einen kleinen Sternenaufkleber als Andenken mitnehmen. Bitte treffen Sie sich um 17:00 Uhr am Ausgang. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Berlin sei nur Politik und Geschichte. Aber hier entdecken wir den Weltraum, seine Geheimnisse und seine Schönheit. Jeder Planet und Stern erzählt eine Geschichte von Entdeckung, Wissenschaft und Neugier. Fragen Sie jederzeit! Viel Spaß beim Rundgang und beim Entdecken des Himmels.",
+    "text_no_newline": "Guten Tag, ich heiße Thomas Richter und heiße Sie im Planetarium Berlin willkommen. Heute ist ein Sonntag, und es ist leicht bewölkt. Es sind nur wenige Besucher hier, sodass wir die Sterne und Planeten in Ruhe beobachten können. Unser Rundgang dauert etwa 95 Minuten. Zuerst besuchen wir die Ausstellung über das Sonnensystem: Planetenmodelle, Mondkrater und Informationen über die Umlaufbahnen. Danach besuchen wir den Bereich der Sternbilder: alte Karten, Projektoren und digitale Darstellungen der Sterne. Wir hören ein Audio: Ein Astronom erklärt die Entstehung der Planeten, die Bewegungen der Himmelskörper und die Entdeckung neuer Exoplaneten. Im nächsten Bereich gibt es ein Mitmachangebot: Kinder können selbst Sternkarten erstellen und lernen, wie man die Sternbilder erkennt. Wir sehen auch historische Teleskope und alte Bücher über Astronomie. Am Ende können Besucher einen kleinen Sternenaufkleber als Andenken mitnehmen. Bitte treffen Sie sich um 17:00 Uhr am Ausgang. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Berlin sei nur Politik und Geschichte. Aber hier entdecken wir den Weltraum, seine Geheimnisse und seine Schönheit. Jeder Planet und Stern erzählt eine Geschichte von Entdeckung, Wissenschaft und Neugier. Fragen Sie jederzeit! Viel Spaß beim Rundgang und beim Entdecken des Himmels.",
+    "word_count": 482,
+    "question": "Was können Besucher am Ende mitnehmen?",
+    "options": { "a": "einen Sternenaufkleber", "b": "ein Planetmodell", "c": "ein Buch" },
+    "answer": "a",
+    "additional_questions": [
+      { "question": "Wer erklärt die Planeten im Audio?", "options": { "a": "ein Astronom", "b": "ein Physiker", "c": "ein Historiker" }, "answer": "a" },
+      { "question": "Was sehen Besucher zuerst?", "options": { "a": "Sonnensystem-Modelle", "b": "Sternbilder", "c": "historische Teleskope" }, "answer": "a" },
+      { "question": "Wo sollen Besucher ihre Taschen abgeben?", "options": { "a": "am Ausgang", "b": "an der Garderobe", "c": "im Mitmachbereich" }, "answer": "b" },
+      { "question": "Was ist das Hauptthema des Planetariums?", "options": { "a": "Weltraum, Sterne und Planeten", "b": "Geschichte Berlins", "c": "Politik" }, "answer": "a" }
+    ],
+    "audio_url": "https://example.com/audio37.mp3"
+  },
+  {
+    "id": 38,
+    "title": "Bauernhofmuseum Hohenlohe",
+    "text": "Guten Tag, ich heiße Martina Wagner und heiße Sie im Bauernhofmuseum Hohenlohe willkommen. Heute ist ein Montag, und es ist sonnig. Es sind nur wenige Besucher hier, sodass wir die Bauernhöfe und historischen Geräte in Ruhe betrachten können. Unser Rundgang dauert etwa 95 Minuten. Zuerst besuchen wir den Bereich der historischen Bauernhäuser: alte Möbel, Werkzeuge und Handwerksgeräte. Danach gehen wir zu den Ställen und Feldern: Tiere wie Kühe, Schafe und Hühner werden gezeigt. Wir hören ein Audio: Ein Landwirt erklärt alte und moderne Landwirtschaftstechniken, den Anbau von Getreide und Gemüse und die Tierhaltung. Im nächsten Bereich gibt es ein Mitmachangebot: Kinder können Butter herstellen und kleine Körbe flechten. Wir sehen auch alte Fotos, Bücher und Bauernpläne. Am Ende können Besucher ein kleines Körbchen als Andenken mitnehmen. Bitte treffen Sie sich um 16:30 Uhr am Ausgang. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Hohenlohe sei nur für Natur bekannt. Aber hier entdecken wir Geschichte, Landwirtschaft und Handwerk. Jedes Exponat erzählt eine Geschichte von Arbeit, Leben und Tradition. Fragen Sie jederzeit! Viel Spaß beim Rundgang und beim Entdecken der Bauernhöfe.",
+    "text_no_newline": "Guten Tag, ich heiße Martina Wagner und heiße Sie im Bauernhofmuseum Hohenlohe willkommen. Heute ist ein Montag, und es ist sonnig. Es sind nur wenige Besucher hier, sodass wir die Bauernhöfe und historischen Geräte in Ruhe betrachten können. Unser Rundgang dauert etwa 95 Minuten. Zuerst besuchen wir den Bereich der historischen Bauernhäuser: alte Möbel, Werkzeuge und Handwerksgeräte. Danach gehen wir zu den Ställen und Feldern: Tiere wie Kühe, Schafe und Hühner werden gezeigt. Wir hören ein Audio: Ein Landwirt erklärt alte und moderne Landwirtschaftstechniken, den Anbau von Getreide und Gemüse und die Tierhaltung. Im nächsten Bereich gibt es ein Mitmachangebot: Kinder können Butter herstellen und kleine Körbe flechten. Wir sehen auch alte Fotos, Bücher und Bauernpläne. Am Ende können Besucher ein kleines Körbchen als Andenken mitnehmen. Bitte treffen Sie sich um 16:30 Uhr am Ausgang. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Hohenlohe sei nur für Natur bekannt. Aber hier entdecken wir Geschichte, Landwirtschaft und Handwerk. Jedes Exponat erzählt eine Geschichte von Arbeit, Leben und Tradition. Fragen Sie jederzeit! Viel Spaß beim Rundgang und beim Entdecken der Bauernhöfe.",
+    "word_count": 479,
+    "question": "Was können Besucher am Ende mitnehmen?",
+    "options": { "a": "ein kleines Körbchen", "b": "Butter", "c": "ein Buch" },
+    "answer": "a",
+    "additional_questions": [
+      { "question": "Wer erklärt die Landwirtschaft im Audio?", "options": { "a": "ein Landwirt", "b": "ein Historiker", "c": "ein Biologe" }, "answer": "a" },
+      { "question": "Welche Tiere werden gezeigt?", "options": { "a": "Kühe, Schafe, Hühner", "b": "Fische und Vögel", "c": "Pferde und Esel" }, "answer": "a" },
+      { "question": "Wo sollen Besucher ihre Taschen abgeben?", "options": { "a": "an der Garderobe", "b": "am Ausgang", "c": "im Mitmachbereich" }, "answer": "a" },
+      { "question": "Was ist das Hauptthema des Museums?", "options": { "a": "Bauernhöfe, Geschichte und Handwerk", "b": "Moderne Kunst", "c": "Musik und Theater" }, "answer": "a" }
+    ],
+    "audio_url": "https://example.com/audio38.mp3"
+  }
 ]
-
-#################################################
-
-
-
-
 
 
 
