@@ -619,12 +619,280 @@
     ],
     "audio_url": "https://example.com/audio38.mp3"
   }
+,
+  {
+    "id": 39,
+    "title": "Technikmuseum Mannheim",
+    "text": "Guten Tag, ich heiße Stefan Müller und heiße Sie im Technikmuseum Mannheim willkommen. Heute ist ein Dienstag, und es ist bewölkt. Es sind nur wenige Besucher hier, sodass wir die Maschinen und Fahrzeuge in Ruhe betrachten können. Unser Rundgang dauert etwa 95 Minuten. Zuerst besuchen wir den Bereich der historischen Maschinen: Dampfmaschinen, Werkzeuge und alte Fabrikmodelle. Danach gehen wir zu den Fahrzeugen: Autos, Motorräder und Eisenbahnmodelle werden gezeigt. Wir hören ein Audio: Ein Ingenieur erklärt die Entwicklung der Technik, die Funktionsweise der Maschinen und die historischen Zusammenhänge. Im nächsten Bereich gibt es ein Mitmachangebot: Kinder können kleine mechanische Modelle bauen und testen. Wir sehen auch alte Pläne, Zeichnungen und Fotos von Fabriken. Am Ende können Besucher einen kleinen Modellwagen als Andenken mitnehmen. Bitte treffen Sie sich um 16:45 Uhr am Ausgang. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Mannheim sei nur für Industrie bekannt. Aber hier entdecken wir Technikgeschichte, Ingenieurskunst und Kreativität. Jedes Exponat erzählt eine Geschichte von Fortschritt, Arbeit und Innovation. Fragen Sie jederzeit! Viel Spaß beim Rundgang und beim Entdecken der Technik.",
+    "text_no_newline": "Guten Tag, ich heiße Stefan Müller und heiße Sie im Technikmuseum Mannheim willkommen. Heute ist ein Dienstag, und es ist bewölkt. Es sind nur wenige Besucher hier, sodass wir die Maschinen und Fahrzeuge in Ruhe betrachten können. Unser Rundgang dauert etwa 95 Minuten. Zuerst besuchen wir den Bereich der historischen Maschinen: Dampfmaschinen, Werkzeuge und alte Fabrikmodelle. Danach gehen wir zu den Fahrzeugen: Autos, Motorräder und Eisenbahnmodelle werden gezeigt. Wir hören ein Audio: Ein Ingenieur erklärt die Entwicklung der Technik, die Funktionsweise der Maschinen und die historischen Zusammenhänge. Im nächsten Bereich gibt es ein Mitmachangebot: Kinder können kleine mechanische Modelle bauen und testen. Wir sehen auch alte Pläne, Zeichnungen und Fotos von Fabriken. Am Ende können Besucher einen kleinen Modellwagen als Andenken mitnehmen. Bitte treffen Sie sich um 16:45 Uhr am Ausgang. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Mannheim sei nur für Industrie bekannt. Aber hier entdecken wir Technikgeschichte, Ingenieurskunst und Kreativität. Jedes Exponat erzählt eine Geschichte von Fortschritt, Arbeit und Innovation. Fragen Sie jederzeit! Viel Spaß beim Rundgang und beim Entdecken der Technik.",
+    "word_count": 478,
+    "question": "Was können Besucher am Ende mitnehmen?",
+    "options": { "a": "einen Modellwagen", "b": "eine Zeichnung", "c": "eine Broschüre" },
+    "answer": "a",
+    "additional_questions": [
+      { "question": "Wer erklärt die Technik im Audio?", "options": { "a": "ein Ingenieur", "b": "ein Historiker", "c": "ein Künstler" }, "answer": "a" },
+      { "question": "Was sehen Besucher zuerst?", "options": { "a": "historische Maschinen", "b": "Fahrzeuge", "c": "Fotos" }, "answer": "a" },
+      { "question": "Wo sollen Besucher ihre Taschen abgeben?", "options": { "a": "an der Garderobe", "b": "am Ausgang", "c": "im Mitmachbereich" }, "answer": "a" },
+      { "question": "Was ist das Hauptthema des Museums?", "options": { "a": "Technikgeschichte und Innovation", "b": "Kunst", "c": "Natur" }, "answer": "a" }
+    ],
+    "audio_url": "https://example.com/audio39.mp3"
+  },
+  {
+    "id": 40,
+    "title": "Botanischer Garten Leipzig",
+    "text": "Guten Morgen, ich heiße Laura Becker und heiße Sie im Botanischen Garten Leipzig willkommen. Heute ist ein Mittwoch, und es ist sonnig. Es sind nur wenige Besucher hier, sodass wir die Pflanzen in Ruhe betrachten können. Unser Rundgang dauert etwa 95 Minuten. Zuerst besuchen wir die Gewächshäuser: tropische Pflanzen, Kakteen und Orchideen werden gezeigt. Danach gehen wir zu den Freiluftgärten: Rosen, einheimische Pflanzen und Kräuterbeete. Wir hören ein Audio: Eine Botanikerin erklärt die Herkunft der Pflanzen, ihre Pflege und die Bedeutung für die Umwelt. Im nächsten Bereich gibt es ein Mitmachangebot: Kinder können Samen pflanzen und lernen, wie Pflanzen wachsen. Wir sehen auch alte botanische Zeichnungen und Pflanzenbücher. Am Ende können Besucher ein kleines Samenpäckchen als Andenken mitnehmen. Bitte treffen Sie sich um 16:30 Uhr am Ausgang. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Leipzig sei nur für Musik und Universität bekannt. Aber hier entdecken wir die Vielfalt der Pflanzenwelt, ihre Farben und Formen. Jede Pflanze erzählt eine Geschichte von Wachstum, Anpassung und Schönheit. Fragen Sie jederzeit! Viel Spaß beim Rundgang und beim Entdecken der Pflanzen.",
+    "text_no_newline": "Guten Morgen, ich heiße Laura Becker und heiße Sie im Botanischen Garten Leipzig willkommen. Heute ist ein Mittwoch, und es ist sonnig. Es sind nur wenige Besucher hier, sodass wir die Pflanzen in Ruhe betrachten können. Unser Rundgang dauert etwa 95 Minuten. Zuerst besuchen wir die Gewächshäuser: tropische Pflanzen, Kakteen und Orchideen werden gezeigt. Danach gehen wir zu den Freiluftgärten: Rosen, einheimische Pflanzen und Kräuterbeete. Wir hören ein Audio: Eine Botanikerin erklärt die Herkunft der Pflanzen, ihre Pflege und die Bedeutung für die Umwelt. Im nächsten Bereich gibt es ein Mitmachangebot: Kinder können Samen pflanzen und lernen, wie Pflanzen wachsen. Wir sehen auch alte botanische Zeichnungen und Pflanzenbücher. Am Ende können Besucher ein kleines Samenpäckchen als Andenken mitnehmen. Bitte treffen Sie sich um 16:30 Uhr am Ausgang. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Leipzig sei nur für Musik und Universität bekannt. Aber hier entdecken wir die Vielfalt der Pflanzenwelt, ihre Farben und Formen. Jede Pflanze erzählt eine Geschichte von Wachstum, Anpassung und Schönheit. Fragen Sie jederzeit! Viel Spaß beim Rundgang und beim Entdecken der Pflanzen.",
+    "word_count": 479,
+    "question": "Was können Besucher am Ende mitnehmen?",
+    "options": { "a": "ein Samenpäckchen", "b": "eine Pflanze", "c": "ein Buch" },
+    "answer": "a",
+    "additional_questions": [
+      { "question": "Wer erklärt die Pflanzen im Audio?", "options": { "a": "eine Botanikerin", "b": "ein Biologe", "c": "ein Gärtner" }, "answer": "a" },
+      { "question": "Was sehen Besucher zuerst?", "options": { "a": "Gewächshäuser", "b": "Freiluftgärten", "c": "Zeichnungen" }, "answer": "a" },
+      { "question": "Wo sollen Besucher ihre Taschen abgeben?", "options": { "a": "an der Garderobe", "b": "am Ausgang", "c": "im Mitmachbereich" }, "answer": "a" },
+      { "question": "Was ist das Hauptthema des Gartens?", "options": { "a": "Pflanzenvielfalt und Pflege", "b": "Musik", "c": "Universität" }, "answer": "a" }
+    ],
+    "audio_url": "https://example.com/audio40.mp3"
+  },
+  {
+    "id": 41,
+    "title": "Seefahrtsmuseum Bremen",
+    "text": "Guten Tag, ich heiße Peter Lange und heiße Sie im Seefahrtsmuseum Bremen willkommen. Heute ist ein Donnerstag, und es ist leicht regnerisch. Es sind nur wenige Besucher hier, sodass wir die Schiffe und maritime Objekte in Ruhe betrachten können. Unser Rundgang dauert etwa 95 Minuten. Zuerst besuchen wir die historischen Schiffe: Modelle von Segelschiffen, Nachbildungen von Kajüten und Werkzeuge. Danach gehen wir zu den modernen Schiffen: Frachter, Forschungsschiffe und ihre Ausrüstung. Wir hören ein Audio: Ein Kapitän erklärt die Geschichte der Seefahrt, Navigationstechniken und spannende Expeditionen. Im nächsten Bereich gibt es ein Mitmachangebot: Kinder können kleine Schiffsmodelle bauen und ihre Stabilität testen. Wir sehen auch alte Seekarten, Logbücher und Fotos von Häfen. Am Ende können Besucher ein kleines Schiffsmodell als Andenken mitnehmen. Bitte treffen Sie sich um 16:50 Uhr am Ausgang. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Bremen sei nur für Handel und Stadtmusikanten bekannt. Aber hier entdecken wir die Welt der Seefahrt, Technik und Geschichte. Jedes Schiff erzählt eine Geschichte von Entdeckung, Abenteuer und Meer. Fragen Sie jederzeit! Viel Spaß beim Rundgang und beim Entdecken der Schiffe.",
+    "text_no_newline": "Guten Tag, ich heiße Peter Lange und heiße Sie im Seefahrtsmuseum Bremen willkommen. Heute ist ein Donnerstag, und es ist leicht regnerisch. Es sind nur wenige Besucher hier, sodass wir die Schiffe und maritime Objekte in Ruhe betrachten können. Unser Rundgang dauert etwa 95 Minuten. Zuerst besuchen wir die historischen Schiffe: Modelle von Segelschiffen, Nachbildungen von Kajüten und Werkzeuge. Danach gehen wir zu den modernen Schiffen: Frachter, Forschungsschiffe und ihre Ausrüstung. Wir hören ein Audio: Ein Kapitän erklärt die Geschichte der Seefahrt, Navigationstechniken und spannende Expeditionen. Im nächsten Bereich gibt es ein Mitmachangebot: Kinder können kleine Schiffsmodelle bauen und ihre Stabilität testen. Wir sehen auch alte Seekarten, Logbücher und Fotos von Häfen. Am Ende können Besucher ein kleines Schiffsmodell als Andenken mitnehmen. Bitte treffen Sie sich um 16:50 Uhr am Ausgang. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Bremen sei nur für Handel und Stadtmusikanten bekannt. Aber hier entdecken wir die Welt der Seefahrt, Technik und Geschichte. Jedes Schiff erzählt eine Geschichte von Entdeckung, Abenteuer und Meer. Fragen Sie jederzeit! Viel Spaß beim Rundgang und beim Entdecken der Schiffe.",
+    "word_count": 480,
+    "question": "Was können Besucher am Ende mitnehmen?",
+    "options": { "a": "ein kleines Schiffsmodell", "b": "eine Seekarte", "c": "ein Logbuch" },
+    "answer": "a",
+    "additional_questions": [
+      { "question": "Wer erklärt die Schiffe im Audio?", "options": { "a": "ein Kapitän", "b": "ein Historiker", "c": "ein Ingenieur" }, "answer": "a" },
+      { "question": "Was sehen Besucher zuerst?", "options": { "a": "historische Schiffe", "b": "moderne Frachter", "c": "Seekarten" }, "answer": "a" },
+      { "question": "Wo sollen Besucher ihre Taschen abgeben?", "options": { "a": "an der Garderobe", "b": "am Ausgang", "c": "im Mitmachbereich" }, "answer": "a" },
+      { "question": "Was ist das Hauptthema des Museums?", "options": { "a": "Seefahrt, Technik und Geschichte", "b": "Stadtmusikanten", "c": "Handel" }, "answer": "a" }
+    ],
+    "audio_url": "https://example.com/audio41.mp3"
+  },
+  {
+    "id": 42,
+    "title": "Bergbaumuseum Bochum",
+    "text": "Guten Morgen, ich heiße Claudia Fischer und heiße Sie im Bergbaumuseum Bochum willkommen. Heute ist ein Freitag, und es ist bewölkt. Es sind nur wenige Besucher hier, sodass wir die Minen und Maschinen in Ruhe betrachten können. Unser Rundgang dauert etwa 95 Minuten. Zuerst besuchen wir den Bereich der historischen Bergwerke: alte Werkzeuge, Helme und Fotos von Bergleuten. Danach gehen wir zu den Maschinen und modernen Abbauverfahren: Förderbänder, Bohrmaschinen und Sicherheitsvorrichtungen. Wir hören ein Audio: Ein Bergbauingenieur erklärt die Geschichte des Bergbaus, die Arbeit unter Tage und Sicherheitsmaßnahmen. Im nächsten Bereich gibt es ein Mitmachangebot: Kinder können kleine Modelle von Bergwerken bauen und lernen, wie Kohle gefördert wird. Wir sehen auch alte Pläne, Karten und Maschinenzeichnungen. Am Ende können Besucher ein kleines Modell eines Förderturms als Andenken mitnehmen. Bitte treffen Sie sich um 16:40 Uhr am Ausgang. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Bochum sei nur für Industrie bekannt. Aber hier entdecken wir Bergbaugeschichte, Technik und Arbeit unter Tage. Jedes Exponat erzählt eine Geschichte von Mut, Planung und Ingenieurskunst. Fragen Sie jederzeit! Viel Spaß beim Rundgang und beim Entdecken des Bergbaus.",
+    "text_no_newline": "Guten Morgen, ich heiße Claudia Fischer und heiße Sie im Bergbaumuseum Bochum willkommen. Heute ist ein Freitag, und es ist bewölkt. Es sind nur wenige Besucher hier, sodass wir die Minen und Maschinen in Ruhe betrachten können. Unser Rundgang dauert etwa 95 Minuten. Zuerst besuchen wir den Bereich der historischen Bergwerke: alte Werkzeuge, Helme und Fotos von Bergleuten. Danach gehen wir zu den Maschinen und modernen Abbauverfahren: Förderbänder, Bohrmaschinen und Sicherheitsvorrichtungen. Wir hören ein Audio: Ein Bergbauingenieur erklärt die Geschichte des Bergbaus, die Arbeit unter Tage und Sicherheitsmaßnahmen. Im nächsten Bereich gibt es ein Mitmachangebot: Kinder können kleine Modelle von Bergwerken bauen und lernen, wie Kohle gefördert wird. Wir sehen auch alte Pläne, Karten und Maschinenzeichnungen. Am Ende können Besucher ein kleines Modell eines Förderturms als Andenken mitnehmen. Bitte treffen Sie sich um 16:40 Uhr am Ausgang. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Bochum sei nur für Industrie bekannt. Aber hier entdecken wir Bergbaugeschichte, Technik und Arbeit unter Tage. Jedes Exponat erzählt eine Geschichte von Mut, Planung und Ingenieurskunst. Fragen Sie jederzeit! Viel Spaß beim Rundgang und beim Entdecken des Bergbaus.",
+    "word_count": 482,
+    "question": "Was können Besucher am Ende mitnehmen?",
+    "options": { "a": "ein Modell eines Förderturms", "b": "einen Helm", "c": "eine Karte" },
+    "answer": "a",
+    "additional_questions": [
+      { "question": "Wer erklärt den Bergbau im Audio?", "options": { "a": "ein Bergbauingenieur", "b": "ein Historiker", "c": "ein Künstler" }, "answer": "a" },
+      { "question": "Was sehen Besucher zuerst?", "options": { "a": "historische Bergwerke", "b": "Maschinen", "c": "Pläne" }, "answer": "a" },
+      { "question": "Wo sollen Besucher ihre Taschen abgeben?", "options": { "a": "an der Garderobe", "b": "am Ausgang", "c": "im Mitmachbereich" }, "answer": "a" },
+      { "question": "Was ist das Hauptthema des Museums?", "options": { "a": "Bergbaugeschichte und Technik", "b": "Industriegeschichte", "c": "Kunst" }, "answer": "a" }
+    ],
+    "audio_url": "https://example.com/audio42.mp3"
+  }
+,
+  {
+    "id": 43,
+    "title": "Astronomiemuseum Hamburg",
+    "text": "Guten Tag, ich heiße Michael Köhler und heiße Sie im Astronomiemuseum Hamburg willkommen. Heute ist ein Samstag, und es ist sonnig. Es sind nur wenige Besucher hier, sodass wir die Ausstellungen in Ruhe betrachten können. Unser Rundgang dauert etwa 95 Minuten. Zuerst besuchen wir den Bereich der historischen Teleskope: alte Refraktoren, Sternkarten und astronomische Geräte aus dem 18. und 19. Jahrhundert. Danach gehen wir zu den modernen Observatorien: computergesteuerte Teleskope, Satellitenbilder und digitale Planetarien. Wir hören ein Audio: Ein Astronom erklärt die Entstehung des Universums, Planetenbewegungen und aktuelle Forschungsergebnisse. Im nächsten Bereich gibt es ein Mitmachangebot: Kinder können selbst kleine Teleskope zusammenbauen und die Himmelsbeobachtung ausprobieren. Wir sehen auch alte Bücher, Sternenkarten und Zeichnungen von Himmelskörpern. Am Ende können Besucher einen kleinen Sternenkompass als Andenken mitnehmen. Bitte treffen Sie sich um 16:50 Uhr am Ausgang. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Hamburg sei nur für Hafen und Musik bekannt. Aber hier entdecken wir den Weltraum, Sterne, Planeten und die Wissenschaft dahinter. Jede Ausstellung erzählt eine Geschichte von Neugier, Entdeckung und Forschung. Fragen Sie jederzeit! Viel Spaß beim Rundgang und beim Entdecken der Astronomie.",
+    "text_no_newline": "Guten Tag, ich heiße Michael Köhler und heiße Sie im Astronomiemuseum Hamburg willkommen. Heute ist ein Samstag, und es ist sonnig. Es sind nur wenige Besucher hier, sodass wir die Ausstellungen in Ruhe betrachten können. Unser Rundgang dauert etwa 95 Minuten. Zuerst besuchen wir den Bereich der historischen Teleskope: alte Refraktoren, Sternkarten und astronomische Geräte aus dem 18. und 19. Jahrhundert. Danach gehen wir zu den modernen Observatorien: computergesteuerte Teleskope, Satellitenbilder und digitale Planetarien. Wir hören ein Audio: Ein Astronom erklärt die Entstehung des Universums, Planetenbewegungen und aktuelle Forschungsergebnisse. Im nächsten Bereich gibt es ein Mitmachangebot: Kinder können selbst kleine Teleskope zusammenbauen und die Himmelsbeobachtung ausprobieren. Wir sehen auch alte Bücher, Sternenkarten und Zeichnungen von Himmelskörpern. Am Ende können Besucher einen kleinen Sternenkompass als Andenken mitnehmen. Bitte treffen Sie sich um 16:50 Uhr am Ausgang. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Hamburg sei nur für Hafen und Musik bekannt. Aber hier entdecken wir den Weltraum, Sterne, Planeten und die Wissenschaft dahinter. Jede Ausstellung erzählt eine Geschichte von Neugier, Entdeckung und Forschung. Fragen Sie jederzeit! Viel Spaß beim Rundgang und beim Entdecken der Astronomie.",
+    "word_count": 482,
+    "question": "Was können Besucher am Ende mitnehmen?",
+    "options": { "a": "einen Sternenkompass", "b": "eine Sternkarte", "c": "ein Buch" },
+    "answer": "a",
+    "additional_questions": [
+      { "question": "Wer erklärt die Astronomie im Audio?", "options": { "a": "ein Astronom", "b": "ein Physiker", "c": "ein Historiker" }, "answer": "a" },
+      { "question": "Was sehen Besucher zuerst?", "options": { "a": "historische Teleskope", "b": "moderne Observatorien", "c": "Sternenkarten" }, "answer": "a" },
+      { "question": "Wo sollen Besucher ihre Taschen abgeben?", "options": { "a": "an der Garderobe", "b": "am Ausgang", "c": "im Mitmachbereich" }, "answer": "a" },
+      { "question": "Was ist das Hauptthema des Museums?", "options": { "a": "Astronomie und Weltraumforschung", "b": "Musikgeschichte", "c": "Hafen und Schifffahrt" }, "answer": "a" }
+    ],
+    "audio_url": "https://example.com/audio43.mp3"
+  },
+  {
+    "id": 44,
+    "title": "Käsemuseum Allgäu",
+    "text": "Guten Morgen, ich heiße Sophie Wagner und heiße Sie im Käsemuseum Allgäu willkommen. Heute ist ein Sonntag, und es ist leicht regnerisch. Es sind nur wenige Besucher hier, sodass wir die Käseherstellung in Ruhe betrachten können. Unser Rundgang dauert etwa 95 Minuten. Zuerst besuchen wir die Ausstellung über die Milchproduktion: historische Milchkannen, alte Melkmaschinen und Fotografien von Bauernhöfen. Danach gehen wir zu den Käsearten: Schnittkäse, Weichkäse und regionale Spezialitäten werden vorgestellt. Wir hören ein Audio: Ein Käsemeister erklärt den Herstellungsprozess, die Reifung und die Lagerung von Käse. Im nächsten Bereich gibt es ein Mitmachangebot: Kinder können Butter selbst schlagen und kleine Käseportionen formen. Wir sehen auch alte Rezepte, Käseschriften und Werkzeuge. Am Ende können Besucher ein kleines Käsepaket als Andenken mitnehmen. Bitte treffen Sie sich um 16:20 Uhr am Ausgang. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Allgäu sei nur für Berge und Skifahren bekannt. Aber hier entdecken wir die Tradition der Käseherstellung, regionale Spezialitäten und handwerkliche Kunst. Jedes Exponat erzählt eine Geschichte von Geschmack, Handwerk und Kultur. Fragen Sie jederzeit! Viel Spaß beim Rundgang und beim Entdecken des Käses.",
+    "text_no_newline": "Guten Morgen, ich heiße Sophie Wagner und heiße Sie im Käsemuseum Allgäu willkommen. Heute ist ein Sonntag, und es ist leicht regnerisch. Es sind nur wenige Besucher hier, sodass wir die Käseherstellung in Ruhe betrachten können. Unser Rundgang dauert etwa 95 Minuten. Zuerst besuchen wir die Ausstellung über die Milchproduktion: historische Milchkannen, alte Melkmaschinen und Fotografien von Bauernhöfen. Danach gehen wir zu den Käsearten: Schnittkäse, Weichkäse und regionale Spezialitäten werden vorgestellt. Wir hören ein Audio: Ein Käsemeister erklärt den Herstellungsprozess, die Reifung und die Lagerung von Käse. Im nächsten Bereich gibt es ein Mitmachangebot: Kinder können Butter selbst schlagen und kleine Käseportionen formen. Wir sehen auch alte Rezepte, Käseschriften und Werkzeuge. Am Ende können Besucher ein kleines Käsepaket als Andenken mitnehmen. Bitte treffen Sie sich um 16:20 Uhr am Ausgang. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Allgäu sei nur für Berge und Skifahren bekannt. Aber hier entdecken wir die Tradition der Käseherstellung, regionale Spezialitäten und handwerkliche Kunst. Jedes Exponat erzählt eine Geschichte von Geschmack, Handwerk und Kultur. Fragen Sie jederzeit! Viel Spaß beim Rundgang und beim Entdecken des Käses.",
+    "word_count": 476,
+    "question": "Was können Besucher am Ende mitnehmen?",
+    "options": { "a": "ein Käsepaket", "b": "eine Milchkanne", "c": "ein Rezeptbuch" },
+    "answer": "a",
+    "additional_questions": [
+      { "question": "Wer erklärt die Käseherstellung im Audio?", "options": { "a": "ein Käsemeister", "b": "ein Bauer", "c": "ein Koch" }, "answer": "a" },
+      { "question": "Was sehen Besucher zuerst?", "options": { "a": "Milchproduktion", "b": "Käsearten", "c": "Rezepte" }, "answer": "a" },
+      { "question": "Wo sollen Besucher ihre Taschen abgeben?", "options": { "a": "an der Garderobe", "b": "am Ausgang", "c": "im Mitmachbereich" }, "answer": "a" },
+      { "question": "Was ist das Hauptthema des Museums?", "options": { "a": "Käseherstellung und Tradition", "b": "Bergsport", "c": "Bauernhofgeschichte" }, "answer": "a" }
+    ],
+    "audio_url": "https://example.com/audio44.mp3"
+  },
+  {
+    "id": 45,
+    "title": "Museum der Schokolade Köln",
+    "text": "Guten Tag, ich heiße Thomas Richter und heiße Sie im Museum der Schokolade Köln willkommen. Heute ist ein Montag, und es ist sonnig. Es sind nur wenige Besucher hier, sodass wir die Schokoladenherstellung in Ruhe betrachten können. Unser Rundgang dauert etwa 95 Minuten. Zuerst besuchen wir die Ausstellung über Kakaobohnen: Herkunftsländer, Anbau und Ernte werden gezeigt. Danach gehen wir zur Schokoladenproduktion: Maschinen, Herstellung und Pralinenformen. Wir hören ein Audio: Ein Chocolatier erklärt den Prozess, die Qualität der Zutaten und die Geschichte der Schokolade. Im nächsten Bereich gibt es ein Mitmachangebot: Kinder können Schokoladenfiguren gießen und dekorieren. Wir sehen auch alte Schokoladenverpackungen, Rezepte und historische Werbungen. Am Ende können Besucher eine kleine Schokolade als Andenken mitnehmen. Bitte treffen Sie sich um 16:45 Uhr am Ausgang. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Köln sei nur für Dom und Karneval bekannt. Aber hier entdecken wir Genuss, Handwerk und die Geschichte der Schokolade. Jede Ausstellung erzählt eine Geschichte von Geschmack, Kultur und Kreativität. Fragen Sie jederzeit! Viel Spaß beim Rundgang und beim Entdecken der Schokolade.",
+    "text_no_newline": "Guten Tag, ich heiße Thomas Richter und heiße Sie im Museum der Schokolade Köln willkommen. Heute ist ein Montag, und es ist sonnig. Es sind nur wenige Besucher hier, sodass wir die Schokoladenherstellung in Ruhe betrachten können. Unser Rundgang dauert etwa 95 Minuten. Zuerst besuchen wir die Ausstellung über Kakaobohnen: Herkunftsländer, Anbau und Ernte werden gezeigt. Danach gehen wir zur Schokoladenproduktion: Maschinen, Herstellung und Pralinenformen. Wir hören ein Audio: Ein Chocolatier erklärt den Prozess, die Qualität der Zutaten und die Geschichte der Schokolade. Im nächsten Bereich gibt es ein Mitmachangebot: Kinder können Schokoladenfiguren gießen und dekorieren. Wir sehen auch alte Schokoladenverpackungen, Rezepte und historische Werbungen. Am Ende können Besucher eine kleine Schokolade als Andenken mitnehmen. Bitte treffen Sie sich um 16:45 Uhr am Ausgang. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Köln sei nur für Dom und Karneval bekannt. Aber hier entdecken wir Genuss, Handwerk und die Geschichte der Schokolade. Jede Ausstellung erzählt eine Geschichte von Geschmack, Kultur und Kreativität. Fragen Sie jederzeit! Viel Spaß beim Rundgang und beim Entdecken der Schokolade.",
+    "word_count": 477,
+    "question": "Was können Besucher am Ende mitnehmen?",
+    "options": { "a": "eine kleine Schokolade", "b": "eine Kakaobohne", "c": "eine Pralinenform" },
+    "answer": "a",
+    "additional_questions": [
+      { "question": "Wer erklärt die Schokolade im Audio?", "options": { "a": "ein Chocolatier", "b": "ein Koch", "c": "ein Historiker" }, "answer": "a" },
+      { "question": "Was sehen Besucher zuerst?", "options": { "a": "Kakaobohnen", "b": "Schokoladeproduktion", "c": "Verpackungen" }, "answer": "a" },
+      { "question": "Wo sollen Besucher ihre Taschen abgeben?", "options": { "a": "an der Garderobe", "b": "am Ausgang", "c": "im Mitmachbereich" }, "answer": "a" },
+      { "question": "Was ist das Hauptthema des Museums?", "options": { "a": "Schokolade, Handwerk und Kultur", "b": "Domgeschichte", "c": "Karneval" }, "answer": "a" }
+    ],
+    "audio_url": "https://example.com/audio45.mp3"
+  },
+  {
+    "id": 46,
+    "title": "Museum der Uhren Pforzheim",
+    "text": "Guten Morgen, ich heiße Andreas Beck und heiße Sie im Museum der Uhren Pforzheim willkommen. Heute ist ein Dienstag, und es ist bewölkt. Es sind nur wenige Besucher hier, sodass wir die Uhren in Ruhe betrachten können. Unser Rundgang dauert etwa 95 Minuten. Zuerst besuchen wir den Bereich der historischen Taschenuhren: Werke, Gehäuse und alte Uhrenmodelle werden gezeigt. Danach gehen wir zu den modernen Armbanduhren: Design, Technik und besondere Materialien. Wir hören ein Audio: Ein Uhrmacher erklärt die Geschichte der Uhrmacherei, die Technik der Uhren und die Entwicklung über die Jahrhunderte. Im nächsten Bereich gibt es ein Mitmachangebot: Kinder können kleine Uhrwerke zusammenbauen und beobachten, wie sie funktionieren. Wir sehen auch alte Pläne, Skizzen und Werkzeug. Am Ende können Besucher eine kleine Taschenuhr als Andenken mitnehmen. Bitte treffen Sie sich um 16:35 Uhr am Ausgang. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Pforzheim sei nur für Schmuck bekannt. Aber hier entdecken wir Zeit, Technik und Handwerk. Jede Uhr erzählt eine Geschichte von Präzision, Geduld und Kreativität. Fragen Sie jederzeit! Viel Spaß beim Rundgang und beim Entdecken der Uhren.",
+    "text_no_newline": "Guten Morgen, ich heiße Andreas Beck und heiße Sie im Museum der Uhren Pforzheim willkommen. Heute ist ein Dienstag, und es ist bewölkt. Es sind nur wenige Besucher hier, sodass wir die Uhren in Ruhe betrachten können. Unser Rundgang dauert etwa 95 Minuten. Zuerst besuchen wir den Bereich der historischen Taschenuhren: Werke, Gehäuse und alte Uhrenmodelle werden gezeigt. Danach gehen wir zu den modernen Armbanduhren: Design, Technik und besondere Materialien. Wir hören ein Audio: Ein Uhrmacher erklärt die Geschichte der Uhrmacherei, die Technik der Uhren und die Entwicklung über die Jahrhunderte. Im nächsten Bereich gibt es ein Mitmachangebot: Kinder können kleine Uhrwerke zusammenbauen und beobachten, wie sie funktionieren. Wir sehen auch alte Pläne, Skizzen und Werkzeug. Am Ende können Besucher eine kleine Taschenuhr als Andenken mitnehmen. Bitte treffen Sie sich um 16:35 Uhr am Ausgang. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Pforzheim sei nur für Schmuck bekannt. Aber hier entdecken wir Zeit, Technik und Handwerk. Jede Uhr erzählt eine Geschichte von Präzision, Geduld und Kreativität. Fragen Sie jederzeit! Viel Spaß beim Rundgang und beim Entdecken der Uhren.",
+    "word_count": 480,
+    "question": "Was können Besucher am Ende mitnehmen?",
+    "options": { "a": "eine kleine Taschenuhr", "b": "ein Werkzeug", "c": "eine Skizze" },
+    "answer": "a",
+    "additional_questions": [
+      { "question": "Wer erklärt die Uhrmacherei im Audio?", "options": { "a": "ein Uhrmacher", "b": "ein Ingenieur", "c": "ein Historiker" }, "answer": "a" },
+      { "question": "Was sehen Besucher zuerst?", "options": { "a": "historische Taschenuhren", "b": "moderne Armbanduhren", "c": "Pläne" }, "answer": "a" },
+      { "question": "Wo sollen Besucher ihre Taschen abgeben?", "options": { "a": "an der Garderobe", "b": "am Ausgang", "c": "im Mitmachbereich" }, "answer": "a" },
+      { "question": "Was ist das Hauptthema des Museums?", "options": { "a": "Uhren, Technik und Handwerk", "b": "Schmuck", "c": "Kunst" }, "answer": "a" }
+    ],
+    "audio_url": "https://example.com/audio46.mp3"
+  }
+,
+  {
+    "id": 47,
+    "title": "Museum der Robotik Berlin",
+    "text": "Guten Tag, ich heiße Laura Meier und heiße Sie im Museum der Robotik Berlin willkommen. Heute ist ein Mittwoch, und es ist sonnig. Es sind nur wenige Besucher hier, sodass wir die Roboter in Ruhe betrachten können. Unser Rundgang dauert etwa 95 Minuten. Zuerst besuchen wir die historischen Roboter: Modelle aus den 1950er und 1960er Jahren, alte Schaltpläne und mechanische Teile. Danach gehen wir zu den modernen Robotern: humanoide Roboter, Drohnen und Roboter für Industrie und Forschung. Wir hören ein Audio: Ein Robotik-Ingenieur erklärt die Geschichte der Robotik, Künstliche Intelligenz und aktuelle Entwicklungen. Im nächsten Bereich gibt es ein Mitmachangebot: Kinder können kleine Roboter programmieren und einfache Bewegungen testen. Wir sehen auch alte Skizzen, Werkzeuge und Teile von Robotern. Am Ende können Besucher einen kleinen Roboterbausatz als Andenken mitnehmen. Bitte treffen Sie sich um 16:40 Uhr am Ausgang. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Berlin sei nur für Geschichte und Kultur bekannt. Aber hier entdecken wir Technik, Innovation und die Zukunft der Robotik. Jede Ausstellung erzählt eine Geschichte von Wissenschaft, Kreativität und Forschergeist. Fragen Sie jederzeit! Viel Spaß beim Rundgang und beim Entdecken der Robotik.",
+    "text_no_newline": "Guten Tag, ich heiße Laura Meier und heiße Sie im Museum der Robotik Berlin willkommen. Heute ist ein Mittwoch, und es ist sonnig. Es sind nur wenige Besucher hier, sodass wir die Roboter in Ruhe betrachten können. Unser Rundgang dauert etwa 95 Minuten. Zuerst besuchen wir die historischen Roboter: Modelle aus den 1950er und 1960er Jahren, alte Schaltpläne und mechanische Teile. Danach gehen wir zu den modernen Robotern: humanoide Roboter, Drohnen und Roboter für Industrie und Forschung. Wir hören ein Audio: Ein Robotik-Ingenieur erklärt die Geschichte der Robotik, Künstliche Intelligenz und aktuelle Entwicklungen. Im nächsten Bereich gibt es ein Mitmachangebot: Kinder können kleine Roboter programmieren und einfache Bewegungen testen. Wir sehen auch alte Skizzen, Werkzeuge und Teile von Robotern. Am Ende können Besucher einen kleinen Roboterbausatz als Andenken mitnehmen. Bitte treffen Sie sich um 16:40 Uhr am Ausgang. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Berlin sei nur für Geschichte und Kultur bekannt. Aber hier entdecken wir Technik, Innovation und die Zukunft der Robotik. Jede Ausstellung erzählt eine Geschichte von Wissenschaft, Kreativität und Forschergeist. Fragen Sie jederzeit! Viel Spaß beim Rundgang und beim Entdecken der Robotik.",
+    "word_count": 474,
+    "question": "Was können Besucher am Ende mitnehmen?",
+    "options": { "a": "einen Roboterbausatz", "b": "eine Schaltplanskizze", "c": "ein Drohnenmodell" },
+    "answer": "a",
+    "additional_questions": [
+      { "question": "Wer erklärt die Robotik im Audio?", "options": { "a": "ein Robotik-Ingenieur", "b": "ein Historiker", "c": "ein Lehrer" }, "answer": "a" },
+      { "question": "Was sehen Besucher zuerst?", "options": { "a": "historische Roboter", "b": "moderne Roboter", "c": "Werkzeuge" }, "answer": "a" },
+      { "question": "Wo sollen Besucher ihre Taschen abgeben?", "options": { "a": "an der Garderobe", "b": "am Ausgang", "c": "im Mitmachbereich" }, "answer": "a" },
+      { "question": "Was ist das Hauptthema des Museums?", "options": { "a": "Robotik, Technik und Innovation", "b": "Geschichte", "c": "Kultur" }, "answer": "a" }
+    ],
+    "audio_url": "https://example.com/audio47.mp3"
+  },
+  {
+    "id": 48,
+    "title": "Museum der Bienen Imkerei Dresden",
+    "text": "Guten Morgen, ich heiße Julia Schmidt und heiße Sie im Museum der Bienen in Dresden willkommen. Heute ist ein Donnerstag, und es ist leicht bewölkt. Es sind nur wenige Besucher hier, sodass wir die Imkerei und Bienen beobachten können. Unser Rundgang dauert etwa 95 Minuten. Zuerst besuchen wir die Ausstellung über Bienenarten und Bienenvölker: alte Bienenstöcke, Wachstafeln und historische Fotografien. Danach gehen wir zur Honigproduktion: Werkzeuge, Ernte und verschiedene Honigsorten werden gezeigt. Wir hören ein Audio: Ein Imker erklärt die Arbeit mit den Bienen, die Bedeutung der Bestäubung und den Prozess der Honigherstellung. Im nächsten Bereich gibt es ein Mitmachangebot: Kinder können Bienenwachsplatten formen und kleine Kerzen herstellen. Wir sehen auch alte Bücher über Bienenkunde und Zeichnungen der Bienenorganisation. Am Ende können Besucher ein kleines Glas Honig als Andenken mitnehmen. Bitte treffen Sie sich um 16:30 Uhr am Ausgang. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Dresden sei nur für Kunst und Kultur bekannt. Aber hier entdecken wir Natur, Bienen und die Kunst der Imkerei. Jede Ausstellung erzählt eine Geschichte von Natur, Verantwortung und Geduld. Fragen Sie jederzeit! Viel Spaß beim Rundgang und beim Entdecken der Bienen.",
+    "text_no_newline": "Guten Morgen, ich heiße Julia Schmidt und heiße Sie im Museum der Bienen in Dresden willkommen. Heute ist ein Donnerstag, und es ist leicht bewölkt. Es sind nur wenige Besucher hier, sodass wir die Imkerei und Bienen beobachten können. Unser Rundgang dauert etwa 95 Minuten. Zuerst besuchen wir die Ausstellung über Bienenarten und Bienenvölker: alte Bienenstöcke, Wachstafeln und historische Fotografien. Danach gehen wir zur Honigproduktion: Werkzeuge, Ernte und verschiedene Honigsorten werden gezeigt. Wir hören ein Audio: Ein Imker erklärt die Arbeit mit den Bienen, die Bedeutung der Bestäubung und den Prozess der Honigherstellung. Im nächsten Bereich gibt es ein Mitmachangebot: Kinder können Bienenwachsplatten formen und kleine Kerzen herstellen. Wir sehen auch alte Bücher über Bienenkunde und Zeichnungen der Bienenorganisation. Am Ende können Besucher ein kleines Glas Honig als Andenken mitnehmen. Bitte treffen Sie sich um 16:30 Uhr am Ausgang. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Dresden sei nur für Kunst und Kultur bekannt. Aber hier entdecken wir Natur, Bienen und die Kunst der Imkerei. Jede Ausstellung erzählt eine Geschichte von Natur, Verantwortung und Geduld. Fragen Sie jederzeit! Viel Spaß beim Rundgang und beim Entdecken der Bienen.",
+    "word_count": 478,
+    "question": "Was können Besucher am Ende mitnehmen?",
+    "options": { "a": "ein Glas Honig", "b": "eine Wachstafel", "c": "eine Kerze" },
+    "answer": "a",
+    "additional_questions": [
+      { "question": "Wer erklärt die Bienenarbeit im Audio?", "options": { "a": "ein Imker", "b": "ein Biologe", "c": "ein Lehrer" }, "answer": "a" },
+      { "question": "Was sehen Besucher zuerst?", "options": { "a": "Bienenstöcke und Bienenvölker", "b": "Honigproduktion", "c": "Bücher" }, "answer": "a" },
+      { "question": "Wo sollen Besucher ihre Taschen abgeben?", "options": { "a": "an der Garderobe", "b": "am Ausgang", "c": "im Mitmachbereich" }, "answer": "a" },
+      { "question": "Was ist das Hauptthema des Museums?", "options": { "a": "Bienen und Imkerei", "b": "Kunst", "c": "Kultur" }, "answer": "a" }
+    ],
+    "audio_url": "https://example.com/audio48.mp3"
+  },
+  {
+    "id": 49,
+    "title": "Museum der Fossilien Stuttgart",
+    "text": "Guten Morgen, ich heiße Martin Klein und heiße Sie im Museum der Fossilien Stuttgart willkommen. Heute ist ein Freitag, und es ist bewölkt. Es sind nur wenige Besucher hier, sodass wir die Fossilien in Ruhe betrachten können. Unser Rundgang dauert etwa 95 Minuten. Zuerst besuchen wir die Ausstellung über Dinosaurierfossilien: Skelette, Zähne und Knochenfragmente werden gezeigt. Danach gehen wir zu den Fossilien der Urzeit: Pflanzen, Insekten und Meerestiere, die vor Millionen von Jahren lebten. Wir hören ein Audio: Ein Paläontologe erklärt die Entstehung von Fossilien, die Erdgeschichte und wissenschaftliche Methoden. Im nächsten Bereich gibt es ein Mitmachangebot: Kinder können Fossilien nachformen und in Sandgruben suchen. Wir sehen auch alte Bücher, Skizzen und wissenschaftliche Zeichnungen. Am Ende können Besucher ein kleines Fossilienmodell als Andenken mitnehmen. Bitte treffen Sie sich um 16:25 Uhr am Ausgang. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Stuttgart sei nur für Autos bekannt. Aber hier entdecken wir die Geschichte der Erde, prähistorische Lebewesen und Wissenschaft. Jede Ausstellung erzählt eine Geschichte von Zeit, Entwicklung und Entdeckung. Fragen Sie jederzeit! Viel Spaß beim Rundgang und beim Entdecken der Fossilien.",
+    "text_no_newline": "Guten Morgen, ich heiße Martin Klein und heiße Sie im Museum der Fossilien Stuttgart willkommen. Heute ist ein Freitag, und es ist bewölkt. Es sind nur wenige Besucher hier, sodass wir die Fossilien in Ruhe betrachten können. Unser Rundgang dauert etwa 95 Minuten. Zuerst besuchen wir die Ausstellung über Dinosaurierfossilien: Skelette, Zähne und Knochenfragmente werden gezeigt. Danach gehen wir zu den Fossilien der Urzeit: Pflanzen, Insekten und Meerestiere, die vor Millionen von Jahren lebten. Wir hören ein Audio: Ein Paläontologe erklärt die Entstehung von Fossilien, die Erdgeschichte und wissenschaftliche Methoden. Im nächsten Bereich gibt es ein Mitmachangebot: Kinder können Fossilien nachformen und in Sandgruben suchen. Wir sehen auch alte Bücher, Skizzen und wissenschaftliche Zeichnungen. Am Ende können Besucher ein kleines Fossilienmodell als Andenken mitnehmen. Bitte treffen Sie sich um 16:25 Uhr am Ausgang. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Stuttgart sei nur für Autos bekannt. Aber hier entdecken wir die Geschichte der Erde, prähistorische Lebewesen und Wissenschaft. Jede Ausstellung erzählt eine Geschichte von Zeit, Entwicklung und Entdeckung. Fragen Sie jederzeit! Viel Spaß beim Rundgang und beim Entdecken der Fossilien.",
+    "word_count": 480,
+    "question": "Was können Besucher am Ende mitnehmen?",
+    "options": { "a": "ein Fossilienmodell", "b": "ein Buch", "c": "eine Zeichnung" },
+    "answer": "a",
+    "additional_questions": [
+      { "question": "Wer erklärt die Fossilien im Audio?", "options": { "a": "ein Paläontologe", "b": "ein Geologe", "c": "ein Lehrer" }, "answer": "a" },
+      { "question": "Was sehen Besucher zuerst?", "options": { "a": "Dinosaurierfossilien", "b": "Urzeitfossilien", "c": "Bücher" }, "answer": "a" },
+      { "question": "Wo sollen Besucher ihre Taschen abgeben?", "options": { "a": "an der Garderobe", "b": "am Ausgang", "c": "im Mitmachbereich" }, "answer": "a" },
+      { "question": "Was ist das Hauptthema des Museums?", "options": { "a": "Fossilien und Erdgeschichte", "b": "Autos", "c": "Kultur" }, "answer": "a" }
+    ],
+    "audio_url": "https://example.com/audio49.mp3"
+  },
+  {
+    "id": 50,
+    "title": "Museum der Schifffahrt Kiel",
+    "text": "Guten Tag, ich heiße Peter Lange und heiße Sie im Museum der Schifffahrt Kiel willkommen. Heute ist ein Samstag, und es ist windig. Es sind nur wenige Besucher hier, sodass wir die Schiffe in Ruhe betrachten können. Unser Rundgang dauert etwa 95 Minuten. Zuerst besuchen wir die Ausstellung über historische Schiffe: Modelle, Segel, alte Karten und Fotografien. Danach gehen wir zu den modernen Schiffen: Containerschiffe, Kreuzfahrtschiffe und Rettungsboote werden gezeigt. Wir hören ein Audio: Ein Kapitän erklärt die Geschichte der Schifffahrt, Navigationstechniken und wichtige Ereignisse. Im nächsten Bereich gibt es ein Mitmachangebot: Kinder können kleine Schiffsmodelle bauen und ausprobieren, wie sie schwimmen. Wir sehen auch alte Instrumente, Werkzeuge und Pläne. Am Ende können Besucher ein kleines Schiffsmodell als Andenken mitnehmen. Bitte treffen Sie sich um 16:50 Uhr am Ausgang. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Kiel sei nur für Segeln bekannt. Aber hier entdecken wir die Geschichte der Schifffahrt, Technik und Meer. Jede Ausstellung erzählt eine Geschichte von Abenteuer, Handwerk und Innovation. Fragen Sie jederzeit! Viel Spaß beim Rundgang und beim Entdecken der Schiffe.",
+    "text_no_newline": "Guten Tag, ich heiße Peter Lange und heiße Sie im Museum der Schifffahrt Kiel willkommen. Heute ist ein Samstag, und es ist windig. Es sind nur wenige Besucher hier, sodass wir die Schiffe in Ruhe betrachten können. Unser Rundgang dauert etwa 95 Minuten. Zuerst besuchen wir die Ausstellung über historische Schiffe: Modelle, Segel, alte Karten und Fotografien. Danach gehen wir zu den modernen Schiffen: Containerschiffe, Kreuzfahrtschiffe und Rettungsboote werden gezeigt. Wir hören ein Audio: Ein Kapitän erklärt die Geschichte der Schifffahrt, Navigationstechniken und wichtige Ereignisse. Im nächsten Bereich gibt es ein Mitmachangebot: Kinder können kleine Schiffsmodelle bauen und ausprobieren, wie sie schwimmen. Wir sehen auch alte Instrumente, Werkzeuge und Pläne. Am Ende können Besucher ein kleines Schiffsmodell als Andenken mitnehmen. Bitte treffen Sie sich um 16:50 Uhr am Ausgang. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Kiel sei nur für Segeln bekannt. Aber hier entdecken wir die Geschichte der Schifffahrt, Technik und Meer. Jede Ausstellung erzählt eine Geschichte von Abenteuer, Handwerk und Innovation. Fragen Sie jederzeit! Viel Spaß beim Rundgang und beim Entdecken der Schiffe.",
+    "word_count": 479,
+    "question": "Was können Besucher am Ende mitnehmen?",
+    "options": { "a": "ein Schiffsmodell", "b": "eine Karte", "c": "ein Instrument" },
+    "answer": "a",
+    "additional_questions": [
+      { "question": "Wer erklärt die Schifffahrt im Audio?", "options": { "a": "ein Kapitän", "b": "ein Seefahrer", "c": "ein Historiker" }, "answer": "a" },
+      { "question": "Was sehen Besucher zuerst?", "options": { "a": "historische Schiffe", "b": "moderne Schiffe", "c": "Pläne" }, "answer": "a" },
+      { "question": "Wo sollen Besucher ihre Taschen abgeben?", "options": { "a": "an der Garderobe", "b": "am Ausgang", "c": "im Mitmachbereich" }, "answer": "a" },
+      { "question": "Was ist das Hauptthema des Museums?", "options": { "a": "Schifffahrt und Technik", "b": "Segeln", "c": "Abenteuer" }, "answer": "a" }
+    ],
+    "audio_url": "https://example.com/audio50.mp3"
+  }
+,
+  {
+    "id": 51,
+    "title": "Museum der Astronomie Hamburg",
+    "text": "Guten Morgen, ich heiße Thomas Becker und heiße Sie im Museum der Astronomie in Hamburg willkommen. Heute ist ein Montag, und es ist sonnig. Es sind nur wenige Besucher hier, sodass wir die Sterne, Planeten und Modelle in Ruhe betrachten können. Unser Rundgang dauert etwa 95 Minuten. Zuerst besuchen wir die historische Sternwarte: alte Teleskope, Sternenkarten und astronomische Geräte aus dem 18. Jahrhundert. Danach gehen wir zu den modernen Planetariumsprojektionen: Animationen der Planeten, Galaxien und Sternensysteme. Wir hören ein Audio: Ein Astronom erklärt die Bewegungen der Planeten, die Entdeckung neuer Sterne und die Geschichte der Astronomie. Im nächsten Bereich gibt es ein Mitmachangebot: Kinder können kleine Teleskope benutzen und Planetenmodelle drehen. Wir sehen auch alte Bücher, Diagramme und Skizzen. Am Ende können Besucher ein kleines Planetariumsposter als Andenken mitnehmen. Bitte treffen Sie sich um 16:20 Uhr am Ausgang. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Hamburg sei nur für den Hafen und den Fischmarkt bekannt. Aber hier entdecken wir das Universum, Sterne, Planeten und die Geschichte der Astronomie. Jede Ausstellung erzählt eine Geschichte von Forschung, Entdeckung und Fantasie. Fragen Sie jederzeit! Viel Spaß beim Rundgang und beim Entdecken der Sterne.",
+    "text_no_newline": "Guten Morgen, ich heiße Thomas Becker und heiße Sie im Museum der Astronomie in Hamburg willkommen. Heute ist ein Montag, und es ist sonnig. Es sind nur wenige Besucher hier, sodass wir die Sterne, Planeten und Modelle in Ruhe betrachten können. Unser Rundgang dauert etwa 95 Minuten. Zuerst besuchen wir die historische Sternwarte: alte Teleskope, Sternenkarten und astronomische Geräte aus dem 18. Jahrhundert. Danach gehen wir zu den modernen Planetariumsprojektionen: Animationen der Planeten, Galaxien und Sternensysteme. Wir hören ein Audio: Ein Astronom erklärt die Bewegungen der Planeten, die Entdeckung neuer Sterne und die Geschichte der Astronomie. Im nächsten Bereich gibt es ein Mitmachangebot: Kinder können kleine Teleskope benutzen und Planetenmodelle drehen. Wir sehen auch alte Bücher, Diagramme und Skizzen. Am Ende können Besucher ein kleines Planetariumsposter als Andenken mitnehmen. Bitte treffen Sie sich um 16:20 Uhr am Ausgang. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Hamburg sei nur für den Hafen und den Fischmarkt bekannt. Aber hier entdecken wir das Universum, Sterne, Planeten und die Geschichte der Astronomie. Jede Ausstellung erzählt eine Geschichte von Forschung, Entdeckung und Fantasie. Fragen Sie jederzeit! Viel Spaß beim Rundgang und beim Entdecken der Sterne.",
+    "word_count": 473,
+    "question": "Was können Besucher am Ende mitnehmen?",
+    "options": { "a": "ein Planetariumsposter", "b": "ein Teleskop", "c": "eine Sternenkarte" },
+    "answer": "a",
+    "additional_questions": [
+      { "question": "Wer erklärt die Astronomie im Audio?", "options": { "a": "ein Astronom", "b": "ein Lehrer", "c": "ein Historiker" }, "answer": "a" },
+      { "question": "Was sehen Besucher zuerst?", "options": { "a": "historische Sternwarte", "b": "Planetariumsprojektionen", "c": "Diagramme" }, "answer": "a" },
+      { "question": "Wo sollen Besucher ihre Taschen abgeben?", "options": { "a": "an der Garderobe", "b": "am Ausgang", "c": "im Mitmachbereich" }, "answer": "a" },
+      { "question": "Was ist das Hauptthema des Museums?", "options": { "a": "Astronomie und Universum", "b": "Hamburg", "c": "Technik" }, "answer": "a" }
+    ],
+    "audio_url": "https://example.com/audio51.mp3"
+  },
+  {
+    "id": 52,
+    "title": "Museum der Schokolade Köln",
+    "text": "Guten Tag, ich heiße Sabrina Hoffmann und heiße Sie im Museum der Schokolade in Köln willkommen. Heute ist ein Dienstag, und es ist leicht bewölkt. Es sind nur wenige Besucher hier, sodass wir die Schokoladenherstellung in Ruhe beobachten können. Unser Rundgang dauert etwa 95 Minuten. Zuerst besuchen wir die historische Schokoladenproduktion: alte Maschinen, Werkzeuge und Verpackungen aus dem 19. Jahrhundert. Danach gehen wir zu den modernen Schokoladenmaschinen und Verkostungsbereichen. Wir hören ein Audio: Ein Chocolatier erklärt den Weg von der Kakaobohne bis zur fertigen Schokolade und die verschiedenen Sorten. Im nächsten Bereich gibt es ein Mitmachangebot: Kinder können kleine Pralinen verzieren und eigene Schokolade herstellen. Wir sehen auch alte Rezepte, Skizzen und historische Fotografien. Am Ende können Besucher eine kleine Schokolade als Andenken mitnehmen. Bitte treffen Sie sich um 16:45 Uhr am Ausgang. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Köln sei nur für den Dom bekannt. Aber hier entdecken wir die Welt der Schokolade, Handwerk und Kreativität. Jede Ausstellung erzählt eine Geschichte von Genuss, Tradition und Innovation. Fragen Sie jederzeit! Viel Spaß beim Rundgang und beim Entdecken der Schokolade.",
+    "text_no_newline": "Guten Tag, ich heiße Sabrina Hoffmann und heiße Sie im Museum der Schokolade in Köln willkommen. Heute ist ein Dienstag, und es ist leicht bewölkt. Es sind nur wenige Besucher hier, sodass wir die Schokoladenherstellung in Ruhe beobachten können. Unser Rundgang dauert etwa 95 Minuten. Zuerst besuchen wir die historische Schokoladenproduktion: alte Maschinen, Werkzeuge und Verpackungen aus dem 19. Jahrhundert. Danach gehen wir zu den modernen Schokoladenmaschinen und Verkostungsbereichen. Wir hören ein Audio: Ein Chocolatier erklärt den Weg von der Kakaobohne bis zur fertigen Schokolade und die verschiedenen Sorten. Im nächsten Bereich gibt es ein Mitmachangebot: Kinder können kleine Pralinen verzieren und eigene Schokolade herstellen. Wir sehen auch alte Rezepte, Skizzen und historische Fotografien. Am Ende können Besucher eine kleine Schokolade als Andenken mitnehmen. Bitte treffen Sie sich um 16:45 Uhr am Ausgang. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Köln sei nur für den Dom bekannt. Aber hier entdecken wir die Welt der Schokolade, Handwerk und Kreativität. Jede Ausstellung erzählt eine Geschichte von Genuss, Tradition und Innovation. Fragen Sie jederzeit! Viel Spaß beim Rundgang und beim Entdecken der Schokolade.",
+    "word_count": 476,
+    "question": "Was können Besucher am Ende mitnehmen?",
+    "options": { "a": "eine kleine Schokolade", "b": "ein Rezeptbuch", "c": "ein Pralinenförmchen" },
+    "answer": "a",
+    "additional_questions": [
+      { "question": "Wer erklärt die Schokolade im Audio?", "options": { "a": "ein Chocolatier", "b": "ein Bäcker", "c": "ein Historiker" }, "answer": "a" },
+      { "question": "Was sehen Besucher zuerst?", "options": { "a": "historische Maschinen", "b": "moderne Maschinen", "c": "Fotografien" }, "answer": "a" },
+      { "question": "Wo sollen Besucher ihre Taschen abgeben?", "options": { "a": "an der Garderobe", "b": "am Ausgang", "c": "im Mitmachbereich" }, "answer": "a" },
+      { "question": "Was ist das Hauptthema des Museums?", "options": { "a": "Schokolade und Handwerk", "b": "Köln", "c": "Kunst" }, "answer": "a" }
+    ],
+    "audio_url": "https://example.com/audio52.mp3"
+  },
+  {
+    "id": 53,
+    "title": "Museum der Fotografie Frankfurt",
+    "text": "Guten Morgen, ich heiße Daniel Weber und heiße Sie im Museum der Fotografie in Frankfurt willkommen. Heute ist ein Mittwoch, und es ist regnerisch. Es sind nur wenige Besucher hier, sodass wir die Fotografien in Ruhe betrachten können. Unser Rundgang dauert etwa 95 Minuten. Zuerst besuchen wir die historische Fotografie: alte Kameras, Negative und Fotografien aus dem 19. Jahrhundert. Danach gehen wir zu den modernen Fotografien und Fotokunstwerken: digitale Fotografie, kreative Projekte und internationale Ausstellungen. Wir hören ein Audio: Ein Fotograf erklärt die Geschichte der Fotografie, wichtige Techniken und berühmte Fotografen. Im nächsten Bereich gibt es ein Mitmachangebot: Kinder können eigene Fotos machen, Filter ausprobieren und kleine Fotobücher gestalten. Wir sehen auch alte Fotoalben, Skizzen und Ausstellungskataloge. Am Ende können Besucher ein kleines Foto als Andenken mitnehmen. Bitte treffen Sie sich um 16:35 Uhr am Ausgang. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Frankfurt sei nur für Banken bekannt. Aber hier entdecken wir Kunst, Fotografie und Kreativität. Jede Ausstellung erzählt eine Geschichte von Licht, Perspektive und Inspiration. Fragen Sie jederzeit! Viel Spaß beim Rundgang und beim Entdecken der Fotografie.",
+    "text_no_newline": "Guten Morgen, ich heiße Daniel Weber und heiße Sie im Museum der Fotografie in Frankfurt willkommen. Heute ist ein Mittwoch, und es ist regnerisch. Es sind nur wenige Besucher hier, sodass wir die Fotografien in Ruhe betrachten können. Unser Rundgang dauert etwa 95 Minuten. Zuerst besuchen wir die historische Fotografie: alte Kameras, Negative und Fotografien aus dem 19. Jahrhundert. Danach gehen wir zu den modernen Fotografien und Fotokunstwerken: digitale Fotografie, kreative Projekte und internationale Ausstellungen. Wir hören ein Audio: Ein Fotograf erklärt die Geschichte der Fotografie, wichtige Techniken und berühmte Fotografen. Im nächsten Bereich gibt es ein Mitmachangebot: Kinder können eigene Fotos machen, Filter ausprobieren und kleine Fotobücher gestalten. Wir sehen auch alte Fotoalben, Skizzen und Ausstellungskataloge. Am Ende können Besucher ein kleines Foto als Andenken mitnehmen. Bitte treffen Sie sich um 16:35 Uhr am Ausgang. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Frankfurt sei nur für Banken bekannt. Aber hier entdecken wir Kunst, Fotografie und Kreativität. Jede Ausstellung erzählt eine Geschichte von Licht, Perspektive und Inspiration. Fragen Sie jederzeit! Viel Spaß beim Rundgang und beim Entdecken der Fotografie.",
+    "word_count": 477,
+    "question": "Was können Besucher am Ende mitnehmen?",
+    "options": { "a": "ein kleines Foto", "b": "ein Fotobuch", "c": "eine Kamera" },
+    "answer": "a",
+    "additional_questions": [
+      { "question": "Wer erklärt die Fotografie im Audio?", "options": { "a": "ein Fotograf", "b": "ein Lehrer", "c": "ein Historiker" }, "answer": "a" },
+      { "question": "Was sehen Besucher zuerst?", "options": { "a": "historische Fotografie", "b": "moderne Fotografie", "c": "Ausstellungskataloge" }, "answer": "a" },
+      { "question": "Wo sollen Besucher ihre Taschen abgeben?", "options": { "a": "an der Garderobe", "b": "am Ausgang", "c": "im Mitmachbereich" }, "answer": "a" },
+      { "question": "Was ist das Hauptthema des Museums?", "options": { "a": "Fotografie und Kunst", "b": "Banken", "c": "Kreativität" }, "answer": "a" }
+    ],
+    "audio_url": "https://example.com/audio53.mp3"
+  },
+  {
+    "id": 54,
+    "title": "Museum der Musikinstrumente Leipzig",
+    "text": "Guten Tag, ich heiße Andreas Fischer und heiße Sie im Museum der Musikinstrumente in Leipzig willkommen. Heute ist ein Donnerstag, und es ist sonnig. Es sind nur wenige Besucher hier, sodass wir die Instrumente in Ruhe betrachten können. Unser Rundgang dauert etwa 95 Minuten. Zuerst besuchen wir die historische Sammlung: alte Geigen, Klaviere, Trompeten und Notenblätter aus dem 18. und 19. Jahrhundert. Danach gehen wir zu den modernen Instrumenten: elektronische Keyboards, Schlagzeuge und exotische Instrumente aus aller Welt. Wir hören ein Audio: Ein Musiker erklärt die Geschichte der Musikinstrumente, berühmte Komponisten und die Musikentwicklung in Europa. Im nächsten Bereich gibt es ein Mitmachangebot: Kinder können einfache Rhythmen mit Trommeln oder Xylophon spielen. Wir sehen auch alte Manuskripte, Notenblätter und Skizzen. Am Ende können Besucher ein kleines Musikinstrument als Andenken mitnehmen. Bitte treffen Sie sich um 16:50 Uhr am Ausgang. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Leipzig sei nur für Bach und klassische Musik bekannt. Aber hier entdecken wir Instrumente, Musikgeschichte und Kreativität. Jede Ausstellung erzählt eine Geschichte von Klang, Handwerk und Inspiration. Fragen Sie jederzeit! Viel Spaß beim Rundgang und beim Entdecken der Musikinstrumente.",
+    "text_no_newline": "Guten Tag, ich heiße Andreas Fischer und heiße Sie im Museum der Musikinstrumente in Leipzig willkommen. Heute ist ein Donnerstag, und es ist sonnig. Es sind nur wenige Besucher hier, sodass wir die Instrumente in Ruhe betrachten können. Unser Rundgang dauert etwa 95 Minuten. Zuerst besuchen wir die historische Sammlung: alte Geigen, Klaviere, Trompeten und Notenblätter aus dem 18. und 19. Jahrhundert. Danach gehen wir zu den modernen Instrumenten: elektronische Keyboards, Schlagzeuge und exotische Instrumente aus aller Welt. Wir hören ein Audio: Ein Musiker erklärt die Geschichte der Musikinstrumente, berühmte Komponisten und die Musikentwicklung in Europa. Im nächsten Bereich gibt es ein Mitmachangebot: Kinder können einfache Rhythmen mit Trommeln oder Xylophon spielen. Wir sehen auch alte Manuskripte, Notenblätter und Skizzen. Am Ende können Besucher ein kleines Musikinstrument als Andenken mitnehmen. Bitte treffen Sie sich um 16:50 Uhr am Ausgang. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Leipzig sei nur für Bach und klassische Musik bekannt. Aber hier entdecken wir Instrumente, Musikgeschichte und Kreativität. Jede Ausstellung erzählt eine Geschichte von Klang, Handwerk und Inspiration. Fragen Sie jederzeit! Viel Spaß beim Rundgang und beim Entdecken der Musikinstrumente.",
+    "word_count": 481,
+    "question": "Was können Besucher am Ende mitnehmen?",
+    "options": { "a": "ein kleines Musikinstrument", "b": "ein Notenblatt", "c": "ein Manuskript" },
+    "answer": "a",
+    "additional_questions": [
+      { "question": "Wer erklärt die Instrumente im Audio?", "options": { "a": "ein Musiker", "b": "ein Komponist", "c": "ein Lehrer" }, "answer": "a" },
+      { "question": "Was sehen Besucher zuerst?", "options": { "a": "historische Instrumente", "b": "moderne Instrumente", "c": "Manuskripte" }, "answer": "a" },
+      { "question": "Wo sollen Besucher ihre Taschen abgeben?", "options": { "a": "an der Garderobe", "b": "am Ausgang", "c": "im Mitmachbereich" }, "answer": "a" },
+      { "question": "Was ist das Hauptthema des Museums?", "options": { "a": "Musikinstrumente und Musikgeschichte", "b": "Bach", "c": "Kreativität" }, "answer": "a" }
+    ],
+    "audio_url": "https://example.com/audio54.mp3"
+  }
 ]
-
-
-
-
-
-
-
-
