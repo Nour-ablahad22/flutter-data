@@ -1,29 +1,76 @@
 [
   {
     "id": 2,
-    "title": "Thema: Anzeigen und passende Personen  3333",
+    "title": "Thema: Anzeigen und passende Personen – Niveau B1",
     "texts": [
       {
-        "text": "Es gibt verschiedene Anzeigen ...",
+        "text": "Hier findest du verschiedene Anzeigen. Jede Anzeige beschreibt ein Angebot oder eine Möglichkeit, Deutsch zu lernen oder zu benutzen. Lies die Anzeigen und entscheide, welche Anzeige zu welcher Person passt.",
         "anzeigen": [
-          {"id": "A", "content": "Neu im Verlagsprogramm ..."},
-          {"id": "B", "content": "Trainingsprogramm Deutsch ..."},
-          {"id": "C", "content": "DEUTSCH IN DER SCHWEIZ ..."},
-          {"id": "D", "content": "Job & Sprache-Net ..."},
-          {"id": "E", "content": "Sprachschule ORION ..."},
-          {"id": "F", "content": "Deutsch erLesen ..."},
-          {"id": "G", "content": "Verlag für deutsche Literatur ..."},
-          {"id": "H", "content": "Deutsch in Linz ..."},
-          {"id": "J", "content": "Neues Computerprogramm ..."}
+          {
+            "id": "A",
+            "content": "Neu im Verlagsprogramm: Leicht verständliche Literatur von Schweizer Autoren. Ideal für Deutschlernende ab ca. 100 Lernstunden. Die Texte sind einfach, aber interessant. Perfekt für alle, die gerne lesen."
+          },
+          {
+            "id": "B",
+            "content": "Trainingsprogramm Deutsch: Lernen Sie Deutsch kostenlos im Internet! Das Portal bietet 10 Kurslektionen für Anfänger und Fortgeschrittene, Erklärungen zur Grammatik und viele Online-Übungen."
+          },
+          {
+            "id": "C",
+            "content": "Deutsch in der Schweiz: Wir bieten Intensivkurse mit vielen Unterrichtsstunden pro Woche. Außerdem gibt es Schreibkurse, auch als Fernkurs. Im Sommer haben wir spezielle Kurse mit Freizeitprogramm."
+          },
+          {
+            "id": "D",
+            "content": "Job & Sprache-Net: Sommerjobs für Deutschlernende in Hotels und Restaurants in Deutschland, Österreich und der Schweiz. Sie arbeiten und verbessern gleichzeitig Ihr Deutsch. Unterkunft und Essen sind kostenlos."
+          },
+          {
+            "id": "E",
+            "content": "Sprachschule ORION sucht neue Trainerinnen und Trainer für Deutschkurse. Unterricht von 8:00 bis 17:00 Uhr. Kurse für verschiedene Sprachniveaus, auch für Berufe wie Tourismus."
+          },
+          {
+            "id": "F",
+            "content": "Deutsch erLesen: Ein monatliches Magazin mit aktuellen Artikeln aus Deutschland. Ideal für Menschen, die informiert bleiben und gleichzeitig ihr Deutsch verbessern möchten."
+          },
+          {
+            "id": "G",
+            "content": "Verlag für deutsche Literatur sucht Lektorinnen und Lektoren für Romane, Gedichte und Hörbücher junger Autoren. Perfekt für Menschen, die Literatur lieben und gern mit Texten arbeiten."
+          },
+          {
+            "id": "H",
+            "content": "Deutsch in Linz: Sprachschule mit flexiblen Kurszeiten für Berufstätige. Abendkurse möglich. Online-Test zur Niveau-Einstufung verfügbar."
+          },
+          {
+            "id": "J",
+            "content": "Neues Computerprogramm: Lernsoftware für Büromanagement und Buchhaltung auf Deutsch und Englisch. Geeignet für alle, die am Computer lernen möchten."
+          }
         ],
         "questions": [
           {
-            "question": "Welche Anzeige passt zu Leon ...?",
+            "question": "Welche Anzeige passt zu Leon, der im Sommer im Tourismus-Bereich arbeiten möchte, um sein Deutsch zu verbessern?",
             "answer": "D"
           },
           {
-            "question": "Welche Anzeige passt zu Giovanna ...?",
+            "question": "Welche Anzeige passt zu Giovanna, die deutsche Hörbücher sucht, um unterwegs Deutsch zu lernen?",
             "answer": "G"
+          },
+          {
+            "question": "Welche Anzeige passt zu Mirjeta, die wenig Zeit hat, aber regelmäßig Nachrichten aus Deutschland lesen möchte?",
+            "answer": "F"
+          },
+          {
+            "question": "Welche Anzeige passt zu Maria, die gerne am Computer Deutsch lernen möchte?",
+            "answer": "J"
+          },
+          {
+            "question": "Welche Anzeige passt zu Susan, die einfache Literatur und nicht zu schwierige Texte lesen möchte?",
+            "answer": "A"
+          },
+          {
+            "question": "Welche Anzeige passt zu Miroslav, der besser schreiben muss, weil er im Studium viele Texte schreiben muss?",
+            "answer": "C"
+          },
+          {
+            "question": "Welche Anzeige passt zu Juan, der nur am Abend zu einem Kurs gehen kann?",
+            "answer": "H"
           }
         ]
       }
