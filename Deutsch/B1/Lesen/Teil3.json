@@ -75,5 +75,92 @@
         ]
       }
     ]
+  },
+  
+  {
+    "id": 3,
+    "title": " Anzeigen und passende Personen – Neue Runde ",
+    "texts": [
+      {
+        "text": "Hier findest du neue Anzeigen. Jede Anzeige beschreibt ein Angebot oder eine Möglichkeit, Deutsch zu lernen oder zu benutzen. Lies die Anzeigen und entscheide, welche Anzeige zu welcher Person passt.",
+        "anzeigen": [
+          {
+            "id": "A",
+            "content": "Deutsch & Musik: Kurs für Jugendliche, die Deutsch mit Liedern und Musikvideos lernen möchten. Spielerisch und kreativ."
+          },
+          {
+            "id": "B",
+            "content": "Sprachcafé Berlin: Treffen Sie Menschen aus aller Welt und sprechen Sie Deutsch in entspannter Atmosphäre bei Kaffee und Kuchen."
+          },
+          {
+            "id": "C",
+            "content": "Online-Business-Deutsch: Intensivkurs für Berufstätige mit Schwerpunkt E-Mails, Präsentationen und Telefonate im Büro."
+          },
+          {
+            "id": "D",
+            "content": "Sommerakademie Wien: Deutschkurse kombiniert mit Kunst- und Theaterprojekten. Ideal für kreative Köpfe."
+          },
+          {
+            "id": "E",
+            "content": "Deutsch für Kinder: Spielerische Lernstunden mit Geschichten, Basteln und Spielen. Geeignet für Kinder zwischen 6 und 12 Jahren."
+          },
+          {
+            "id": "F",
+            "content": "Leseklub Frankfurt: Jeden Monat ein neues deutsches Buch gemeinsam lesen und diskutieren. Für Literaturfans."
+          },
+          {
+            "id": "G",
+            "content": "Deutsch & Sport: Sprachcamp mit Fußballtraining am Nachmittag. Vormittags Deutschunterricht, nachmittags Sport."
+          },
+          {
+            "id": "H",
+            "content": "Fernkurs Grammatik: Lernen Sie bequem von zu Hause mit Videolektionen und Online-Übungen. Flexible Zeiten."
+          },
+          {
+            "id": "J",
+            "content": "Deutsch im Alltag: Praktische Übungen für Einkaufen, Arztbesuche und Behördengänge. Ideal für Neuankömmlinge."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Welche Anzeige passt zu Paolo, der Fußball liebt und gleichzeitig sein Deutsch verbessern möchte?",
+            "answer": "G"
+          },
+          {
+            "question": "Welche Anzeige passt zu Anna, die gerne deutsche Bücher liest und darüber diskutieren möchte?",
+            "answer": "F"
+          },
+          {
+            "question": "Welche Anzeige passt zu Karim, der im Büro arbeitet und seine geschäftliche Kommunikation verbessern muss?",
+            "answer": "C"
+          },
+          {
+            "question": "Welche Anzeige passt zu Lara, die nur von zu Hause aus lernen kann und flexible Zeiten braucht?",
+            "answer": "H"
+          },
+          {
+            "question": "Welche Anzeige passt zu Sofia, die Musik liebt und spielerisch Deutsch lernen möchte?",
+            "answer": "A"
+          },
+          {
+            "question": "Welche Anzeige passt zu Tom, der neu in Deutschland ist und Alltagssituationen üben möchte?",
+            "answer": "J"
+          },
+          {
+            "question": "Welche Anzeige passt zu Julia, die gerne neue Leute bei Kaffee kennenlernen und Deutsch sprechen möchte?",
+            "answer": "B"
+          },
+          {
+            "question": "Welche Anzeige passt zu Max, der im Sommer Kunst und Theater mit Deutsch verbinden möchte?",
+            "answer": "D"
+          },
+          {
+            "question": "Welche Anzeige passt zu Kindern zwischen 6 und 12 Jahren, die spielerisch Deutsch lernen sollen?",
+            "answer": "E"
+          }
+        ]
+      }
+    ]
   }
+
 ]
