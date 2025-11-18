@@ -47,10 +47,7 @@
       }
     ]
   }
-]
-///////////////////////////////////////////////
-
-[
+,
   {
     "id": 2,
     "title": "Thema: Jugendliche und Gewaltspiele",
@@ -99,11 +96,7 @@
       }
     ]
   }
-]
-
-###########################################
-
-[
+,
   {
     "id": 3,
     "title": "Thema: Videospiele – Spiel oder Gefahr?",
@@ -152,10 +145,7 @@
       }
     ]
   }
-]
-
-################################################
-[
+,
   {
     "id": 4,
     "title": "Thema: Sollen Computerspiele mit Gewalt verboten werden?",
@@ -204,12 +194,7 @@
       }
     ]
   }
-]
-
-#########################################
-
-
-[
+,
   {
     "id": 5,
     "title": "Thema: Gewalt in Spielen – Problem oder kein Problem?",
@@ -258,11 +243,7 @@
       }
     ]
   }
-]
-
-###########################
-
-[
+,
   {
     "id": 6,
     "title": "Thema: Sind Gewaltspiele gefährlich für Jugendliche?",
@@ -311,12 +292,7 @@
       }
     ]
   }
-]
-
-
-###############################
-
-[
+,
   {
     "id": 7,
     "title": "Thema: Sollen Spiele mit Gewalt für Kinder verboten werden?",
@@ -557,10 +533,7 @@
       }
     ]
   }
-]
-
-##################################
-[
+,
   {
     "id": 12,
     "title": "Thema: Sollen Jugendliche Gewaltspiele spielen?",
@@ -801,13 +774,7 @@
       }
     ]
   }
-]
-
-##############################
-
-
-
-[
+,
   {
     "id": 17,
     "title": "Thema: Sollen Jugendliche Spiele mit Gewalt spielen?",
@@ -1048,12 +1015,7 @@
       }
     ]
   }
-]
-
-
-################################
-
-[
+,
   {
     "id": 22,
     "title": "Thema: Sollen Killerspiele verboten werden?",
@@ -1296,7 +1258,7 @@
   }
 ]
 
-####################################
+
 
 
 
