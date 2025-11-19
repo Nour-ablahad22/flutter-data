@@ -1,155 +1,52 @@
 [
   {
-    "title": "Besuch im Botanischen Garten",
-    "question": "Sie haben vor einer Woche den Botanischen Garten besucht. Ein Freund/Eine Freundin von Ihnen konnte nicht mitkommen, weil er/sie krank war. – Beschreiben Sie: Wie war der Besuch? – Begründen Sie: Welches Geschenk finden Sie besonders toll und warum? – Machen Sie einen Vorschlag für ein Treffen. Schreiben Sie eine E-Mail (circa 80 Wörter). Schreiben Sie etwas zu allen drei Punkten. Achten Sie auf den Textaufbau (Anrede, Einleitung, Reihenfolge der Inhaltspunkte, Schluss).",
-    "answer": "Liebe/r [Name],\n\nder Besuch im Botanischen Garten war wunderschön! Ich habe viele Blumen und Pflanzen gesehen und Fotos gemacht. Dein Geschenk, das Pflanzenbuch, hat mir besonders gefallen, weil es sehr informativ ist.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen einen Spaziergang im Park machen oder die Fotos anschauen.\n\nLiebe Grüße\n[Dein Name]"
+    "id": 1,
+    "question": "Sie haben vor einer Woche eine Kunstausstellung besucht. Ein Freund/eine Freundin konnte nicht mitkommen, weil er/sie krank war. \n– Beschreiben Sie: Wie war die Ausstellung? \n– Begründen Sie: Welches Geschenk finden Sie besonders schön und warum? \n– Machen Sie einen Vorschlag für ein Treffen. \nSchreiben Sie eine E-Mail (ca. 80 Wörter).",
+    "answer": "Liebe/r [Name],\ndie Kunstausstellung war beeindruckend! Ich habe viele moderne Gemälde und Skulpturen gesehen. Besonders schön fand ich das kleine Kunstposter, das du mir geschenkt hast, weil es meine Lieblingsfarben zeigt.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen in ein Café gehen, um über Kunst zu sprechen.\n\nLiebe Grüße\n[Dein Name]"
   },
   {
-    "title": "Besuch im Planetarium",
-    "question": "Sie haben vor einer Woche das Planetarium besucht. Ein Freund/Eine Freundin von Ihnen konnte nicht mitkommen, weil er/sie krank war. – Beschreiben Sie: Wie war der Besuch? – Begründen Sie: Welches Geschenk finden Sie besonders toll und warum? – Machen Sie einen Vorschlag für ein Treffen. Schreiben Sie eine E-Mail (circa 80 Wörter). Schreiben Sie etwas zu allen drei Punkten. Achten Sie auf den Textaufbau (Anrede, Einleitung, Reihenfolge der Inhaltspunkte, Schluss).",
-    "answer": "Liebe/r [Name],\ndas Planetarium war sehr spannend! Ich habe viel über Sterne und Planeten gelernt und eine tolle Show gesehen. Dein Geschenk, das Sternenposter, hat mir besonders gefallen, weil es sehr schön aussieht.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen die Sternbilder beobachten.\n\nLiebe Grüße\n[Dein Name]"
+    "id": 2,
+    "question": "Sie haben vor einer Woche an einem Kochkurs teilgenommen. Ein Freund/eine Freundin konnte nicht mitkommen, weil er/sie krank war. \n– Beschreiben Sie: Wie war der Kurs? \n– Begründen Sie: Welches Geschenk finden Sie besonders toll und warum? \n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\nder Kochkurs war sehr interessant! Wir haben italienische Gerichte zubereitet und neue Rezepte gelernt. Dein Geschenk, das Kochbuch, hat mir besonders gefallen, weil ich jetzt viele neue Ideen zum Kochen habe.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen etwas Leckeres kochen.\n\nLiebe Grüße\n[Dein Name]"
   },
   {
-    "title": "Fotografie-Workshop",
-    "question": "Sie haben vor einer Woche an einem Fotografie-Workshop teilgenommen. Ein Freund/Eine Freundin von Ihnen konnte nicht mitkommen, weil er/sie krank war. – Beschreiben Sie: Wie war der Workshop? – Begründen Sie: Welches Geschenk finden Sie besonders toll und warum? – Machen Sie einen Vorschlag für ein Treffen. Schreiben Sie eine E-Mail (circa 80 Wörter). Schreiben Sie etwas zu allen drei Punkten. Achten Sie auf den Textaufbau (Anrede, Einleitung, Reihenfolge der Inhaltspunkte, Schluss).",
-    "answer": "Liebe/r [Name],\nder Fotografie-Workshop war sehr interessant! Wir haben viele Tipps gelernt und tolle Fotos gemacht. Dein Geschenk, das Kamera-Zubehör, hat mir besonders gefallen, weil es sehr praktisch ist.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen Fotos machen.\n\nLiebe Grüße\n[Dein Name]"
+    "id": 3,
+    "question": "Sie haben vor einer Woche einen Fotokurs besucht. Ein Freund/eine Freundin konnte nicht mitkommen, weil er/sie krank war. \n– Beschreiben Sie: Wie war der Kurs? \n– Begründen Sie: Welches Geschenk finden Sie besonders praktisch und warum? \n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\nder Fotokurs war spannend und lehrreich! Ich habe viele neue Techniken ausprobiert und tolle Fotos gemacht. Besonders praktisch finde ich die Kameratasche, die du mir geschenkt hast, weil sie viel Platz bietet.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen fotografieren gehen.\n\nLiebe Grüße\n[Dein Name]"
   },
   {
-    "title": "Tagesausflug ans Meer",
-    "question": "Sie haben vor einer Woche einen Tagesausflug ans Meer gemacht. Ein Freund/Eine Freundin von Ihnen konnte nicht mitkommen, weil er/sie krank war. – Beschreiben Sie: Wie war der Ausflug? – Begründen Sie: Welches Geschenk finden Sie besonders toll und warum? – Machen Sie einen Vorschlag für ein Treffen. Schreiben Sie eine E-Mail (circa 80 Wörter). Schreiben Sie etwas zu allen drei Punkten. Achten Sie auf den Textaufbau (Anrede, Einleitung, Reihenfolge der Inhaltspunkte, Schluss).",
-    "answer": "Liebe/r [Name],\nder Ausflug ans Meer war wunderschön! Wir haben Muscheln gesammelt und viel Spaß gehabt. Dein Geschenk, die Strandtasche, hat mir besonders gefallen, weil sie sehr praktisch ist.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen einen Spaziergang am See oder Meer machen.\n\nLiebe Grüße\n[Dein Name]"
+    "id": 4,
+    "question": "Sie haben vor einer Woche an einem Tanzkurs teilgenommen. Ein Freund/eine Freundin konnte nicht mitkommen, weil er/sie krank war. \n– Beschreiben Sie: Wie war der Kurs? \n– Begründen Sie: Welches Geschenk finden Sie besonders schön und warum? \n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\nder Tanzkurs war super lustig! Ich habe neue Schritte gelernt und viel gelacht. Dein Geschenk, die Tanz-CD, hat mir besonders gefallen, weil ich die Musik oft hören kann.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen tanzen üben.\n\nLiebe Grüße\n[Dein Name]"
   },
   {
-    "title": "Besuch eines Wissenschaftsmuseums",
-    "question": "Sie haben vor einer Woche ein Wissenschaftsmuseum besucht. Ein Freund/Eine Freundin von Ihnen konnte nicht mitkommen, weil er/sie krank war. – Beschreiben Sie: Wie war der Besuch? – Begründen Sie: Welches Geschenk finden Sie besonders toll und warum? – Machen Sie einen Vorschlag für ein Treffen. Schreiben Sie eine E-Mail (circa 80 Wörter). Schreiben Sie etwas zu allen drei Punkten. Achten Sie auf den Textaufbau (Anrede, Einleitung, Reihenfolge der Inhaltspunkte, Schluss).",
-    "answer": "Liebe/r [Name],\ndas Wissenschaftsmuseum war sehr spannend! Ich habe viele Experimente gesehen und ausprobiert. Dein Geschenk, das kleine Experimentier-Set, hat mir besonders gefallen, weil ich damit viel lernen kann.\n\nVielleicht könnten wir uns nächste Woche treffen und ein Experiment zusammen machen.\n\nLiebe Grüße\n[Dein Name]"
+    "id": 5,
+    "question": "Sie haben vor einer Woche einen Ausflug in die Berge gemacht. Ein Freund/eine Freundin konnte nicht mitkommen, weil er/sie krank war. \n– Beschreiben Sie: Wie war der Ausflug? \n– Begründen Sie: Welches Geschenk finden Sie besonders nützlich und warum? \n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\nder Ausflug in die Berge war wunderschön! Wir sind gewandert und haben die Aussicht genossen. Dein Geschenk, die Wanderkarte, hat mir besonders gefallen, weil sie mir geholfen hat, die besten Wege zu finden.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen einen Spaziergang machen.\n\nLiebe Grüße\n[Dein Name]"
   },
   {
-    "title": "Besuch im Freizeitpark",
-    "question": "Sie haben vor einer Woche einen Freizeitpark besucht. Ein Freund/Eine Freundin von Ihnen konnte nicht mitkommen, weil er/sie krank war. – Beschreiben Sie: Wie war der Besuch? – Begründen Sie: Welches Geschenk finden Sie besonders toll und warum? – Machen Sie einen Vorschlag für ein Treffen. Schreiben Sie eine E-Mail (circa 80 Wörter). Schreiben Sie etwas zu allen drei Punkten. Achten Sie auf den Textaufbau (Anrede, Einleitung, Reihenfolge der Inhaltspunkte, Schluss).",
-    "answer": "Liebe/r [Name],\nder Besuch im Freizeitpark war aufregend! Wir sind viele Fahrgeschäfte gefahren und haben viel gelacht. Dein Geschenk, das T-Shirt, hat mir besonders gefallen, weil es sehr schön ist.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen ein Spiel spielen oder einen kleinen Park besuchen.\n\nLiebe Grüße\n[Dein Name]"
+    "id": 6,
+    "question": "Sie haben vor einer Woche einen Besuch im Planetarium gemacht. Ein Freund/eine Freundin konnte nicht mitkommen, weil er/sie krank war. \n– Beschreiben Sie: Wie war der Besuch? \n– Begründen Sie: Welches Geschenk finden Sie besonders interessant und warum? \n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\nder Besuch im Planetarium war faszinierend! Ich habe viele Sterne und Planeten gesehen. Dein Geschenk, das Sternenbuch, hat mir besonders gefallen, weil ich jetzt mehr über das Universum lernen kann.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen einen Spaziergang unter dem Sternenhimmel machen.\n\nLiebe Grüße\n[Dein Name]"
   },
   {
-    "title": "Besuch eines Bauernhofs",
-    "question": "Sie haben vor einer Woche einen Bauernhof besucht. Ein Freund/Eine Freundin von Ihnen konnte nicht mitkommen, weil er/sie krank war. – Beschreiben Sie: Wie war der Besuch? – Begründen Sie: Welches Geschenk finden Sie besonders toll und warum? – Machen Sie einen Vorschlag für ein Treffen. Schreiben Sie eine E-Mail (circa 80 Wörter). Schreiben Sie etwas zu allen drei Punkten. Achten Sie auf den Textaufbau (Anrede, Einleitung, Reihenfolge der Inhaltspunkte, Schluss).",
-    "answer": "Liebe/r [Name],\nder Besuch auf dem Bauernhof war sehr interessant! Ich habe viele Tiere gesehen und Fotos gemacht. Dein Geschenk, das Tierbuch, hat mir besonders gefallen, weil es sehr informativ ist.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen die Tiere im Zoo besuchen.\n\nLiebe Grüße\n[Dein Name]"
+    "id": 7,
+    "question": "Sie haben vor einer Woche an einem Yoga-Kurs teilgenommen. Ein Freund/eine Freundin konnte nicht mitkommen, weil er/sie krank war. \n– Beschreiben Sie: Wie war der Kurs? \n– Begründen Sie: Welches Geschenk finden Sie besonders angenehm und warum? \n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\nder Yoga-Kurs war sehr entspannend! Ich habe viele neue Übungen gelernt. Dein Geschenk, die Yogamatte, hat mir besonders gefallen, weil sie bequem und rutschfest ist.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen Yoga im Park machen.\n\nLiebe Grüße\n[Dein Name]"
   },
   {
-    "title": "Besuch eines Kunstworkshops",
-    "question": "Sie haben vor einer Woche an einem Kunstworkshop teilgenommen. Ein Freund/Eine Freundin von Ihnen konnte nicht mitkommen, weil er/sie krank war. – Beschreiben Sie: Wie war der Workshop? – Begründen Sie: Welches Geschenk finden Sie besonders toll und warum? – Machen Sie einen Vorschlag für ein Treffen. Schreiben Sie eine E-Mail (circa 80 Wörter). Schreiben Sie etwas zu allen drei Punkten. Achten Sie auf den Textaufbau (Anrede, Einleitung, Reihenfolge der Inhaltspunkte, Schluss).",
-    "answer": "Liebe/r [Name],\nder Kunstworkshop war sehr kreativ! Ich habe neue Techniken gelernt und Bilder gemalt. Dein Geschenk, die Farben, haben mir besonders gefallen, weil sie sehr schön und nützlich sind.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen malen.\n\nLiebe Grüße\n[Dein Name]"
+    "id": 8,
+    "question": "Sie haben vor einer Woche einen Besuch im Planetarium gemacht. Ein Freund/eine Freundin konnte nicht mitkommen, weil er/sie krank war. \n– Beschreiben Sie: Wie war der Besuch? \n– Begründen Sie: Welches Geschenk finden Sie besonders interessant und warum? \n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\nder Besuch im Naturhistorischen Museum war spannend! Ich habe viele Dinosaurier und Fossilien gesehen. Besonders interessant finde ich das kleine Fossil, das du mir geschenkt hast, weil es wirklich alt ist.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen ein Museum besuchen.\n\nLiebe Grüße\n[Dein Name]"
   },
   {
-    "title": "Wanderung im Wald",
-    "question": "Sie haben vor einer Woche eine Wanderung im Wald gemacht. Ein Freund/Eine Freundin von Ihnen konnte nicht mitkommen, weil er/sie krank war. – Beschreiben Sie: Wie war die Wanderung? – Begründen Sie: Welches Geschenk finden Sie besonders toll und warum? – Machen Sie einen Vorschlag für ein Treffen. Schreiben Sie eine E-Mail (circa 80 Wörter). Schreiben Sie etwas zu allen drei Punkten. Achten Sie auf den Textaufbau (Anrede, Einleitung, Reihenfolge der Inhaltspunkte, Schluss).",
-    "answer": "Liebe/r [Name],\ndie Wanderung im Wald war toll! Wir haben die Natur genossen und viele Fotos gemacht. Dein Geschenk, die Wanderkarte, hat mir besonders gefallen, weil sie sehr praktisch ist.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen eine kleine Wanderung machen.\n\nLiebe Grüße\n[Dein Name]"
+    "id": 9,
+    "question": "Sie haben vor einer Woche an einem Schreibworkshop teilgenommen. Ein Freund/eine Freundin konnte nicht mitkommen, weil er/sie krank war. \n– Beschreiben Sie: Wie war der Workshop? \n– Begründen Sie: Welches Geschenk finden Sie besonders inspirierend und warum? \n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\nder Schreibworkshop war sehr kreativ! Ich habe viele neue Ideen für Geschichten bekommen. Besonders inspirierend finde ich das Notizbuch, das du mir geschenkt hast, weil ich darin alle meine Ideen sammeln kann.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen schreiben.\n\nLiebe Grüße\n[Dein Name]"
   },
   {
-    "title": "Besuch eines Flohmarkts",
-    "question": "Sie haben vor einer Woche einen Flohmarkt besucht. Ein Freund/Eine Freundin von Ihnen konnte nicht mitkommen, weil er/sie krank war. – Beschreiben Sie: Wie war der Besuch? – Begründen Sie: Welches Geschenk finden Sie besonders toll und warum? – Machen Sie einen Vorschlag für ein Treffen. Schreiben Sie eine E-Mail (circa 80 Wörter). Schreiben Sie etwas zu allen drei Punkten. Achten Sie auf den Textaufbau (Anrede, Einleitung, Reihenfolge der Inhaltspunkte, Schluss).",
-    "answer": "Liebe/r [Name],\nder Flohmarkt war interessant! Ich habe viele alte Sachen gesehen und gekauft. Dein Geschenk, die Einkaufstasche, hat mir besonders gefallen, weil sie sehr praktisch ist.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen noch einmal auf einen kleinen Markt gehen.\n\nLiebe Grüße\n[Dein Name]"
-  }
-,
-  {
-    "title": "Besuch im Botanischen Garten",
-    "question": "Sie haben vor einer Woche den Botanischen Garten besucht. Ein Freund/Eine Freundin von Ihnen konnte nicht mitkommen, weil er/sie krank war. – Beschreiben Sie: Wie war der Besuch? – Begründen Sie: Welches Geschenk finden Sie besonders toll und warum? – Machen Sie einen Vorschlag für ein Treffen. Schreiben Sie eine E-Mail (circa 80 Wörter). Schreiben Sie etwas zu allen drei Punkten. Achten Sie auf den Textaufbau (Anrede, Einleitung, Reihenfolge der Inhaltspunkte, Schluss).",
-    "answer": "Liebe/r [Name],\n\nder Besuch im Botanischen Garten war wunderschön! Ich habe viele Blumen und Pflanzen gesehen und Fotos gemacht. Dein Geschenk, das Pflanzenbuch, hat mir besonders gefallen, weil es sehr informativ ist.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen einen Spaziergang im Park machen oder die Fotos anschauen.\n\nLiebe Grüße\n[Dein Name]"
-  },
-  {
-    "title": "Besuch im Planetarium",
-    "question": "Sie haben vor einer Woche das Planetarium besucht. Ein Freund/Eine Freundin von Ihnen konnte nicht mitkommen, weil er/sie krank war. – Beschreiben Sie: Wie war der Besuch? – Begründen Sie: Welches Geschenk finden Sie besonders toll und warum? – Machen Sie einen Vorschlag für ein Treffen. Schreiben Sie eine E-Mail (circa 80 Wörter). Schreiben Sie etwas zu allen drei Punkten. Achten Sie auf den Textaufbau (Anrede, Einleitung, Reihenfolge der Inhaltspunkte, Schluss).",
-    "answer": "Liebe/r [Name],\ndas Planetarium war sehr spannend! Ich habe viel über Sterne und Planeten gelernt und eine tolle Show gesehen. Dein Geschenk, das Sternenposter, hat mir besonders gefallen, weil es sehr schön aussieht.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen die Sternbilder beobachten.\n\nLiebe Grüße\n[Dein Name]"
-  },
-  {
-    "title": "Fotografie-Workshop",
-    "question": "Sie haben vor einer Woche an einem Fotografie-Workshop teilgenommen. Ein Freund/Eine Freundin von Ihnen konnte nicht mitkommen, weil er/sie krank war. – Beschreiben Sie: Wie war der Workshop? – Begründen Sie: Welches Geschenk finden Sie besonders toll und warum? – Machen Sie einen Vorschlag für ein Treffen. Schreiben Sie eine E-Mail (circa 80 Wörter). Schreiben Sie etwas zu allen drei Punkten. Achten Sie auf den Textaufbau (Anrede, Einleitung, Reihenfolge der Inhaltspunkte, Schluss).",
-    "answer": "Liebe/r [Name],\nder Fotografie-Workshop war sehr interessant! Wir haben viele Tipps gelernt und tolle Fotos gemacht. Dein Geschenk, das Kamera-Zubehör, hat mir besonders gefallen, weil es sehr praktisch ist.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen Fotos machen.\n\nLiebe Grüße\n[Dein Name]"
-  },
-  {
-    "title": "Tagesausflug ans Meer",
-    "question": "Sie haben vor einer Woche einen Tagesausflug ans Meer gemacht. Ein Freund/Eine Freundin von Ihnen konnte nicht mitkommen, weil er/sie krank war. – Beschreiben Sie: Wie war der Ausflug? – Begründen Sie: Welches Geschenk finden Sie besonders toll und warum? – Machen Sie einen Vorschlag für ein Treffen. Schreiben Sie eine E-Mail (circa 80 Wörter). Schreiben Sie etwas zu allen drei Punkten. Achten Sie auf den Textaufbau (Anrede, Einleitung, Reihenfolge der Inhaltspunkte, Schluss).",
-    "answer": "Liebe/r [Name],\nder Ausflug ans Meer war wunderschön! Wir haben Muscheln gesammelt und viel Spaß gehabt. Dein Geschenk, die Strandtasche, hat mir besonders gefallen, weil sie sehr praktisch ist.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen einen Spaziergang am See oder Meer machen.\n\nLiebe Grüße\n[Dein Name]"
-  },
-  {
-    "title": "Besuch eines Wissenschaftsmuseums",
-    "question": "Sie haben vor einer Woche ein Wissenschaftsmuseum besucht. Ein Freund/Eine Freundin von Ihnen konnte nicht mitkommen, weil er/sie krank war. – Beschreiben Sie: Wie war der Besuch? – Begründen Sie: Welches Geschenk finden Sie besonders toll und warum? – Machen Sie einen Vorschlag für ein Treffen. Schreiben Sie eine E-Mail (circa 80 Wörter). Schreiben Sie etwas zu allen drei Punkten. Achten Sie auf den Textaufbau (Anrede, Einleitung, Reihenfolge der Inhaltspunkte, Schluss).",
-    "answer": "Liebe/r [Name],\ndas Wissenschaftsmuseum war sehr spannend! Ich habe viele Experimente gesehen und ausprobiert. Besonders gefallen hat mir das kleine Experimentier-Set, das du mir geschenkt hast, weil ich damit viel lernen kann.\n\nVielleicht könnten wir uns nächste Woche treffen und ein Experiment zusammen machen.\n\nLiebe Grüße\n[Dein Name]"
-  },
-  {
-    "title": "Besuch im Freizeitpark",
-    "question": "Sie haben vor einer Woche einen Freizeitpark besucht. Ein Freund/Eine Freundin von Ihnen konnte nicht mitkommen, weil er/sie krank war. – Beschreiben Sie: Wie war der Besuch? – Begründen Sie: Welches Geschenk finden Sie besonders toll und warum? – Machen Sie einen Vorschlag für ein Treffen. Schreiben Sie eine E-Mail (circa 80 Wörter). Schreiben Sie etwas zu allen drei Punkten. Achten Sie auf den Textaufbau (Anrede, Einleitung, Reihenfolge der Inhaltspunkte, Schluss).",
-    "answer": "Liebe/r [Name],\nder Besuch im Freizeitpark war aufregend! Wir sind viele Fahrgeschäfte gefahren und haben viel gelacht. Dein Geschenk, das T-Shirt, hat mir besonders gefallen, weil es sehr schön ist.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen ein Spiel spielen oder einen kleinen Park besuchen.\n\nLiebe Grüße\n[Dein Name]"
-  },
-  {
-    "title": "Besuch eines Bauernhofs",
-    "question": "Sie haben vor einer Woche einen Bauernhof besucht. Ein Freund/Eine Freundin von Ihnen konnte nicht mitkommen, weil er/sie krank war. – Beschreiben Sie: Wie war der Besuch? – Begründen Sie: Welches Geschenk finden Sie besonders toll und warum? – Machen Sie einen Vorschlag für ein Treffen. Schreiben Sie eine E-Mail (circa 80 Wörter). Schreiben Sie etwas zu allen drei Punkten. Achten Sie auf den Textaufbau (Anrede, Einleitung, Reihenfolge der Inhaltspunkte, Schluss).",
-    "answer": "Liebe/r [Name],\nder Besuch auf dem Bauernhof war sehr interessant! Ich habe viele Tiere gesehen und Fotos gemacht. Dein Geschenk, das Tierbuch, hat mir besonders gefallen, weil es sehr informativ ist.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen die Tiere im Zoo besuchen.\n\nLiebe Grüße\n[Dein Name]"
-  },
-  {
-    "title": "Besuch eines Kunstworkshops",
-    "question": "Sie haben vor einer Woche an einem Kunstworkshop teilgenommen. Ein Freund/Eine Freundin von Ihnen konnte nicht mitkommen, weil er/sie krank war. – Beschreiben Sie: Wie war der Workshop? – Begründen Sie: Welches Geschenk finden Sie besonders toll und warum? – Machen Sie einen Vorschlag für ein Treffen. Schreiben Sie eine E-Mail (circa 80 Wörter). Schreiben Sie etwas zu allen drei Punkten. Achten Sie auf den Textaufbau (Anrede, Einleitung, Reihenfolge der Inhaltspunkte, Schluss).",
-    "answer": "Liebe/r [Name],\nder Kunstworkshop war sehr kreativ! Ich habe neue Techniken gelernt und Bilder gemalt. Dein Geschenk, die Farben, haben mir besonders gefallen, weil sie sehr schön und nützlich sind.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen malen.\n\nLiebe Grüße\n[Dein Name]"
-  },
-  {
-    "title": "Wanderung im Wald",
-    "question": "Sie haben vor einer Woche eine Wanderung im Wald gemacht. Ein Freund/Eine Freundin von Ihnen konnte nicht mitkommen, weil er/sie krank war. – Beschreiben Sie: Wie war die Wanderung? – Begründen Sie: Welches Geschenk finden Sie besonders toll und warum? – Machen Sie einen Vorschlag für ein Treffen. Schreiben Sie eine E-Mail (circa 80 Wörter). Schreiben Sie etwas zu allen drei Punkten. Achten Sie auf den Textaufbau (Anrede, Einleitung, Reihenfolge der Inhaltspunkte, Schluss).",
-    "answer": "Liebe/r [Name],\ndie Wanderung im Wald war toll! Wir haben die Natur genossen und viele Fotos gemacht. Dein Geschenk, die Wanderkarte, hat mir besonders gefallen, weil sie sehr praktisch ist.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen eine kleine Wanderung machen.\n\nLiebe Grüße\n[Dein Name]"
-  },
-  {
-    "title": "Besuch eines Flohmarkts",
-    "question": "Sie haben vor einer Woche einen Flohmarkt besucht. Ein Freund/Eine Freundin von Ihnen konnte nicht mitkommen, weil er/sie krank war. – Beschreiben Sie: Wie war der Besuch? – Begründen Sie: Welches Geschenk finden Sie besonders toll und warum? – Machen Sie einen Vorschlag für ein Treffen. Schreiben Sie eine E-Mail (circa 80 Wörter). Schreiben Sie etwas zu allen drei Punkten. Achten Sie auf den Textaufbau (Anrede, Einleitung, Reihenfolge der Inhaltspunkte, Schluss).",
-    "answer": "Liebe/r [Name],\nder Flohmarkt war interessant! Ich habe viele alte Sachen gesehen und gekauft. Dein Geschenk, die Einkaufstasche, hat mir besonders gefallen, weil sie sehr praktisch ist.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen noch einmal auf einen kleinen Markt gehen.\n\nLiebe Grüße\n[Dein Name]"
-  }
-,
-  {
-    "title": "Besuch eines Escape Rooms",
-    "question": "Sie haben vor einer Woche einen Escape Room besucht. Ein Freund/Eine Freundin von Ihnen konnte nicht mitkommen, weil er/sie krank war. – Beschreiben Sie: Wie war der Escape Room? – Begründen Sie: Welches Geschenk finden Sie besonders toll und warum? – Machen Sie einen Vorschlag für ein Treffen. Schreiben Sie eine E-Mail (circa 80 Wörter).",
-    "answer": "Liebe/r [Name],\n\nder Escape Room war super spannend! Wir haben viele Rätsel gelöst und viel gelacht. Besonders toll fand ich das kleine Logikspiel, das du mir geschenkt hast, weil es sehr herausfordernd ist.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen ein weiteres Rätselspiel spielen.\n\nLiebe Grüße\n[Dein Name]"
-  },
-  {
-    "title": "Besuch eines Kletterparks",
-    "question": "Sie haben vor einer Woche einen Kletterpark besucht. Ein Freund/Eine Freundin von Ihnen konnte nicht mitkommen, weil er/sie krank war. – Beschreiben Sie: Wie war der Kletterpark? – Begründen Sie: Welches Geschenk finden Sie besonders toll und warum? – Machen Sie einen Vorschlag für ein Treffen.",
-    "answer": "Liebe/r [Name],\n\nder Besuch im Kletterpark war aufregend! Ich habe viele Hindernisse überwunden und Spaß gehabt. Besonders toll fand ich die neue Sporthandschuhe, die du mir geschenkt hast, weil sie sehr praktisch sind.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen ein kleines Abenteuer im Park machen.\n\nLiebe Grüße\n[Dein Name]"
-  },
-  {
-    "title": "Besuch einer Schokoladenfabrik",
-    "question": "Sie haben vor einer Woche eine Schokoladenfabrik besucht. Ein Freund/Eine Freundin von Ihnen konnte nicht mitkommen, weil er/sie krank war. – Beschreiben Sie: Wie war die Fabrik? – Begründen Sie: Welches Geschenk finden Sie besonders toll und warum? – Machen Sie einen Vorschlag für ein Treffen.",
-    "answer": "Liebe/r [Name],\ndie Schokoladenfabrik war sehr interessant! Wir haben viel über die Herstellung gelernt und leckere Schokolade probiert. Dein Geschenk, die Pralinenbox, hat mir besonders gefallen, weil sie sehr lecker ist.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen etwas Süßes backen.\n\nLiebe Grüße\n[Dein Name]"
-  },
-  {
-    "title": "Besuch eines Indoor-Spielplatzes",
-    "question": "Sie haben vor einer Woche einen Indoor-Spielplatz besucht. Ein Freund/Eine Freundin von Ihnen konnte nicht mitkommen, weil er/sie krank war. – Beschreiben Sie: Wie war der Spielplatz? – Begründen Sie: Welches Geschenk finden Sie besonders toll und warum? – Machen Sie einen Vorschlag für ein Treffen.",
-    "answer": "Liebe/r [Name],\nder Indoor-Spielplatz war sehr lustig! Ich habe viel geklettert und neue Spiele ausprobiert. Besonders toll fand ich das Puzzle, das du mir geschenkt hast, weil es Spaß macht und knifflig ist.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen spielen.\n\nLiebe Grüße\n[Dein Name]"
-  },
-  {
-    "title": "Besuch eines Musikcafés",
-    "question": "Sie haben vor einer Woche ein Musikcafé besucht. Ein Freund/Eine Freundin von Ihnen konnte nicht mitkommen, weil er/sie krank war. – Beschreiben Sie: Wie war das Café? – Begründen Sie: Welches Geschenk finden Sie besonders toll und warum? – Machen Sie einen Vorschlag für ein Treffen.",
-    "answer": "Liebe/r [Name],\ndas Musikcafé war sehr gemütlich! Wir haben Live-Musik gehört und Kuchen gegessen. Dein Geschenk, die CD meiner Lieblingsband, hat mir besonders gefallen, weil ich die Musik liebe.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen Musik hören.\n\nLiebe Grüße\n[Dein Name]"
-  },
-  {
-    "title": "Besuch eines Science Centers",
-    "question": "Sie haben vor einer Woche ein Science Center besucht. Ein Freund/Eine Freundin von Ihnen konnte nicht mitkommen, weil er/sie krank war. – Beschreiben Sie: Wie war das Science Center? – Begründen Sie: Welches Geschenk finden Sie besonders toll und warum? – Machen Sie einen Vorschlag für ein Treffen.",
-    "answer": "Liebe/r [Name],\ndas Science Center war sehr spannend! Ich habe viele Experimente ausprobiert und Neues gelernt. Besonders toll fand ich das Chemie-Set, das du mir geschenkt hast, weil es sehr interessant ist.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen ein Experiment machen.\n\nLiebe Grüße\n[Dein Name]"
-  },
-  {
-    "title": "Besuch eines Sportevents",
-    "question": "Sie haben vor einer Woche ein Sportevent besucht. Ein Freund/Eine Freundin von Ihnen konnte nicht mitkommen, weil er/sie krank war. – Beschreiben Sie: Wie war das Event? – Begründen Sie: Welches Geschenk finden Sie besonders toll und warum? – Machen Sie einen Vorschlag für ein Treffen.",
-    "answer": "Liebe/r [Name],\ndas Sportevent war super spannend! Wir haben ein Fußballspiel gesehen und viel gejubelt. Dein Geschenk, das Sporttrikot, hat mir besonders gefallen, weil es bequem und cool ist.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen Sport schauen oder spielen.\n\nLiebe Grüße\n[Dein Name]"
-  },
-  {
-    "title": "Besuch eines Tierheims",
-    "question": "Sie haben vor einer Woche ein Tierheim besucht. Ein Freund/Eine Freundin von Ihnen konnte nicht mitkommen, weil er/sie krank war. – Beschreiben Sie: Wie war der Besuch? – Begründen Sie: Welches Geschenk finden Sie besonders toll und warum? – Machen Sie einen Vorschlag für ein Treffen.",
-    "answer": "Liebe/r [Name],\ndas Tierheim war sehr schön! Ich habe viele Tiere kennengelernt und Fotos gemacht. Besonders toll fand ich das Tierkalender-Geschenk, das du mir geschickt hast, weil er sehr süß ist.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen das Tierheim besuchen.\n\nLiebe Grüße\n[Dein Name]"
-  },
-  {
-    "title": "Besuch eines Indoor-Trampolinparks",
-    "question": "Sie haben vor einer Woche einen Indoor-Trampolinpark besucht. Ein Freund/Eine Freundin von Ihnen konnte nicht mitkommen, weil er/sie krank war. – Beschreiben Sie: Wie war der Park? – Begründen Sie: Welches Geschenk finden Sie besonders toll und warum? – Machen Sie einen Vorschlag für ein Treffen.",
-    "answer": "Liebe/r [Name],\nder Trampolinpark war sehr lustig! Ich habe viel gesprungen und neue Tricks ausprobiert. Dein Geschenk, die Sportsocken, haben mir besonders gefallen, weil sie sehr bequem sind.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen springen gehen.\n\nLiebe Grüße\n[Dein Name]"
-  },
-  {
-    "title": "Besuch eines Mini-Golfplatzes",
-    "question": "Sie haben vor einer Woche einen Mini-Golfplatz besucht. Ein Freund/Eine Freundin von Ihnen konnte nicht mitkommen, weil er/sie krank war. – Beschreiben Sie: Wie war der Golfbahn? – Begründen Sie: Welches Geschenk finden Sie besonders toll und warum? – Machen Sie einen Vorschlag für ein Treffen.",
-    "answer": "Liebe/r [Name],\nder Mini-Golfplatz war sehr lustig! Ich habe viele Bahnen gespielt und Spaß gehabt. Dein Geschenk, der neue Golfball, hat mir besonders gefallen, weil er bunt und praktisch ist.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen Mini-Golf spielen.\n\nLiebe Grüße\n[Dein Name]"
+    "id": 10,
+    "question": "Sie haben vor einer Woche einen Besuch im Science Center gemacht. Ein Freund/eine Freundin konnte nicht mitkommen, weil er/sie krank war. \n– Beschreiben Sie: Wie war der Besuch? \n– Begründen Sie: Welches Geschenk finden Sie besonders spannend und warum? \n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\nder Besuch im Science Center war sehr aufregend! Ich habe viele Experimente gesehen und ausprobiert. Dein Geschenk, das kleine Experimentier-Set, hat mir besonders gefallen, weil ich jetzt selbst spannende Versuche machen kann.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen experimentieren.\n\nLiebe Grüße\n[Dein Name]"
   }
 ]
-
