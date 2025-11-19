@@ -120,5 +120,249 @@
     "question": "Sie haben vor einer Woche einen Tierschutzverein besucht. Ein Freund/eine Freundin konnte nicht mitkommen, weil er/sie krank war.\n– Beschreiben Sie: Wie war der Besuch?\n– Begründen Sie: Welches Geschenk finden Sie besonders nützlich und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
     "answer": "Liebe/r [Name],\nder Besuch beim Tierschutzverein war sehr schön! Ich habe viele Tiere kennengelernt und geholfen. Besonders nützlich finde ich das Futterpaket, das du mir geschenkt hast, weil die Tiere sich sehr darüber freuen.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen den Park besuchen.\n\nLiebe Grüße\n[Dein Name]"
   }
+,
+  {
+    "id": 21,
+    "title": "Besuch eines Bauernmarkts",
+    "question": "Sie haben vor einer Woche einen Bauernmarkt besucht. Ein Freund/eine Freundin konnte nicht mitkommen, weil er/sie krank war.\n– Beschreiben Sie: Wie war der Markt?\n– Begründen Sie: Welches Geschenk finden Sie besonders lecker und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\nder Bauernmarkt war toll! Es gab frisches Gemüse, Käse und Brot. Besonders lecker fand ich das Marmeladenglas, das du mir geschenkt hast, weil es süß und natürlich schmeckt.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen frühstücken.\n\nLiebe Grüße\n[Dein Name]"
+  },
+  {
+    "id": 22,
+    "title": "Besuch eines Filmmuseums",
+    "question": "Sie haben vor einer Woche ein Filmmuseum besucht. Ein Freund/eine Freundin konnte nicht mitkommen, weil er/sie krank war.\n– Beschreiben Sie: Wie war das Museum?\n– Begründen Sie: Welches Geschenk finden Sie besonders interessant und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\ndas Filmmuseum war sehr spannend! Ich habe alte Kameras und Filmplakate gesehen. Besonders interessant fand ich das Filmheft, das du mir geschenkt hast, weil ich viel über alte Filme gelernt habe.\n\nVielleicht könnten wir uns nächste Woche treffen und einen Klassiker anschauen.\n\nLiebe Grüße\n[Dein Name]"
+  },
+  {
+    "id": 23,
+    "title": "Besuch eines Sprachkurses",
+    "question": "Sie haben vor einer Woche an einem Sprachkurs teilgenommen. Ein Freund/eine Freundin konnte nicht mitkommen, weil er/sie krank war.\n– Beschreiben Sie: Wie war der Kurs?\n– Begründen Sie: Welches Geschenk finden Sie besonders hilfreich und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\nder Sprachkurs war sehr interessant! Ich habe viel gelernt und nette Leute getroffen. Besonders hilfreich finde ich das Vokabelheft, das du mir geschenkt hast, weil ich damit gut üben kann.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen Deutsch sprechen.\n\nLiebe Grüße\n[Dein Name]"
+  },
+  {
+    "id": 24,
+    "title": "Besuch einer Kunstdruckerei",
+    "question": "Sie haben vor einer Woche eine Kunstdruckerei besucht. Ein Freund/eine Freundin konnte nicht mitkommen, weil er/sie krank war.\n– Beschreiben Sie: Wie war der Besuch?\n– Begründen Sie: Welches Geschenk finden Sie besonders schön und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\ndie Kunstdruckerei war beeindruckend! Ich habe gesehen, wie Bilder gedruckt werden. Besonders schön fand ich den kleinen Druck, den du mir geschenkt hast, weil er perfekt in mein Zimmer passt.\n\nVielleicht könnten wir uns nächste Woche treffen und eine Ausstellung besuchen.\n\nLiebe Grüße\n[Dein Name]"
+  },
+  {
+    "id": 25,
+    "title": "Besuch eines Bücherfests",
+    "question": "Sie haben vor einer Woche ein Bücherfest besucht. Ein Freund/eine Freundin konnte nicht mitkommen, weil er/sie krank war.\n– Beschreiben Sie: Wie war das Fest?\n– Begründen Sie: Welches Geschenk finden Sie besonders spannend und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\ndas Bücherfest war super! Es gab viele Autoren und Lesungen. Besonders spannend fand ich den Roman, den du mir geschenkt hast, weil die Geschichte sehr interessant ist.\n\nVielleicht könnten wir uns nächste Woche treffen und über Bücher sprechen.\n\nLiebe Grüße\n[Dein Name]"
+  },
+  {
+    "id": 26,
+    "title": "Besuch eines Tanzabends",
+    "question": "Sie haben vor einer Woche an einem Tanzabend teilgenommen. Ein Freund/eine Freundin konnte nicht mitkommen, weil er/sie krank war.\n– Beschreiben Sie: Wie war der Abend?\n– Begründen Sie: Welches Geschenk finden Sie besonders schön und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\nder Tanzabend war wunderbar! Es gab gute Musik und eine tolle Stimmung. Besonders schön fand ich das Armband, das du mir geschenkt hast, weil es perfekt zum Anlass passte.\n\nVielleicht könnten wir uns nächste Woche treffen und gemeinsam tanzen gehen.\n\nLiebe Grüße\n[Dein Name]"
+  },
+  {
+    "id": 27,
+    "title": "Besuch eines Umweltprojekts",
+    "question": "Sie haben vor einer Woche an einem Umweltprojekt teilgenommen. Ein Freund/eine Freundin konnte nicht mitkommen, weil er/sie krank war.\n– Beschreiben Sie: Wie war das Projekt?\n– Begründen Sie: Welches Geschenk finden Sie besonders sinnvoll und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\ndas Umweltprojekt war sehr spannend! Wir haben Bäume gepflanzt und Müll gesammelt. Besonders sinnvoll finde ich die Stofftasche, die du mir geschenkt hast, weil sie umweltfreundlich ist.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen in den Wald gehen.\n\nLiebe Grüße\n[Dein Name]"
+  },
+  {
+    "id": 28,
+    "title": "Besuch eines Computerkurses",
+    "question": "Sie haben vor einer Woche an einem Computerkurs teilgenommen. Ein Freund/eine Freundin konnte nicht mitkommen, weil er/sie krank war.\n– Beschreiben Sie: Wie war der Kurs?\n– Begründen Sie: Welches Geschenk finden Sie besonders praktisch und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\nder Computerkurs war sehr hilfreich! Ich habe gelernt, wie man Präsentationen erstellt. Besonders praktisch finde ich den USB-Stick, den du mir geschenkt hast, weil ich darauf meine Dateien speichern kann.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen am Computer üben.\n\nLiebe Grüße\n[Dein Name]"
+  },
+  {
+    "id": 29,
+    "title": "Besuch eines Märchenfestivals",
+    "question": "Sie haben vor einer Woche ein Märchenfestival besucht. Ein Freund/eine Freundin konnte nicht mitkommen, weil er/sie krank war.\n– Beschreiben Sie: Wie war das Festival?\n– Begründen Sie: Welches Geschenk finden Sie besonders schön und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\ndas Märchenfestival war magisch! Es gab viele Geschichten und bunte Kostüme. Besonders schön fand ich das kleine Märchenbuch, das du mir geschenkt hast, weil es tolle Illustrationen hat.\n\nVielleicht könnten wir uns nächste Woche treffen und ein Märchen lesen.\n\nLiebe Grüße\n[Dein Name]"
+  },
+  {
+    "id": 30,
+    "title": "Besuch einer Fahrradausstellung",
+    "question": "Sie haben vor einer Woche eine Fahrradausstellung besucht. Ein Freund/eine Freundin konnte nicht mitkommen, weil er/sie krank war.\n– Beschreiben Sie: Wie war die Ausstellung?\n– Begründen Sie: Welches Geschenk finden Sie besonders praktisch und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\ndie Fahrradausstellung war sehr interessant! Ich habe viele moderne Fahrräder gesehen. Besonders praktisch finde ich das Lichtset, das du mir geschenkt hast, weil es meine Fahrten sicherer macht.\n\nVielleicht könnten wir uns nächste Woche treffen und eine kleine Fahrradtour machen.\n\nLiebe Grüße\n[Dein Name]"
+  }
+,
+  {
+    "id": 31,
+    "title": "Reise nach Berlin",
+    "question": "Sie waren letzte Woche in Berlin. Ein Freund/eine Freundin konnte nicht mitkommen, weil er/sie krank war.\n– Beschreiben Sie: Wie war die Reise?\n– Begründen Sie: Welches Geschenk finden Sie besonders schön und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\nmeine Reise nach Berlin war super! Ich habe viele Sehenswürdigkeiten gesehen und Currywurst probiert. Besonders schön fand ich den Magneten, den du mir geschenkt hast, weil er mich an die Reise erinnert.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen Fotos anschauen.\n\nLiebe Grüße\n[Dein Name]"
+  },
+  {
+    "id": 32,
+    "title": "Teilnahme an einem Sportturnier",
+    "question": "Sie haben vor einer Woche an einem Sportturnier teilgenommen. Ein Freund/eine Freundin konnte nicht mitkommen, weil er/sie krank war.\n– Beschreiben Sie: Wie war das Turnier?\n– Begründen Sie: Welches Geschenk finden Sie besonders nützlich und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\ndas Sportturnier war spannend! Unser Team hat sogar den zweiten Platz gewonnen. Besonders nützlich finde ich die Wasserflasche, die du mir geschenkt hast, weil ich sie beim Training immer benutze.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen joggen gehen.\n\nLiebe Grüße\n[Dein Name]"
+  },
+  {
+    "id": 33,
+    "title": "Besuch beim Arzt",
+    "question": "Sie waren vor einer Woche beim Arzt. Ein Freund/eine Freundin wollte wissen, wie es war.\n– Beschreiben Sie: Wie war der Arztbesuch?\n– Begründen Sie: Welches Geschenk finden Sie besonders hilfreich und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\nder Arztbesuch war in Ordnung. Ich musste ein paar Tage zu Hause bleiben, aber jetzt geht es mir besser. Besonders hilfreich fand ich den Tee, den du mir geschenkt hast, weil er mir sehr gut getan hat.\n\nVielleicht könnten wir uns nächste Woche treffen und spazieren gehen.\n\nLiebe Grüße\n[Dein Name]"
+  },
+  {
+    "id": 34,
+    "title": "Umzug in eine neue Wohnung",
+    "question": "Sie sind vor einer Woche in eine neue Wohnung umgezogen. Ein Freund/eine Freundin konnte nicht helfen, weil er/sie krank war.\n– Beschreiben Sie: Wie war der Umzug?\n– Begründen Sie: Welches Geschenk finden Sie besonders praktisch und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\nder Umzug war anstrengend, aber jetzt bin ich endlich fertig! Besonders praktisch finde ich die Lampe, die du mir geschenkt hast, weil sie perfekt ins Wohnzimmer passt.\n\nVielleicht könnten wir uns nächste Woche treffen und du kannst meine neue Wohnung sehen.\n\nLiebe Grüße\n[Dein Name]"
+  },
+  {
+    "id": 35,
+    "title": "Neuer Jobbeginn",
+    "question": "Sie haben vor einer Woche einen neuen Job begonnen. Ein Freund/eine Freundin möchte wissen, wie es war.\n– Beschreiben Sie: Wie war die erste Woche?\n– Begründen Sie: Welches Geschenk finden Sie besonders schön und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\nmeine erste Woche im neuen Job war super! Die Kollegen sind nett und die Arbeit gefällt mir. Besonders schön finde ich den Stift, den du mir geschenkt hast, weil ich ihn jeden Tag benutze.\n\nVielleicht könnten wir uns nächste Woche treffen und ich erzähle dir mehr darüber.\n\nLiebe Grüße\n[Dein Name]"
+  },
+  {
+    "id": 36,
+    "title": "Teilnahme an einem Sprachtest",
+    "question": "Sie haben vor einer Woche eine Sprachprüfung gemacht. Ein Freund/eine Freundin konnte nicht dabei sein.\n– Beschreiben Sie: Wie war der Test?\n– Begründen Sie: Welches Geschenk finden Sie besonders hilfreich und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\nder Sprachtest war gar nicht so schwer! Ich glaube, ich habe gut bestanden. Besonders hilfreich fand ich das Wörterbuch, das du mir geschenkt hast, weil ich damit viel gelernt habe.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen Deutsch üben.\n\nLiebe Grüße\n[Dein Name]"
+  },
+  {
+    "id": 37,
+    "title": "Teilnahme an einem Stadtfest",
+    "question": "Sie haben vor einer Woche ein Stadtfest besucht. Ein Freund/eine Freundin konnte nicht mitkommen, weil er/sie krank war.\n– Beschreiben Sie: Wie war das Fest?\n– Begründen Sie: Welches Geschenk finden Sie besonders schön und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\ndas Stadtfest war toll! Es gab Musik, Essen und viele Stände. Besonders schön fand ich den Schlüsselanhänger, den du mir geschenkt hast, weil er ein schönes Andenken ist.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen auf den Markt gehen.\n\nLiebe Grüße\n[Dein Name]"
+  },
+  {
+    "id": 38,
+    "title": "Einkaufen im neuen Einkaufszentrum",
+    "question": "Sie waren vor einer Woche im neuen Einkaufszentrum. Ein Freund/eine Freundin konnte nicht mitkommen.\n– Beschreiben Sie: Wie war das Einkaufszentrum?\n– Begründen Sie: Welches Geschenk finden Sie besonders praktisch und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\ndas neue Einkaufszentrum war riesig! Es gab viele schöne Geschäfte und Restaurants. Besonders praktisch finde ich die Tasche, die du mir geschenkt hast, weil ich sie beim Einkaufen benutzen kann.\n\nVielleicht könnten wir uns nächste Woche treffen und dort gemeinsam bummeln.\n\nLiebe Grüße\n[Dein Name]"
+  },
+  {
+    "id": 39,
+    "title": "Teilnahme an einem Kochabend",
+    "question": "Sie haben vor einer Woche an einem Kochabend mit Freunden teilgenommen. Ein Freund/eine Freundin konnte nicht kommen.\n– Beschreiben Sie: Wie war der Abend?\n– Begründen Sie: Welches Geschenk finden Sie besonders toll und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\nder Kochabend war sehr lustig! Wir haben zusammen gekocht und viel gelacht. Besonders toll fand ich die Schürze, die du mir geschenkt hast, weil sie perfekt zum Kochen passt.\n\nVielleicht könnten wir uns nächste Woche treffen und wieder zusammen kochen.\n\nLiebe Grüße\n[Dein Name]"
+  },
+  {
+    "id": 40,
+    "title": "Besuch eines Fitnessstudios",
+    "question": "Sie haben vor einer Woche ein neues Fitnessstudio besucht. Ein Freund/eine Freundin konnte nicht mitkommen.\n– Beschreiben Sie: Wie war der Besuch?\n– Begründen Sie: Welches Geschenk finden Sie besonders nützlich und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\ndas neue Fitnessstudio ist super modern! Ich habe viele Geräte ausprobiert und mich gut gefühlt. Besonders nützlich finde ich das Handtuch, das du mir geschenkt hast, weil ich es beim Training brauche.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen Sport machen.\n\nLiebe Grüße\n[Dein Name]"
+  }
+,
+  {
+    "id": 41,
+    "title": "Familienfeier",
+    "question": "Sie hatten vor einer Woche eine Familienfeier. Ein Freund/eine Freundin konnte nicht kommen.\n– Beschreiben Sie: Wie war die Feier?\n– Begründen Sie: Welches Geschenk fanden Sie besonders schön und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\ndie Familienfeier war wunderschön! Wir haben zusammen gegessen und gelacht. Besonders schön fand ich den Bilderrahmen, den du mir geschenkt hast, weil ich dort ein Familienfoto hineinstellen kann.\n\nVielleicht könnten wir uns nächste Woche treffen und die Fotos zusammen ansehen.\n\nLiebe Grüße\n[Dein Name]"
+  },
+  {
+    "id": 42,
+    "title": "Reise ans Meer",
+    "question": "Sie waren vor einer Woche am Meer im Urlaub. Ein Freund/eine Freundin konnte nicht mitfahren.\n– Beschreiben Sie: Wie war die Reise?\n– Begründen Sie: Welches Geschenk fanden Sie besonders toll und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\nder Urlaub am Meer war traumhaft! Ich habe viel gebadet und Muscheln gesammelt. Besonders toll fand ich das Strandhandtuch, das du mir geschenkt hast, weil es perfekt zum Urlaub passt.\n\nVielleicht könnten wir uns nächste Woche treffen und die Urlaubsfotos anschauen.\n\nLiebe Grüße\n[Dein Name]"
+  },
+  {
+    "id": 43,
+    "title": "Schulausflug",
+    "question": "Sie haben vor einer Woche einen Schulausflug gemacht. Ein Freund/eine Freundin konnte nicht mitkommen.\n– Beschreiben Sie: Wie war der Ausflug?\n– Begründen Sie: Welches Geschenk fanden Sie besonders interessant und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\nder Schulausflug war super! Wir waren im Museum und haben viel gelernt. Besonders interessant fand ich das Notizbuch, das du mir geschenkt hast, weil ich darin alles aufgeschrieben habe.\n\nVielleicht könnten wir uns nächste Woche treffen und über den Ausflug sprechen.\n\nLiebe Grüße\n[Dein Name]"
+  },
+  {
+    "id": 44,
+    "title": "Probleme im Verkehr",
+    "question": "Sie hatten letzte Woche ein Problem im Straßenverkehr. Ein Freund/eine Freundin konnte nicht dabei sein.\n– Beschreiben Sie: Was ist passiert?\n– Begründen Sie: Welches Geschenk fanden Sie besonders hilfreich und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\nich hatte letzte Woche einen kleinen Unfall, aber zum Glück ist nichts Schlimmes passiert. Besonders hilfreich fand ich das Notfallset, das du mir geschenkt hast, weil es sehr nützlich war.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen Auto fahren üben.\n\nLiebe Grüße\n[Dein Name]"
+  },
+  {
+    "id": 45,
+    "title": "Schlechtes Wetter",
+    "question": "Letzte Woche war das Wetter sehr schlecht. Ein Freund/eine Freundin konnte nicht rausgehen.\n– Beschreiben Sie: Wie war das Wetter?\n– Begründen Sie: Welches Geschenk fanden Sie besonders praktisch und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\ndas Wetter war furchtbar! Es hat fast jeden Tag geregnet und gestürmt. Besonders praktisch fand ich den Regenschirm, den du mir geschenkt hast, weil er mich trocken gehalten hat.\n\nVielleicht könnten wir uns nächste Woche treffen, wenn das Wetter besser ist.\n\nLiebe Grüße\n[Dein Name]"
+  },
+  {
+    "id": 46,
+    "title": "Onlinekurs",
+    "question": "Sie haben vor einer Woche an einem Onlinekurs teilgenommen. Ein Freund/eine Freundin konnte nicht teilnehmen.\n– Beschreiben Sie: Wie war der Kurs?\n– Begründen Sie: Welches Geschenk fanden Sie besonders hilfreich und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\nder Onlinekurs war sehr informativ! Ich habe viel Neues über Computer gelernt. Besonders hilfreich fand ich die Kopfhörer, die du mir geschenkt hast, weil der Ton damit viel besser war.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen online lernen.\n\nLiebe Grüße\n[Dein Name]"
+  },
+  {
+    "id": 47,
+    "title": "Nachbarschaftsfest",
+    "question": "Sie haben vor einer Woche an einem Nachbarschaftsfest teilgenommen. Ein Freund/eine Freundin konnte nicht kommen.\n– Beschreiben Sie: Wie war das Fest?\n– Begründen Sie: Welches Geschenk fanden Sie besonders schön und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\ndas Nachbarschaftsfest war sehr nett! Es gab Musik, Kuchen und viele Gespräche. Besonders schön fand ich die Blumenvase, die du mir geschenkt hast, weil sie perfekt auf meinen Tisch passt.\n\nVielleicht könnten wir uns nächste Woche treffen und Kaffee trinken.\n\nLiebe Grüße\n[Dein Name]"
+  },
+  {
+    "id": 48,
+    "title": "Restaurantbesuch",
+    "question": "Sie haben vor einer Woche ein neues Restaurant ausprobiert. Ein Freund/eine Freundin konnte nicht mitkommen.\n– Beschreiben Sie: Wie war das Restaurant?\n– Begründen Sie: Welches Geschenk fanden Sie besonders passend und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\ndas neue Restaurant war großartig! Das Essen war lecker und der Service freundlich. Besonders passend fand ich den Gutschein, den du mir geschenkt hast, weil ich ihn gleich dort benutzt habe.\n\nVielleicht könnten wir uns nächste Woche treffen und gemeinsam dort essen.\n\nLiebe Grüße\n[Dein Name]"
+  },
+  {
+    "id": 49,
+    "title": "Freizeit im Park",
+    "question": "Sie haben vor einer Woche einen Tag im Park verbracht. Ein Freund/eine Freundin konnte nicht kommen.\n– Beschreiben Sie: Wie war der Tag?\n– Begründen Sie: Welches Geschenk fanden Sie besonders praktisch und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\nder Tag im Park war sehr schön! Ich habe gelesen, Musik gehört und die Sonne genossen. Besonders praktisch fand ich die Picknickdecke, die du mir geschenkt hast, weil sie so bequem war.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen picknicken.\n\nLiebe Grüße\n[Dein Name]"
+  },
+  {
+    "id": 50,
+    "title": "Teilnahme an einer Umweltaktion",
+    "question": "Sie haben vor einer Woche an einer Umweltaktion teilgenommen. Ein Freund/eine Freundin konnte nicht mitkommen.\n– Beschreiben Sie: Wie war die Aktion?\n– Begründen Sie: Welches Geschenk fanden Sie besonders sinnvoll und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\ndie Umweltaktion war toll! Wir haben den Park gereinigt und Bäume gepflanzt. Besonders sinnvoll fand ich die wiederverwendbare Flasche, die du mir geschenkt hast, weil sie umweltfreundlich ist.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen Müll sammeln.\n\nLiebe Grüße\n[Dein Name]"
+  }
+,
+  {
+    "id": 51,
+    "title": "Gesunde Ernährung",
+    "question": "Sie haben vor einer Woche einen Kurs über gesunde Ernährung besucht. Ein Freund/eine Freundin konnte nicht mitkommen.\n– Beschreiben Sie: Wie war der Kurs?\n– Begründen Sie: Welches Geschenk fanden Sie besonders hilfreich und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\nder Kurs über gesunde Ernährung war sehr interessant! Ich habe gelernt, wie man besser isst und kocht. Besonders hilfreich fand ich das Rezeptbuch, das du mir geschenkt hast, weil ich damit viele neue Ideen habe.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen etwas Gesundes kochen.\n\nLiebe Grüße\n[Dein Name]"
+  },
+  {
+    "id": 52,
+    "title": "Sommerurlaub in den Bergen",
+    "question": "Sie waren vor einer Woche im Sommerurlaub in den Bergen. Ein Freund/eine Freundin konnte nicht mitfahren.\n– Beschreiben Sie: Wie war der Urlaub?\n– Begründen Sie: Welches Geschenk fanden Sie besonders schön und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\nder Urlaub in den Bergen war wunderbar! Ich habe viel gewandert und frische Luft genossen. Besonders schön fand ich die Postkarte, die du mir geschenkt hast, weil sie genau die Landschaft zeigt, die ich gesehen habe.\n\nVielleicht könnten wir uns nächste Woche treffen und die Fotos anschauen.\n\nLiebe Grüße\n[Dein Name]"
+  },
+  {
+    "id": 53,
+    "title": "Fahrt mit dem Zug",
+    "question": "Sie sind vor einer Woche mit dem Zug gereist. Ein Freund/eine Freundin konnte nicht mitkommen.\n– Beschreiben Sie: Wie war die Fahrt?\n– Begründen Sie: Welches Geschenk fanden Sie besonders praktisch und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\ndie Zugfahrt war sehr angenehm! Ich konnte lesen und die Landschaft genießen. Besonders praktisch fand ich das Nackenkissen, das du mir geschenkt hast, weil ich damit gut schlafen konnte.\n\nVielleicht könnten wir uns nächste Woche treffen und eine kleine Reise planen.\n\nLiebe Grüße\n[Dein Name]"
+  },
+  {
+    "id": 54,
+    "title": "Besuch einer Universität",
+    "question": "Sie haben vor einer Woche eine Universität besucht. Ein Freund/eine Freundin konnte nicht mitkommen.\n– Beschreiben Sie: Wie war der Besuch?\n– Begründen Sie: Welches Geschenk fanden Sie besonders inspirierend und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\nder Besuch an der Universität war sehr spannend! Ich habe viele Studenten getroffen und interessante Vorträge gehört. Besonders inspirierend fand ich das Notizbuch, das du mir geschenkt hast, weil ich dort meine Ideen aufschreibe.\n\nVielleicht könnten wir uns nächste Woche treffen und über Studienpläne sprechen.\n\nLiebe Grüße\n[Dein Name]"
+  },
+  {
+    "id": 55,
+    "title": "Neue Wohnungseinrichtung",
+    "question": "Sie haben vor einer Woche Ihre neue Wohnung eingerichtet. Ein Freund/eine Freundin konnte nicht helfen.\n– Beschreiben Sie: Wie war die Einrichtung?\n– Begründen Sie: Welches Geschenk fanden Sie besonders nützlich und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\nich habe endlich meine neue Wohnung fertig eingerichtet! Es war viel Arbeit, aber es sieht schön aus. Besonders nützlich fand ich die Uhr, die du mir geschenkt hast, weil sie perfekt ins Wohnzimmer passt.\n\nVielleicht könntest du nächste Woche vorbeikommen und alles ansehen.\n\nLiebe Grüße\n[Dein Name]"
+  },
+  {
+    "id": 56,
+    "title": "Besuch eines Tierarztes",
+    "question": "Sie waren vor einer Woche mit Ihrem Haustier beim Tierarzt. Ein Freund/eine Freundin konnte nicht mitkommen.\n– Beschreiben Sie: Wie war der Besuch?\n– Begründen Sie: Welches Geschenk fanden Sie besonders hilfreich und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\nder Tierarztbesuch war zum Glück schnell vorbei. Mein Hund ist jetzt wieder gesund. Besonders hilfreich fand ich das Halsband, das du mir geschenkt hast, weil es sehr bequem für ihn ist.\n\nVielleicht könnten wir uns nächste Woche treffen und gemeinsam spazieren gehen.\n\nLiebe Grüße\n[Dein Name]"
+  },
+  {
+    "id": 57,
+    "title": "Kinobesuch",
+    "question": "Sie haben vor einer Woche einen neuen Film im Kino gesehen. Ein Freund/eine Freundin konnte nicht mitkommen.\n– Beschreiben Sie: Wie war der Film?\n– Begründen Sie: Welches Geschenk fanden Sie besonders passend und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\nder Film im Kino war spannend und lustig! Ich habe ihn sehr genossen. Besonders passend fand ich den Popcorn-Gutschein, den du mir geschenkt hast, weil ich ihn gleich benutzt habe.\n\nVielleicht könnten wir uns nächste Woche treffen und einen anderen Film anschauen.\n\nLiebe Grüße\n[Dein Name]"
+  },
+  {
+    "id": 58,
+    "title": "Kurs über Internetsicherheit",
+    "question": "Sie haben vor einer Woche an einem Kurs über Internetsicherheit teilgenommen. Ein Freund/eine Freundin konnte nicht mitkommen.\n– Beschreiben Sie: Wie war der Kurs?\n– Begründen Sie: Welches Geschenk fanden Sie besonders nützlich und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\nder Kurs über Internetsicherheit war sehr informativ! Ich habe gelernt, wie man seine Daten schützt. Besonders nützlich fand ich den USB-Stick, den du mir geschenkt hast, weil ich dort meine Dokumente sicher speichern kann.\n\nVielleicht könnten wir uns nächste Woche treffen und ich zeige dir, was ich gelernt habe.\n\nLiebe Grüße\n[Dein Name]"
+  },
+  {
+    "id": 59,
+    "title": "Besuch eines neuen Restaurants",
+    "question": "Sie haben vor einer Woche ein neues Restaurant ausprobiert. Ein Freund/eine Freundin konnte nicht mitkommen.\n– Beschreiben Sie: Wie war das Restaurant?\n– Begründen Sie: Welches Geschenk fanden Sie besonders schön und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\ndas neue Restaurant war fantastisch! Das Essen war lecker und das Ambiente gemütlich. Besonders schön fand ich die Serviette mit dem Logo, die du mir geschenkt hast, weil sie eine tolle Erinnerung ist.\n\nVielleicht könnten wir uns nächste Woche treffen und dort gemeinsam essen.\n\nLiebe Grüße\n[Dein Name]"
+  },
+  {
+    "id": 60,
+    "title": "Teilnahme an einem Tanzkurs",
+    "question": "Sie haben vor einer Woche an einem neuen Tanzkurs teilgenommen. Ein Freund/eine Freundin konnte nicht mitkommen.\n– Beschreiben Sie: Wie war der Kurs?\n– Begründen Sie: Welches Geschenk fanden Sie besonders praktisch und warum?\n– Machen Sie einen Vorschlag für ein Treffen.",
+    "answer": "Liebe/r [Name],\nder neue Tanzkurs war richtig toll! Ich habe viele neue Schritte gelernt und nette Leute getroffen. Besonders praktisch fand ich die Tanzschuhe, die du mir geschenkt hast, weil sie sehr bequem sind.\n\nVielleicht könnten wir uns nächste Woche treffen und zusammen tanzen üben.\n\nLiebe Grüße\n[Dein Name]"
+  }
 ]
 
