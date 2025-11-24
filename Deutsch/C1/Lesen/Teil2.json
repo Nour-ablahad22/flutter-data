@@ -223,5 +223,155 @@
       }
     ]
   }
+,
+  {
+    "id": 4,
+    "title": "Gesundheit und Stress im Alltag – Zwischen Leistungsdruck und Selbstfürsorge",
+    "texts": [
+      {
+        "text": "In einer Gesellschaft, die Produktivität und Erfolg über alles zu stellen scheint, wird Stress zunehmend zum ständigen Begleiter des modernen Lebens. Viele Menschen empfinden den Alltag als eine endlose Abfolge von Pflichten, Terminen und Erwartungen. Besonders im Berufsleben hat sich der Druck in den letzten Jahren deutlich erhöht: E-Mails müssen sofort beantwortet, Projekte in kürzester Zeit abgeschlossen und Ziele ständig übertroffen werden. Hinzu kommen familiäre Verpflichtungen, soziale Erwartungen und die permanente digitale Erreichbarkeit, die kaum Raum für Erholung lässt. Studien der Weltgesundheitsorganisation zeigen, dass chronischer Stress langfristig nicht nur zu psychischen, sondern auch zu körperlichen Erkrankungen führen kann. Herz-Kreislauf-Probleme, Schlafstörungen und Depressionen gehören zu den häufigsten Folgen. Dennoch wird Stress in vielen beruflichen Kontexten noch immer als Zeichen von Leistungsbereitschaft interpretiert. Wer ständig beschäftigt ist, gilt als erfolgreich – wer sich Pausen gönnt, als schwach. Dieses Denken hat tiefgreifende gesellschaftliche Wurzeln. Dabei ist bekannt, dass übermäßiger Leistungsdruck kontraproduktiv wirkt: Er senkt die Konzentrationsfähigkeit, mindert die Kreativität und führt zu Erschöpfung. Fachleute sprechen in diesem Zusammenhang von „Burnout“, einem Zustand totaler körperlicher und emotionaler Erschöpfung. Besonders gefährdet sind Personen in sozialen Berufen, im Gesundheitswesen oder im Bildungssektor, da sie sich häufig stark mit ihrer Arbeit identifizieren. Prävention spielt daher eine entscheidende Rolle. Viele Unternehmen haben in den letzten Jahren Programme zur Stressbewältigung eingeführt, darunter Achtsamkeitstrainings, flexible Arbeitszeiten oder psychologische Beratungsangebote. Auch im privaten Bereich wächst das Bewusstsein für Selbstfürsorge. Immer mehr Menschen entdecken Yoga, Meditation oder bewusste Atemübungen als Möglichkeiten, innere Ruhe zu finden. Gleichzeitig fordern Expertinnen und Experten, Stress nicht als individuelles Problem zu betrachten, sondern als gesellschaftliche Herausforderung. Die Arbeitskultur müsse sich verändern – weg von ständiger Erreichbarkeit, hin zu einer Balance zwischen Leistung und Erholung. Dabei gehe es nicht um weniger Engagement, sondern um nachhaltige Produktivität. Ein gesundes Arbeitsumfeld zeichnet sich durch Wertschätzung, klare Kommunikation und realistische Erwartungen aus. Ebenso wichtig ist der Umgang mit digitalen Medien: Wer ständig online ist, gönnt seinem Geist keine Pausen. Das Konzept der „digitalen Entgiftung“ gewinnt daher an Popularität. Regelmäßige Zeiten ohne Smartphone oder Laptop fördern nicht nur die Konzentration, sondern auch das Wohlbefinden. Letztlich bedeutet Gesundheit im modernen Alltag mehr als die Abwesenheit von Krankheit. Sie erfordert eine bewusste Haltung gegenüber sich selbst, den eigenen Grenzen und den Anforderungen der Umwelt. Selbstfürsorge ist keine Schwäche, sondern eine Voraussetzung für Leistungsfähigkeit und Lebensfreude.",
+        "questions": [
+          {
+            "question": "Was wird laut Text als Kennzeichen der modernen Gesellschaft beschrieben?",
+            "options": [
+              "Ein entspannter Umgang mit Verpflichtungen",
+              "Die Betonung von Produktivität und Erfolg",
+              "Ein Rückzug aus digitalen Medien"
+            ],
+            "answer": "Die Betonung von Produktivität und Erfolg"
+          },
+          {
+            "question": "Welche Folgen kann chronischer Stress laut Text haben?",
+            "options": [
+              "Nur kurzfristige Müdigkeit",
+              "Psychische und körperliche Erkrankungen",
+              "Erhöhte Motivation bei der Arbeit"
+            ],
+            "answer": "Psychische und körperliche Erkrankungen"
+          },
+          {
+            "question": "Was gilt in vielen Berufsfeldern noch immer als Zeichen von Erfolg?",
+            "options": [
+              "Die Fähigkeit, Pausen einzulegen",
+              "Eine ständige Beschäftigung und Erreichbarkeit",
+              "Ein ausgewogenes Verhältnis von Arbeit und Freizeit"
+            ],
+            "answer": "Eine ständige Beschäftigung und Erreichbarkeit"
+          },
+          {
+            "question": "Welche Berufsgruppen sind besonders von Burnout betroffen?",
+            "options": [
+              "Personen in technischen Berufen",
+              "Menschen in sozialen und pädagogischen Berufen",
+              "Arbeitnehmer in der Industrieproduktion"
+            ],
+            "answer": "Menschen in sozialen und pädagogischen Berufen"
+          },
+          {
+            "question": "Welche Maßnahmen werden zur Stressbewältigung in Unternehmen eingeführt?",
+            "options": [
+              "Längere Arbeitszeiten und Leistungsprämien",
+              "Achtsamkeitstrainings und psychologische Beratung",
+              "Verpflichtende Wochenendarbeit"
+            ],
+            "answer": "Achtsamkeitstrainings und psychologische Beratung"
+          },
+          {
+            "question": "Was fordern Expertinnen und Experten laut Text im Hinblick auf Arbeitskultur?",
+            "options": [
+              "Mehr Wettbewerb und Leistungsdruck",
+              "Eine Balance zwischen Leistung und Erholung",
+              "Die Abschaffung von Homeoffice"
+            ],
+            "answer": "Eine Balance zwischen Leistung und Erholung"
+          },
+          {
+            "question": "Was bedeutet Selbstfürsorge laut Text?",
+            "options": [
+              "Ein egoistisches Verhalten gegenüber anderen",
+              "Die bewusste Auseinandersetzung mit den eigenen Grenzen",
+              "Das vollständige Vermeiden von Arbeit"
+            ],
+            "answer": "Die bewusste Auseinandersetzung mit den eigenen Grenzen"
+          }
+        ]
+      }
+    ]
+  }
+,
+  {
+    "id": 5,
+    "title": "Gesellschaftlicher Wandel und soziale Medien – Kommunikation im digitalen Zeitalter",
+    "texts": [
+      {
+        "text": "Kaum ein Phänomen hat das gesellschaftliche Leben in den letzten zwei Jahrzehnten so stark geprägt wie die sozialen Medien. Plattformen wie Instagram, TikTok oder X (früher Twitter) haben die Art und Weise, wie Menschen miteinander kommunizieren, Informationen austauschen und Meinungen bilden, grundlegend verändert. Während früher journalistische Medien und persönliche Gespräche die wichtigsten Informationsquellen waren, sind es heute häufig algorithmisch gesteuerte Feeds, die bestimmen, welche Inhalte sichtbar werden. Diese Entwicklung hat viele positive Seiten: Nie zuvor war es so einfach, über große Entfernungen hinweg in Kontakt zu bleiben, Wissen zu teilen oder gesellschaftliche Debatten mitzugestalten. Soziale Medien ermöglichen es auch marginalisierten Gruppen, ihre Stimme zu erheben und auf Missstände aufmerksam zu machen. Bewegungen wie #MeToo oder Fridays for Future hätten ohne digitale Vernetzung kaum eine solche Reichweite erzielt. Dennoch ist der Einfluss sozialer Medien ambivalent. Einerseits fördern sie Partizipation und Meinungsvielfalt, andererseits tragen sie zur Verbreitung von Falschinformationen, Polarisierung und sozialem Druck bei. Viele Nutzerinnen und Nutzer vergleichen sich ständig mit den idealisierten Darstellungen anderer und entwickeln dadurch unrealistische Erwartungen an sich selbst. Studien zeigen, dass insbesondere Jugendliche unter dem Druck leiden, immer „perfekt“ wirken zu müssen. Das Bedürfnis nach Anerkennung und Likes kann schnell in Abhängigkeit umschlagen. Auch die politische Meinungsbildung verändert sich. Algorithmen bevorzugen Inhalte, die Emotionen auslösen – Empörung verbreitet sich schneller als Fakten. Dadurch entstehen sogenannte Echokammern, in denen Menschen vor allem mit gleichgesinnten Ansichten konfrontiert werden. Der Austausch zwischen unterschiedlichen gesellschaftlichen Gruppen wird so erschwert. Expertinnen und Experten fordern deshalb mehr Medienkompetenz und kritisches Denken. Schulen und Bildungseinrichtungen sollen jungen Menschen vermitteln, wie digitale Informationen entstehen, gefiltert und bewertet werden. Zugleich tragen Plattformbetreiber eine gesellschaftliche Verantwortung: Sie müssen Transparenz über ihre Algorithmen schaffen und den Umgang mit Hassrede und Desinformation konsequent regulieren. Soziale Medien sind nicht per se gut oder schlecht – sie sind ein Spiegel gesellschaftlicher Dynamiken. Entscheidend ist, wie sie genutzt werden. Wer sie bewusst und reflektiert einsetzt, kann neue Formen von Gemeinschaft und Dialog schaffen. Doch wer ihnen unkritisch verfällt, riskiert, in einer Blase der Selbstbestätigung zu verharren. Der gesellschaftliche Wandel im digitalen Zeitalter besteht daher nicht nur in neuen Technologien, sondern in einer neuen Kultur des Umgangs miteinander – eine Kultur, die Offenheit, Respekt und Verantwortung in den Mittelpunkt stellt.",
+        "questions": [
+          {
+            "question": "Was hat sich durch soziale Medien laut Text grundlegend verändert?",
+            "options": [
+              "Die Art der Informationsvermittlung und Kommunikation",
+              "Die Struktur des Bildungssystems",
+              "Die politische Organisation der Staaten"
+            ],
+            "answer": "Die Art der Informationsvermittlung und Kommunikation"
+          },
+          {
+            "question": "Welche positive Wirkung sozialer Medien wird genannt?",
+            "options": [
+              "Sie fördern die Verbreitung von Werbung.",
+              "Sie ermöglichen gesellschaftliche Teilhabe und Vernetzung.",
+              "Sie ersetzen traditionelle Bildungseinrichtungen."
+            ],
+            "answer": "Sie ermöglichen gesellschaftliche Teilhabe und Vernetzung."
+          },
+          {
+            "question": "Welche negative Folge sozialer Medien betrifft besonders Jugendliche?",
+            "options": [
+              "Die Abhängigkeit von Anerkennung und Likes",
+              "Der Verlust von technischem Wissen",
+              "Die Zunahme von Freizeitaktivitäten"
+            ],
+            "answer": "Die Abhängigkeit von Anerkennung und Likes"
+          },
+          {
+            "question": "Was bewirken Algorithmen laut Text bei der Meinungsbildung?",
+            "options": [
+              "Sie fördern den offenen Austausch zwischen Gruppen.",
+              "Sie verstärken emotionale und polarisierende Inhalte.",
+              "Sie verhindern die Verbreitung von Nachrichten."
+            ],
+            "answer": "Sie verstärken emotionale und polarisierende Inhalte."
+          },
+          {
+            "question": "Was fordern Expertinnen und Experten, um den Umgang mit digitalen Medien zu verbessern?",
+            "options": [
+              "Mehr Medienkompetenz und kritisches Denken",
+              "Die Abschaffung aller sozialen Plattformen",
+              "Eine stärkere Nutzung von Werbung"
+            ],
+            "answer": "Mehr Medienkompetenz und kritisches Denken"
+          },
+          {
+            "question": "Welche Verantwortung tragen laut Text die Plattformbetreiber?",
+            "options": [
+              "Sie sollen Transparenz und Regulierung fördern.",
+              "Sie sollen ihre Nutzer anonymisieren.",
+              "Sie sollen politische Inhalte zensieren."
+            ],
+            "answer": "Sie sollen Transparenz und Regulierung fördern."
+          },
+          {
+            "question": "Wie sollte der gesellschaftliche Umgang mit sozialen Medien laut Text gestaltet sein?",
+            "options": [
+              "Mit Offenheit, Respekt und Verantwortung",
+              "Mit strenger Kontrolle und Verboten",
+              "Mit vollständiger Anonymität im Netz"
+            ],
+            "answer": "Mit Offenheit, Respekt und Verantwortung"
+          }
+        ]
+      }
+    ]
+  }
 ]
 
