@@ -1,0 +1,56 @@
+
+{
+  "id": "privatheit_internet_001",
+  "title": "Privatheit in Zeiten des Internets",
+  "texts": [
+    {
+      "text": "Hella Brückner, Professorin für Wirtschaftspsychologie",
+      "content": "Wer ist denn nicht froh, dass es das Internet gibt? Es ist doch eine große Erleichterung, mit einem Klick Tickets oder Waren kaufen oder die Lieblingsserie jederzeit und ohne lästige Werbung sehen zu können. Messenger-Dienste sind aus dem Alltag nicht mehr wegzudenken, über eine Musik-App wird die aktuelle Lieblingsplaylist geteilt und dank einer lustigen Spiele-App kann man sich auch die Wartezeit an der Bushaltestelle angenehm vertreiben. Aber das Ganze hat natürlich seine Schattenseiten. Bei der Nutzung des Internets entsteht, von den meisten völlig unbemerkt, eine Zweckgemeinschaft zwischen dem privaten Nutzer oder der Nutzerin und diversen Firmen. Man erhält nichts umsonst, auch wenn es so aussieht, sondern bezahlt mit seinen Daten. Die digitalen Medien können unsere Lebensqualität fördern, das steht außer Frage. Doch nur der bewusste Umgang damit vermag den Transfer persönlicher Daten in Grenzen zu halten. Denn je selbstverständlicher das Datensammeln im Netzalltag ist, desto mehr verschwimmen die Grenzen des Privaten und desto mehr schwindet auch das Bewusstsein für einen möglichen Verlust."
+    },
+    {
+      "text": "Benedikt Janssen, Direktor des Instituts für Wirtschaftsinformatik",
+      "content": "Das Internet hat nicht nur Vorteile, darüber sollte man sich im Klaren sein, wenn man online einkauft oder den nächsten Urlaub über eine Webseite bucht. Täglich werden kaum vorstellbare Massen an Daten gesammelt, analysiert und für personalisierte Vertriebsaktionen verwertet. Das geht auf Kosten der Kundinnen und Kunden, denn deren Gewohnheiten, Vorlieben, Träume und Ängste sind im ökonomischen Sinne transparent und dadurch quantifizierbar geworden. Erstaunlicherweise ist das den meisten Konsumentinnen und Konsumenten ziemlich egal. Es gibt sogar einen deutlichen Unterschied zwischen Intention und realem Handeln. Obgleich sie in Umfragen beteuern, zur Preisgabe ihrer Daten nicht bereit zu sein, sieht die Sache anders aus, sobald man ihnen beim Einkauf ein paar Bonuspunkte anbietet. Meiner Ansicht nach sollten die Konsumentinnen und Konsumenten darüber aufgeklärt werden, welchen Zwecken sie ungewohnt durch die Teilnahme beispielsweise an Rabattprogrammen dienen."
+    },
+    {
+      "text": "Leopold Nowak, Professor für Öffentliches Recht",
+      "content": "Die Lebenswirklichkeit vieler Menschen verlagert sich mehr und mehr in die digitale Welt. Unsere Persönlichkeitsrechte müssen daher besser gesetzlich verankert werden. Hier besteht ein massiver Reformbedarf. Es geht darum, Daten und damit auch die Identität der Bürgerinnen und Bürger besser zu schützen. Denn man muss sich klar machen: Viele Menschen geben überhaupt nicht Acht darauf, wohin ihre Daten schließlich wandern, und ignorieren das Risiko, dass diese missbraucht werden könnten. Das Bundeskriminalamt veröffentlichte jüngst eine Studie, die zeigt, dass Kriminelle mit falschen Identitäten immer öfter an das Geld argloser Internetnutzerinnen und -nutzer gelangen. Den Kopf in den Sand zu stecken, ist also für Konsumentinnen und Konsumenten keine Lösung. Die Politik wird langsam aktiv und drängt Unternehmen dazu, bei ihrem Online-Angebot effektive Sicherheitsvorkehrungen zu treffen. Das ist dringend nötig. Und endlich ein wichtiger Schritt in die richtige Richtung."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Angriffe auf sensible Daten verursachen zunehmend finanzielle Verluste.",
+      "options": ["a", "b", "c", "0"],
+      "answer": "c"
+    },
+    {
+      "question": "Reflektiertes Nutzerverhalten kann dazu beitragen, die Verbreitung von Daten einzuschränken.",
+      "options": ["a", "b", "c", "0"],
+      "answer": "a"
+    },
+    {
+      "question": "Unternehmen, die nicht ausreichend für Datenschutz sorgen, werden Kundinnen und Kunden verlieren.",
+      "options": ["a", "b", "c", "0"],
+      "answer": "0"
+    },
+    {
+      "question": "Dank immenser Datenmengen können Unternehmen individuelle Kundenangebote erstellen.",
+      "options": ["a", "b", "c", "0"],
+      "answer": "b"
+    },
+    {
+      "question": "Inhaber von Internetseiten wollen effizient zum Schutz der Bürgerinnen und Bürger beitragen.",
+      "options": ["a", "b", "c", "0"],
+      "answer": "0"
+    },
+    {
+      "question": "Trotz gegenteiliger Äußerungen gehen Nutzerinnen und Nutzer sorglos mit persönlichen Angaben um.",
+      "options": ["a", "b", "c", "0"],
+      "answer": "b"
+    },
+    {
+      "question": "Kostenlose Dienstleistungen zielen auf die Gewinnung persönlicher Daten.",
+      "options": ["a", "b", "c", "0"],
+      "answer": "a"
+    }
+  ]
+}
