@@ -748,5 +748,380 @@
       }
     ]
   }
+,
+  {
+    "id": 11,
+    "title": "Nachhaltiger Tourismus und Reisekultur – Chancen und Herausforderungen",
+    "texts": [
+      {
+        "text": "Tourismus ist eine der dynamischsten Branchen weltweit und prägt sowohl Wirtschaft als auch Kultur. In den letzten Jahren rückt nachhaltiger Tourismus zunehmend in den Fokus, da die negativen Auswirkungen von Massentourismus auf Umwelt, Gesellschaft und lokale Kulturen deutlich geworden sind. Nachhaltigkeit im Tourismus bedeutet, Ressourcen effizient zu nutzen, ökologische Fußabdrücke zu reduzieren und kulturelle Authentizität zu bewahren. Reisende und Anbieter sind gleichermaßen gefordert: Gäste sollen respektvoll mit Natur und Menschen umgehen, während Destinationen nachhaltige Infrastruktur, sanften Verkehr und Schutz von Ökosystemen gewährleisten. Studien zeigen, dass umweltfreundliche Angebote wie nachhaltige Hotels, lokale Lebensmittel und klimafreundliche Transportmittel nicht nur ökologisch sinnvoll sind, sondern auch wirtschaftliche Chancen bieten. Kultureller Austausch ist ein zentraler Aspekt: Touristen lernen lokale Traditionen kennen, gleichzeitig eröffnet der Tourismus neuen Märkten für Handwerk, Gastronomie und Kunst. Dennoch bestehen Spannungen: Zu viele Besucher können die Authentizität zerstören, Preise in die Höhe treiben und soziale Ungleichheiten verschärfen. Partizipation und Bildung spielen daher eine wichtige Rolle. Reisende sollen über lokale Gepflogenheiten informiert werden, Anbieter über nachhaltige Praktiken. Politische Rahmenbedingungen, Zertifikate und internationale Kooperationen fördern die Einhaltung von Standards. Gleichzeitig eröffnet nachhaltiger Tourismus Chancen für Innovation: Digitale Plattformen informieren über umweltfreundliche Optionen, Sharing-Konzepte reduzieren Ressourcenverbrauch, und lokale Gemeinschaften werden in Entscheidungsprozesse einbezogen. Langfristig profitieren sowohl Umwelt als auch Gesellschaft, wenn Tourismus verantwortungsvoll gestaltet wird. Der Wandel verlangt ein Umdenken: Ökonomie, Ökologie und soziale Verantwortung müssen in Einklang gebracht werden. Wer nachhaltige Reisen praktiziert, trägt nicht nur zum Schutz der Umwelt bei, sondern unterstützt lokale Kulturen, fördert soziale Gerechtigkeit und erlebt authentische Reiseerfahrungen. Die Herausforderung besteht darin, wirtschaftliche Interessen, touristische Nachfrage und Umweltbewusstsein miteinander zu verbinden, um eine zukunftsfähige Reisekultur zu schaffen.",
+        "questions": [
+          {
+            "question": "Was bedeutet nachhaltiger Tourismus laut Text?",
+            "options": [
+              "Ressourcen effizient nutzen, ökologische Fußabdrücke reduzieren, kulturelle Authentizität bewahren",
+              "Schnell viele Länder bereisen",
+              "Nur Luxusreisen anbieten"
+            ],
+            "answer": "Ressourcen effizient nutzen, ökologische Fußabdrücke reduzieren, kulturelle Authentizität bewahren"
+          },
+          {
+            "question": "Welche Rolle spielen Reisende?",
+            "options": [
+              "Respektvoll mit Natur und Menschen umgehen",
+              "Nur Fotos machen",
+              "Lokale Preise drücken"
+            ],
+            "answer": "Respektvoll mit Natur und Menschen umgehen"
+          },
+          {
+            "question": "Welche Chancen bietet nachhaltiger Tourismus für lokale Gemeinschaften?",
+            "options": [
+              "Neue Märkte für Handwerk, Gastronomie und Kunst",
+              "Nur steigende Mieten",
+              "Keine Vorteile"
+            ],
+            "answer": "Neue Märkte für Handwerk, Gastronomie und Kunst"
+          },
+          {
+            "question": "Welche Probleme kann Massentourismus verursachen?",
+            "options": [
+              "Zerstörung der Authentizität, Preissteigerungen, soziale Ungleichheiten",
+              "Nur längere Flugzeiten",
+              "Reduzierte Online-Buchungen"
+            ],
+            "answer": "Zerstörung der Authentizität, Preissteigerungen, soziale Ungleichheiten"
+          },
+          {
+            "question": "Welche Maßnahmen fördern nachhaltigen Tourismus?",
+            "options": [
+              "Politische Rahmenbedingungen, Zertifikate, internationale Kooperationen",
+              "Nur Werbung in sozialen Medien",
+              "Steuererhöhungen für Reisende"
+            ],
+            "answer": "Politische Rahmenbedingungen, Zertifikate, internationale Kooperationen"
+          },
+          {
+            "question": "Welche Rolle spielt digitale Technologie?",
+            "options": [
+              "Informiert über umweltfreundliche Optionen und reduziert Ressourcenverbrauch",
+              "Ersetzt Reiseleiter vollständig",
+              "Nur für Werbung nützlich"
+            ],
+            "answer": "Informiert über umweltfreundliche Optionen und reduziert Ressourcenverbrauch"
+          },
+          {
+            "question": "Was ist die zentrale Herausforderung des nachhaltigen Tourismus?",
+            "options": [
+              "Ökonomie, touristische Nachfrage und Umweltbewusstsein in Einklang bringen",
+              "Alle Reisen zu verbieten",
+              "Nur Naturparks zu schützen"
+            ],
+            "answer": "Ökonomie, touristische Nachfrage und Umweltbewusstsein in Einklang bringen"
+          }
+        ]
+      }
+    ]
+  }
+,
+  {
+    "id": 12,
+    "title": "Psychische Gesundheit und Arbeitswelt – Herausforderungen und Strategien",
+    "texts": [
+      {
+        "text": "Die psychische Gesundheit am Arbeitsplatz ist ein zunehmend wichtiges Thema, da Stress, Burnout und psychische Erkrankungen die Produktivität, Motivation und das Wohlbefinden von Mitarbeitenden erheblich beeinflussen. Moderne Arbeitsformen wie Homeoffice, flexible Arbeitszeiten und digitale Kommunikation bieten zwar Vorteile, führen aber auch zu neuen Belastungen. Die ständige Erreichbarkeit, hohe Arbeitsdichte und die Vermischung von Arbeits- und Privatleben können Stress erhöhen und langfristig psychische Erkrankungen begünstigen. Studien zeigen, dass präventive Maßnahmen wie Stressmanagement-Workshops, Supervision, Pausenregelungen und Achtsamkeitstraining die Resilienz der Mitarbeitenden stärken. Führungskräfte spielen eine zentrale Rolle: Sie müssen psychische Gesundheit thematisieren, unterstützende Strukturen schaffen und offen über Belastungen sprechen. Eine Unternehmenskultur, die Fehler toleriert, soziale Unterstützung bietet und die Work-Life-Balance respektiert, trägt nachweislich zur Reduktion von psychischen Belastungen bei. Gleichzeitig wird die Sensibilisierung für Anzeichen von Überlastung und Frühwarnsignale empfohlen. Psychologische Beratung, Coaching und betriebliche Gesundheitsförderung ergänzen die Maßnahmen. Forschungsergebnisse belegen, dass Teams, in denen psychische Gesundheit gefördert wird, produktiver, kreativer und stabiler arbeiten. Prävention spart langfristig Kosten, da Krankheitsausfälle reduziert und Mitarbeitende zufriedener bleiben. Langfristige Strategien erfordern die Integration von psychischer Gesundheit in Personalentwicklung, Arbeitsorganisation und Unternehmenskultur. Gleichzeitig müssen individuelle Unterschiede berücksichtigt werden: Menschen reagieren unterschiedlich auf Stress, und persönliche Ressourcen spielen eine entscheidende Rolle. Technologische Hilfsmittel, wie digitale Stress-Tracker oder Apps für Achtsamkeit, können Unterstützung bieten, ersetzen jedoch nicht die soziale Interaktion und den direkten Austausch im Team. Unternehmen, die die psychische Gesundheit ihrer Mitarbeitenden aktiv fördern, profitieren nicht nur wirtschaftlich, sondern leisten auch einen Beitrag zu einem menschlicheren und nachhaltigeren Arbeitsumfeld. Prävention, Sensibilisierung, strukturierte Unterstützung und offene Kommunikation bilden die Grundlage für eine resiliente und gesunde Arbeitswelt.",
+        "questions": [
+          {
+            "question": "Welche Risiken entstehen durch moderne Arbeitsformen?",
+            "options": [
+              "Ständige Erreichbarkeit, hohe Arbeitsdichte, Vermischung von Arbeit und Privatleben",
+              "Nur technologische Probleme",
+              "Nur kürzere Arbeitszeiten"
+            ],
+            "answer": "Ständige Erreichbarkeit, hohe Arbeitsdichte, Vermischung von Arbeit und Privatleben"
+          },
+          {
+            "question": "Welche präventiven Maßnahmen werden empfohlen?",
+            "options": [
+              "Stressmanagement-Workshops, Supervision, Pausenregelungen, Achtsamkeitstraining",
+              "Nur längere Arbeitszeiten",
+              "Nur technische Schulungen"
+            ],
+            "answer": "Stressmanagement-Workshops, Supervision, Pausenregelungen, Achtsamkeitstraining"
+          },
+          {
+            "question": "Welche Rolle haben Führungskräfte?",
+            "options": [
+              "Psychische Gesundheit thematisieren, Strukturen schaffen, offen über Belastungen sprechen",
+              "Nur technische Aufgaben delegieren",
+              "Nur Arbeitszeiten kontrollieren"
+            ],
+            "answer": "Psychische Gesundheit thematisieren, Strukturen schaffen, offen über Belastungen sprechen"
+          },
+          {
+            "question": "Was fördert die Unternehmenskultur laut Text?",
+            "options": [
+              "Fehler tolerieren, soziale Unterstützung, Work-Life-Balance respektieren",
+              "Nur Profitmaximierung",
+              "Nur Leistungsdruck erhöhen"
+            ],
+            "answer": "Fehler tolerieren, soziale Unterstützung, Work-Life-Balance respektieren"
+          },
+          {
+            "question": "Welche Rolle spielen individuelle Unterschiede?",
+            "options": [
+              "Menschen reagieren unterschiedlich auf Stress, persönliche Ressourcen sind entscheidend",
+              "Alle Mitarbeitenden reagieren gleich",
+              "Technologie ersetzt individuelle Unterschiede"
+            ],
+            "answer": "Menschen reagieren unterschiedlich auf Stress, persönliche Ressourcen sind entscheidend"
+          },
+          {
+            "question": "Welche Vorteile ergeben sich durch Förderung psychischer Gesundheit?",
+            "options": [
+              "Produktivere, kreativere und stabilere Teams, weniger Krankheitsausfälle",
+              "Nur höhere Kosten",
+              "Keine messbaren Effekte"
+            ],
+            "answer": "Produktivere, kreativere und stabilere Teams, weniger Krankheitsausfälle"
+          },
+          {
+            "question": "Warum ersetzen digitale Hilfsmittel nicht den direkten Austausch?",
+            "options": [
+              "Soziale Interaktion und Teamkommunikation bleiben wichtig",
+              "Weil Apps immer fehlerhaft sind",
+              "Weil Technologie teuer ist"
+            ],
+            "answer": "Soziale Interaktion und Teamkommunikation bleiben wichtig"
+          }
+        ]
+      }
+    ]
+  }
+,
+  {
+    "id": 13,
+    "title": "Kulturelles Erbe und Digitalisierung – Bewahren und Zugänglich machen",
+    "texts": [
+      {
+        "text": "Die Digitalisierung bietet neue Möglichkeiten, kulturelles Erbe zu bewahren und einem breiten Publikum zugänglich zu machen. Museen, Archive und Bibliotheken nutzen digitale Technologien, um Sammlungen zu katalogisieren, digital zu sichern und online bereitzustellen. Virtuelle Rundgänge, 3D-Modelle und interaktive Anwendungen ermöglichen es Menschen weltweit, historische Stätten, Kunstwerke oder historische Dokumente zu erleben, ohne physisch vor Ort sein zu müssen. Die Vorteile sind vielfältig: Erhalt gefährdeter Objekte, erweiterte Bildungsangebote und Förderung des kulturellen Austauschs. Gleichzeitig entstehen Herausforderungen: Digitale Erfassung kann kostenintensiv sein, technische Standards müssen eingehalten werden und Datenschutz- sowie Urheberrechtsfragen spielen eine Rolle. Fachleute betonen, dass Digitalisierung das physische Erlebnis nicht vollständig ersetzen kann, sondern ergänzend wirkt. Langfristige Strategien erfordern Kooperation zwischen Kulturinstitutionen, IT-Experten und Bildungseinrichtungen. Interaktive Lernangebote fördern zudem die Auseinandersetzung mit Geschichte und Kultur, insbesondere bei jungen Zielgruppen. Die Digitalisierung eröffnet neue Chancen für partizipative Projekte: Bürgerinnen und Bürger können Beiträge leisten, historische Informationen ergänzen und eigene Perspektiven einbringen. Gleichzeitig stellt sich die Frage nach Nachhaltigkeit und Zugänglichkeit: Digitale Angebote müssen regelmäßig aktualisiert, barrierefrei gestaltet und langfristig gesichert werden. Forschung und internationale Kooperationen tragen dazu bei, bewährte Praktiken zu entwickeln und zu verbreiten. Kulturelles Erbe wird somit nicht nur bewahrt, sondern auch dynamisch vermittelt. Die Verbindung von Tradition und modernen Technologien ermöglicht eine tiefere Auseinandersetzung mit Geschichte und fördert kulturelle Bildung, gesellschaftliche Teilhabe und den interkulturellen Dialog. Wer Digitalisierung verantwortungsvoll einsetzt, unterstützt nicht nur die Bewahrung von Kulturgütern, sondern stärkt auch das Verständnis für historische, künstlerische und soziale Zusammenhänge in einer globalisierten Welt.",
+        "questions": [
+          {
+            "question": "Welche Möglichkeiten bietet Digitalisierung für kulturelles Erbe?",
+            "options": [
+              "Bewahrung, Zugänglichmachung und interaktive Präsentation",
+              "Nur Druck von Büchern",
+              "Nur private Sammlungen zeigen"
+            ],
+            "answer": "Bewahrung, Zugänglichmachung und interaktive Präsentation"
+          },
+          {
+            "question": "Welche Technologien werden genutzt?",
+            "options": [
+              "Digitale Kataloge, 3D-Modelle, virtuelle Rundgänge",
+              "Nur Fotografie",
+              "Nur Papierarchive"
+            ],
+            "answer": "Digitale Kataloge, 3D-Modelle, virtuelle Rundgänge"
+          },
+          {
+            "question": "Welche Vorteile werden genannt?",
+            "options": [
+              "Erhalt gefährdeter Objekte, erweiterte Bildungsangebote, kultureller Austausch",
+              "Nur Umsatzsteigerung",
+              "Keine Vorteile"
+            ],
+            "answer": "Erhalt gefährdeter Objekte, erweiterte Bildungsangebote, kultureller Austausch"
+          },
+          {
+            "question": "Welche Herausforderungen bestehen?",
+            "options": [
+              "Kosten, technische Standards, Datenschutz und Urheberrecht",
+              "Nur Standortprobleme",
+              "Nur Besucherzahlen"
+            ],
+            "answer": "Kosten, technische Standards, Datenschutz und Urheberrecht"
+          },
+          {
+            "question": "Was fördert Digitalisierung bei jungen Zielgruppen?",
+            "options": [
+              "Interaktive Lernangebote und Auseinandersetzung mit Kultur",
+              "Nur Unterhaltung",
+              "Nur Offline-Besuche"
+            ],
+            "answer": "Interaktive Lernangebote und Auseinandersetzung mit Kultur"
+          },
+          {
+            "question": "Wie können Bürgerinnen und Bürger partizipieren?",
+            "options": [
+              "Beiträge leisten, Informationen ergänzen, eigene Perspektiven einbringen",
+              "Nur Zuschauen",
+              "Nur online kommentieren"
+            ],
+            "answer": "Beiträge leisten, Informationen ergänzen, eigene Perspektiven einbringen"
+          },
+          {
+            "question": "Was ist entscheidend für nachhaltige digitale Angebote?",
+            "options": [
+              "Regelmäßige Aktualisierung, Barrierefreiheit, langfristige Sicherung",
+              "Nur einmalige Veröffentlichung",
+              "Nur technische Geräte kaufen"
+            ],
+            "answer": "Regelmäßige Aktualisierung, Barrierefreiheit, langfristige Sicherung"
+          }
+        ]
+      }
+    ]
+  }
+,
+  {
+    "id": 14,
+    "title": "Energiepolitik und erneuerbare Energien – Strategien für eine nachhaltige Zukunft",
+    "texts": [
+      {
+        "text": "Die Energiepolitik steht weltweit vor der Herausforderung, Versorgungssicherheit, Wirtschaftlichkeit und Klimaschutz miteinander zu verbinden. Der Ausbau erneuerbarer Energien ist dabei ein zentraler Baustein, um die Abhängigkeit von fossilen Brennstoffen zu reduzieren und Treibhausgasemissionen zu senken. Solarenergie, Windkraft, Wasserkraft und Biomasse tragen zunehmend zur Stromversorgung bei. Politische Maßnahmen wie Förderprogramme, Einspeisevergütungen und Investitionen in Forschung und Infrastruktur unterstützen die Energiewende. Gleichzeitig entstehen technologische Herausforderungen: Speicherung, Netzintegration und Schwankungen bei der Energieproduktion erfordern intelligente Lösungen und Flexibilität. Energieeffizienz in Industrie, Gebäuden und Verkehr spielt ebenfalls eine entscheidende Rolle. Studien zeigen, dass eine frühzeitige Umstellung auf erneuerbare Energien wirtschaftliche Chancen eröffnet, Innovationen fördert und Arbeitsplätze schafft. Gleichzeitig müssen soziale Aspekte berücksichtigt werden: Akzeptanz in der Bevölkerung, faire Kostenverteilung und Beteiligung an Entscheidungsprozessen sind wichtig, um Konflikte zu vermeiden. Internationale Kooperationen ermöglichen den Austausch bewährter Praktiken und die Entwicklung gemeinsamer Standards. Forschung und technologische Innovation tragen dazu bei, die Versorgungssicherheit trotz schwankender Energiequellen zu gewährleisten. Bildung und Information sind notwendig, um Bürgerinnen und Bürger für Energiefragen zu sensibilisieren und nachhaltiges Verhalten zu fördern. Langfristig zielt Energiepolitik darauf ab, ein Gleichgewicht zwischen Umwelt, Wirtschaft und gesellschaftlicher Verantwortung zu schaffen. Nur durch integrierte Strategien, technologische Weiterentwicklung und Beteiligung aller Akteure kann der Übergang zu einer nachhaltigen Energieversorgung erfolgreich gestaltet werden. Erneuerbare Energien bieten die Chance, ökologische Ziele zu erreichen, wirtschaftliche Entwicklung zu fördern und den globalen Klimaschutz voranzubringen, während gleichzeitig eine stabile und bezahlbare Energieversorgung gewährleistet bleibt.",
+        "questions": [
+          {
+            "question": "Welche Ziele verbindet die Energiepolitik laut Text?",
+            "options": [
+              "Versorgungssicherheit, Wirtschaftlichkeit, Klimaschutz",
+              "Nur Wirtschaftlichkeit",
+              "Nur Klimaschutz"
+            ],
+            "answer": "Versorgungssicherheit, Wirtschaftlichkeit, Klimaschutz"
+          },
+          {
+            "question": "Welche erneuerbaren Energien werden genannt?",
+            "options": [
+              "Solarenergie, Windkraft, Wasserkraft, Biomasse",
+              "Nur Solarenergie",
+              "Nur Kernenergie"
+            ],
+            "answer": "Solarenergie, Windkraft, Wasserkraft, Biomasse"
+          },
+          {
+            "question": "Welche technologischen Herausforderungen bestehen?",
+            "options": [
+              "Speicherung, Netzintegration, Schwankungen bei Energieproduktion",
+              "Nur Stromleitungen bauen",
+              "Nur fossile Brennstoffe ersetzen"
+            ],
+            "answer": "Speicherung, Netzintegration, Schwankungen bei Energieproduktion"
+          },
+          {
+            "question": "Welche Rolle spielt Energieeffizienz?",
+            "options": [
+              "Entscheidend in Industrie, Gebäuden und Verkehr",
+              "Nur in Privathaushalten",
+              "Keine Rolle"
+            ],
+            "answer": "Entscheidend in Industrie, Gebäuden und Verkehr"
+          },
+          {
+            "question": "Welche sozialen Aspekte sind wichtig?",
+            "options": [
+              "Akzeptanz, faire Kostenverteilung, Beteiligung an Entscheidungen",
+              "Nur technische Fragen",
+              "Nur gesetzliche Vorschriften"
+            ],
+            "answer": "Akzeptanz, faire Kostenverteilung, Beteiligung an Entscheidungen"
+          },
+          {
+            "question": "Welche Vorteile eröffnet frühzeitige Umstellung auf erneuerbare Energien?",
+            "options": [
+              "Wirtschaftliche Chancen, Innovation, Arbeitsplätze",
+              "Nur Umweltverschmutzung reduzieren",
+              "Keine Vorteile"
+            ],
+            "answer": "Wirtschaftliche Chancen, Innovation, Arbeitsplätze"
+          },
+          {
+            "question": "Wie kann Energiepolitik langfristig erfolgreich sein?",
+            "options": [
+              "Durch integrierte Strategien, technologische Weiterentwicklung und Beteiligung aller Akteure",
+              "Nur durch Subventionen",
+              "Nur durch Stromimporte"
+            ],
+            "answer": "Durch integrierte Strategien, technologische Weiterentwicklung und Beteiligung aller Akteure"
+          }
+        ]
+      }
+    ]
+  }
+,
+  {
+    "id": 15,
+    "title": "Robotik in der Medizin – Chancen und Risiken",
+    "texts": [
+      {
+        "text": "Die Robotik verändert zunehmend die medizinische Praxis. Chirurgische Roboter, telemedizinische Assistenzsysteme und automatische Diagnosetools eröffnen neue Möglichkeiten für Präzision, Effizienz und Patientensicherheit. Roboter können minimalinvasive Eingriffe unterstützen, die Heilungsdauer verkürzen und das Risiko menschlicher Fehler reduzieren. Telemedizinische Anwendungen ermöglichen Ärztinnen und Ärzten die Betreuung von Patienten über große Entfernungen, was insbesondere in ländlichen Regionen oder bei Fachkräftemangel Vorteile bietet. Gleichzeitig ergeben sich ethische, technische und soziale Herausforderungen. Die Abhängigkeit von Technologie erfordert sorgfältige Schulung und Wartung, Datenschutz und Datensicherheit müssen gewährleistet sein. Es besteht die Gefahr, dass soziale Kompetenzen der Fachkräfte in den Hintergrund treten oder Patienten den persönlichen Kontakt vermissen. Studien zeigen, dass Robotik die Arbeit von medizinischem Personal ergänzen, aber nicht vollständig ersetzen kann. Langfristig eröffnen sich Chancen für effizientere Behandlung, bessere Diagnosen und innovative Therapien. Gleichzeitig müssen gesundheitspolitische Rahmenbedingungen, Finanzierung und ethische Richtlinien angepasst werden. Patientenaufklärung ist entscheidend: Sie müssen verstehen, wie Roboter eingesetzt werden und welche Vorteile und Risiken bestehen. Forschung und interdisziplinäre Kooperationen zwischen Medizin, Informatik und Ingenieurwissenschaften sind notwendig, um Roboter sicher, effektiv und patientenorientiert zu gestalten. Die Robotik kann die medizinische Versorgung revolutionieren, doch sie erfordert ein Gleichgewicht zwischen technologischem Fortschritt, menschlicher Expertise und ethischen Prinzipien. Wer Robotik verantwortungsvoll einsetzt, steigert Qualität und Sicherheit in der Medizin, fördert Innovation und entlastet gleichzeitig Fachkräfte, ohne den menschlichen Aspekt der Betreuung zu vernachlässigen.",
+        "questions": [
+          {
+            "question": "Welche Vorteile bietet Robotik in der Chirurgie?",
+            "options": [
+              "Minimalinvasive Eingriffe, verkürzte Heilungsdauer, weniger Fehler",
+              "Nur längere Operationszeiten",
+              "Keine Vorteile"
+            ],
+            "answer": "Minimalinvasive Eingriffe, verkürzte Heilungsdauer, weniger Fehler"
+          },
+          {
+            "question": "Welche Rolle spielt Telemedizin?",
+            "options": [
+              "Betreuung von Patienten über große Entfernungen, besonders in ländlichen Regionen",
+              "Nur für Forschung",
+              "Nur für Verwaltungsaufgaben"
+            ],
+            "answer": "Betreuung von Patienten über große Entfernungen, besonders in ländlichen Regionen"
+          },
+          {
+            "question": "Welche Herausforderungen bestehen?",
+            "options": [
+              "Technische Schulung, Wartung, Datenschutz, soziale Kompetenzen",
+              "Nur Stromversorgung",
+              "Keine Herausforderungen"
+            ],
+            "answer": "Technische Schulung, Wartung, Datenschutz, soziale Kompetenzen"
+          },
+          {
+            "question": "Können Roboter medizinisches Personal vollständig ersetzen?",
+            "options": [
+              "Nein, sie ergänzen die Arbeit",
+              "Ja, vollständig",
+              "Nur in Verwaltungsbereichen"
+            ],
+            "answer": "Nein, sie ergänzen die Arbeit"
+          },
+          {
+            "question": "Welche Aspekte müssen gesundheitspolitisch angepasst werden?",
+            "options": [
+              "Finanzierung, ethische Richtlinien, Rahmenbedingungen",
+              "Nur gesetzliche Steuern",
+              "Nur technische Standards"
+            ],
+            "answer": "Finanzierung, ethische Richtlinien, Rahmenbedingungen"
+          },
+          {
+            "question": "Warum ist Patientenaufklärung wichtig?",
+            "options": [
+              "Sie müssen Vorteile und Risiken der Robotik verstehen",
+              "Nur um Versicherungen zu informieren",
+              "Nur um Wartezeiten zu verkürzen"
+            ],
+            "answer": "Sie müssen Vorteile und Risiken der Robotik verstehen"
+          },
+          {
+            "question": "Welche Balance ist entscheidend für erfolgreiche Robotik in der Medizin?",
+            "options": [
+              "Technologischer Fortschritt, menschliche Expertise, ethische Prinzipien",
+              "Nur technologische Entwicklung",
+              "Nur menschliche Betreuung"
+            ],
+            "answer": "Technologischer Fortschritt, menschliche Expertise, ethische Prinzipien"
+          }
+        ]
+      }
+    ]
+  }
 ]
 
