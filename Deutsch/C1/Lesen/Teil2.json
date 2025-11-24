@@ -373,5 +373,156 @@
       }
     ]
   }
+,
+  {
+    "id": 6,
+    "title": "Künstliche Intelligenz und Ethik – Chancen und Risiken",
+    "texts": [
+      {
+        "text": "Die rasante Entwicklung der künstlichen Intelligenz (KI) hat die Diskussion über ethische Verantwortung neu entfacht. KI-Systeme finden zunehmend Anwendung in sensiblen Bereichen wie medizinischer Diagnostik, Finanzanalysen oder autonomen Fahrzeugen. Die Vorteile sind unbestreitbar: Effizienzsteigerung, Fehlerreduktion und die Fähigkeit, große Datenmengen innerhalb kürzester Zeit auszuwerten. Doch die ethischen Fragen sind ebenso bedeutsam. Wer haftet, wenn ein Algorithmus eine fehlerhafte Entscheidung trifft? Wie lassen sich Vorurteile vermeiden, die in den Trainingsdaten verborgen sein können? Forschungen zeigen, dass KI unbewusst bestehende gesellschaftliche Ungleichheiten reproduzieren kann. Transparenz, Nachvollziehbarkeit und menschliche Kontrolle werden daher zunehmend gefordert. Unternehmen setzen auf „Ethical AI“-Teams, die Algorithmen auf Fairness, Datenschutz und soziale Folgen überprüfen. Gleichzeitig entstehen neue Chancen für die Arbeitswelt: KI kann repetitive Aufgaben übernehmen, sodass Menschen sich auf kreative und strategische Tätigkeiten konzentrieren können. Bildung spielt hierbei eine Schlüsselrolle: Wer die Funktionsweise von KI versteht, kann sie verantwortungsvoll nutzen. Die öffentliche Diskussion betont zudem die Notwendigkeit gesetzlicher Leitlinien, um Risiken zu minimieren. Es bleibt eine Herausforderung, die Balance zwischen technologischer Effizienz und ethischer Verantwortung zu wahren, sodass KI dem Wohl der Gesellschaft dient.",
+        "questions": [
+          {
+            "question": "In welchen Bereichen wird KI laut Text eingesetzt?",
+            "options": [
+              "Nur in der Unterhaltungstechnologie",
+              "In Medizin, Finanzen und autonomen Fahrzeugen",
+              "In klassischen Handwerksberufen"
+            ],
+            "answer": "In Medizin, Finanzen und autonomen Fahrzeugen"
+          },
+          {
+            "question": "Welche Vorteile von KI werden genannt?",
+            "options": [
+              "Erhöhung von Bürokratie",
+              "Effizienzsteigerung, Fehlerreduktion, Datenverarbeitung",
+              "Reduktion der Bildungschancen"
+            ],
+            "answer": "Effizienzsteigerung, Fehlerreduktion, Datenverarbeitung"
+          },
+          {
+            "question": "Welche ethische Frage ist zentral?",
+            "options": [
+              "Wer haftet für fehlerhafte Entscheidungen?",
+              "Wie wird KI hergestellt?",
+              "Wer entwickelt neue Programmiersprachen?"
+            ],
+            "answer": "Wer haftet für fehlerhafte Entscheidungen?"
+          },
+          {
+            "question": "Warum können KI-Systeme Vorurteile reproduzieren?",
+            "options": [
+              "Wegen fehlerhafter Hardware",
+              "Weil Trainingsdaten gesellschaftliche Ungleichheiten widerspiegeln",
+              "Aufgrund fehlender Internetverbindung"
+            ],
+            "answer": "Weil Trainingsdaten gesellschaftliche Ungleichheiten widerspiegeln"
+          },
+          {
+            "question": "Welche Rolle spielt Bildung laut Text?",
+            "options": [
+              "Menschen sollen KI verstehen, um sie verantwortungsvoll nutzen zu können",
+              "Bildung verhindert die Nutzung von KI",
+              "Nur IT-Spezialisten brauchen Bildung über KI"
+            ],
+            "answer": "Menschen sollen KI verstehen, um sie verantwortungsvoll nutzen zu können"
+          },
+          {
+            "question": "Was ist das Ziel von „Ethical AI“-Teams?",
+            "options": [
+              "Algorithmen auf Fairness, Datenschutz und soziale Folgen prüfen",
+              "Software schneller laufen lassen",
+              "KI-Systeme vollständig ersetzen"
+            ],
+            "answer": "Algorithmen auf Fairness, Datenschutz und soziale Folgen prüfen"
+          },
+          {
+            "question": "Welche Herausforderung bleibt bestehen?",
+            "options": [
+              "Balance zwischen Effizienz und ethischer Verantwortung",
+              "Schneller Internetzugang",
+              "Mehr Hardware kaufen"
+            ],
+            "answer": "Balance zwischen Effizienz und ethischer Verantwortung"
+          }
+        ]
+      }
+    ]
+  }
+,
+  {
+    "id": 7,
+    "title": "Migration und Integration – Herausforderungen und Chancen",
+    "texts": [
+      {
+        "text": "Migration ist ein globales Phänomen, das seit Jahrzehnten Gesellschaften weltweit prägt. Menschen verlassen ihre Heimat aus wirtschaftlichen, politischen oder ökologischen Gründen, um neue Perspektiven in einem anderen Land zu finden. Integration ist dabei ein komplexer Prozess, der nicht nur von den Migrantinnen und Migranten selbst abhängt, sondern auch von der Aufnahmegesellschaft. Erfolgreiche Integration umfasst den Zugang zu Bildung, Arbeitsmarkt, sozialen Netzwerken und politischer Teilhabe. Hindernisse ergeben sich häufig durch Sprachbarrieren, Diskriminierung oder kulturelle Missverständnisse. Studien zeigen, dass Migrantinnen und Migranten, die frühzeitig Sprachkenntnisse erwerben und berufliche Qualifikationen anerkennen lassen, langfristig bessere Chancen auf dem Arbeitsmarkt haben. Gleichzeitig profitieren Aufnahmegesellschaften von Migration: Fachkräfte ergänzen den Arbeitsmarkt, Innovationen entstehen durch unterschiedliche Perspektiven, und die kulturelle Vielfalt bereichert das gesellschaftliche Leben. Doch Integration ist keine Einbahnstraße; sie erfordert Interaktion, gegenseitiges Verständnis und die Bereitschaft, gesellschaftliche Normen zu respektieren. Politische Maßnahmen wie Sprachkurse, Mentoring-Programme oder Förderungen für berufliche Qualifikationen können den Prozess unterstützen. Bildungseinrichtungen spielen ebenfalls eine zentrale Rolle: Schulen, die interkulturelle Kompetenzen vermitteln und inklusiv arbeiten, erleichtern jungen Migrantinnen und Migranten den Einstieg in die Gesellschaft. Sozialwissenschaftler betonen, dass Integration langfristig nur gelingt, wenn strukturelle Hürden abgebaut und Diskriminierung konsequent bekämpft wird. Gleichzeitig bleibt es wichtig, die Identität und kulturellen Wurzeln der Migrantinnen und Migranten zu respektieren. In einer zunehmend globalisierten Welt zeigt Migration, wie dynamisch Gesellschaften sind und welche Chancen sich durch Vielfalt ergeben. Integration wird dadurch zu einem fortwährenden Prozess, der sowohl Anstrengung als auch Empathie erfordert und letztlich zur Stabilität, Innovation und sozialen Kohäsion beitragen kann.",
+        "questions": [
+          {
+            "question": "Warum verlassen Menschen ihre Heimat laut Text?",
+            "options": [
+              "Nur aus Abenteuerlust",
+              "Aus wirtschaftlichen, politischen oder ökologischen Gründen",
+              "Weil sie reisen möchten"
+            ],
+            "answer": "Aus wirtschaftlichen, politischen oder ökologischen Gründen"
+          },
+          {
+            "question": "Was umfasst erfolgreiche Integration?",
+            "options": [
+              "Zugang zu Bildung, Arbeitsmarkt, sozialen Netzwerken und politischer Teilhabe",
+              "Nur Zugang zum Wohnraum",
+              "Nur das Erlernen der Sprache"
+            ],
+            "answer": "Zugang zu Bildung, Arbeitsmarkt, sozialen Netzwerken und politischer Teilhabe"
+          },
+          {
+            "question": "Welche Hindernisse können Integration erschweren?",
+            "options": [
+              "Sprachbarrieren, Diskriminierung und kulturelle Missverständnisse",
+              "Nur geografische Entfernung",
+              "Hohe Temperaturen"
+            ],
+            "answer": "Sprachbarrieren, Diskriminierung und kulturelle Missverständnisse"
+          },
+          {
+            "question": "Wie profitieren Aufnahmegesellschaften von Migration?",
+            "options": [
+              "Fachkräfte, Innovationen und kulturelle Vielfalt",
+              "Nur durch niedrigere Steuern",
+              "Es gibt keinen Nutzen"
+            ],
+            "answer": "Fachkräfte, Innovationen und kulturelle Vielfalt"
+          },
+          {
+            "question": "Welche Rolle spielen Bildungseinrichtungen?",
+            "options": [
+              "Sie vermitteln interkulturelle Kompetenzen und erleichtern Integration",
+              "Sie unterrichten ausschließlich lokale Kultur",
+              "Sie ersetzen politische Maßnahmen"
+            ],
+            "answer": "Sie vermitteln interkulturelle Kompetenzen und erleichtern Integration"
+          },
+          {
+            "question": "Was betonen Sozialwissenschaftler?",
+            "options": [
+              "Integration gelingt nur, wenn Diskriminierung abgebaut wird",
+              "Integration ist nur individuelle Aufgabe",
+              "Migration sollte vermieden werden"
+            ],
+            "answer": "Integration gelingt nur, wenn Diskriminierung abgebaut wird"
+          },
+          {
+            "question": "Warum ist Integration ein fortwährender Prozess?",
+            "options": [
+              "Weil Gesellschaften dynamisch sind und Empathie erfordern",
+              "Weil Migration selten ist",
+              "Weil Sprachkurse ausreichen"
+            ],
+            "answer": "Weil Gesellschaften dynamisch sind und Empathie erfordern"
+          }
+        ]
+      }
+    ]
+  }
 ]
+
 
