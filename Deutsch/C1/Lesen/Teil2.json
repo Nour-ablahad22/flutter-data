@@ -73,4 +73,80 @@
       }
     ]
   }
+,
+  {
+    "id": 2,
+    "title": "Umwelt und nachhaltiger Konsum – Zwischen Bewusstsein und Bequemlichkeit",
+    "texts": [
+      {
+        "text": "Nachhaltiger Konsum gilt seit Jahren als Schlüsselbegriff in der öffentlichen Diskussion über Umwelt- und Klimaschutz. Immer mehr Menschen betonen, wie wichtig ein verantwortungsvoller Umgang mit Ressourcen sei, doch zwischen Überzeugung und tatsächlichem Handeln klafft oft eine große Lücke. Laut einer aktuellen Umfrage des Umweltbundesamtes achten zwar über 70 Prozent der Befragten beim Einkaufen auf Umweltlabels, dennoch kaufen viele weiterhin Produkte, die aus ökologischer Sicht problematisch sind. Dieses Phänomen wird in der Forschung als „Attitude-Behaviour-Gap“ bezeichnet – also die Diskrepanz zwischen Umweltbewusstsein und Konsumverhalten. Einer der Hauptgründe liegt in der Bequemlichkeit: Nachhaltige Alternativen sind häufig teurer, schwerer zugänglich oder erfordern Verhaltensänderungen, die nicht jedem leichtfallen. Ein Beispiel dafür ist der Bereich der Ernährung. Zwar wächst der Markt für Bio-Produkte stetig, doch der Anteil an industriell verarbeiteten Lebensmitteln bleibt weiterhin hoch. Bequemlichkeit, Zeitmangel und Preis spielen hier eine entscheidende Rolle. Ähnlich verhält es sich beim Thema Mobilität. Viele Menschen wissen um die negativen Folgen des motorisierten Individualverkehrs, steigen aber dennoch täglich ins Auto. Der öffentliche Nahverkehr ist in ländlichen Regionen oft unzureichend ausgebaut, während Fahrradinfrastruktur und Carsharing-Angebote nicht überall verfügbar sind. Studien zeigen, dass der Wandel zu einem nachhaltigeren Lebensstil weniger an fehlendem Wissen scheitert, sondern vielmehr an strukturellen Bedingungen und sozialen Gewohnheiten. Nachhaltigkeit wird oft mit Verzicht assoziiert, doch eigentlich geht es um Lebensqualität und langfristige Zufriedenheit. Das Prinzip „weniger ist mehr“ gewinnt zunehmend an Bedeutung – vor allem in der jungen Generation, die den Klimawandel als existenzielle Bedrohung wahrnimmt. Bewegungen wie „Fridays for Future“ oder „Zero Waste“ zeigen, dass gesellschaftlicher Druck Veränderungen anstoßen kann. Politik und Wirtschaft reagieren darauf mit neuen Konzepten: Unternehmen entwickeln kreislauffähige Produkte, Städte fördern Reparaturinitiativen und Tauschbörsen, und digitale Plattformen erleichtern den Zugang zu Secondhand-Angeboten. Dennoch bleibt die Frage, wie Konsumverhalten dauerhaft verändert werden kann. Fachleute betonen, dass nachhaltiger Konsum nicht allein die Verantwortung des Individuums sein darf. Es brauche klare politische Rahmenbedingungen – etwa durch Umweltsteuern, Subventionen für nachhaltige Produktion oder strengere Auflagen für klimaschädliche Unternehmen. Nur so kann der gesellschaftliche Wandel beschleunigt werden. Nachhaltigkeit bedeutet schließlich nicht nur, weniger zu konsumieren, sondern auch bewusster zu leben: Qualität vor Quantität, Reparieren statt Wegwerfen, Teilen statt Besitzen. Wenn Konsum wieder als Mittel zum Zweck verstanden wird – nämlich um Bedürfnisse zu befriedigen und nicht Status zu demonstrieren –, dann kann ein echter Paradigmenwechsel stattfinden. Doch bis dahin bleibt nachhaltiger Konsum ein Balanceakt zwischen Einsicht und Gewohnheit, zwischen Umweltbewusstsein und menschlicher Bequemlichkeit.",
+        "questions": [
+          {
+            "question": "Was beschreibt der Begriff „Attitude-Behaviour-Gap“?",
+            "options": [
+              "Den Zusammenhang zwischen Einkommen und Konsumverhalten",
+              "Die Lücke zwischen Umweltbewusstsein und tatsächlichem Handeln",
+              "Die Diskrepanz zwischen Stadt- und Landbewohnern"
+            ],
+            "answer": "Die Lücke zwischen Umweltbewusstsein und tatsächlichem Handeln"
+          },
+          {
+            "question": "Warum greifen viele Menschen trotz Umweltbewusstseins zu problematischen Produkten?",
+            "options": [
+              "Weil sie den Umweltschutz ablehnen",
+              "Weil nachhaltige Alternativen oft teurer oder weniger bequem sind",
+              "Weil umweltfreundliche Produkte schlechter verfügbar sind"
+            ],
+            "answer": "Weil nachhaltige Alternativen oft teurer oder weniger bequem sind"
+          },
+          {
+            "question": "Welche Aussage trifft auf den Bereich Mobilität zu?",
+            "options": [
+              "Die meisten Menschen verzichten freiwillig auf das Auto.",
+              "Der öffentliche Nahverkehr ist überall ausreichend ausgebaut.",
+              "Viele nutzen das Auto weiterhin aus praktischen Gründen."
+            ],
+            "answer": "Viele nutzen das Auto weiterhin aus praktischen Gründen."
+          },
+          {
+            "question": "Worin sehen Fachleute die Hauptverantwortung für nachhaltigen Konsum?",
+            "options": [
+              "In der individuellen Entscheidung jedes Einzelnen",
+              "In klaren politischen Rahmenbedingungen",
+              "In der Förderung des Onlinehandels"
+            ],
+            "answer": "In klaren politischen Rahmenbedingungen"
+          },
+          {
+            "question": "Was betont das Prinzip „weniger ist mehr“ laut Text?",
+            "options": [
+              "Den Rückgang der Produktqualität",
+              "Die Bedeutung von Lebensqualität und Zufriedenheit",
+              "Die Ablehnung moderner Technologien"
+            ],
+            "answer": "Die Bedeutung von Lebensqualität und Zufriedenheit"
+          },
+          {
+            "question": "Welche Rolle spielen Bewegungen wie „Fridays for Future“?",
+            "options": [
+              "Sie sensibilisieren die Gesellschaft und fördern Veränderungen.",
+              "Sie führen zu mehr Konsum und Umweltbelastung.",
+              "Sie konzentrieren sich ausschließlich auf wirtschaftliche Themen."
+            ],
+            "answer": "Sie sensibilisieren die Gesellschaft und fördern Veränderungen."
+          },
+          {
+            "question": "Wie lässt sich nachhaltiger Konsum laut Text am besten verstehen?",
+            "options": [
+              "Als reiner Verzicht auf Luxusprodukte",
+              "Als bewusste Lebensweise mit Verantwortung",
+              "Als kurzfristiger Trend ohne gesellschaftliche Bedeutung"
+            ],
+            "answer": "Als bewusste Lebensweise mit Verantwortung"
+          }
+        ]
+      }
+    ]
+  }
 ]
+
