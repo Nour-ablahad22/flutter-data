@@ -148,5 +148,80 @@
       }
     ]
   }
+,
+  {
+    "id": 3,
+    "title": "Bildung und Chancengleichheit – Der lange Weg zu fairen Möglichkeiten",
+    "texts": [
+      {
+        "text": "Bildung gilt als Schlüssel zu sozialer Gerechtigkeit, doch die Realität zeigt, dass nicht alle Menschen in gleichem Maße von Bildungsangeboten profitieren. Trotz zahlreicher Reformen bleibt der Bildungserfolg in Deutschland nach wie vor stark von der sozialen Herkunft abhängig. Kinder aus Akademikerfamilien besuchen deutlich häufiger ein Gymnasium oder eine Universität als jene, deren Eltern keinen höheren Schulabschluss besitzen. Diese Ungleichheit beginnt oft schon in der frühen Kindheit. Studien belegen, dass sprachliche und kognitive Förderung in den ersten Lebensjahren entscheidend für die spätere Lernentwicklung ist. Kinder, die in bildungsnahen Haushalten aufwachsen, haben hier deutliche Vorteile. Soziale Benachteiligung führt dagegen häufig zu einem Teufelskreis: Fehlende Unterstützung im Elternhaus, geringere Erwartungen der Lehrkräfte und weniger Zugang zu kulturellen Aktivitäten erschweren den Bildungsaufstieg. Die Politik versucht, diesem Trend mit Maßnahmen wie der frühkindlichen Sprachförderung, kostenfreien Kita-Plätzen und Ganztagsschulen entgegenzuwirken. Doch der Erfolg solcher Programme hängt stark von ihrer Umsetzung ab. Besonders Lehrkräfte stehen im Spannungsfeld zwischen individueller Förderung und Leistungsdruck. Sie sollen auf die unterschiedlichen Bedürfnisse ihrer Schülerinnen und Schüler eingehen, gleichzeitig aber standardisierte Lernziele erreichen. Das führt nicht selten zu Überforderung. Bildungsgerechtigkeit bedeutet jedoch mehr als bloßen Zugang zu Schulen oder Universitäten. Es geht auch um Chancengleichheit im Lernprozess selbst – um die Möglichkeit, unabhängig von Herkunft, Geschlecht oder Migrationshintergrund gleiche Lern- und Entwicklungschancen zu erhalten. Digitale Bildung kann hier neue Perspektiven eröffnen, birgt aber auch Risiken. Zwar ermöglichen Onlineplattformen und Lernapps flexibles Lernen, doch Kinder aus einkommensschwachen Familien verfügen oft nicht über die nötige technische Ausstattung. So kann Digitalisierung bestehende Ungleichheiten sogar verstärken. Fachleute fordern daher eine Kombination aus technischer Infrastruktur und pädagogischer Unterstützung. Bildung müsse als gesamtgesellschaftliche Aufgabe verstanden werden, nicht nur als Verantwortung der Schulen. Neben der Wissensvermittlung komme es auf Wertebildung, soziale Kompetenzen und die Förderung von Empathie an. Bildung ist damit mehr als reines Faktenwissen – sie ist ein zentraler Bestandteil demokratischer Teilhabe. Wer Bildung erfährt, erhält die Fähigkeit, kritisch zu denken, Verantwortung zu übernehmen und sich aktiv am gesellschaftlichen Leben zu beteiligen. Langfristig trägt das zu sozialem Zusammenhalt und wirtschaftlicher Stabilität bei. Doch um dies zu erreichen, braucht es Investitionen – in Lehrkräfte, Ausstattung und Chancengleichheit. Solange Herkunft den Bildungserfolg bestimmt, bleibt das Ideal einer gerechten Gesellschaft ein fernes Ziel. Der Weg dahin ist lang, aber unverzichtbar, wenn Bildung tatsächlich der Schlüssel zu gleichen Möglichkeiten sein soll.",
+        "questions": [
+          {
+            "question": "Wovon hängt der Bildungserfolg laut Text in Deutschland stark ab?",
+            "options": [
+              "Von der sozialen Herkunft",
+              "Von der geografischen Lage der Schule",
+              "Von der Anzahl der Lehrkräfte"
+            ],
+            "answer": "Von der sozialen Herkunft"
+          },
+          {
+            "question": "Wann beginnen laut Text die Bildungsunterschiede häufig?",
+            "options": [
+              "Erst in der weiterführenden Schule",
+              "Bereits in der frühen Kindheit",
+              "Während der Berufsausbildung"
+            ],
+            "answer": "Bereits in der frühen Kindheit"
+          },
+          {
+            "question": "Welche Schwierigkeiten haben Lehrkräfte laut Text?",
+            "options": [
+              "Sie müssen gleichzeitig individuelle Förderung und Leistungsanforderungen erfüllen.",
+              "Sie haben zu wenig Kontakt zu Eltern und Verwaltung.",
+              "Sie dürfen keine digitalen Medien einsetzen."
+            ],
+            "answer": "Sie müssen gleichzeitig individuelle Förderung und Leistungsanforderungen erfüllen."
+          },
+          {
+            "question": "Welche Gefahr birgt die Digitalisierung im Bildungsbereich?",
+            "options": [
+              "Sie kann bestehende soziale Ungleichheiten verstärken.",
+              "Sie führt zu einem Rückgang der Lernmotivation.",
+              "Sie ersetzt den Präsenzunterricht vollständig."
+            ],
+            "answer": "Sie kann bestehende soziale Ungleichheiten verstärken."
+          },
+          {
+            "question": "Was verstehen Fachleute unter Bildungsgerechtigkeit?",
+            "options": [
+              "Gleiche Noten für alle Schüler",
+              "Chancengleichheit im gesamten Lernprozess",
+              "Kostenlose Schulbücher für alle Klassenstufen"
+            ],
+            "answer": "Chancengleichheit im gesamten Lernprozess"
+          },
+          {
+            "question": "Welche zentrale Bedeutung hat Bildung laut Text für die Gesellschaft?",
+            "options": [
+              "Sie dient der reinen Wissensvermittlung.",
+              "Sie ist Grundlage für demokratische Teilhabe.",
+              "Sie soll wirtschaftliche Gewinne steigern."
+            ],
+            "answer": "Sie ist Grundlage für demokratische Teilhabe."
+          },
+          {
+            "question": "Was ist laut Text notwendig, um Bildungsgerechtigkeit zu erreichen?",
+            "options": [
+              "Mehr Investitionen in Lehrkräfte und Ausstattung",
+              "Eine stärkere Leistungsselektion an Schulen",
+              "Der Verzicht auf digitale Lernformen"
+            ],
+            "answer": "Mehr Investitionen in Lehrkräfte und Ausstattung"
+          }
+        ]
+      }
+    ]
+  }
 ]
 
