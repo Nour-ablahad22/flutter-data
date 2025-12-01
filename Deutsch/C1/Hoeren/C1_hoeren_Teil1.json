@@ -100,7 +100,7 @@
     "question": "Welche Faktoren sind für erfolgreiche Integration entscheidend?",
     "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
     "answer": "b",
-    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/C1/Hoeren/Audio/1.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/C1/Hoeren/Audio/10.mp3"
   }
 ,
   {
@@ -111,7 +111,7 @@
     "question": "Welche Aspekte sind für die erfolgreiche Energiewende entscheidend?",
     "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
     "answer": "a",
-    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/C1/Hoeren/Audio/1.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/C1/Hoeren/Audio/11.mp3"
   },
   {
     "id": 12,
@@ -121,7 +121,7 @@
     "question": "Welche Maßnahmen fördern nachhaltige Stadtentwicklung laut Text?",
     "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
     "answer": "b",
-    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/C1/Hoeren/Audio/1.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/C1/Hoeren/Audio/12.mp3"
   },
   {
     "id": 13,
@@ -131,7 +131,7 @@
     "question": "Welche Chancen eröffnet die digitale Transformation in der Bildung laut Text?",
     "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
     "answer": "b",
-    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/C1/Hoeren/Audio/1.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/C1/Hoeren/Audio/13.mp3"
   },
   {
     "id": 14,
@@ -141,7 +141,7 @@
     "question": "Welche Maßnahmen sind laut Text wichtig zur Anpassung an den Klimawandel?",
     "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
     "answer": "c",
-    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/C1/Hoeren/Audio/1.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/C1/Hoeren/Audio/14.mp3"
   },
   {
     "id": 15,
@@ -151,7 +151,7 @@
     "question": "Welche Herausforderungen und Chancen bringt KI laut Text mit sich?",
     "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
     "answer": "c",
-    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/C1/Hoeren/Audio/1.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/C1/Hoeren/Audio/15.mp3"
   }
 ,
   {
@@ -162,7 +162,7 @@
     "question": "Welche Chancen und Risiken werden durch Globalisierung laut Text beschrieben?",
     "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
     "answer": "a",
-    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/C1/Hoeren/Audio/1.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/C1/Hoeren/Audio/16.mp3"
   },
   {
     "id": 17,
@@ -172,7 +172,7 @@
     "question": "Welche Maßnahmen fördern laut Text nachhaltige Landwirtschaft?",
     "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
     "answer": "a",
-    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/C1/Hoeren/Audio/1.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/C1/Hoeren/Audio/17.mp3"
   }
 ,
   {
@@ -183,7 +183,7 @@
     "question": "Welche Vorteile und Herausforderungen bringt die Energiewende laut Text?",
     "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
     "answer": "b",
-    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/C1/Hoeren/Audio/1.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/C1/Hoeren/Audio/18.mp3"
   },
   {
     "id": 19,
@@ -193,7 +193,7 @@
     "question": "Welche Strategien werden laut Text für nachhaltige Stadtentwicklung beschrieben?",
     "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
     "answer": "b",
-    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/C1/Hoeren/Audio/1.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/C1/Hoeren/Audio/19.mp3"
   },
   {
     "id": 20,
@@ -203,7 +203,7 @@
     "question": "Welche Auswirkungen hat die digitale Transformation auf Arbeit und Gesellschaft laut Text?",
     "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
     "answer": "c",
-    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/C1/Hoeren/Audio/1.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/C1/Hoeren/Audio/20.mp3"
   }
 ]
 
