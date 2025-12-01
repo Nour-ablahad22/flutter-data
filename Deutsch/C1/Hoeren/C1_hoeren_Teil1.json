@@ -19,11 +19,7 @@
     "answer": "b",
     "audio_url": "https://example.com/audio2.mp3"
   }
-]
-
-###############
-
-[
+,
   {
     "id": 3,
     "title": "Medienkompetenz im digitalen Zeitalter",
@@ -54,11 +50,7 @@
     "answer": "c",
     "audio_url": "https://example.com/audio5.mp3"
   }
-]
-
-################
-
-[
+,
   {
     "id": 6,
     "title": "Künstliche Intelligenz und gesellschaftliche Verantwortung",
@@ -89,10 +81,7 @@
     "answer": "b",
     "audio_url": "https://example.com/audio8.mp3"
   }
-]
-###################
-
-[
+,
   {
     "id": 9,
     "title": "Gesundheitssysteme und globale Herausforderungen",
@@ -113,10 +102,7 @@
     "answer": "b",
     "audio_url": "https://example.com/audio10.mp3"
   }
-]
-
-######################
-[
+,
   {
     "id": 11,
     "title": "Erneuerbare Energien und Energiewende",
