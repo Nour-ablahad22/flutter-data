@@ -7,7 +7,7 @@
     "question": "Worauf liegt der Schwerpunkt des Romans 'Polarsturm'?",
     "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
     "answer": "a",
-    "audio_url": "https://example.com/audio1.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/3.mp3"
   },
   {
     "id": 2,
