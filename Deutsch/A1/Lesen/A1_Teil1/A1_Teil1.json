@@ -1,1 +1,203 @@
 
+[
+  {
+    "title": "Thema 1",
+    "texts": [
+      {
+        "text": "Letzte Woche hatte ich einen wirklich stressigen Tag. Ich war den ganzen Tag bei der Arbeit, und am Abend musste ich noch einkaufen, weil wir fast nichts im Haus hatten. Als ich mit vollen Einkaufstaschen nach Hause kam, fand ich einen kleinen Zettel an meiner Wohnungstür. Darauf stand: „Liebe Nachbarin, ich habe Ihre Tasche vor dem Supermarkt gefunden. Sie lag auf einer Bank. Ich habe sie in mein Auto gelegt und wollte sie Ihnen bringen. Aber Sie waren nicht zu Hause. Deshalb habe ich die Tasche bei der Hausmeisterin abgegeben. Viele Grüße, Thomas.“\n\nIch war total überrascht! Meine Handtasche war verschwunden? Schnell suchte ich in meiner Jacke – ja, tatsächlich! Die kleine Umhängetasche mit meinem Portemonnaie, meinen Schlüsseln und meinem Personalausweis war weg. Ich hatte sie wohl beim Bezahlen im Supermarkt liegen lassen.\n\nSofort ging ich zur Hausmeisterin. Und da war sie – meine Tasche, genau wie ich sie verloren hatte. Alles war noch drin: Geld, Karten, sogar mein Notizbuch. Ich war so erleichtert! Ich fragte die Hausmeisterin nach Thomas. Sie sagte, er sei ein junger Mann aus dem dritten Stock, aber sie wisse nicht, welche Wohnung.\n\nAm nächsten Tag schrieb ich einen Dankesbrief und legte ihn in seinen Briefkasten: „Lieber Thomas, vielen, vielen Dank, dass du meine Tasche gefunden und sicher aufbewahrt hast. Du hast mir viel Ärger erspart. Ich hoffe, ich kann dir eines Tages helfen. Mit herzlichen Grüßen, Anna.“\n\nIch weiß nicht, ob er den Brief gelesen hat. Aber ich hoffe, er weiß, wie dankbar ich bin. Solche Menschen machen das Leben schöner. Es ist schön zu sehen, dass es noch viele ehrliche und hilfsbereite Menschen gibt. Manchmal vergisst man das im Alltag. Aber solche kleinen Momente erinnern uns daran, dass Güte und Respekt wichtig sind.",
+        "questions": [
+          {
+            "question": "Anna hat ihre Tasche in der Wohnung verloren.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Der Finder hieß Thomas.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Thomas hat die Tasche ins Fundbüro gebracht.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Das Geld war nicht mehr in der Tasche.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Anna hat Thomas persönlich gedankt.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Die Hausmeisterin wusste, in welcher Wohnung Thomas wohnt.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Thema 2",
+    "texts": [
+      {
+        "text": "Letzten Samstag war ich mit meinem Hund Max im Park. Es war ein schöner Tag, die Sonne schien, und viele Leute waren unterwegs. Max liebt es, frei zu laufen, also habe ich ihn von der Leine gelassen – aber nur für kurze Zeit. Plötzlich hörte ich einen lauten Knall – ein Feuerwerk! Max erschrak sehr und rannte weg. Ich rief seinen Namen, lief hinter ihm her, aber er war schon verschwunden zwischen den Bäumen.\n\nIch war völlig verzweifelt. Max ist nicht nur mein Haustier, er ist wie ein Familienmitglied. Ich suchte stundenlang im Park, fragte andere Spaziergänger, ob sie ihn gesehen hatten. Niemand hatte ihn bemerkt. Danach ging ich nach Hause und machte mir große Sorgen. Ich hängte überall Suchplakate auf: an Laternen, in Supermärkten, an Bushaltestellen. Darauf stand: „Hund verloren! Name: Max. Farbe: braun-weiß. Belohnung bei Rückgabe.“\n\nAm nächsten Tag klingelte das Telefon. Eine Frau sagte: „Ich glaube, ich habe Ihren Hund gefunden. Er läuft seit gestern Abend vor meinem Haus herum. Er sieht hungrig aus, aber freundlich.“ Sie beschrieb Max genau – es war wirklich er! Ich fuhr sofort zu ihr. Als Max mich sah, bellte er freudig und sprang an mir hoch. Ich war so glücklich, dass ich fast geweint hätte.\n\nDie Frau, Frau Becker, hatte Max ins Haus geholt, ihm Futter gegeben und auf den Plakaten meinen Namen gesehen. Ohne ihre Hilfe hätte ich Max vielleicht nie wiedergefunden. Ich wollte ihr Geld geben, aber sie sagte: „Nein, danke. Es reicht mir, wenn Max wieder bei Ihnen ist.“\n\nHeute schreibe ich diesen Text, weil ich Frau Becker danken möchte. Lieber Finderin, vielen, vielen Dank! Sie haben nicht nur Max geholfen, sondern auch mir. Solche Menschen zeigen, wie wichtig Mitgefühl ist.",
+        "questions": [
+          {
+            "question": "Max hatte Angst vor dem Feuerwerk.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Max wurde am selben Tag gefunden.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Der Besitzer hat kein Suchplakat aufgehängt.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Frau Becker hat Max gefüttert.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Die Frau hat die Belohnung angenommen.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Max hat seinen Besitzer nicht erkannt.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Thema 3",
+    "texts": [
+      {
+        "text": "Vor zwei Wochen habe ich meine Brille verloren. Das war ein großes Problem, weil ich ohne Brille fast nichts sehe. Ich trug sie beim Mittagessen im Café neben meiner Arbeit. Danach ging ich zurück ins Büro – und merkte erst Stunden später, dass sie nicht mehr in meiner Tasche war.\n\nIch dachte sofort ans Café. Ich rief dort an, aber niemand hatte eine Brille gefunden. Traurig kaufte ich am nächsten Tag eine neue – doch dann kam die Überraschung: Drei Tage später erhielt ich ein Paket per Post. Darin lag meine alte Brille – mit einem Zettel: „Ich fand Ihre Brille unter dem Tisch im Café. Da stand Ihr Name auf dem Etui, habe ich gesucht, wo Sie arbeiten. Hier ist sie wieder! Gute Besserung für Ihre Augen :).“ Unterschrieben war mit „Ein Kollege?“\n\nIch war total gerührt! Offenbar hatte jemand aus meinem Bürogebäude sie gefunden und extra per Post geschickt. Ich zeigte den Zettel allen Kollegen, aber niemand gab es zu. Vielleicht will derjenige anonym bleiben.\n\nTrotzdem möchte ich sagen: Lieber unbekannter Helfer, vielen Dank! Es ist nicht nur um die Brille gegangen, sondern um die Fürsorge. Du hast mir gezeigt, dass kleine Taten große Wirkung haben können. In unserer hektischen Welt bedeutet so etwas sehr viel. Ich werde versuchen, genauso hilfsbereit zu sein, wenn ich einmal etwas finde.",
+        "questions": [
+          {
+            "question": "Die Brille war sehr wichtig für den Schreiber.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Die Brille wurde im Büro gefunden.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Der Finder hat die Brille persönlich zurückgegeben.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Der Name des Schreibers stand auf dem Brillenetui.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Der Finder hat sich mit Namen vorgestellt.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Der Schreiber hat die Brille nie wiedergefunden.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Thema 4",
+    "texts": [
+      {
+        "text": "Letzten Monat habe ich versehentlich mein Ladegerät im Zug vergessen. Es war ein langer Arbeitstag, und ich war müde. Als ich zu Hause ankam, merkte ich: Mein Handy-Ladegerät fehlte! Ich benutze es jeden Tag, und ohne geht gar nichts.\n\nAm nächsten Morgen rief ich die Fundstelle der Bahn an. Die Mitarbeiterin fragte nach Datum, Strecke und Zugnummer. Dann sagte sie: „Es tut mir leid, wir haben nichts mit Ihrem Namen gefunden.“ Enttäuscht legte ich auf.\n\nDoch drei Tage später erhielt ich eine E-Mail von einem Fremden. Er schrieb: „Ich habe ein Ladegerät im Zug gefunden. Auf dem Kabel steht Ihr Firmenname. Ich arbeite in derselben Stadt. Können wir uns treffen?“ Ich konnte es kaum glauben!\n\nWir trafen uns am Bahnhof. Er gab mir das Ladegerät – vollständig, kein Kratzer. Ich wollte ihm Geld geben oder ein Geschenk, aber er lächelte nur und sagte: „Kein Problem. Ich würde das Gleiche tun, wenn ich etwas verliere.“\n\nDiese Begegnung hat mich tief beeindruckt. Heute frage ich mich oft: Was wäre, wenn alle so handeln würden? Ich habe den Mann nicht gut gekannt, aber er hat Vertrauen und Menschlichkeit gezeigt. Ich hoffe, ich begegne ihm wieder – oder kann eines Tages jemandem genauso helfen.",
+        "questions": [
+          {
+            "question": "Der Schreiber hat das Ladegerät im Flughafen verloren.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Die Bahn-Fundstelle hatte das Ladegerät nicht.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Der Finder kannte den Schreiber persönlich.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Der Firmenname half, den Besitzer zu finden.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Der Finder hat Geld für die Rückgabe verlangt.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Das Ladegerät war kaputt, als es zurückgegeben wurde.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Thema 5",
+    "texts": [
+      {
+        "text": "Letztes Jahr im Winter habe ich meinen Schal verloren. Es war ein besonderer Schal – meine Oma hat ihn selbst gestrickt. Ich trug ihn beim Spaziergang im Park. Danach war er weg. Ich suchte überall, aber vergeblich. Ich war sehr traurig, denn es war nicht nur ein Kleidungsstück, sondern ein Erinnerungsstück.\n\nEin paar Wochen später klingelte es an meiner Tür. Ein Jugendlicher stand da mit dem Schal in der Hand. Er sagte: „Ich fand diesen Schal auf einer Bank im Park. Da stand Ihr Name im Etikett, also habe ich Ihre Adresse gesucht. Ist das Ihrer?“ Ich war sprachlos!\n\nJa, es war meiner! Ich bedankte mich tausendmal. Er wollte nichts dafür – nicht mal eine Tasse Tee. Er sagte nur: „Ich weiß, wie wichtig Erinnerungen sind.“\n\nSpäter erfuhr ich, dass er den Schal zwei Wochen lang bei sich aufbewahrt hatte, bis er genug Mut hatte, mich zu besuchen. Ich war tief berührt von seiner Ehrlichkeit und seinem Respekt.\n\nLieber junger Mann, falls du das irgendwann liest: Nochmals vielen, vielen Dank. Du hast mehr getan, als einen Schal zurückzugeben. Du hast eine Erinnerung gerettet. Und du hast mir gezeigt, dass es noch viele gute Menschen gibt – besonders junge Menschen mit großem Herz.",
+        "questions": [
+          {
+            "question": "Der Schal war ein Geschenk der Oma.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Der Schal wurde im Supermarkt gefunden.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Der Finder hat den Schal im Müll gefunden.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Im Schal stand der Name des Besitzers.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          },
+          {
+            "question": "Der Junge hat eine Belohnung verlangt.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Falsch"
+          },
+          {
+            "question": "Der Schreiber hat den Jungen nie wiedergesehen.",
+            "options": ["Richtig", "Falsch"],
+            "answer": "Richtig"
+          }
+        ]
+      }
+    ]
+  }
+]
