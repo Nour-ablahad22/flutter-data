@@ -1,0 +1,1264 @@
+[
+  {
+    "id": 1,
+    "title": "Thema: Verbot von violenten Videospiele",
+    "texts": [
+      {
+        "text": "Ich verstehe, warum manche Leute Angst haben. Aber ich spiele diese Spiele nur mit Freunden, und wir wissen, dass es nur Fantasie ist. Ein Verbot macht sie nur noch geheimnisvoller. Besser ist es, Eltern und Lehrer zu informieren, damit sie mit uns darüber sprechen.",
+        "question": "Ist Elena für ein Verbot von violenten Videospielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Als Vater von zwei Kindern sehe ich, wie leicht Jugendliche von diesen Spielen beeinflusst werden können. Einige Kinder werden ruhiger, andere aggressiv. Ich glaube, wir müssen etwas tun – und ein Verbot ist der erste Schritt. Man kann nicht alles erlauben, was Gewalt zeigt.",
+        "question": "Ist Hassan für ein Verbot von violenten Videospielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Warum verbietet man nur Spiele und nicht Filme oder Fernsehsendungen mit Gewalt? Das ist ungerecht. Diese Spiele sind oft komplex und erfordern Strategie. Ich habe sie gespielt, und ich bin kein gewalttätiger Mensch. Verbote lösen kein Problem – Bildung schon.",
+        "question": "Ist Nina für ein Verbot von violenten Videospielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich spiele diese Spiele seit 10 Jahren – ich habe einen Job, eine Freundin und ein Haus. Wenn ich abends spiele, hilft es mir, Stress abzubauen. Ein Verbot wäre eine Strafe für Millionen Menschen, die verantwortungsvoll spielen. Die Lösung ist Kontrolle, nicht Verbot.",
+        "question": "Ist Luca für ein Verbot von violenten Videospielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Es ist gefährlich, wenn Jugendliche stundenlang Gewalt sehen und darin üben, Menschen zu töten. Das verändert ihre Sicht auf das Leben. Ich kenne jemanden, der nach dem Spiel aggressiv wurde. Das ist nicht normal. Wir müssen etwas tun – jetzt!",
+        "question": "Ist Sofia für ein Verbot von violenten Videospielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Diese Spiele sind oft Teamarbeit. Man muss kommunizieren, planen und zusammenarbeiten – das ist wie Sport! Die Gewalt ist nur ein Teil des Designs, nicht der Hauptzweck. Ein Verbot würde viele Talente verlieren. Lieber mehr Aufklärung statt Verbote.",
+        "question": "Ist Kai für ein Verbot von violenten Videospielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich weiß, dass nicht jeder zum Mörder wird. Aber wenn ein Kind durch ein Spiel denkt, dass Gewalt normal ist – dann ist das ein Problem. Ein Verbot allein reicht nicht, aber es ist ein wichtiges Zeichen. Wir müssen der Gewalt in Spielen Grenzen setzen.",
+        "question": "Ist Anja für ein Verbot von violenten Videospielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      }
+    ]
+  }
+,
+  {
+    "id": 2,
+    "title": "Thema: Jugendliche und Gewaltspiele",
+    "texts": [
+      {
+        "text": "Ich spiele diese Spiele, weil sie spannend sind und mich herausfordern. Ich bin kein gewalttätiger Mensch. Ein Verbot ist übertrieben. Eltern sollten besser aufpassen, was ihre Kinder spielen.",
+        "question": "Ist Felix für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Meine Tochter hat letzte Woche nach einem Spiel aggressiv mit ihrem Bruder geschrien. Das hat mich erschreckt. Ich glaube, solche Spiele dürfen Kinder nicht spielen. Ein Verbot ist notwendig.",
+        "question": "Ist Petra für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Diese Spiele sind wie Filme mit Action. Niemand verbietet Actionfilme. Warum dann Spiele? Es geht nicht um die Spiele, sondern um die Persönlichkeit des Spielers.",
+        "question": "Ist Marco für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Viele Jugendliche spielen diese Spiele, weil sie sich einsam fühlen. Sie suchen eine Welt, in der sie Macht haben. Ein Verbot löst das Problem nicht. Wir brauchen mehr soziale Angebote für Jugendliche.",
+        "question": "Ist Laura für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Ich habe diese Spiele nie gespielt, aber ich finde sie langweilig. Warum sollte man sie verbieten, wenn sie niemanden interessieren? Ein Verbot macht sie nur populärer.",
+        "question": "Ist Tobias für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Als Lehrer sehe ich, wie einige Schüler nach dem Spielen ruhiger sind. Andere werden gereizt. Aber das hängt von der Person ab. Ein Verbot ist keine Lösung – Bildung schon.",
+        "question": "Ist Herr Weber für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich habe einen Freund, der nach dem Spielen keine Freunde mehr hatte. Er dachte, alle sind seine Feinde. Das ist gefährlich. Wir müssen etwas tun – und ein Verbot ist ein guter Anfang.",
+        "question": "Ist Julia für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      }
+    ]
+  }
+,
+  {
+    "id": 3,
+    "title": "Thema: Videospiele – Spiel oder Gefahr?",
+    "texts": [
+      {
+        "text": "Ich spiele diese Spiele seit drei Jahren. Ich bin Student, arbeite und treffe mich mit Freunden. Die Spiele helfen mir, abzuschalten. Ein Verbot wäre unfair für viele Erwachsene.",
+        "question": "Ist Daniel für ein Verbot von Videospiele mit Gewalt?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Kinder sehen diese Spiele und denken, dass Gewalt normal ist. Das ist falsch. Ich möchte nicht, dass mein Sohn lernt, dass man Menschen töten kann, um zu gewinnen.",
+        "question": "Ist Frau Schmidt für ein Verbot von Videospiele mit Gewalt?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Diese Spiele haben oft eine Geschichte, Musik und Strategie. Sie fördern das Denken. Verbieten ist leicht – aber es ist keine Lösung. Man muss die Kinder erziehen, nicht die Spiele verbieten.",
+        "question": "Ist Oliver für ein Verbot von Videospiele mit Gewalt?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich kenne drei Jugendliche, die nach dem Spielen aggressiv wurden. Das ist kein Zufall. Wenn wir nichts tun, wird es noch schlimmer. Ein Verbot ist notwendig, auch wenn es nicht perfekt ist.",
+        "question": "Ist Anna für ein Verbot von Videospiele mit Gewalt?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Warum verbietet man nur Spiele und nicht Waffen? Das ist seltsam. Die Spiele sind nur Bilder auf dem Bildschirm. Die Wirklichkeit ist anders. Ein Verbot ist unnötig.",
+        "question": "Ist Jonas für ein Verbot von Videospiele mit Gewalt?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich habe als Psychologe viele Jugendliche behandelt. Einige haben Gewaltspiele als Ausweg genutzt. Aber andere haben sie als Gefahr erlebt. Ein Verbot allein reicht nicht – aber es ist ein wichtiges Signal.",
+        "question": "Ist Dr. Becker für ein Verbot von Videospiele mit Gewalt?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Ich spiele diese Spiele mit meinem Bruder. Wir lachen und diskutieren. Es ist eine Art Familie-Zeit. Ein Verbot würde das kaputtmachen. Es gibt bessere Wege, als zu verbieten.",
+        "question": "Ist Emma für ein Verbot von Videospiele mit Gewalt?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      }
+    ]
+  }
+,
+  {
+    "id": 4,
+    "title": "Thema: Sollen Computerspiele mit Gewalt verboten werden?",
+    "texts": [
+      {
+        "text": "Ich verstehe die Angst, aber ich glaube nicht, dass Spiele Menschen aggressiv machen. Ich bin ein guter Mensch und spiele diese Spiele. Ein Verbot ist eine Überreaktion.",
+        "question": "Ist Ben für ein Verbot von Computerspielen mit Gewalt?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Als Mutter von zwei Söhnen sehe ich, wie sie nach dem Spielen ruhiger sind. Aber manchmal werden sie auch laut und ungeduldig. Ich denke, wir brauchen ein Alter von 18+ und strenge Kontrolle.",
+        "question": "Ist Frau Klein für ein Verbot von Computerspielen mit Gewalt?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Diese Spiele sind wie Fußball: Es gibt Regeln, und man spielt mit anderen. Es geht nicht um echte Gewalt. Ein Verbot wäre wie das Verbieten von Boxen. Das macht keinen Sinn.",
+        "question": "Ist Lukas für ein Verbot von Computerspielen mit Gewalt?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich habe einen Kollegen, der nach dem Spielen seine Frau angegriffen hat. Das war ein echter Fall. Solche Spiele dürfen nicht für jedes Alter verfügbar sein. Ein Verbot ist notwendig.",
+        "question": "Ist Martina für ein Verbot von Computerspielen mit Gewalt?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Ich finde diese Spiele langweilig. Warum sollte man etwas verbieten, das niemand mag? Ein Verbot macht nur Aufmerksamkeit – und das ist das Letzte, was man braucht.",
+        "question": "Ist Tim für ein Verbot von Computerspielen mit Gewalt?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Jugendliche brauchen Ausgleich. Wenn sie in der Schule gestresst sind, brauchen sie etwas, wo sie Kontrolle haben. Diese Spiele geben ihnen das. Ein Verbot macht alles schlimmer.",
+        "question": "Ist Herr Fischer für ein Verbot von Computerspielen mit Gewalt?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich habe gesehen, wie ein Junge nach dem Spielen einen anderen verletzt hat. Er sagte: „Das habe ich aus dem Spiel gelernt.“ Das ist erschreckend. Wir müssen handeln – jetzt.",
+        "question": "Ist Claudia für ein Verbot von Computerspielen mit Gewalt?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      }
+    ]
+  }
+,
+  {
+    "id": 5,
+    "title": "Thema: Gewalt in Spielen – Problem oder kein Problem?",
+    "texts": [
+      {
+        "text": "Ich spiele diese Spiele mit meinem Sohn. Wir reden über die Geschichte, die Charaktere, die Moral. Es ist eine Lerngelegenheit. Ein Verbot wäre ein Fehler.",
+        "question": "Ist Michael für ein Verbot von Gewalt in Spielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Kinder sehen Gewalt und denken, dass es normal ist. Ich habe eine Nachbarin, deren Sohn nach dem Spielen keine Empathie mehr hatte. Das ist gefährlich. Ein Verbot ist nötig.",
+        "question": "Ist Frau Vogel für ein Verbot von Gewalt in Spielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Diese Spiele sind Kunst. Sie zeigen Probleme der Gesellschaft. Verbieten ist Zensur. Wenn wir alles verbieten, was schwer ist, dann leben wir in einer Welt ohne Wahrheit.",
+        "question": "Ist Sophia für ein Verbot von Gewalt in Spielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich bin 60 Jahre alt und habe nie gespielt. Aber ich weiß: Wenn Jugendliche stundenlang Gewalt sehen, verändert das ihr Gehirn. Ein Verbot ist die einzige Möglichkeit, sie zu schützen.",
+        "question": "Ist Herr Bauer für ein Verbot von Gewalt in Spielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Warum verbietet man nicht auch Videoclips mit Gewalt auf YouTube? Das ist viel mehr als Spiele. Ein Verbot bei Spielen ist unlogisch. Es geht um andere Probleme.",
+        "question": "Ist Paul für ein Verbot von Gewalt in Spielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich habe als Sozialarbeiter viele Jugendliche gesehen, die durch diese Spiele isoliert wurden. Sie haben keine Freunde mehr. Ein Verbot könnte helfen, sie zurückzuholen.",
+        "question": "Ist Lena für ein Verbot von Gewalt in Spielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Ich spiele diese Spiele, weil sie mich herausfordern. Sie sind wie Schach mit Bildern. Ein Verbot wäre wie das Verbieten von Rätseln. Das ist absurd.",
+        "question": "Ist Finn für ein Verbot von Gewalt in Spielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      }
+    ]
+  }
+,
+  {
+    "id": 6,
+    "title": "Thema: Sind Gewaltspiele gefährlich für Jugendliche?",
+    "texts": [
+      {
+        "text": "Ich kenne viele Jugendliche, die diese Spiele spielen – und alle sind freundlich und normal. Ein Verbot ist übertrieben. Es geht nicht um das Spiel, sondern um die Person.",
+        "question": "Ist Jana für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Mein Bruder hat nach dem Spielen seine Schule verlassen. Er sagte: „Alle sind meine Feinde.“ Das war nach einem Monat. Ich glaube, diese Spiele sind gefährlich. Ein Verbot ist nötig.",
+        "question": "Ist David für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Diese Spiele sind wie Bücher mit Gewalt – nur anders. Wir verbieten doch keine Romane mit Mord. Warum dann Spiele? Das ist Diskriminierung.",
+        "question": "Ist Nadine für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich arbeite in einer Schule. Viele Schüler sind traurig oder wütend. Sie spielen diese Spiele, weil sie keine andere Möglichkeit haben. Ein Verbot hilft nicht – aber wir brauchen mehr Unterstützung.",
+        "question": "Ist Frau Müller für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Ich finde diese Spiele langweilig und grausam. Ich würde sie nie spielen. Aber warum sollte man sie verbieten, wenn ich sie nicht mag? Ein Verbot ist keine Lösung für andere.",
+        "question": "Ist Robin für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ein Verbot ist symbolisch. Es zeigt, dass die Gesellschaft etwas tun will. Vielleicht reicht das, um Eltern und Schulen zu sensibilisieren. Ich bin dafür.",
+        "question": "Ist Thomas für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Ich spiele diese Spiele mit Freunden aus anderen Ländern. Wir lernen, zusammenzuarbeiten. Es ist eine globale Kultur. Ein Verbot wäre wie das Verbieten von Musik.",
+        "question": "Ist Amina für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      }
+    ]
+  }
+,
+  {
+    "id": 7,
+    "title": "Thema: Sollen Spiele mit Gewalt für Kinder verboten werden?",
+    "texts": [
+      {
+        "text": "Ich spiele diese Spiele, weil sie mich zum Nachdenken bringen. Es geht nicht um Gewalt, sondern um Entscheidungen. Ein Verbot wäre falsch – man sollte lernen, damit umzugehen.",
+        "question": "Ist Leon für ein Verbot von Spielen mit Gewalt für Kinder?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Mein Sohn ist 12 und spielt diese Spiele jeden Tag. Er hat vor einigen Wochen seinen Hund erschreckt – er sagte: „Ich habe das aus dem Spiel gelernt.“ Das macht mir Angst. Ein Verbot ist nötig.",
+        "question": "Ist Frau Engel für ein Verbot von Spielen mit Gewalt für Kinder?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Warum verbietet man nur Spiele? Es gibt genug Gewalt in Fernsehserien und Nachrichten. Wenn man diese verbietet, dann muss man auch alles andere verbieten. Das ist unrealistisch.",
+        "question": "Ist Tom für ein Verbot von Spielen mit Gewalt für Kinder?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Als Jugendliche fühle ich mich oft einsam. Diese Spiele sind mein Ausweg. Ich weiß, dass es nur ein Spiel ist. Ein Verbot würde mich noch einsamer machen.",
+        "question": "Ist Lina für ein Verbot von Spielen mit Gewalt für Kinder?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich habe einen Freund, der nach dem Spielen keine Gefühle mehr hatte. Er hat gesagt: „Es ist nur ein Spiel.“ Aber das ist nicht wahr. Ein Verbot ist die einzige Chance, etwas zu ändern.",
+        "question": "Ist Paul für ein Verbot von Spielen mit Gewalt für Kinder?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Diese Spiele sind wie Puzzle-Spiele mit Action. Man muss denken, planen, reagieren. Sie fördern das Gehirn. Ein Verbot wäre wie das Verbieten von Mathematik – weil es schwer ist.",
+        "question": "Ist Marie für ein Verbot von Spielen mit Gewalt für Kinder?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich bin Lehrerin. Viele Schüler spielen diese Spiele und vergessen, wie man mit anderen spricht. Sie werden rau. Ein Verbot allein reicht nicht – aber es ist ein wichtiger Schritt.",
+        "question": "Ist Frau Weber für ein Verbot von Spielen mit Gewalt für Kinder?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Thema: Sind violenten Spiele schädlich für die Seele?",
+    "texts": [
+      {
+        "text": "Ich spiele diese Spiele seit 5 Jahren. Ich bin freundlich, hilfsbereit und habe viele Freunde. Die Spiele haben mich nicht verändert. Ein Verbot ist eine Lüge.",
+        "question": "Ist Elias für ein Verbot von violenten Spielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Meine Tochter sagt, sie fühlt sich stark, wenn sie in den Spielen gewinnt. Aber sie ist traurig, wenn sie verliert. Ich glaube, diese Spiele machen die Seele kaputt. Ein Verbot ist notwendig.",
+        "question": "Ist Herr Richter für ein Verbot von violenten Spielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Diese Spiele sind Kunst. Sie zeigen die Dunkelheit der Menschheit. Verbieten ist Zensur. Wer Angst vor Kunst hat, sollte sie nicht anschauen – aber nicht verbieten.",
+        "question": "Ist Julia für ein Verbot von violenten Spielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich kenne einen Jungen, der nach dem Spielen seine Schultasche zerbrochen hat. Er sagte: „Ich wollte so fühlen wie im Spiel.“ Das ist kein Zufall. Wir müssen etwas tun.",
+        "question": "Ist Frau Kowalski für ein Verbot von violenten Spielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Ich finde diese Spiele langweilig und grausam. Ich würde sie nie spielen. Aber warum sollte man sie verbieten, nur weil ich sie nicht mag? Das ist keine gute Begründung.",
+        "question": "Ist Felix für ein Verbot von violenten Spielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Jugendliche brauchen Ausdruck. Diese Spiele sind wie Malen oder Schreiben. Wenn man sie verbietet, verbietet man ihre Gefühle. Besser ist: Gespräche führen, nicht verbieten.",
+        "question": "Ist Anna für ein Verbot von violenten Spielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich arbeite in einer Jugendberatung. Viele Kinder kommen mit Wut und Aggressionen. Die meisten spielen diese Spiele. Ein Verbot ist nicht perfekt – aber es ist ein Anfang.",
+        "question": "Ist Dr. Stein für ein Verbot von violenten Spielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Thema: Verbot von Spielen – Schutz oder Kontrolle?",
+    "texts": [
+      {
+        "text": "Ich spiele diese Spiele mit meiner Schwester. Wir lachen und diskutieren. Es ist Teil unserer Freizeit. Ein Verbot würde unsere Beziehung kaputtmachen.",
+        "question": "Ist Samira für ein Verbot von Spielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ein Verbot ist kein Schutz – es ist Kontrolle. Eltern sollen selbst entscheiden, was ihre Kinder spielen. Die Regierung soll nicht für uns denken.",
+        "question": "Ist Marco für ein Verbot von Spielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich habe einen Cousin, der nach dem Spielen seine Wohnung zerstört hat. Er sagte: „Ich dachte, es ist real.“ Das ist nicht normal. Wir brauchen ein Verbot – jetzt.",
+        "question": "Ist Laura für ein Verbot von Spielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Diese Spiele sind wie Actionfilme. Niemand verbietet Filme. Warum dann Spiele? Es ist Diskriminierung. Wer Angst hat, soll sie nicht spielen – aber nicht verbieten.",
+        "question": "Ist Timo für ein Verbot von Spielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Als Psychologe sehe ich: Kinder, die diese Spiele spielen, haben oft Traumata. Das Spiel ist kein Grund – es ist ein Symptom. Ein Verbot hilft nicht. Wir brauchen Therapie.",
+        "question": "Ist Dr. Hoffmann für ein Verbot von Spielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich habe gesehen, wie ein Kind nach dem Spielen eine Katze verletzt hat. Er sagte: „Das ist doch nur ein Spiel.“ Das ist gefährlich. Ein Verbot ist die einzige Lösung.",
+        "question": "Ist Frau Bauer für ein Verbot von Spielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Diese Spiele sind Teil der Kultur. Sie existieren seit 30 Jahren. Wenn sie gefährlich wären, hätten wir längst mehr Probleme. Ein Verbot ist übertrieben.",
+        "question": "Ist Robert für ein Verbot von Spielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Thema: Gewalt in Spielen – Ein Problem für die Zukunft?",
+    "texts": [
+      {
+        "text": "Ich spiele diese Spiele, weil sie spannend sind. Ich weiß, dass es nicht real ist. Ein Verbot wäre unfair – viele Menschen nutzen sie als Entspannung.",
+        "question": "Ist Lea für ein Verbot von Gewalt in Spielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Mein Sohn ist 14 und spielt diese Spiele jeden Abend. Er hat keine Freunde mehr. Er spricht nur über Gewalt. Ich habe Angst um seine Zukunft. Ein Verbot ist nötig.",
+        "question": "Ist Frau Meyer für ein Verbot von Gewalt in Spielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Diese Spiele fördern Teamarbeit, Strategie und Geduld. Sie sind wie Schach mit Bildern. Ein Verbot wäre wie das Verbieten von Wissenschaft – nur weil sie schwer ist.",
+        "question": "Ist Herr Schmidt für ein Verbot von Gewalt in Spielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich habe einen Freund, der nach dem Spielen seine Eltern beschimpfte. Er sagte: „Ich habe das aus dem Spiel gelernt.“ Das ist ein echtes Problem. Ein Verbot ist wichtig.",
+        "question": "Ist Nadine für ein Verbot von Gewalt in Spielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Warum verbietet man nicht auch Videos mit Gewalt auf TikTok? Das ist viel gefährlicher als Spiele. Ein Verbot bei Spielen ist unlogisch und unfair.",
+        "question": "Ist Jonas für ein Verbot von Gewalt in Spielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich bin 70 Jahre alt und habe nie gespielt. Aber ich sehe, wie Jugendliche heute sind: schnell wütend, schnell aggressiv. Diese Spiele sind ein Teil davon. Ein Verbot ist notwendig.",
+        "question": "Ist Oma Gisela für ein Verbot von Gewalt in Spielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Diese Spiele sind wie Bücher mit Kämpfen. Wir haben „Game of Thrones“ gelesen – und niemand hat es verboten. Warum dann Spiele? Das ist kein Problem – das ist Vorurteil.",
+        "question": "Ist Clara für ein Verbot von Gewalt in Spielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Thema: Sollen Kinder keine Gewaltspiele spielen dürfen?",
+    "texts": [
+      {
+        "text": "Ich spiele diese Spiele mit meinem Bruder. Wir lernen, zusammenzuarbeiten. Es ist wie Sport. Ein Verbot wäre absurd – wir würden uns nur noch langweilen.",
+        "question": "Ist Max für ein Verbot von Gewaltspielen für Kinder?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Meine Tochter hat letzte Woche einen anderen Schüler verletzt. Sie sagte: „Ich habe das aus dem Spiel gelernt.“ Ich war schockiert. Ein Verbot ist die einzige Lösung.",
+        "question": "Ist Frau Lenz für ein Verbot von Gewaltspielen für Kinder?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Diese Spiele sind nicht das Problem. Das Problem ist, dass Kinder keine Grenzen haben. Eltern sollen selbst entscheiden – nicht die Regierung.",
+        "question": "Ist Peter für ein Verbot von Gewaltspielen für Kinder?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich kenne drei Jugendliche, die nach dem Spielen depressiv wurden. Sie fühlten sich leer. Ein Verbot könnte sie vor weiterem Schaden bewahren.",
+        "question": "Ist Sophie für ein Verbot von Gewaltspielen für Kinder?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Ich finde diese Spiele grausam und langweilig. Ich würde sie nie spielen. Aber warum sollte man sie verbieten, nur weil ich sie nicht mag? Das ist keine gute Idee.",
+        "question": "Ist Robin für ein Verbot von Gewaltspielen für Kinder?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Diese Spiele helfen Jugendlichen, Stress abzubauen. Sie sind ein Ventil. Ein Verbot würde den Stress nur vergrößern. Besser ist: mehr Sport und Gespräche.",
+        "question": "Ist Herr Klein für ein Verbot von Gewaltspielen für Kinder?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Als Polizist habe ich viele Fälle gesehen. Einige Täter haben diese Spiele gespielt. Es ist kein Zufall. Ein Verbot ist kein perfekter Schutz – aber ein notwendiger.",
+        "question": "Ist Thomas für ein Verbot von Gewaltspielen für Kinder?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      }
+    ]
+  }
+,
+  {
+    "id": 12,
+    "title": "Thema: Sollen Jugendliche Gewaltspiele spielen?",
+    "texts": [
+      {
+        "text": "Ich spiele diese Spiele, weil sie mich zum Denken bringen. Es geht nicht um Gewalt, sondern um Lösungen finden. Ein Verbot wäre falsch.",
+        "question": "Ist Lukas für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Meine Tochter ist 13 und spielt diese Spiele jeden Tag. Sie sagt: „Ich fühle mich stark.“ Aber sie wird wütend, wenn sie verliert. Ich glaube, es ist gefährlich.",
+        "question": "Ist Frau Neumann für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Warum verbietet man nur Spiele? Es gibt Gewalt in Filmen, Musik und Nachrichten. Wenn man alles verbietet, bleibt nichts übrig. Das ist unrealistisch.",
+        "question": "Ist Tim für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich bin 16 und spiele diese Spiele mit Freunden. Wir lachen, wir reden, wir planen. Es ist wie ein Spielzeug. Ein Verbot würde uns einsam machen.",
+        "question": "Ist Mia für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich kenne einen Jungen, der nach dem Spielen seine Schule verlassen hat. Er sagte: „Die Welt ist böse.“ Das ist kein Zufall. Ein Verbot ist notwendig.",
+        "question": "Ist Anna für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Diese Spiele sind wie Schach mit Bildern. Man muss strategisch denken. Ein Verbot wäre wie das Verbieten von Mathematik – nur weil es schwer ist.",
+        "question": "Ist Herr Becker für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Als Sozialarbeiterin sehe ich viele Jugendliche, die ohne Freunde sind. Diese Spiele sind ihr einziger Ausweg. Ein Verbot hilft nicht – aber Gespräche schon.",
+        "question": "Ist Frau Kroll für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Thema: Sind Gewaltspiele ein Problem für die Gesellschaft?",
+    "texts": [
+      {
+        "text": "Ich spiele diese Spiele seit 6 Jahren. Ich bin Student, habe einen Job und helfe meiner Familie. Die Spiele haben mich nicht verändert. Ein Verbot ist übertrieben.",
+        "question": "Ist Jonas für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Mein Bruder hat nach dem Spielen seine Mutter beschimpft. Er sagte: „Das ist doch nur ein Spiel.“ Aber er hat vergessen, wie man liebt. Ein Verbot ist nötig.",
+        "question": "Ist Lena für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Diese Spiele sind Kunst. Sie zeigen die dunkle Seite der Menschheit. Verbieten ist Zensur. Wer Angst hat, soll sie nicht spielen – aber nicht verbieten.",
+        "question": "Ist Clara für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich habe einen Freund, der nach dem Spielen seine Katze verletzt hat. Er sagte: „Ich dachte, es ist real.“ Das ist ein echtes Problem. Ein Verbot ist wichtig.",
+        "question": "Ist Paul für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Ich finde diese Spiele grausam und langweilig. Ich spiele sie nicht. Aber warum sollte man sie verbieten, nur weil ich sie nicht mag? Das ist keine gute Begründung.",
+        "question": "Ist Emma für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Jugendliche brauchen eine Welt, in der sie Kontrolle haben. Diese Spiele geben ihnen das. Ein Verbot macht sie nur noch attraktiver.",
+        "question": "Ist Herr Fischer für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich arbeite in einer Schule. Viele Schüler sind aggressiv. Die meisten spielen diese Spiele. Ein Verbot ist kein perfekter Schutz – aber es ist ein Anfang.",
+        "question": "Ist Frau Vogt für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Thema: Sollen Kinder keine Spiele mit Gewalt spielen dürfen?",
+    "texts": [
+      {
+        "text": "Ich spiele diese Spiele mit meinem Bruder. Wir lernen, zusammenzuarbeiten. Es ist wie Fußball. Ein Verbot wäre dumm – wir würden uns nur noch langweilen.",
+        "question": "Ist Finn für ein Verbot von Spielen mit Gewalt für Kinder?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Meine Tochter hat letzte Woche einen anderen Schüler geschlagen. Sie sagte: „Ich habe das aus dem Spiel gelernt.“ Ich war erschrocken. Ein Verbot ist jetzt nötig.",
+        "question": "Ist Frau Weber für ein Verbot von Spielen mit Gewalt für Kinder?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Eltern sollen selbst entscheiden, was ihre Kinder spielen. Die Regierung soll nicht für uns denken. Ein Verbot ist Kontrolle – kein Schutz.",
+        "question": "Ist Peter für ein Verbot von Spielen mit Gewalt für Kinder?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich kenne drei Jugendliche, die nach dem Spielen depressiv wurden. Sie fühlten sich leer. Diese Spiele haben ihre Seele beschädigt. Ein Verbot ist wichtig.",
+        "question": "Ist Sophie für ein Verbot von Spielen mit Gewalt für Kinder?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Ich finde diese Spiele langweilig und grausam. Ich würde sie nie spielen. Aber warum sollte man sie verbieten, nur weil ich sie nicht mag? Das ist kein Grund.",
+        "question": "Ist Robin für ein Verbot von Spielen mit Gewalt für Kinder?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Diese Spiele helfen Jugendlichen, Stress abzubauen. Sie sind ein Ventil. Ein Verbot würde den Stress nur vergrößern. Besser ist: mehr Sport und Gespräche.",
+        "question": "Ist Herr Klein für ein Verbot von Spielen mit Gewalt für Kinder?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Als Polizist habe ich viele Fälle gesehen. Einige Täter haben diese Spiele gespielt. Es ist kein Zufall. Ein Verbot ist kein perfekter Schutz – aber ein notwendiger.",
+        "question": "Ist Thomas für ein Verbot von Spielen mit Gewalt für Kinder?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Thema: Können Spiele mit Gewalt Menschen verändern?",
+    "texts": [
+      {
+        "text": "Ich spiele diese Spiele, weil sie mich herausfordern. Ich weiß, dass es nur ein Spiel ist. Ein Verbot wäre unfair – viele Menschen nutzen sie als Entspannung.",
+        "question": "Ist Lea für ein Verbot von Spielen mit Gewalt?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Mein Sohn ist 12 und spielt diese Spiele jeden Abend. Er hat keine Freunde mehr. Er spricht nur über Gewalt. Ich habe Angst um seine Zukunft. Ein Verbot ist nötig.",
+        "question": "Ist Frau Meyer für ein Verbot von Spielen mit Gewalt?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Diese Spiele fördern Teamarbeit, Strategie und Geduld. Sie sind wie Schach mit Bildern. Ein Verbot wäre wie das Verbieten von Wissenschaft – nur weil sie schwer ist.",
+        "question": "Ist Herr Schmidt für ein Verbot von Spielen mit Gewalt?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich habe einen Freund, der nach dem Spielen seine Eltern beschimpfte. Er sagte: „Ich habe das aus dem Spiel gelernt.“ Das ist ein echtes Problem. Ein Verbot ist wichtig.",
+        "question": "Ist Nadine für ein Verbot von Spielen mit Gewalt?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Warum verbietet man nicht auch Videos mit Gewalt auf TikTok? Das ist viel gefährlicher als Spiele. Ein Verbot bei Spielen ist unlogisch und unfair.",
+        "question": "Ist Jonas für ein Verbot von Spielen mit Gewalt?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich bin 70 Jahre alt und habe nie gespielt. Aber ich sehe, wie Jugendliche heute sind: schnell wütend, schnell aggressiv. Diese Spiele sind ein Teil davon. Ein Verbot ist notwendig.",
+        "question": "Ist Oma Gisela für ein Verbot von Spielen mit Gewalt?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Diese Spiele sind wie Bücher mit Kämpfen. Wir haben „Game of Thrones“ gelesen – und niemand hat es verboten. Warum dann Spiele? Das ist kein Problem – das ist Vorurteil.",
+        "question": "Ist Clara für ein Verbot von Spielen mit Gewalt?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Thema: Sollen Gewaltspiele für Jugendliche verboten werden?",
+    "texts": [
+      {
+        "text": "Ich spiele diese Spiele, weil sie mich zum Denken bringen. Es geht nicht um Gewalt, sondern um Lösungen finden. Ein Verbot wäre falsch.",
+        "question": "Ist Lukas für ein Verbot von Gewaltspielen für Jugendliche?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Meine Tochter ist 13 und spielt diese Spiele jeden Tag. Sie sagt: „Ich fühle mich stark.“ Aber sie wird wütend, wenn sie verliert. Ich glaube, es ist gefährlich.",
+        "question": "Ist Frau Neumann für ein Verbot von Gewaltspielen für Jugendliche?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Warum verbietet man nur Spiele? Es gibt Gewalt in Filmen, Musik und Nachrichten. Wenn man alles verbietet, bleibt nichts übrig. Das ist unrealistisch.",
+        "question": "Ist Tim für ein Verbot von Gewaltspielen für Jugendliche?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich bin 16 und spiele diese Spiele mit Freunden. Wir lachen, wir reden, wir planen. Es ist wie ein Spielzeug. Ein Verbot würde uns einsam machen.",
+        "question": "Ist Mia für ein Verbot von Gewaltspielen für Jugendliche?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich kenne einen Jungen, der nach dem Spielen seine Schule verlassen hat. Er sagte: „Die Welt ist böse.“ Das ist kein Zufall. Ein Verbot ist notwendig.",
+        "question": "Ist Anna für ein Verbot von Gewaltspielen für Jugendliche?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Diese Spiele sind wie Schach mit Bildern. Man muss strategisch denken. Ein Verbot wäre wie das Verbieten von Mathematik – nur weil es schwer ist.",
+        "question": "Ist Herr Becker für ein Verbot von Gewaltspielen für Jugendliche?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Als Sozialarbeiterin sehe ich viele Jugendliche, die ohne Freunde sind. Diese Spiele sind ihr einziger Ausweg. Ein Verbot hilft nicht – aber Gespräche schon.",
+        "question": "Ist Frau Kroll für ein Verbot von Gewaltspielen für Jugendliche?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      }
+    ]
+  }
+,
+  {
+    "id": 17,
+    "title": "Thema: Sollen Jugendliche Spiele mit Gewalt spielen?",
+    "texts": [
+      {
+        "text": "Ich spiele diese Spiele, weil sie Spaß machen. Ich weiß, dass es nicht real ist. Ein Verbot wäre unfair, weil viele Menschen sie nur zum Entspannen nutzen.",
+        "question": "Ist Leon für ein Verbot von Spielen mit Gewalt?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Meine Tochter ist 11 und spielt diese Spiele jeden Abend. Sie hat vor zwei Wochen ihren Bruder geschlagen und gesagt: „Das mache ich im Spiel auch!“ Ich glaube, das ist gefährlich.",
+        "question": "Ist Frau Hartmann für ein Verbot von Spielen mit Gewalt?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Warum verbietet man nur Spiele? Es gibt Gewalt in Filmen, Serien und sogar in Kinderbüchern. Wenn man alles verbietet, kann man nichts mehr sehen. Das ist nicht logisch.",
+        "question": "Ist Tom für ein Verbot von Spielen mit Gewalt?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich bin 15 und spiele diese Spiele mit meinen Freunden. Wir lachen und diskutieren über die Geschichten. Ein Verbot würde unsere Freundschaft kaputtmachen.",
+        "question": "Ist Lina für ein Verbot von Spielen mit Gewalt?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich kenne einen Jungen, der nach dem Spielen seine Schule verlassen hat. Er sagte: „Die Welt ist nur Gewalt.“ Das ist kein Zufall. Ein Verbot muss kommen.",
+        "question": "Ist Anna für ein Verbot von Spielen mit Gewalt?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Diese Spiele sind wie Puzzle-Spiele mit Action. Man muss denken, planen und reagieren. Ein Verbot wäre wie das Verbieten von Schach – nur weil es kompliziert ist.",
+        "question": "Ist Herr Schmidt für ein Verbot von Spielen mit Gewalt?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Als Lehrerin sehe ich, dass Schüler, die diese Spiele spielen, oft ruhiger sind. Sie brauchen einen Ausgleich. Ein Verbot macht alles nur schlimmer.",
+        "question": "Ist Frau Weber für ein Verbot von Spielen mit Gewalt?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Thema: Sind Gewaltspiele ein Risiko für Kinder?",
+    "texts": [
+      {
+        "text": "Ich spiele diese Spiele seit 4 Jahren. Ich bin freundlich, hilfsbereit und habe viele Freunde. Die Spiele haben mich nicht verändert. Ein Verbot ist übertrieben.",
+        "question": "Ist Elias für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Mein Sohn ist 10 und hat nach dem Spielen seine Katze erschreckt. Er sagte: „Ich will sie töten wie im Spiel.“ Das hat mich erschreckt. Ein Verbot ist nötig.",
+        "question": "Ist Frau Klein für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Diese Spiele sind Kunst. Sie zeigen Probleme der Gesellschaft. Verbieten ist Zensur. Wer Angst hat, soll sie nicht spielen – aber nicht verbieten.",
+        "question": "Ist Julia für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich habe einen Freund, der nach dem Spielen seine Eltern beschimpfte. Er sagte: „Ich habe das aus dem Spiel gelernt.“ Das ist kein Zufall. Ein Verbot ist wichtig.",
+        "question": "Ist Paul für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Ich finde diese Spiele grausam und langweilig. Ich spiele sie nicht. Aber warum sollte man sie verbieten, nur weil ich sie nicht mag? Das ist keine gute Begründung.",
+        "question": "Ist Emma für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Jugendliche brauchen einen Ausweg. Diese Spiele geben ihnen Kontrolle. Ein Verbot macht sie nur noch attraktiver. Besser ist: Eltern und Schulen helfen.",
+        "question": "Ist Herr Fischer für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich arbeite in einer Jugendberatung. Viele Kinder kommen mit Wut und Angst. Die meisten spielen diese Spiele. Ein Verbot ist kein perfekter Schutz – aber es ist ein Anfang.",
+        "question": "Ist Dr. Bauer für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Thema: Sollen Kinder keine Gewaltspiele bekommen?",
+    "texts": [
+      {
+        "text": "Ich spiele diese Spiele mit meinem Bruder. Wir lernen, zusammenzuarbeiten. Es ist wie ein Sport. Ein Verbot wäre dumm – wir würden uns nur noch langweilen.",
+        "question": "Ist Finn für ein Verbot von Gewaltspielen für Kinder?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Meine Tochter hat letzte Woche einen anderen Schüler verletzt. Sie sagte: „Ich habe das aus dem Spiel gelernt.“ Ich war schockiert. Ein Verbot ist jetzt nötig.",
+        "question": "Ist Frau Weber für ein Verbot von Gewaltspielen für Kinder?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Eltern sollen selbst entscheiden, was ihre Kinder spielen. Die Regierung soll nicht für uns denken. Ein Verbot ist Kontrolle – kein Schutz.",
+        "question": "Ist Peter für ein Verbot von Gewaltspielen für Kinder?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich kenne drei Jugendliche, die nach dem Spielen depressiv wurden. Sie fühlten sich leer. Diese Spiele haben ihre Seele beschädigt. Ein Verbot ist wichtig.",
+        "question": "Ist Sophie für ein Verbot von Gewaltspielen für Kinder?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Ich finde diese Spiele langweilig und grausam. Ich würde sie nie spielen. Aber warum sollte man sie verbieten, nur weil ich sie nicht mag? Das ist kein Grund.",
+        "question": "Ist Robin für ein Verbot von Gewaltspielen für Kinder?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Diese Spiele helfen Jugendlichen, Stress abzubauen. Sie sind ein Ventil. Ein Verbot würde den Stress nur vergrößern. Besser ist: mehr Sport und Gespräche.",
+        "question": "Ist Herr Klein für ein Verbot von Gewaltspielen für Kinder?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Als Polizist habe ich viele Fälle gesehen. Einige Täter haben diese Spiele gespielt. Es ist kein Zufall. Ein Verbot ist kein perfekter Schutz – aber ein notwendiger.",
+        "question": "Ist Thomas für ein Verbot von Gewaltspielen für Kinder?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Thema: Können Videospiele mit Gewalt die Persönlichkeit verändern?",
+    "texts": [
+      {
+        "text": "Ich spiele diese Spiele, weil sie mich zum Denken bringen. Es geht nicht um Gewalt, sondern um Strategie. Ein Verbot wäre falsch.",
+        "question": "Ist Lea für ein Verbot von Videospiele mit Gewalt?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Mein Sohn ist 12 und spielt diese Spiele jeden Abend. Er hat keine Freunde mehr. Er spricht nur über Gewalt. Ich habe Angst um seine Zukunft. Ein Verbot ist nötig.",
+        "question": "Ist Frau Meyer für ein Verbot von Videospiele mit Gewalt?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Diese Spiele fördern Teamarbeit, Geduld und Planung. Sie sind wie Schach mit Bildern. Ein Verbot wäre wie das Verbieten von Mathematik – nur weil es schwer ist.",
+        "question": "Ist Herr Schmidt für ein Verbot von Videospiele mit Gewalt?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich habe einen Freund, der nach dem Spielen seine Eltern beschimpfte. Er sagte: „Ich habe das aus dem Spiel gelernt.“ Das ist ein echtes Problem. Ein Verbot ist wichtig.",
+        "question": "Ist Nadine für ein Verbot von Videospiele mit Gewalt?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Warum verbietet man nicht auch Gewalt in YouTube-Videos? Das ist viel häufiger als in Spielen. Ein Verbot bei Spielen ist unlogisch.",
+        "question": "Ist Jonas für ein Verbot von Videospiele mit Gewalt?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich bin 70 Jahre alt und habe nie gespielt. Aber ich sehe, wie Jugendliche heute sind: schnell wütend, schnell aggressiv. Diese Spiele sind ein Teil davon. Ein Verbot ist notwendig.",
+        "question": "Ist Oma Gisela für ein Verbot von Videospiele mit Gewalt?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Diese Spiele sind wie Bücher mit Kämpfen. Wir haben „Game of Thrones“ gelesen – und niemand hat es verboten. Warum dann Spiele? Das ist kein Problem – das ist Vorurteil.",
+        "question": "Ist Clara für ein Verbot von Videospiele mit Gewalt?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Thema: Sollen Gewaltspiele für Jugendliche verboten werden?",
+    "texts": [
+      {
+        "text": "Ich spiele diese Spiele, weil sie Spaß machen. Ich weiß, dass es nicht real ist. Ein Verbot wäre unfair, weil viele Menschen sie nur zum Entspannen nutzen.",
+        "question": "Ist Leon für ein Verbot von Gewaltspielen für Jugendliche?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Meine Tochter ist 11 und spielt diese Spiele jeden Abend. Sie hat vor zwei Wochen ihren Bruder geschlagen und gesagt: „Das mache ich im Spiel auch!“ Ich glaube, das ist gefährlich.",
+        "question": "Ist Frau Hartmann für ein Verbot von Gewaltspielen für Jugendliche?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Warum verbietet man nur Spiele? Es gibt Gewalt in Filmen, Serien und sogar in Kinderbüchern. Wenn man alles verbietet, kann man nichts mehr sehen. Das ist nicht logisch.",
+        "question": "Ist Tom für ein Verbot von Gewaltspielen für Jugendliche?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich bin 15 und spiele diese Spiele mit meinen Freunden. Wir lachen und diskutieren über die Geschichten. Ein Verbot würde unsere Freundschaft kaputtmachen.",
+        "question": "Ist Lina für ein Verbot von Gewaltspielen für Jugendliche?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich kenne einen Jungen, der nach dem Spielen seine Schule verlassen hat. Er sagte: „Die Welt ist nur Gewalt.“ Das ist kein Zufall. Ein Verbot muss kommen.",
+        "question": "Ist Anna für ein Verbot von Gewaltspielen für Jugendliche?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Diese Spiele sind wie Puzzle-Spiele mit Action. Man muss denken, planen und reagieren. Ein Verbot wäre wie das Verbieten von Schach – nur weil es kompliziert ist.",
+        "question": "Ist Herr Schmidt für ein Verbot von Gewaltspielen für Jugendliche?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Als Lehrerin sehe ich, dass Schüler, die diese Spiele spielen, oft ruhiger sind. Sie brauchen einen Ausgleich. Ein Verbot macht alles nur schlimmer.",
+        "question": "Ist Frau Weber für ein Verbot von Gewaltspielen für Jugendliche?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      }
+    ]
+  }
+,
+  {
+    "id": 22,
+    "title": "Thema: Sollen Killerspiele verboten werden?",
+    "texts": [
+      {
+        "text": "Ich spiele diese Spiele, weil sie mich herausfordern. Ich weiß, dass es nur ein Spiel ist. Ein Verbot wäre unfair, weil viele Menschen sie nur zum Entspannen nutzen.",
+        "question": "Ist Leo für ein Verbot von Killerspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Meine Tochter ist 12 und hat nach dem Spielen ihre Schultasche zerbrochen. Sie sagte: „Ich will auch so stark sein wie im Spiel.“ Das ist kein Spiel mehr. Ein Verbot ist nötig.",
+        "question": "Ist Frau Bauer für ein Verbot von Killerspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Warum verbietet man nur Spiele? Es gibt Gewalt in Filmen, Serien und sogar in Nachrichten. Wenn man alles verbietet, bleibt nichts übrig. Das ist keine Lösung.",
+        "question": "Ist Tim für ein Verbot von Killerspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich bin 17 und spiele diese Spiele mit meinen Freunden. Wir lachen, wir planen, wir reden. Ein Verbot würde uns nur isolieren. Besser ist: Eltern sprechen mit uns.",
+        "question": "Ist Lina für ein Verbot von Killerspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ein Junge aus meiner Klasse hat sich nach dem Spielen verletzt. Er sagte: „Ich dachte, es ist real.“ Das ist kein Zufall. Wir müssen etwas tun – ein Verbot ist der erste Schritt.",
+        "question": "Ist Anna für ein Verbot von Killerspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Diese Spiele sind wie Schach mit Action. Man muss denken, strategisch sein, kooperieren. Ein Verbot wäre wie das Verbieten von Mathe – nur weil es schwer ist.",
+        "question": "Ist Herr Weber für ein Verbot von Killerspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Als Psychologe sehe ich: Kinder, die diese Spiele spielen, haben oft Traumata. Das Spiel ist nicht die Ursache – aber es verschlimmert das Problem. Ein Verbot ist ein wichtiges Zeichen.",
+        "question": "Ist Dr. Müller für ein Verbot von Killerspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Thema: Sollen Jugendliche Gewaltspiele spielen?",
+    "texts": [
+      {
+        "text": "Ich spiele diese Spiele seit 5 Jahren. Ich habe eine gute Note in der Schule, einen Freund und helfe meiner Familie. Die Spiele haben mich nicht verändert. Ein Verbot ist übertrieben.",
+        "question": "Ist Elias für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Mein Sohn ist 11 und hat vor zwei Wochen seinen Hund erschreckt. Er sagte: „Ich will ihn töten wie im Spiel.“ Ich habe Angst. Ein Verbot ist jetzt nötig.",
+        "question": "Ist Frau Schmidt für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Warum verbietet man nur Spiele? Es gibt Gewalt in Comics, Büchern und YouTube-Videos. Wenn man alles verbietet, lebt man in einer Welt ohne Wahrheit.",
+        "question": "Ist Tom für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich bin 16 und spiele diese Spiele nur am Wochenende. Ich weiß, dass es nicht real ist. Ein Verbot würde mich verärgern – ich bin kein Gewalttäter.",
+        "question": "Ist Mia für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich kenne einen Jungen, der nach dem Spielen seine Schule verlassen hat. Er sagte: „Die Welt ist böse.“ Das ist kein Zufall. Ein Verbot muss kommen.",
+        "question": "Ist Jonas für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Diese Spiele fördern Konzentration und schnelles Denken. Sie sind wie ein Sport. Ein Verbot wäre wie das Verbieten von Fußball – nur weil es manchmal hart ist.",
+        "question": "Ist Herr Fischer für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich arbeite in einer Schule. Viele Schüler sind ruhiger, wenn sie diese Spiele spielen. Ein Verbot macht sie nur aggressiver. Besser ist: mehr Gespräche.",
+        "question": "Ist Frau Kowalski für ein Verbot von Gewaltspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Thema: Sollen Killerspiele für Kinder verboten werden?",
+    "texts": [
+      {
+        "text": "Ich spiele diese Spiele mit meinem Bruder. Wir lernen, zusammenzuarbeiten. Es ist wie ein Puzzle. Ein Verbot wäre dumm – wir würden uns nur noch langweilen.",
+        "question": "Ist Finn für ein Verbot von Killerspielen für Kinder?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Meine Tochter ist 10 und hat nach dem Spielen ihre Freundin geschlagen. Sie sagte: „Ich habe das aus dem Spiel gelernt.“ Ich war schockiert. Ein Verbot ist jetzt nötig.",
+        "question": "Ist Frau Weber für ein Verbot von Killerspielen für Kinder?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Eltern sollen selbst entscheiden, was ihre Kinder spielen. Die Regierung soll nicht für uns denken. Ein Verbot ist Kontrolle – kein Schutz.",
+        "question": "Ist Peter für ein Verbot von Killerspielen für Kinder?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich kenne drei Jugendliche, die nach dem Spielen depressiv wurden. Sie fühlten sich leer. Diese Spiele haben ihre Seele beschädigt. Ein Verbot ist wichtig.",
+        "question": "Ist Sophie für ein Verbot von Killerspielen für Kinder?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Ich finde diese Spiele grausam und langweilig. Ich spiele sie nicht. Aber warum sollte man sie verbieten, nur weil ich sie nicht mag? Das ist keine gute Begründung.",
+        "question": "Ist Robin für ein Verbot von Killerspielen für Kinder?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Diese Spiele helfen Jugendlichen, Stress abzubauen. Sie sind ein Ventil. Ein Verbot würde den Stress nur vergrößern. Besser ist: mehr Sport und Gespräche.",
+        "question": "Ist Herr Klein für ein Verbot von Killerspielen für Kinder?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Als Polizist habe ich viele Fälle gesehen. Einige Täter haben diese Spiele gespielt. Es ist kein Zufall. Ein Verbot ist kein perfekter Schutz – aber ein notwendiger.",
+        "question": "Ist Thomas für ein Verbot von Killerspielen für Kinder?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Thema: Sind Killerspiele gefährlich für die Gesellschaft?",
+    "texts": [
+      {
+        "text": "Ich spiele diese Spiele, weil sie mich zum Denken bringen. Es geht nicht um Gewalt, sondern um Lösungen finden. Ein Verbot wäre falsch.",
+        "question": "Ist Lea für ein Verbot von Killerspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Mein Sohn ist 13 und spielt diese Spiele jeden Abend. Er hat keine Freunde mehr. Er spricht nur über Gewalt. Ich habe Angst um seine Zukunft. Ein Verbot ist nötig.",
+        "question": "Ist Frau Meyer für ein Verbot von Killerspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Diese Spiele fördern Teamarbeit, Geduld und Planung. Sie sind wie Schach mit Bildern. Ein Verbot wäre wie das Verbieten von Wissenschaft – nur weil sie schwer ist.",
+        "question": "Ist Herr Schmidt für ein Verbot von Killerspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich habe einen Freund, der nach dem Spielen seine Eltern beschimpfte. Er sagte: „Ich habe das aus dem Spiel gelernt.“ Das ist ein echtes Problem. Ein Verbot ist wichtig.",
+        "question": "Ist Nadine für ein Verbot von Killerspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Warum verbietet man nicht auch Gewalt in YouTube-Videos? Das ist viel häufiger als in Spielen. Ein Verbot bei Spielen ist unlogisch.",
+        "question": "Ist Jonas für ein Verbot von Killerspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich bin 70 Jahre alt und habe nie gespielt. Aber ich sehe, wie Jugendliche heute sind: schnell wütend, schnell aggressiv. Diese Spiele sind ein Teil davon. Ein Verbot ist notwendig.",
+        "question": "Ist Oma Gisela für ein Verbot von Killerspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Diese Spiele sind wie Bücher mit Kämpfen. Wir haben „Game of Thrones“ gelesen – und niemand hat es verboten. Warum dann Spiele? Das ist kein Problem – das ist Vorurteil.",
+        "question": "Ist Clara für ein Verbot von Killerspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Thema: Sollen Killerspiele verboten werden – ja oder nein?",
+    "texts": [
+      {
+        "text": "Ich spiele diese Spiele, weil sie Spaß machen. Ich weiß, dass es nicht real ist. Ein Verbot wäre unfair, weil viele Menschen sie nur zum Entspannen nutzen.",
+        "question": "Ist Leon für ein Verbot von Killerspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Meine Tochter ist 11 und spielt diese Spiele jeden Abend. Sie hat vor zwei Wochen ihren Bruder geschlagen und gesagt: „Das mache ich im Spiel auch!“ Ich glaube, das ist gefährlich.",
+        "question": "Ist Frau Hartmann für ein Verbot von Killerspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Warum verbietet man nur Spiele? Es gibt Gewalt in Filmen, Serien und sogar in Kinderbüchern. Wenn man alles verbietet, kann man nichts mehr sehen. Das ist nicht logisch.",
+        "question": "Ist Tom für ein Verbot von Killerspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich bin 15 und spiele diese Spiele mit meinen Freunden. Wir lachen und diskutieren über die Geschichten. Ein Verbot würde unsere Freundschaft kaputtmachen.",
+        "question": "Ist Lina für ein Verbot von Killerspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Ich kenne einen Jungen, der nach dem Spielen seine Schule verlassen hat. Er sagte: „Die Welt ist nur Gewalt.“ Das ist kein Zufall. Ein Verbot muss kommen.",
+        "question": "Ist Anna für ein Verbot von Killerspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Ja"
+      },
+      {
+        "text": "Diese Spiele sind wie Puzzle-Spiele mit Action. Man muss denken, planen und reagieren. Ein Verbot wäre wie das Verbieten von Schach – nur weil es kompliziert ist.",
+        "question": "Ist Herr Schmidt für ein Verbot von Killerspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      },
+      {
+        "text": "Als Lehrerin sehe ich, dass Schüler, die diese Spiele spielen, oft ruhiger sind. Sie brauchen einen Ausgleich. Ein Verbot macht alles nur schlimmer.",
+        "question": "Ist Frau Weber für ein Verbot von Killerspielen?",
+        "options": ["Ja", "Nein"],
+        "answer": "Nein"
+      }
+    ]
+  }
+]
+
+
+
+
+
