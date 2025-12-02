@@ -1,0 +1,427 @@
+[
+  {
+    "id": 1,
+    "title": "Anzeigen und passende Personen – Runde 1",
+    "texts": [
+      {
+        "text": "Hier findest du Anzeigen. Jede beschreibt eine Möglichkeit, Deutsch zu lernen oder zu üben. Lies die Anzeigen und finde die passende für jede Person.",
+        "anzeigen": [
+          {
+            "id": "A",
+            "content": "Deutsch lernen mit Kochvideos\nSchau deutsche Kochvideos auf YouTube und lerne Wörter wie: Gemüse, Gewürze, backen, kochen. Jede Woche ein neues Rezept mit deutschen Untertiteln.\nwww.kochen-deutsch.de"
+          },
+          {
+            "id": "B",
+            "content": "Sprachpartner-Treff in der Bibliothek\nTäglich von 16:00–18:00 Uhr: Triff deutsche Freunde und übe Deutsch beim Kaffee. Kein Kurs – nur sprechen! Für Anfänger und Fortgeschrittene.\nwww.bibliothek-sprachtreff.de"
+          },
+          {
+            "id": "C",
+            "content": "Deutsch für Fahrradfahrer\nMache eine wöchentliche Radtour mit anderen Lernenden. Lerne Wörter wie: Straße, Ampel, Radweg, Parkplatz, Wetter. Sprich über deine Fahrt auf Deutsch.\nwww.rad-deutsch.de"
+          },
+          {
+            "id": "D",
+            "content": "Online-Schreibkurs: Tagebuch auf Deutsch\nSchreibe jeden Tag 5 Sätze über deinen Tag. Dein Lehrer korrigiert sie und gibt dir Tipps. Perfekt, wenn du mehr schreiben willst.\nwww.tagebuch-deutsch.de"
+          },
+          {
+            "id": "E",
+            "content": "Sommerjob in einem Campingplatz\nArbeite im Juli und August in einem Campingplatz in Bayern. Hilf bei Zeltvermietung, Rezeption und Gesprächen mit Gästen. Alles auf Deutsch!\nwww.camping-job-deutsch.de"
+          },
+          {
+            "id": "F",
+            "content": "Deutsch-Podcast: 'Mein Tag in Deutschland'\nJede Woche eine neue Folge mit echten Geschichten von Menschen in Deutschland. Langsam gesprochen, mit Transkript. Ideal für unterwegs.\nwww.mein-tag-deutsch.de"
+          },
+          {
+            "id": "G",
+            "content": "Deutsch für Tierfreunde\nBesuche ein Tierheim und sprich mit den Mitarbeitern über Hunde, Katzen, Futter, Pflege. Lerne nützliche Wörter im Gespräch – mit Übungen danach.\nwww.tierheim-deutsch.de"
+          },
+          {
+            "id": "H",
+            "content": "Kurs: Deutsch im Café\nTriff dich jeden Mittwoch mit anderen Lernenden in einem Café. Thema: Essen, Wetter, Reisen. Kein Lehrbuch – nur sprechen und lernen!\nwww.cafe-deutsch.de"
+          },
+          {
+            "id": "J",
+            "content": "App: Deutsch lernen mit Bildern\nZeige dein Handy auf Gegenstände in deinem Zimmer – die App sagt dir das deutsche Wort und spricht es vor. Lerne Vokabeln ohne Auswendiglernen.\nwww.bild-deutsch-app.de"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Lena möchte Deutsch lernen, während sie ihre Freizeit genießt. Sie liebt es, in der Natur zu sein und Rad zu fahren. Anzeige: _____",
+            "answer": "C"
+          },
+          {
+            "question": "Tom braucht Hilfe beim Schreiben. Er möchte jeden Tag etwas auf Deutsch schreiben, aber er hat keine Zeit für einen Kurs. Anzeige: _____",
+            "answer": "D"
+          },
+          {
+            "question": "Fatima hat im Sommer frei und möchte Geld verdienen. Sie möchte auch Deutsch lernen. Anzeige: _____",
+            "answer": "E"
+          },
+          {
+            "question": "Kai hört gerne Podcasts, wenn er zur Arbeit fährt. Er möchte deutsche Geschichten verstehen, aber nicht zu schwer. Anzeige: _____",
+            "answer": "F"
+          },
+          {
+            "question": "Sara möchte Deutsch lernen, aber sie mag keine Kurse. Sie möchte mit echten Menschen sprechen. Anzeige: _____",
+            "answer": "B"
+          },
+          {
+            "question": "Max liebt es, neue Rezepte auszuprobieren. Er will deutsche Lebensmittelwörter lernen. Anzeige: _____",
+            "answer": "A"
+          },
+          {
+            "question": "Anna hat einen Hund und möchte mit deutschen Tierheim-Mitarbeitern sprechen. Anzeige: _____",
+            "answer": "G"
+          },
+          {
+            "question": "Julia möchte Deutsch lernen, ohne zu Hause zu bleiben. Sie mag Kaffee und gemütliche Orte. Anzeige: _____",
+            "answer": "H"
+          },
+          {
+            "question": "Ben möchte Vokabeln lernen, aber er vergisst sie schnell. Er möchte etwas, das ihm hilft, Wörter zu sehen und zu hören. Anzeige: _____",
+            "answer": "J"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Anzeigen und passende Personen – Runde 2",
+    "texts": [
+      {
+        "text": "Hier findest du Anzeigen. Jede beschreibt eine Möglichkeit, Deutsch zu lernen oder zu üben. Lies die Anzeigen und finde die passende für jede Person.",
+        "anzeigen": [
+          {
+            "id": "A",
+            "content": "Deutsch lernen mit Musik: Liedtexte analysieren\nHöre deutsche Poplieder und lerne Vokabeln durch Texte. Jede Woche ein neues Lied mit Erklärungen und Quiz. Für Anfänger und Fortgeschrittene.\nwww.musik-deutsch.de"
+          },
+          {
+            "id": "B",
+            "content": "Online-Kurs: Deutsch für Reisen\nLerne, wie man Tickets kauft, nach dem Weg fragt, im Hotel eincheckt und Bestellungen aufgibt. 10 kurze Lektionen – jederzeit online.\nwww.reisen-deutsch.de"
+          },
+          {
+            "id": "C",
+            "content": "Deutsch & Garten: Gemeinschaftsgarten in Berlin\nArbeite im Garten mit deutschen Nachbarn. Lerne Wörter wie: Pflanzen, Erde, Gießen, Blumen, Schaufel. Sprich über Wetter und Jahreszeiten.\nwww.garten-deutsch.de"
+          },
+          {
+            "id": "D",
+            "content": "Deutsch-Chatbot mit Sprachaufnahme\nSprich mit einem KI-Chatbot auf Deutsch. Er nimmt deine Stimme auf, vergleicht sie mit Muttersprachlern und zeigt dir, wie du dich verbessern kannst.\nwww.chatbot-deutsch.de"
+          },
+          {
+            "id": "E",
+            "content": "Tägliche Nachrichten auf einfachem Deutsch\nErhalte jeden Morgen eine kurze Nachricht über aktuelle Ereignisse in Deutschland – mit einfachen Wörtern und Audio. Kein Kurs, nur lesen und hören.\nwww.nachrichten-b1.de"
+          },
+          {
+            "id": "F",
+            "content": "Kurs: Deutsch für Fotografen\nGehe mit einer Gruppe auf Foto-Tour durch die Stadt. Beschreibe Bilder, Farben, Gefühle und Orte auf Deutsch. Perfekt, wenn du kreativ bist.\nwww.fotografie-deutsch.de"
+          },
+          {
+            "id": "G",
+            "content": "Sommerkurs: Deutsch und Schwimmen\nSchwimme im See und lerne Wörter wie: Wasser, Sonne, Badehose, tief, flach, sicher. Sprich mit anderen über dein Schwimmen – auf Deutsch!\nwww.schwimmen-deutsch.de"
+          },
+          {
+            "id": "H",
+            "content": "Deutsch für Eltern: Kinderbücher vorlesen\nLerne, wie man deutsche Kinderbücher vorliest – mit richtiger Aussprache und Ausdruck. Übe mit Audio und Videos. Ideal für Eltern mit Kindern.\nwww.eltern-deutsch.de"
+          },
+          {
+            "id": "J",
+            "content": "Deutsch lernen mit Brettspielen\nSpielen Sie deutsche Brettspiele wie „Mensch ärgere dich nicht“ oder „Catan“ mit anderen Lernenden. Lernen Sie Wörter wie: Würfel, Feld, Gewinn, Verlust, Spiel.\nwww.spiel-deutsch.de"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Lina liebt Musik und möchte Deutsch lernen, indem sie deutsche Lieder hört. Sie will die Wörter verstehen. Anzeige: _____",
+            "answer": "A"
+          },
+          {
+            "question": "David plant eine Reise nach Deutschland und möchte sich auf einfache Situationen vorbereiten. Anzeige: _____",
+            "answer": "B"
+          },
+          {
+            "question": "Mira arbeitet im Büro, aber sie möchte im Freien sein. Sie mag Pflanzen und möchte mit Deutschen sprechen. Anzeige: _____",
+            "answer": "C"
+          },
+          {
+            "question": "Jonas möchte seine Aussprache verbessern, aber er hat Angst, mit Menschen zu sprechen. Anzeige: _____",
+            "answer": "D"
+          },
+          {
+            "question": "Zara hat keine Zeit für Kurse, aber sie möchte jeden Tag etwas über Deutschland erfahren. Anzeige: _____",
+            "answer": "E"
+          },
+          {
+            "question": "Nora ist kreativ und liebt es, Fotos zu machen. Sie möchte Deutsch lernen, indem sie über Bilder spricht. Anzeige: _____",
+            "answer": "F"
+          },
+          {
+            "question": "Omar möchte im Sommer etwas Aktives machen – er liebt Wasser und Sonne. Anzeige: _____",
+            "answer": "G"
+          },
+          {
+            "question": "Leila hat ein kleines Kind und möchte ihm deutsche Kinderbücher vorlesen. Sie braucht Hilfe mit der Aussprache. Anzeige: _____",
+            "answer": "H"
+          },
+          {
+            "question": "Felix mag Spiele und möchte Deutsch lernen, während er spielt. Anzeige: _____",
+            "answer": "J"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Anzeigen und passende Personen – Runde 3",
+    "texts": [
+      {
+        "text": "Hier findest du Anzeigen. Jede beschreibt eine Möglichkeit, Deutsch zu lernen oder zu üben. Lies die Anzeigen und finde die passende für jede Person.",
+        "anzeigen": [
+          {
+            "id": "A",
+            "content": "Deutsch lernen mit Tierfilmen\nSchau Dokumentarfilme über Tiere in Deutschland – mit einfachen Untertiteln. Lerne Wörter wie: Wald, Vogel, Fuchs, Bär, Winter. Danach gibt es Fragen.\nwww.tierfilme-deutsch.de"
+          },
+          {
+            "id": "B",
+            "content": "Deutsch im Museum: Führungen für Lernende\nFühre dich durch ein deutsches Museum mit einem Lehrer. Lerne Wörter für Kunst, Geschichte und Architektur. Kleine Gruppen – nur 6 Leute.\nwww.museum-deutsch.de"
+          },
+          {
+            "id": "C",
+            "content": "Online-Kurs: Deutsch für E-Mails\nLerne, wie man formelle und freundliche E-Mails schreibt – für Arbeit, Uni oder Behörden. Mit Beispielen und Korrektur von Lehrern.\nwww.email-deutsch.de"
+          },
+          {
+            "id": "D",
+            "content": "Sprachcafé mit Senioren\nTreffen sich jeden Dienstag im Gemeindezentrum: Deutsche Senioren und Lernende. Spielen, erzählen, Kaffee trinken. Langsam, geduldig, mit Wiederholungen.\nwww.senioren-sprachcafe.de"
+          },
+          {
+            "id": "E",
+            "content": "Deutsch lernen mit Kochen – online\nMache mit einem deutschen Koch online ein einfaches Rezept. Sprich mit ihm während du kochst: Zutaten, Schritte, Geschmack. Für Anfänger geeignet.\nwww.kochen-online-deutsch.de"
+          },
+          {
+            "id": "F",
+            "content": "Deutsch für Sportler\nGehe mit einer Gruppe joggen oder trainieren. Lerne Wörter wie: Laufen, Muskeln, Wasser, Pause, gesund, Sport. Sprich über deine Gesundheit auf Deutsch.\nwww.sport-deutsch.de"
+          },
+          {
+            "id": "G",
+            "content": "Wochenendcamp: Deutsch und Wandern\nWandere zwei Tage durch die Berge. Lerne Wörter wie: Berg, Weg, Karte, Rucksack, Pause, Aussicht. Mit Sprachlehrer und Übernachtung im Zelt.\nwww.wandern-camp.de"
+          },
+          {
+            "id": "H",
+            "content": "Deutsch-App: Wörter im Alltag\nZeige deine Kamera auf Gegenstände in deiner Wohnung – die App sagt dir das deutsche Wort und zeigt dir ein Bild. Lerne Vokabeln ganz natürlich.\nwww.alltagsworte.de"
+          },
+          {
+            "id": "J",
+            "content": "Kurs: Deutsch für Filmfans\nSchau einen deutschen Film mit Untertiteln und diskutiere ihn danach mit anderen. Lerne Wörter für Gefühle, Charaktere und Handlung. Keine Vorkenntnisse nötig.\nwww.film-deutsch.de"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Sven liebt Tiere und möchte Deutsch lernen, indem er über Natur und Tiere lernt. Anzeige: _____",
+            "answer": "A"
+          },
+          {
+            "question": "Eva möchte mehr über deutsche Kultur lernen, besonders über Kunst und alte Gebäude. Anzeige: _____",
+            "answer": "B"
+          },
+          {
+            "question": "Lukas muss E-Mails auf Deutsch schreiben, weil er in einem deutschen Unternehmen arbeitet. Anzeige: _____",
+            "answer": "C"
+          },
+          {
+            "question": "Helga ist 68 Jahre alt und möchte langsam Deutsch lernen – ohne Druck. Sie mag Gespräche und Kaffee. Anzeige: _____",
+            "answer": "D"
+          },
+          {
+            "question": "Ben möchte Deutsch lernen, während er kocht. Er mag Essen und möchte mit einem echten Deutschen sprechen. Anzeige: _____",
+            "answer": "E"
+          },
+          {
+            "question": "Tina möchte fit bleiben und Deutsch lernen – sie mag Sport und Bewegung. Anzeige: _____",
+            "answer": "F"
+          },
+          {
+            "question": "Leo möchte im Urlaub Deutsch lernen – er liebt die Natur und will wandern. Anzeige: _____",
+            "answer": "G"
+          },
+          {
+            "question": "Mira möchte Vokabeln lernen, ohne zu lernen – sie möchte einfach im Alltag Wörter sehen. Anzeige: _____",
+            "answer": "H"
+          },
+          {
+            "question": "Daniel liebt Filme und möchte Deutsch lernen, indem er Filme schaut und darüber spricht. Anzeige: _____",
+            "answer": "J"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Anzeigen und passende Personen – Runde 4",
+    "texts": [
+      {
+        "text": "Hier findest du Anzeigen. Jede beschreibt eine Möglichkeit, Deutsch zu lernen oder zu üben. Lies die Anzeigen und finde die passende für jede Person.",
+        "anzeigen": [
+          {
+            "id": "A",
+            "content": "Deutsch lernen mit Geschichten aus der Schule\nHöre Geschichten von deutschen Schülern – über Hausaufgaben, Freunde, Sport und Ferien. Einfach gesprochen, mit Audio und Fragen. Für B1-Niveau.\nwww.schule-deutsch.de"
+          },
+          {
+            "id": "B",
+            "content": "Deutsch im Park: Picknick und Sprachübungen\nTreffen sich jeden Sonntag im Stadtpark. Bring dein Essen mit, triff andere Lernende und übe Deutsch über Essen, Wetter, Reisen und Hobbys.\nwww.park-deutsch.de"
+          },
+          {
+            "id": "C",
+            "content": "Online-Kurs: Deutsch für Bewerbungen\nLerne, wie man einen Lebenslauf schreibt, ein Anschreiben verfasst und sich in einem Vorstellungsgespräch vorstellt. Mit Mustern und Feedback.\nwww.bewerbung-deutsch.de"
+          },
+          {
+            "id": "D",
+            "content": "Deutsch lernen mit Tönen: Musikalische Sprachspiele\nSpielen Sie Spiele mit Rhythmus und Liedern, um Wörter zu merken. Zum Beispiel: „Ich mag…“ mit Klatschen. Für alle, die gerne tanzen oder musizieren.\nwww.töne-deutsch.de"
+          },
+          {
+            "id": "E",
+            "content": "Sommerjob: Deutsch in einem Fahrradverleih\nArbeite im Sommer in einem Fahrradverleih in Hamburg. Hilf Kunden, erkläre Routen, verkaufe Helme – alles auf Deutsch. Keine Erfahrung nötig.\nwww.fahrrad-job-deutsch.de"
+          },
+          {
+            "id": "F",
+            "content": "Deutsch lernen mit Comics\nLies deutsche Comics mit einfachen Dialogen. Lerne Sätze wie: „Was möchtest du?“, „Ich brauche…“, „Das ist teuer!“. Mit Übersetzung und Vokabeln.\nwww.comic-deutsch.de"
+          },
+          {
+            "id": "G",
+            "content": "Deutsch für Tierärzte: Online-Kurs\nLerne, wie man mit Tierbesitzern spricht: Symptome, Medikamente, Impfungen. Mit Dialogen und Rollenspielen. Für medizinische Helfer.\nwww.tierarzt-deutsch.de"
+          },
+          {
+            "id": "H",
+            "content": "Deutsch lernen mit Apps: Sprachpartner finden\nDie App verbindet dich mit einem deutschen Sprachpartner. Du sprichst 20 Minuten Deutsch, dann 20 Minuten auf deiner Sprache. Kostenlos und flexibel.\nwww.sprachpartner-app.de"
+          },
+          {
+            "id": "J",
+            "content": "Kurs: Deutsch und Kino – nur für Anfänger\nSchau kurze deutsche Filme mit einfachem Deutsch. Danach sprichst du mit anderen über den Film. Keine Angst – alle sind Anfänger!\nwww.kino-anfaenger.de"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Paula möchte Deutsch lernen, indem sie Geschichten über das Leben von Schülern hört. Sie mag einfache, alltägliche Themen. Anzeige: _____",
+            "answer": "A"
+          },
+          {
+            "question": "Maximilian möchte Deutsch lernen, aber er mag es nicht, zu Hause zu bleiben. Er möchte raus und mit anderen essen und sprechen. Anzeige: _____",
+            "answer": "B"
+          },
+          {
+            "question": "Nina sucht einen Kurs, um eine Stelle in Deutschland zu bekommen. Sie braucht Hilfe mit Lebenslauf und Vorstellungsgespräch. Anzeige: _____",
+            "answer": "C"
+          },
+          {
+            "question": "Lena liebt Musik und Tanz. Sie möchte Vokabeln lernen, aber nicht mit Büchern – sie möchte etwas mit Rhythmus. Anzeige: _____",
+            "answer": "D"
+          },
+          {
+            "question": "Jonas möchte im Sommer arbeiten und Deutsch lernen. Er mag Fahrräder und mag es, mit Leuten zu sprechen. Anzeige: _____",
+            "answer": "E"
+          },
+          {
+            "question": "Zoe mag Comics und will Deutsch lernen, indem sie einfache Dialoge liest. Sie mag visuelle Hilfe. Anzeige: _____",
+            "answer": "F"
+          },
+          {
+            "question": "Ali ist Helfer in einer Tierklinik und möchte mit deutschen Tierbesitzern sprechen. Anzeige: _____",
+            "answer": "G"
+          },
+          {
+            "question": "Emma möchte einen deutschen Sprachpartner finden, aber sie hat keine Zeit für feste Kurse. Sie möchte flexibel lernen. Anzeige: _____",
+            "answer": "H"
+          },
+          {
+            "question": "David hat Angst, Deutsch zu sprechen. Er möchte mit anderen Anfängern Filme schauen und darüber sprechen – ohne Druck. Anzeige: _____",
+            "answer": "J"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Anzeigen und passende Personen – Runde 5",
+    "texts": [
+      {
+        "text": "Hier findest du Anzeigen. Jede beschreibt eine Möglichkeit, Deutsch zu lernen oder zu üben. Lies die Anzeigen und finde die passende für jede Person.",
+        "anzeigen": [
+          {
+            "id": "A",
+            "content": "Deutsch lernen mit Nachrichten aus der Küche\nHöre kurze Podcasts über deutsche Essgewohnheiten: Frühstück, Mittagessen, Abendbrot. Lerne Wörter wie: Brot, Butter, Kaffee, Tee, Obst, Gemüse.\nwww.kueche-deutsch.de"
+          },
+          {
+            "id": "B",
+            "content": "Deutsch für Studenten: Uni-Vokabeln\nLerne Wörter für Vorlesungen, Seminar, Hausarbeit, Professor, Prüfung. Mit Übungen und Audio. Für alle, die an einer deutschen Uni studieren wollen.\nwww.uni-deutsch.de"
+          },
+          {
+            "id": "C",
+            "content": "Deutsch lernen mit Karten: Stadt und Land\nSpielen Sie ein Kartenspiel: Jede Karte hat ein Bild von einem Ort in Deutschland. Sie sagen: „Das ist Berlin.“, „Ich war in München.“ Lernen durch Spiel.\nwww.karten-deutsch.de"
+          },
+          {
+            "id": "D",
+            "content": "Online-Kurs: Deutsch für Eltern mit Kindern\nLernen Sie, wie man mit Kindern auf Deutsch spricht: „Was ist das?“, „Gib mir das!“, „Wir gehen jetzt schlafen.“ Mit Videos und Übungen.\nwww.eltern-kinder-deutsch.de"
+          },
+          {
+            "id": "E",
+            "content": "Deutsch im Zoo: Führungen für Lernende\nBesuchen Sie den Zoo mit einem Sprachlehrer. Lernen Sie Wörter für Tiere: Elefant, Löwe, Affe, Vogel, Fisch. Lernen Sie Sätze wie: „Das Tier ist groß.“\nwww.zoo-deutsch.de"
+          },
+          {
+            "id": "F",
+            "content": "Deutsch lernen mit Rezepten aus dem Supermarkt\nSchauen Sie sich Lebensmittelverpackungen an. Lesen Sie Zutaten, Haltbarkeit, Gebrauchsanweisung. Lernen Sie Wörter wie: Zucker, Salz, Milch, Fett, vegan.\nwww.supermarkt-deutsch.de"
+          },
+          {
+            "id": "G",
+            "content": "Deutsch lernen mit Theater: Kurze Szenen\nSpielen Sie kurze Szenen aus dem Alltag: im Laden, im Bus, zu Hause. Mit Unterstützung vom Lehrer. Keine Erfahrung nötig – nur Spaß und Lernen!\nwww.theater-deutsch.de"
+          },
+          {
+            "id": "H",
+            "content": "Deutsch-App: Wortschatz-Quiz\nTäglich ein Quiz mit 5 Vokabeln. Du hörst das Wort, siehst es und wählst die richtige Bedeutung. Punkte sammeln und deine Fortschritte sehen.\nwww.quiz-deutsch.de"
+          },
+          {
+            "id": "J",
+            "content": "Sommerkurs: Deutsch und Schwimmbad\nLernen Sie Deutsch im Schwimmbad: Wörter wie: Sprungbrett, Schwimmring, Schwimmbrille, tief, flach, sicher. Spielen Sie Spiele auf Deutsch.\nwww.schwimmbad-deutsch.de"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Lara möchte Deutsch lernen, indem sie über deutsche Essgewohnheiten hört. Sie mag einfache Themen wie Frühstück und Tee. Anzeige: _____",
+            "answer": "A"
+          },
+          {
+            "question": "Jakob möchte an einer deutschen Uni studieren. Er braucht Vokabeln für Vorlesungen und Hausarbeiten. Anzeige: _____",
+            "answer": "B"
+          },
+          {
+            "question": "Anna mag Spiele und möchte Deutsch lernen, indem sie über Städte in Deutschland spricht. Sie mag Bilder und Karten. Anzeige: _____",
+            "answer": "C"
+          },
+          {
+            "question": "Ben hat ein kleines Kind und möchte mit ihm auf Deutsch sprechen. Er braucht einfache Sätze. Anzeige: _____",
+            "answer": "D"
+          },
+          {
+            "question": "Mia liebt Tiere und möchte Deutsch lernen, indem sie Tiere im Zoo sieht und beschreibt. Anzeige: _____",
+            "answer": "E"
+          },
+          {
+            "question": "Kai liest gern Lebensmittelverpackungen und möchte Wörter wie „Zucker“ oder „vegan“ lernen. Anzeige: _____",
+            "answer": "F"
+          },
+          {
+            "question": "Sofie möchte Deutsch lernen, indem sie spielt – sie mag Theater und Rollenspiele. Anzeige: _____",
+            "answer": "G"
+          },
+          {
+            "question": "Tom möchte jeden Tag 5 neue Wörter lernen, aber er hat keine Zeit für lange Kurse. Er mag Spiele und Quiz. Anzeige: _____",
+            "answer": "H"
+          },
+          {
+            "question": "Elena möchte Deutsch lernen, während sie im Schwimmbad ist. Sie mag Wasser und Aktivitäten. Anzeige: _____",
+            "answer": "J"
+          }
+        ]
+      }
+    ]
+  }
+]
