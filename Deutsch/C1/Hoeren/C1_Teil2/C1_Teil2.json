@@ -72,7 +72,7 @@
       { "question": "8 Ein ausgewogener Einsatz digitaler Medien ist wichtig.", "options": {"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"a" },
       { "question": "9 Lern-Apps können die Interaktion zwischen Lehrenden und Lernenden reduzieren.", "options": {"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"a" }
     ]    ,
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil2/1.mp3"  },
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil2/2.mp3"  },
   {
     "id": 3,
     "title": "Gesundheit am Arbeitsplatz – Prävention und Wohlbefinden",
@@ -90,7 +90,7 @@
       { "question": "8 Mentale Gesundheit wird in Zukunft an Bedeutung verlieren.", "options": {"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"b" },
       { "question": "9 Offene Kommunikation ist für Prävention wichtig.", "options": {"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"a" }
     ]    ,
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil2/1.mp3"  },
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil2/3.mp3"  },
   {
     "id": 4,
     "title": "Kulturelle Vielfalt und Integration in Städten",
@@ -108,7 +108,7 @@
       { "question": "8 Integration ist ein kontinuierlicher Prozess.", "options": {"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"a" },
       { "question": "9 Gesellschaftlicher Zusammenhalt wird durch Bildung unterstützt.", "options": {"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"a" }
     ]    ,
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil2/1.mp3"  },
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil2/4.mp3"  },
   {
     "id": 5,
     "title": "Künstliche Intelligenz in der Medizin",
@@ -126,7 +126,7 @@
       { "question": "8 KI kann präventive Maßnahmen in der Medizin fördern.", "options": {"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"a" },
       { "question": "9 Kombination aus Technik und menschlicher Expertise ist entscheidend.", "options": {"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"a" }
     ]    ,
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil2/1.mp3"  }
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil2/5.mp3"  }
 ,
   {
     "id": 6,
@@ -145,7 +145,7 @@
       { "question": "8 Resiliente Städte können sich an Umweltveränderungen anpassen.", "options": {"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"a" },
       { "question": "9 Klimawandel erfordert keine Änderungen in der Stadtplanung.", "options": {"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"b" }
     ]    ,
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil2/1.mp3"  }
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil2/6.mp3"  }
 ,
   {
     "id": 7,
@@ -164,7 +164,7 @@
       { "question": "8 Effizienzsteigerungen sind für die Energieversorgung irrelevant.", "options":{"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"b" },
       { "question": "9 Digitale Managementsysteme unterstützen die Energiewende.", "options":{"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"a" }
     ]    ,
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil2/1.mp3"  },
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil2/7.mp3"  },
   {
     "id": 8,
     "title": "Psychologie des Lernens – Motivation und Gedächtnis",
@@ -182,7 +182,7 @@
       { "question": "8 Erwachsene lernen bevorzugt spielerisch.", "options":{"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"b" },
       { "question": "9 Neurotechnologische Ansätze werden zunehmend genutzt.", "options":{"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"a" }
     ]    ,
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil2/1.mp3"  },
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil2/8.mp3"  },
   {
     "id": 9,
     "title": "Klimawandel und Landwirtschaft",
@@ -200,7 +200,7 @@
       { "question": "8 Nachhaltige Landwirtschaft ist notwendig für Ernährungssicherheit.", "options":{"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"a" },
       { "question": "9 Überschwemmungen haben keinen Einfluss auf Erträge.", "options":{"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"b" }
     ]    ,
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil2/1.mp3"  },
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil2/9.mp3"  },
   {
     "id": 10,
     "title": "Kulturelles Erbe und Tourismus",
@@ -218,7 +218,7 @@
       { "question": "8 Bildung und Sensibilisierung beeinflussen das Verhalten von Touristen.", "options":{"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"a" },
       { "question": "9 Virtuelle Besuche machen physischen Schutz überflüssig.", "options":{"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"b" }
     ]    ,
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil2/1.mp3"  }
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil2/10.mp3"  }
 ]
 
 
