@@ -51,7 +51,8 @@
         "options": { "a": "stimmt", "b": "stimmt nicht", "c": "dazu wird nichts gesagt" },
         "answer": "a"
       }
-    ]
+    ]    ,
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/3.mp3"
   }
 ,
   {
@@ -70,7 +71,8 @@
       { "question": "7 Heterogene Gruppen profitieren weniger von digitalem Unterricht.", "options": {"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"b" },
       { "question": "8 Ein ausgewogener Einsatz digitaler Medien ist wichtig.", "options": {"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"a" },
       { "question": "9 Lern-Apps können die Interaktion zwischen Lehrenden und Lernenden reduzieren.", "options": {"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"a" }
-    ]
+    ]    ,
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/3.mp3"
   },
   {
     "id": 3,
@@ -88,7 +90,8 @@
       { "question": "7 Digitale Apps können die Gesundheitsüberwachung unterstützen.", "options": {"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"a" },
       { "question": "8 Mentale Gesundheit wird in Zukunft an Bedeutung verlieren.", "options": {"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"b" },
       { "question": "9 Offene Kommunikation ist für Prävention wichtig.", "options": {"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"a" }
-    ]
+    ]    ,
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/3.mp3"
   },
   {
     "id": 4,
@@ -106,7 +109,8 @@
       { "question": "7 Interkulturelle Veranstaltungen fördern Verständnis.", "options": {"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"a" },
       { "question": "8 Integration ist ein kontinuierlicher Prozess.", "options": {"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"a" },
       { "question": "9 Gesellschaftlicher Zusammenhalt wird durch Bildung unterstützt.", "options": {"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"a" }
-    ]
+    ]    ,
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/3.mp3"
   },
   {
     "id": 5,
@@ -124,7 +128,8 @@
       { "question": "7 Datenqualität ist für KI unwichtig.", "options": {"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"b" },
       { "question": "8 KI kann präventive Maßnahmen in der Medizin fördern.", "options": {"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"a" },
       { "question": "9 Kombination aus Technik und menschlicher Expertise ist entscheidend.", "options": {"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"a" }
-    ]
+    ]    ,
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/3.mp3"
   }
 ,
   {
@@ -143,7 +148,8 @@
       { "question": "7 Entwicklungsländer haben oft unkontrolliertes Stadtwachstum.", "options": {"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"a" },
       { "question": "8 Resiliente Städte können sich an Umweltveränderungen anpassen.", "options": {"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"a" },
       { "question": "9 Klimawandel erfordert keine Änderungen in der Stadtplanung.", "options": {"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"b" }
-    ]
+    ]    ,
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/3.mp3"
   }
 ,
   {
@@ -162,7 +168,8 @@
       { "question": "7 Der Ausbau erneuerbarer Energien hat keine Auswirkungen auf die Natur.", "options":{"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"b" },
       { "question": "8 Effizienzsteigerungen sind für die Energieversorgung irrelevant.", "options":{"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"b" },
       { "question": "9 Digitale Managementsysteme unterstützen die Energiewende.", "options":{"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"a" }
-    ]
+    ]    ,
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/3.mp3"
   },
   {
     "id": 8,
@@ -180,7 +187,8 @@
       { "question": "7 Jugendliche profitieren stärker von interaktiven Methoden.", "options":{"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"a" },
       { "question": "8 Erwachsene lernen bevorzugt spielerisch.", "options":{"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"b" },
       { "question": "9 Neurotechnologische Ansätze werden zunehmend genutzt.", "options":{"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"a" }
-    ]
+    ]    ,
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/3.mp3"
   },
   {
     "id": 9,
@@ -198,7 +206,8 @@
       { "question": "7 Politik kann Landwirte bei Anpassungen unterstützen.", "options":{"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"a" },
       { "question": "8 Nachhaltige Landwirtschaft ist notwendig für Ernährungssicherheit.", "options":{"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"a" },
       { "question": "9 Überschwemmungen haben keinen Einfluss auf Erträge.", "options":{"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"b" }
-    ]
+    ]    ,
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/3.mp3"
   },
   {
     "id": 10,
@@ -216,7 +225,8 @@
       { "question": "7 Einige Länder haben strenge Denkmalschutzvorschriften.", "options":{"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"a" },
       { "question": "8 Bildung und Sensibilisierung beeinflussen das Verhalten von Touristen.", "options":{"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"a" },
       { "question": "9 Virtuelle Besuche machen physischen Schutz überflüssig.", "options":{"a":"stimmt","b":"stimmt nicht","c":"dazu wird nichts gesagt"}, "answer":"b" }
-    ]
+    ]    ,
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/3.mp3"
   }
 ]
 
