@@ -40,6 +40,8 @@
         "answer": "a"
       }
     ]
+    ,
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/3.mp3"
   },
    {
     "id": 2,
@@ -76,7 +78,8 @@
         "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
         "answer": "c"
       }
-    ]
+    ]    ,
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/3.mp3"
   },  {
     "id": 3,
     "title": "Klimawandel und Ökosysteme",
@@ -112,7 +115,8 @@
         "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
         "answer": "a"
       }
-    ]
+    ]    ,
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/3.mp3"
   },  {
     "id": 4,
     "title": "Welt der Ozeane und Meeresforschung",
@@ -148,7 +152,8 @@
         "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
         "answer": "b"
       }
-    ]
+    ]    ,
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/3.mp3"
   },
     {
     "id": 5,
@@ -185,7 +190,8 @@
         "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
         "answer": "a"
       }
-    ]
+    ]    ,
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/3.mp3"
   },
   {
     "id": 6,
@@ -222,7 +228,8 @@
         "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
         "answer": "c"
       }
-    ]
+    ]    ,
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/3.mp3"
   }
   
   
