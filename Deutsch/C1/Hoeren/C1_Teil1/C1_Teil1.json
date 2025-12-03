@@ -186,6 +186,43 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": 6,
+    "title": "Ernährungstrends und Gesundheit",
+    "text": "Ernährungstrends haben in den letzten Jahren weltweit an Bedeutung gewonnen, da immer mehr Menschen auf gesunde, nachhaltige und ethische Ernährung achten. Vegetarische und vegane Kost, regionale Produkte, biologische Lebensmittel und nachhaltige Fischerei sind nur einige Beispiele für die wachsende Vielfalt. Wissenschaftler untersuchen die Auswirkungen verschiedener Ernährungsweisen auf Gesundheit, Gewicht, Stoffwechsel und Herz-Kreislauf-System. Gleichzeitig spielt die Umwelt eine wichtige Rolle: Lebensmittelproduktion verursacht Treibhausgase, Wasserverbrauch und Landnutzung, die langfristig ökologisch nachhaltig gestaltet werden müssen. Ernährungstrends reflektieren nicht nur gesundheitliche, sondern auch gesellschaftliche und kulturelle Aspekte. Social Media und Influencer tragen zur Verbreitung neuer Ernährungskonzepte bei, wobei wissenschaftliche Evidenz oft kritisch hinterfragt wird. Studien zeigen, dass eine ausgewogene Ernährung mit viel Obst, Gemüse, Vollkornprodukten und moderatem Fleisch- und Zuckeranteil das Risiko chronischer Erkrankungen senken kann. Gleichzeitig gewinnen personalisierte Ernährungspläne, basierend auf genetischen Faktoren, Lebensstil und individuellen Bedürfnissen, an Bedeutung. Öffentliche Aufklärungskampagnen, Ernährungsetiketten und politische Maßnahmen sollen Verbraucher informieren und gesundheitsbewusstes Verhalten fördern. Der Text betont, dass Ernährung nicht isoliert betrachtet werden sollte, sondern in Verbindung mit Bewegung, Lebensstil und gesellschaftlicher Verantwortung steht. Eine bewusste Auswahl von Lebensmitteln kann sowohl persönliche Gesundheit als auch ökologische Nachhaltigkeit positiv beeinflussen.",
+    "text_no_newline": "Ernährungstrends haben in den letzten Jahren weltweit an Bedeutung gewonnen, da immer mehr Menschen auf gesunde, nachhaltige und ethische Ernährung achten. Vegetarische und vegane Kost, regionale Produkte, biologische Lebensmittel und nachhaltige Fischerei sind nur einige Beispiele für die wachsende Vielfalt. Wissenschaftler untersuchen die Auswirkungen verschiedener Ernährungsweisen auf Gesundheit, Gewicht, Stoffwechsel und Herz-Kreislauf-System. Gleichzeitig spielt die Umwelt eine wichtige Rolle: Lebensmittelproduktion verursacht Treibhausgase, Wasserverbrauch und Landnutzung, die langfristig ökologisch nachhaltig gestaltet werden müssen. Ernährungstrends reflektieren nicht nur gesundheitliche, sondern auch gesellschaftliche und kulturelle Aspekte. Social Media und Influencer tragen zur Verbreitung neuer Ernährungskonzepte bei, wobei wissenschaftliche Evidenz oft kritisch hinterfragt wird. Studien zeigen, dass eine ausgewogene Ernährung mit viel Obst, Gemüse, Vollkornprodukten und moderatem Fleisch- und Zuckeranteil das Risiko chronischer Erkrankungen senken kann. Gleichzeitig gewinnen personalisierte Ernährungspläne, basierend auf genetischen Faktoren, Lebensstil und individuellen Bedürfnissen, an Bedeutung. Öffentliche Aufklärungskampagnen, Ernährungsetiketten und politische Maßnahmen sollen Verbraucher informieren und gesundheitsbewusstes Verhalten fördern. Der Text betont, dass Ernährung nicht isoliert betrachtet werden sollte, sondern in Verbindung mit Bewegung, Lebensstil und gesellschaftlicher Verantwortung steht. Eine bewusste Auswahl von Lebensmitteln kann sowohl persönliche Gesundheit als auch ökologische Nachhaltigkeit positiv beeinflussen.",
+    "word_count": 460,
+    "question": "Welches Thema behandelt Ernährungstrends und deren Auswirkungen?",
+    "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
+    "answer": "a",
+    "additional_questions": [
+      {
+        "question": "Welche Ernährungsformen werden als Trend genannt?",
+        "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
+        "answer": "b"
+      },
+      {
+        "question": "Welche Faktoren beeinflussen die gesundheitlichen Effekte der Ernährung?",
+        "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
+        "answer": "c"
+      },
+      {
+        "question": "Welche Rolle spielt die Umwelt bei Ernährungstrends?",
+        "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
+        "answer": "a"
+      },
+      {
+        "question": "Wie verbreiten sich neue Ernährungskonzepte in der Gesellschaft?",
+        "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
+        "answer": "b"
+      },
+      {
+        "question": "Welche Maßnahmen sollen Verbraucher unterstützen, gesundheitsbewusst zu essen?",
+        "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
+        "answer": "c"
+      }
+    ]
   }
   
   
