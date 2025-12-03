@@ -8,7 +8,7 @@
     "question": "Was soll Frau Stein tun?",
     "options": { "a": "Die Chipkarte mitbringen", "b": "Zehn Euro bezahlen", "c": "Zurückrufen" },
     "answer": "a,c",
-    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/A1/Hoeren/Audio/G/10.mp3"
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil1/1.mp3"
   },
   {
     "id": 2,
