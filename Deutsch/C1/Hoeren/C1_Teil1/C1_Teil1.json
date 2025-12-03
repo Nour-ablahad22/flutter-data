@@ -40,5 +40,154 @@
         "answer": "a"
       }
     ]
+  },
+   {
+    "id": 2,
+    "title": "Urbanisierung und Nachhaltigkeit",
+    "text": "Die Urbanisierung schreitet weltweit rasant voran, wodurch immer mehr Menschen in Städten leben. Diese Entwicklung bringt sowohl wirtschaftliche Chancen als auch ökologische und soziale Herausforderungen mit sich. Einerseits profitieren Städte von Innovationen, Arbeitsplätzen und wirtschaftlicher Dynamik. Andererseits steigt die Belastung der Umwelt: Luftverschmutzung, Lärm, Verkehr und fehlende Grünflächen beeinträchtigen Lebensqualität und Gesundheit. Stadtplaner und Architekten entwickeln Konzepte für nachhaltige Stadtentwicklung, die den Energieverbrauch senken, den öffentlichen Verkehr stärken und Grünflächen fördern. Smart-City-Technologien ermöglichen eine effizientere Nutzung von Ressourcen, indem Verkehrsströme optimiert, Energieverbrauch überwacht und Abfallmanagement verbessert wird. Gleichzeitig sind soziale Aspekte entscheidend: Integration von Migranten, bezahlbarer Wohnraum und soziale Teilhabe tragen zur Stabilität städtischer Gemeinschaften bei. Forschung untersucht, wie Digitalisierung und künstliche Intelligenz das städtische Leben verbessern können, ohne Privatsphäre und Rechte der Bürger zu verletzen. Kulturelle Angebote, Bildungseinrichtungen und soziale Netzwerke stärken den sozialen Zusammenhalt, während Innovationen in Bau- und Verkehrstechnik neue Möglichkeiten eröffnen. Langfristig hängt der Erfolg nachhaltiger Urbanisierung davon ab, ökologische, wirtschaftliche und soziale Interessen in Einklang zu bringen. Städte werden so zu Laboratorien für zukunftsweisende Lösungen, die weltweit Anwendung finden könnten. Eine integrative Planung, die Technologie, Umwelt- und Sozialaspekte verbindet, gilt als Schlüssel für lebenswerte Metropolen der Zukunft.",
+    "text_no_newline": "Die Urbanisierung schreitet weltweit rasant voran, wodurch immer mehr Menschen in Städten leben. Diese Entwicklung bringt sowohl wirtschaftliche Chancen als auch ökologische und soziale Herausforderungen mit sich. Einerseits profitieren Städte von Innovationen, Arbeitsplätzen und wirtschaftlicher Dynamik. Andererseits steigt die Belastung der Umwelt: Luftverschmutzung, Lärm, Verkehr und fehlende Grünflächen beeinträchtigen Lebensqualität und Gesundheit. Stadtplaner und Architekten entwickeln Konzepte für nachhaltige Stadtentwicklung, die den Energieverbrauch senken, den öffentlichen Verkehr stärken und Grünflächen fördern. Smart-City-Technologien ermöglichen eine effizientere Nutzung von Ressourcen, indem Verkehrsströme optimiert, Energieverbrauch überwacht und Abfallmanagement verbessert wird. Gleichzeitig sind soziale Aspekte entscheidend: Integration von Migranten, bezahlbarer Wohnraum und soziale Teilhabe tragen zur Stabilität städtischer Gemeinschaften bei. Forschung untersucht, wie Digitalisierung und künstliche Intelligenz das städtische Leben verbessern können, ohne Privatsphäre und Rechte der Bürger zu verletzen. Kulturelle Angebote, Bildungseinrichtungen und soziale Netzwerke stärken den sozialen Zusammenhalt, während Innovationen in Bau- und Verkehrstechnik neue Möglichkeiten eröffnen. Langfristig hängt der Erfolg nachhaltiger Urbanisierung davon ab, ökologische, wirtschaftliche und soziale Interessen in Einklang zu bringen. Städte werden so zu Laboratorien für zukunftsweisende Lösungen, die weltweit Anwendung finden könnten. Eine integrative Planung, die Technologie, Umwelt- und Sozialaspekte verbindet, gilt als Schlüssel für lebenswerte Metropolen der Zukunft.",
+    "word_count": 466,
+    "question": "Welche Herausforderung wird durch zunehmende Urbanisierung beschrieben?",
+    "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
+    "answer": "a",
+    "additional_questions": [
+      {
+        "question": "Welche Maßnahmen werden zur nachhaltigen Stadtentwicklung genannt?",
+        "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
+        "answer": "b"
+      },
+      {
+        "question": "Welche Technologien helfen, Ressourcen in Städten effizienter zu nutzen?",
+        "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
+        "answer": "c"
+      },
+      {
+        "question": "Welche sozialen Aspekte sind entscheidend für die Stabilität städtischer Gemeinschaften?",
+        "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
+        "answer": "a"
+      },
+      {
+        "question": "Welche Rolle spielen Bildung und Kultur laut Text?",
+        "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
+        "answer": "b"
+      },
+      {
+        "question": "Was gilt als Schlüssel für lebenswerte Metropolen der Zukunft?",
+        "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
+        "answer": "c"
+      }
+    ]
+  },  {
+    "id": 3,
+    "title": "Klimawandel und Ökosysteme",
+    "text": "Der Klimawandel beeinflusst Ökosysteme weltweit auf vielfältige Weise. Steigende Temperaturen, veränderte Niederschlagsmuster und häufigere Extremwetterereignisse führen zu Veränderungen in Flora und Fauna. Pflanzen und Tiere müssen sich anpassen, wandern in andere Regionen ab oder stehen vor dem Aussterben. Besonders empfindlich sind Korallenriffe, arktische Lebensräume und tropische Regenwälder. Wissenschaftler untersuchen die Auswirkungen von Klimaveränderungen auf Biodiversität und Nahrungsnetze, um Schutzmaßnahmen gezielt einzusetzen. Die Verschiebung von Lebensräumen kann das Gleichgewicht ganzer Ökosysteme gefährden und wirtschaftliche Folgen haben, etwa für Fischerei und Landwirtschaft. Gleichzeitig wird die Anpassungsfähigkeit von Arten erforscht, wobei genetische Vielfalt, Wanderung und Evolution eine zentrale Rolle spielen. Naturschutzstrategien beinhalten Schutzgebiete, Wiederaufforstung, nachhaltige Landwirtschaft und Klimaschutzmaßnahmen, um Lebensräume langfristig zu erhalten. Auch städtische Grünflächen und Renaturierung von Flussläufen tragen zum Erhalt der Biodiversität bei. Der Text betont, dass ein globales Handeln notwendig ist, um die Folgen des Klimawandels abzumildern und Ökosysteme widerstandsfähig zu machen.",
+    "text_no_newline": "Der Klimawandel beeinflusst Ökosysteme weltweit auf vielfältige Weise. Steigende Temperaturen, veränderte Niederschlagsmuster und häufigere Extremwetterereignisse führen zu Veränderungen in Flora und Fauna. Pflanzen und Tiere müssen sich anpassen, wandern in andere Regionen ab oder stehen vor dem Aussterben. Besonders empfindlich sind Korallenriffe, arktische Lebensräume und tropische Regenwälder. Wissenschaftler untersuchen die Auswirkungen von Klimaveränderungen auf Biodiversität und Nahrungsnetze, um Schutzmaßnahmen gezielt einzusetzen. Die Verschiebung von Lebensräumen kann das Gleichgewicht ganzer Ökosysteme gefährden und wirtschaftliche Folgen haben, etwa für Fischerei und Landwirtschaft. Gleichzeitig wird die Anpassungsfähigkeit von Arten erforscht, wobei genetische Vielfalt, Wanderung und Evolution eine zentrale Rolle spielen. Naturschutzstrategien beinhalten Schutzgebiete, Wiederaufforstung, nachhaltige Landwirtschaft und Klimaschutzmaßnahmen, um Lebensräume langfristig zu erhalten. Auch städtische Grünflächen und Renaturierung von Flussläufen tragen zum Erhalt der Biodiversität bei. Der Text betont, dass ein globales Handeln notwendig ist, um die Folgen des Klimawandels abzumildern und Ökosysteme widerstandsfähig zu machen.",
+    "word_count": 455,
+    "question": "Welches Thema behandelt die Auswirkungen auf Flora und Fauna?",
+    "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
+    "answer": "b",
+    "additional_questions": [
+      {
+        "question": "Welche Lebensräume sind besonders empfindlich?",
+        "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
+        "answer": "c"
+      },
+      {
+        "question": "Welche Rolle spielt genetische Vielfalt laut Text?",
+        "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
+        "answer": "a"
+      },
+      {
+        "question": "Welche wirtschaftlichen Bereiche können durch Klimawandel beeinflusst werden?",
+        "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
+        "answer": "b"
+      },
+      {
+        "question": "Welche Maßnahmen werden zum Schutz der Biodiversität vorgeschlagen?",
+        "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
+        "answer": "c"
+      },
+      {
+        "question": "Was betont der Text als notwendig, um Ökosysteme widerstandsfähig zu machen?",
+        "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
+        "answer": "a"
+      }
+    ]
+  },  {
+    "id": 4,
+    "title": "Welt der Ozeane und Meeresforschung",
+    "text": "Die Ozeane bedecken mehr als zwei Drittel der Erdoberfläche und sind entscheidend für Klima, Nahrung und Biodiversität. Meeresströmungen regulieren das globale Klima, während marine Ökosysteme eine große Vielfalt an Tier- und Pflanzenarten beherbergen. Meeresforschung untersucht physikalische, chemische und biologische Prozesse, um die Auswirkungen von Umweltveränderungen zu verstehen. Überfischung, Verschmutzung durch Plastik und Öl sowie steigende Wassertemperaturen gefährden die Ozeane und ihre Ressourcen. Wissenschaftler entwickeln Strategien zur Erhaltung von Fischbeständen, Schutz von Korallenriffen und Reduzierung von Schadstoffen. Technologien wie Satellitenüberwachung, autonome Unterwasserfahrzeuge und Sensorik ermöglichen präzisere Daten über Meeresströmungen, Temperatur und Biodiversität. Die Forschung betont die Bedeutung internationaler Zusammenarbeit, da Ozeane grenzüberschreitend wirken. Gleichzeitig sensibilisieren Bildungsprogramme und Umweltkampagnen für die Bedeutung eines nachhaltigen Umgangs mit marinen Ressourcen. Der Text zeigt, dass eine Kombination aus Technologie, Politik und gesellschaftlichem Bewusstsein notwendig ist, um die Ozeane zu schützen und ihre komplexen Ökosysteme langfristig zu erhalten.",
+    "text_no_newline": "Die Ozeane bedecken mehr als zwei Drittel der Erdoberfläche und sind entscheidend für Klima, Nahrung und Biodiversität. Meeresströmungen regulieren das globale Klima, während marine Ökosysteme eine große Vielfalt an Tier- und Pflanzenarten beherbergen. Meeresforschung untersucht physikalische, chemische und biologische Prozesse, um die Auswirkungen von Umweltveränderungen zu verstehen. Überfischung, Verschmutzung durch Plastik und Öl sowie steigende Wassertemperaturen gefährden die Ozeane und ihre Ressourcen. Wissenschaftler entwickeln Strategien zur Erhaltung von Fischbeständen, Schutz von Korallenriffen und Reduzierung von Schadstoffen. Technologien wie Satellitenüberwachung, autonome Unterwasserfahrzeuge und Sensorik ermöglichen präzisere Daten über Meeresströmungen, Temperatur und Biodiversität. Die Forschung betont die Bedeutung internationaler Zusammenarbeit, da Ozeane grenzüberschreitend wirken. Gleichzeitig sensibilisieren Bildungsprogramme und Umweltkampagnen für die Bedeutung eines nachhaltigen Umgangs mit marinen Ressourcen. Der Text zeigt, dass eine Kombination aus Technologie, Politik und gesellschaftlichem Bewusstsein notwendig ist, um die Ozeane zu schützen und ihre komplexen Ökosysteme langfristig zu erhalten.",
+    "word_count": 454,
+    "question": "Welches Thema behandelt die Bedeutung der Ozeane?",
+    "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
+    "answer": "c",
+    "additional_questions": [
+      {
+        "question": "Welche Bedrohungen werden für die Ozeane genannt?",
+        "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
+        "answer": "a"
+      },
+      {
+        "question": "Welche Technologien unterstützen die Meeresforschung?",
+        "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
+        "answer": "b"
+      },
+      {
+        "question": "Warum ist internationale Zusammenarbeit wichtig?",
+        "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
+        "answer": "c"
+      },
+      {
+        "question": "Welche Strategien werden zum Schutz der Meere entwickelt?",
+        "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
+        "answer": "a"
+      },
+      {
+        "question": "Wie kann gesellschaftliches Bewusstsein zum Schutz beitragen?",
+        "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
+        "answer": "b"
+      }
+    ]
+  },
+    {
+    "id": 5,
+    "title": "Raumfahrt und wissenschaftliche Entdeckungen",
+    "text": "Die Raumfahrt eröffnet neue Möglichkeiten für wissenschaftliche Entdeckungen und technologische Innovationen. Satelliten überwachen Klima, Ozeane und Erdoberfläche, während Raumsonden und Teleskope Informationen über andere Planeten, Sterne und Galaxien liefern. Internationale Raumstationen ermöglichen Experimente in Schwerelosigkeit, die neue Erkenntnisse für Medizin, Materialwissenschaft und Biologie bringen. Weltraummissionen werfen Fragen zu Ressourcen, Technologie und ethischen Aspekten auf, insbesondere bei kommerziellen Projekten. Die Erforschung des Weltraums fördert Kooperation zwischen Nationen, technologische Fortschritte und Bildungsinitiativen. Gleichzeitig stellen extreme Bedingungen, Kosten und Sicherheitsrisiken große Herausforderungen dar. Forschung in der Raumfahrt erfordert präzise Planung, umfangreiche Logistik und interdisziplinäre Zusammenarbeit. Innovative Antriebe, Robotik und künstliche Intelligenz unterstützen Missionen und eröffnen Perspektiven für bemannte und unbemannte Raumfahrten. Der Text zeigt, dass Raumfahrt nicht nur wissenschaftliche Erkenntnisse liefert, sondern auch gesellschaftliche und wirtschaftliche Impulse setzt, deren Chancen und Risiken sorgfältig abgewogen werden müssen.",
+    "text_no_newline": "Die Raumfahrt eröffnet neue Möglichkeiten für wissenschaftliche Entdeckungen und technologische Innovationen. Satelliten überwachen Klima, Ozeane und Erdoberfläche, während Raumsonden und Teleskope Informationen über andere Planeten, Sterne und Galaxien liefern. Internationale Raumstationen ermöglichen Experimente in Schwerelosigkeit, die neue Erkenntnisse für Medizin, Materialwissenschaft und Biologie bringen. Weltraummissionen werfen Fragen zu Ressourcen, Technologie und ethischen Aspekten auf, insbesondere bei kommerziellen Projekten. Die Erforschung des Weltraums fördert Kooperation zwischen Nationen, technologische Fortschritte und Bildungsinitiativen. Gleichzeitig stellen extreme Bedingungen, Kosten und Sicherheitsrisiken große Herausforderungen dar. Forschung in der Raumfahrt erfordert präzise Planung, umfangreiche Logistik und interdisziplinäre Zusammenarbeit. Innovative Antriebe, Robotik und künstliche Intelligenz unterstützen Missionen und eröffnen Perspektiven für bemannte und unbemannte Raumfahrten. Der Text zeigt, dass Raumfahrt nicht nur wissenschaftliche Erkenntnisse liefert, sondern auch gesellschaftliche und wirtschaftliche Impulse setzt, deren Chancen und Risiken sorgfältig abgewogen werden müssen.",
+    "word_count": 452,
+    "question": "Welches Thema behandelt die Erforschung des Weltraums?",
+    "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
+    "answer": "b",
+    "additional_questions": [
+      {
+        "question": "Welche Aufgaben erfüllen Satelliten laut Text?",
+        "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
+        "answer": "a"
+      },
+      {
+        "question": "Welche Bedingungen stellen große Herausforderungen dar?",
+        "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
+        "answer": "c"
+      },
+      {
+        "question": "Welche Rolle spielt internationale Zusammenarbeit?",
+        "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
+        "answer": "b"
+      },
+      {
+        "question": "Welche Technologien unterstützen Missionen im Weltraum?",
+        "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
+        "answer": "c"
+      },
+      {
+        "question": "Welche wissenschaftlichen Bereiche profitieren von Raumfahrt?",
+        "options": { "a": "Buch 1", "b": "Buch 2", "c": "Buch 3" },
+        "answer": "a"
+      }
+    ]
   }
+  
+  
+  
 ]
