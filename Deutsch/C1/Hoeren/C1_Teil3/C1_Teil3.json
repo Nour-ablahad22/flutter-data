@@ -20,10 +20,7 @@
     ],
     "audio_url": "https://example.com/audio_new1.mp3"
   }
-]
-#######
-
-[
+,
   {
     "id": 2,
     "title": "Nachhaltige Energieversorgung und erneuerbare Technologien",
@@ -44,10 +41,7 @@
     ],
     "audio_url": "https://example.com/audio_new2.mp3"
   }
-]
-#########
-
-[
+,
   {
     "id": 3,
     "title": "Klimawandel und Anpassungsstrategien in Städten",
@@ -68,11 +62,7 @@
     ],
     "audio_url": "https://example.com/audio_new3.mp3"
   }
-]
-
-####
-
-[
+,
   {
     "id": 4,
     "title": "Künstliche Intelligenz und ethische Herausforderungen",
@@ -93,10 +83,7 @@
     ],
     "audio_url": "https://example.com/audio_new4.mp3"
   }
-]
-#####
-
-[
+,
   {
     "id": 5,
     "title": "Globale Migration und gesellschaftliche Integration",
@@ -117,12 +104,7 @@
     ],
     "audio_url": "https://example.com/audio_new5.mp3"
   }
-]
-
-
-####
-
-[
+,
   {
     "id": 6,
     "title": "Digitalisierung der Bildung und E-Learning",
@@ -143,10 +125,7 @@
     ],
     "audio_url": "https://example.com/audio_new6.mp3"
   }
-]
-###
-
-[
+,
   {
     "id": 7,
     "title": "Nachhaltige Stadtentwicklung und urbane Mobilität",
@@ -167,10 +146,7 @@
     ],
     "audio_url": "https://example.com/audio_new7.mp3"
   }
-]
-###
-
-[
+,
   {
     "id": 8,
     "title": "Kulturelle Globalisierung und Identität",
@@ -191,10 +167,7 @@
     ],
     "audio_url": "https://example.com/audio_new8.mp3"
   }
-]
-###
-
-[
+,
   {
     "id": 9,
     "title": "Gesundheitsversorgung im demografischen Wandel",
@@ -215,10 +188,7 @@
     ],
     "audio_url": "https://example.com/audio_new9.mp3"
   }
-]
-###
-
-[
+,
   {
     "id": 10,
     "title": "Künstliche Intelligenz in der Kreativwirtschaft",
@@ -239,10 +209,7 @@
     ],
     "audio_url": "https://example.com/audio_new10.mp3"
   }
-]
-####
-
-[
+,
   {
     "id": 11,
     "title": "Klimawandel und gesellschaftliche Anpassung",
@@ -263,12 +230,7 @@
     ],
     "audio_url": "https://example.com/audio_new11.mp3"
   }
-]
-
-
-####
-
-[
+,
   {
     "id": 12,
     "title": "Digitale Transformation in Unternehmen",
@@ -289,9 +251,7 @@
     ],
     "audio_url": "https://example.com/audio_new12.mp3"
   }
-]
-###
-[
+,
   {
     "id": 13,
     "title": "Urbanisierung und nachhaltige Stadtentwicklung",
@@ -312,11 +272,7 @@
     ],
     "audio_url": "https://example.com/audio_new13.mp3"
   }
-]
-
-##########
-
-[
+,
   {
     "id": 14,
     "title": "Arbeitswelt im Wandel durch Automatisierung",
@@ -337,12 +293,7 @@
     ],
     "audio_url": "https://example.com/audio_new14.mp3"
   }
-]
-
-
-##
-
-[
+,
   {
     "id": 15,
     "title": "Nachhaltige Ernährung und Konsumverhalten",
