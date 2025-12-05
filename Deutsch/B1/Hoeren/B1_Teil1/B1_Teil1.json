@@ -1,13 +1,18 @@
-
 [
   {
     "id": 1,
     "title": "Praxis Dr. Becker",
     "text": "Hallo Frau Stein, hier ist die Praxis Dr. Becker. Es geht um Ihre Grippe-Impfung. Frau Dr. Becker muss zu einer Operation. Könnten Sie vielleicht auch am Freitag um 14 Uhr kommen? Das ist dann noch in diesem Quartal. Sie müssten also die zehn Euro Praxisgebühr nicht zahlen. Geben Sie mir bitte heute noch Bescheid, ob Sie Zeit haben? Ach, und noch etwas. Ihre Chipkarte ist bei uns, Sie haben sie letztes Mal bei uns vergessen. Danke und auf Wiederhören.",
     "text_no_newline": "Hallo Frau Stein, hier ist die Praxis Dr. Becker. Es geht um Ihre Grippe-Impfung. Frau Dr. Becker muss zu einer Operation. Könnten Sie vielleicht auch am Freitag um 14 Uhr kommen? Das ist dann noch in diesem Quartal. Sie müssten also die zehn Euro Praxisgebühr nicht zahlen. Geben Sie mir bitte heute noch Bescheid, ob Sie Zeit haben? Ach, und noch etwas. Ihre Chipkarte ist bei uns, Sie haben sie letztes Mal bei uns vergessen. Danke und auf Wiederhören.",
+    "word_count": 79,
     "question": "Was soll Frau Stein tun?",
-    "options": { "a": "Die Chipkarte mitbringen", "b": "Zehn Euro bezahlen", "c": "Zurückrufen" },
+    "options": {
+      "a": "Die Chipkarte mitbringen",
+      "b": "Zehn Euro bezahlen",
+      "c": "Zurückrufen"
+    },
     "answer": "a,c",
+    "additional_questions": [],
     "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil1/1.mp3"
   },
   {
@@ -15,9 +20,15 @@
     "title": "HGB-Versicherung",
     "text": "Hallo Frau Brahms, Ulf Thomas hier von der HGB-Versicherung. Sie haben sich bei uns als Verkaufsleiterin beworben, doch leider fehlen in Ihren Unterlagen zwei Zeugnisse, die für die Bewerbung sehr wichtig sind. Es geht um die Zertifikate für die besuchten Computer- und Englischkurse. Die haben Sie zumindest so in Ihrem Lebenslauf genannt. Ähm, ich bitte Sie, diese Unterlagen so schnell wie möglich an uns zu schicken oder mich bei Rückfragen anzurufen. Vielen Dank!",
     "text_no_newline": "Hallo Frau Brahms, Ulf Thomas hier von der HGB-Versicherung. Sie haben sich bei uns als Verkaufsleiterin beworben, doch leider fehlen in Ihren Unterlagen zwei Zeugnisse, die für die Bewerbung sehr wichtig sind. Es geht um die Zertifikate für die besuchten Computer- und Englischkurse. Die haben Sie zumindest so in Ihrem Lebenslauf genannt. Ähm, ich bitte Sie, diese Unterlagen so schnell wie möglich an uns zu schicken oder mich bei Rückfragen anzurufen. Vielen Dank!",
+    "word_count": 73,
     "question": "Was möchte Herr Thomas?",
-    "options": { "a": "Frau Brahms soll einen neuen Vertrag abschließen", "b": "Frau Brahms soll Zeugnisse schicken", "c": "Herr Thomas ruft später zurück" },
+    "options": {
+      "a": "Frau Brahms soll einen neuen Vertrag abschließen",
+      "b": "Frau Brahms soll Zeugnisse schicken",
+      "c": "Herr Thomas ruft später zurück"
+    },
     "answer": "b",
+    "additional_questions": [],
     "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil1/2.mp3"
   },
   {
@@ -25,26 +36,47 @@
     "title": "Verkehrsinformation A8",
     "text": "Achtung Autofahrer. Auf der Autobahn A8 Stuttgart Richtung München zwischen Eschenried und Ausfahrt Dachau hat sich ein Unfall ereignet. Momentan ist der rechte Fahrstreifen blockiert. 12 Kilometer Stau. Im Stadtgebiet München kommt es aufgrund des starken Berufsverkehrs zu Behinderungen. Stau auch am Richard-Strauss-Tunnel wegen einer Baustelle. Bitte umfahren Sie dieses Gebiet weiträumig. Radio Liberty – alle 15 Minuten für ganz Süddeutschland.",
     "text_no_newline": "Achtung Autofahrer. Auf der Autobahn A8 Stuttgart Richtung München zwischen Eschenried und Ausfahrt Dachau hat sich ein Unfall ereignet. Momentan ist der rechte Fahrstreifen blockiert. 12 Kilometer Stau. Im Stadtgebiet München kommt es aufgrund des starken Berufsverkehrs zu Behinderungen. Stau auch am Richard-Strauss-Tunnel wegen einer Baustelle. Bitte umfahren Sie dieses Gebiet weiträumig. Radio Liberty – alle 15 Minuten für ganz Süddeutschland.",
+    "word_count": 61,
     "question": "Warum gibt es Stau auf der A8?",
-    "options": { "a": "wegen einer Baustelle", "b": "wegen des Berufsverkehrs", "c": "wegen eines Unfalls" },
+    "options": {
+      "a": "wegen einer Baustelle",
+      "b": "wegen des Berufsverkehrs",
+      "c": "wegen eines Unfalls"
+    },
     "answer": "c",
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil1/3.mp3"  },
+    "additional_questions": [],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil1/3.mp3"
+  },
   {
     "id": 4,
     "title": "Hauptbahnhof Durchsage",
     "text": "Gleis 13, Einfahrt des Interregios 114 nach Bern, Zofingen, Sursee, Luzern, Abfahrt um 08 Uhr 34, erste Klasse Sektoren A und B, zweite Klasse Sektoren B, C und D, Speisewagen im Sektor B. Eine wichtige Information für die Passagiere nach Genf. Der Intercity um 08.45 fällt wegen einer Weichenstörung aus. Die nächstmögliche Verbindung nach Genf ist über Lausanne um 09.45 von Gleis 11. Wir danken Ihnen für Ihr Verständnis.",
     "text_no_newline": "Gleis 13, Einfahrt des Interregios 114 nach Bern, Zofingen, Sursee, Luzern, Abfahrt um 08 Uhr 34, erste Klasse Sektoren A und B, zweite Klasse Sektoren B, C und D, Speisewagen im Sektor B. Eine wichtige Information für die Passagiere nach Genf. Der Intercity um 08.45 fällt wegen einer Weichenstörung aus. Die nächstmögliche Verbindung nach Genf ist über Lausanne um 09.45 von Gleis 11. Wir danken Ihnen für Ihr Verständnis.",
+    "word_count": 69,
     "question": "Welcher Zug fällt aus?",
-    "options": { "a": "Bern", "b": "Genf", "c": "Lausanne" },
+    "options": {
+      "a": "Bern",
+      "b": "Genf",
+      "c": "Lausanne"
+    },
     "answer": "b",
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil1/4.mp3"  },
+    "additional_questions": [],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil1/4.mp3"
+  },
   {
     "id": 5,
     "title": "Wetterbericht",
     "text": "Und hier noch die aktuellen Wetteraussichten: In der Nacht zum Freitag ist es im Westen und Nordwesten Deutschlands gering bewölkt und meist trocken. Sonst ziehen bei zunehmender Bewölkung von Süddeutschland her mitunter kräftige Regengüsse und Gewitter von Thüringen bis an die Elbe im Osten. Dort kann es lokal sogar zu schweren Unwettern kommen und die Temperaturen sinken auf 17 bis 12 Grad. Achtung: Sturmböen in Gewittergebieten im Osten des Landes, sonst überall schwacher Wind aus unterschiedlichen Richtungen.",
     "text_no_newline": "Und hier noch die aktuellen Wetteraussichten: In der Nacht zum Freitag ist es im Westen und Nordwesten Deutschlands gering bewölkt und meist trocken. Sonst ziehen bei zunehmender Bewölkung von Süddeutschland her mitunter kräftige Regengüsse und Gewitter von Thüringen bis an die Elbe im Osten. Dort kann es lokal sogar zu schweren Unwettern kommen und die Temperaturen sinken auf 17 bis 12 Grad. Achtung: Sturmböen in Gewittergebieten im Osten des Landes, sonst überall schwacher Wind aus unterschiedlichen Richtungen.",
+    "word_count": 77,
     "question": "Wo wird schlechtes Wetter erwartet?",
-    "options": { "a": "Gewitter an der Elbe", "b": "Temperaturen unter 10 Grad", "c": "starke Regenfälle im Westen" },
+    "options": {
+      "a": "Gewitter an der Elbe",
+      "b": "Temperaturen unter 10 Grad",
+      "c": "starke Regenfälle im Westen"
+    },
     "answer": "a",
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil1/5.mp3"  }
+    "additional_questions": [],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil1/5.mp3"
+  }
 ]
