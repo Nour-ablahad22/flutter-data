@@ -18,7 +18,7 @@
       { "question": "Welche internationale Auswirkung hat Digitalisierung?", "options": { "a": "Vernetzung und Outsourcing verändern lokale Arbeitslandschaften", "b": "Nur lokale Effekte", "c": "Keine Auswirkung" }, "answer": "a" },
       { "question": "Welche Qualitäten sind für die Zukunft entscheidend?", "options": { "a": "Lebenslanges Lernen, Flexibilität, interdisziplinäre Kompetenzen", "b": "Nur Ausbildung", "c": "Nur Erfahrung" }, "answer": "a" }
     ],
-    "audio_url": "https://example.com/audio_new1.mp3"
+    "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil3/1.mp3"
   }
 ,
   {
@@ -39,7 +39,7 @@
       { "question": "Welche globalen Faktoren beeinflussen Energieversorgung?", "options": { "a": "Klimawandel, Energiepreise, geopolitische Konflikte", "b": "Nur Stromnetze", "c": "Keine Faktoren" }, "answer": "a" },
       { "question": "Welche Akteure müssen zusammenarbeiten, um nachhaltige Energie zu sichern?", "options": { "a": "Politik, Wirtschaft, Wissenschaft, Gesellschaft", "b": "Nur Politik", "c": "Nur Unternehmen" }, "answer": "a" }
     ],
-    "audio_url": "https://example.com/audio_new2.mp3"
+    "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil3/2.mp3"
   }
 ,
   {
@@ -60,7 +60,7 @@
       { "question": "Welche Rolle spielt Bildung bei Klimaanpassung?", "options": { "a": "Sensibilisierung und Förderung von Eigeninitiative", "b": "Keine Rolle", "c": "Nur Schulpflicht" }, "answer": "a" },
       { "question": "Was erfordert eine ganzheitliche Anpassungsstrategie?", "options": { "a": "Integration ökologischer, sozialer und ökonomischer Aspekte", "b": "Nur technische Maßnahmen", "c": "Nur politische Maßnahmen" }, "answer": "a" }
     ],
-    "audio_url": "https://example.com/audio_new3.mp3"
+    "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil3/3.mp3"
   }
 ,
   {
@@ -81,7 +81,7 @@
       { "question": "Welche Chancen entstehen durch KI?", "options": { "a": "Neue Geschäftsmodelle, datengetriebene Dienstleistungen", "b": "Nur Kostensteigerung", "c": "Keine Chancen" }, "answer": "a" },
       { "question": "Wovon hängt der langfristige gesellschaftliche Nutzen von KI ab?", "options": { "a": "Integration ethischer, rechtlicher und sozialer Aspekte", "b": "Nur von Technologie", "c": "Keine Bedeutung" }, "answer": "a" }
     ],
-    "audio_url": "https://example.com/audio_new4.mp3"
+    "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil3/4.mp3"
   }
 ,
   {
@@ -102,7 +102,7 @@
       { "question": "Wie profitieren Herkunftsländer langfristig?", "options": { "a": "Rücküberweisungen, Wissenstransfer, Diaspora-Netzwerke", "b": "Nur Kultur", "c": "Keine Vorteile" }, "answer": "a" },
       { "question": "Welche Faktoren fördern gesellschaftliche Akzeptanz?", "options": { "a": "Offenheit, politische Weitsicht, interkulturelle Kompetenz", "b": "Nur Gesetze", "c": "Keine Faktoren" }, "answer": "a" }
     ],
-    "audio_url": "https://example.com/audio_new5.mp3"
+    "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil3/5.mp3"
   }
 ,
   {
@@ -123,7 +123,7 @@
       { "question": "Welche Maßnahmen muss Bildungspolitik ergreifen?", "options": { "a": "Digitale Infrastruktur, Lehrerausbildung, Finanzierung bereitstellen", "b": "Nur Schulgebäude renovieren", "c": "Keine Maßnahmen" }, "answer": "a" },
       { "question": "Welches Ziel verfolgt digitale Bildung langfristig?", "options": { "a": "Bildungsungleichheiten verringern und Innovation fördern", "b": "Nur Technologieeinführung", "c": "Keine Wirkung" }, "answer": "a" }
     ],
-    "audio_url": "https://example.com/audio_new6.mp3"
+    "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil3/6.mp3"
   }
 ,
   {
@@ -144,7 +144,7 @@
       { "question": "Welche Chancen eröffnet nachhaltige Stadtentwicklung?", "options": { "a": "Attraktivität, Sicherheit, Gesundheit der Städte", "b": "Nur Wachstum", "c": "Keine Chancen" }, "answer": "a" },
       { "question": "Wer muss zusammenarbeiten, um Städte zukunftsfähig zu gestalten?", "options": { "a": "Politik, Stadtplanung, Wirtschaft, Bürger", "b": "Nur Stadtplanung", "c": "Nur Bürger" }, "answer": "a" }
     ],
-    "audio_url": "https://example.com/audio_new7.mp3"
+    "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil3/7.mp3"
   }
 ,
   {
@@ -165,7 +165,7 @@
       { "question": "Wie verändert Globalisierung Konsumgewohnheiten?", "options": { "a": "Durch digitale Plattformen, Mode, Musik, Filme, Literatur", "b": "Nur durch Werbung", "c": "Keine Veränderung" }, "answer": "a" },
       { "question": "Was erfordert kulturelle Globalisierung langfristig?", "options": { "a": "Balance zwischen Offenheit und Bewahrung der Identität", "b": "Nur Anpassung an Dominanzkulturen", "c": "Keine Maßnahmen" }, "answer": "a" }
     ],
-    "audio_url": "https://example.com/audio_new8.mp3"
+    "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil3/8.mp3"
   }
 ,
   {
@@ -186,7 +186,7 @@
       { "question": "Welche Innovationen können Versorgung verbessern?", "options": { "a": "Robotik, KI-gestützte Diagnostik, digitale Pflegeplanung", "b": "Nur Medikamente", "c": "Keine Innovationen" }, "answer": "a" },
       { "question": "Welche Strategie wird für langfristige Versorgung empfohlen?", "options": { "a": "Prävention, Technologie, Fachkräfteförderung, finanzielle Nachhaltigkeit", "b": "Nur Kosten senken", "c": "Keine Strategie" }, "answer": "a" }
     ],
-    "audio_url": "https://example.com/audio_new9.mp3"
+    "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil3/9.mp3"
   }
 ,
   {
@@ -207,7 +207,7 @@
       { "question": "Wie kann KI kreative Prozesse interdisziplinär unterstützen?", "options": { "a": "Datenanalyse, Simulationen, Visualisierung", "b": "Nur Textgenerierung", "c": "Keine Unterstützung" }, "answer": "a" },
       { "question": "Welche Risiken bestehen bei der Nutzung von KI?", "options": { "a": "Monopolisierung, Standardisierung, Abhängigkeit", "b": "Nur Kosten", "c": "Keine Risiken" }, "answer": "a" }
     ],
-    "audio_url": "https://example.com/audio_new10.mp3"
+    "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil3/10.mp3"
   }
 ,
   {
@@ -228,7 +228,7 @@
       { "question": "Welche Chancen eröffnet gesellschaftliche Anpassung?", "options": { "a": "Grüne Arbeitsplätze und nachhaltige Technologien", "b": "Nur Kosten", "c": "Keine Chancen" }, "answer": "a" },
       { "question": "Warum ist eine koordinierte Anpassung wichtig?", "options": { "a": "Um Schäden zu mindern und Lebensqualität zu sichern", "b": "Nur politische Vorteile", "c": "Keine Relevanz" }, "answer": "a" }
     ],
-    "audio_url": "https://example.com/audio_new11.mp3"
+    "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil3/11.mp3"
   }
 ,
   {
@@ -249,7 +249,7 @@
       { "question": "Welche Vorteile bringt erfolgreiche digitale Transformation langfristig?", "options": { "a": "Effizienzsteigerung, neue Einnahmequellen, Innovationskraft, Wettbewerbsposition", "b": "Nur Gewinnsteigerung", "c": "Keine Vorteile" }, "answer": "a" },
       { "question": "Warum erfordert digitale Transformation eine integrative Strategie?", "options": { "a": "Weil Technologie, Personal, Prozesse und ethische Verantwortung kombiniert werden müssen", "b": "Nur Technologie", "c": "Keine Strategie nötig" }, "answer": "a" }
     ],
-    "audio_url": "https://example.com/audio_new12.mp3"
+    "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil3/12.mp3"
   }
 ,
   {
@@ -270,7 +270,7 @@
       { "question": "Welche Probleme bestehen trotz nachhaltiger Planung?", "options": { "a": "Gentrifizierung, steigende Mietpreise, soziale Segregation", "b": "Nur Umweltprobleme", "c": "Keine Probleme" }, "answer": "a" },
       { "question": "Welche Faktoren sind für nachhaltige Stadtentwicklung entscheidend?", "options": { "a": "Ökologische, soziale, technologische und wirtschaftliche Aspekte, langfristige Planung, Kooperation und Bürgerengagement", "b": "Nur ökologisch", "c": "Keine Faktoren" }, "answer": "a" }
     ],
-    "audio_url": "https://example.com/audio_new13.mp3"
+    "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil3/13.mp3"
   }
 ,
   {
@@ -291,7 +291,7 @@
       { "question": "Welche Verantwortung haben Unternehmen?", "options": { "a": "Faire Arbeitsbedingungen, Umschulungen, Innovationskultur", "b": "Nur Gewinnmaximierung", "c": "Keine Verantwortung" }, "answer": "a" },
       { "question": "Welche Kombination ist notwendig für erfolgreiche Automatisierung?", "options": { "a": "Technologischer Fortschritt, menschliche Kompetenz, gesellschaftliche Verantwortung", "b": "Nur Technologie", "c": "Keine Kombination" }, "answer": "a" }
     ],
-    "audio_url": "https://example.com/audio_new14.mp3"
+    "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil3/14.mp3"
   }
 ,
   {
@@ -312,7 +312,7 @@
       { "question": "Welche Rolle spielen Medien und soziale Netzwerke?", "options": { "a": "Sensibilisierung und Inspiration der Konsumenten", "b": "Nur Unterhaltung", "c": "Keine Rolle" }, "answer": "a" },
       { "question": "Welche Herausforderungen bestehen für Konsumenten?", "options": { "a": "Verfügbarkeit, Preis, kulturelle Gewohnheiten, individuelle Vorlieben", "b": "Nur Preis", "c": "Keine Herausforderungen" }, "answer": "a" }
     ],
-    "audio_url": "https://example.com/audio_new15.mp3"
+    "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil3/15.mp3"
   }
 ]
 
