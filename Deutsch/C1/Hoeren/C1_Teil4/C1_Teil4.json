@@ -18,7 +18,7 @@
     { "question": "Was ist laut Text für erfolgreiche Bildungspolitik notwendig?", "options": { "a": "Zusammenarbeit von Politik, Wirtschaft und Gesellschaft", "b": "Privatisierung der Schulen", "c": "Kürzungen im Bildungsbudget" }, "answer": "a" },
     { "question": "Was beschreibt Bildung in einer modernen Gesellschaft?", "options": { "a": "Schlüssel zu Erfolg und Teilhabe", "b": "Mittel zur Kontrolle", "c": "Zugang zu Freizeit" }, "answer": "a" }
   ],
-  "audio_url": "https://example.com/audio/c1_10.mp3"
+  "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil4/10.mp3"
 },
   {
   "id": 11,
