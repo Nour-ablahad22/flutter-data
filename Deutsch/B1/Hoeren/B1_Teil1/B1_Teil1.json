@@ -2,9 +2,9 @@
   {
     "id": 1,
     "title": "Praxis Dr. Becker",
-    "text": "Hallo Frau Stein, hier ist die Praxis Dr. Becker. Es geht um Ihre Grippe-Impfung. Frau Dr. Becker muss zu einer Operation. Könnten Sie vielleicht auch am Freitag um 14 Uhr kommen? Das ist dann noch in diesem Quartal. Sie müssten also die zehn Euro Praxisgebühr nicht zahlen. Geben Sie mir bitte heute noch Bescheid, ob Sie Zeit haben? Ach, und noch etwas. Ihre Chipkarte ist bei uns, Sie haben sie letztes Mal bei uns vergessen. Danke und auf Wiederhören.",
+    "text": "Hallo Frau Stein, hier ist die Praxis Dr.\nBecker.\nEs geht um Ihre Grippe-Impfung.\nFrau Dr.\nBecker muss zu einer Operation.\nKönnten Sie vielleicht auch am Freitag um 14 Uhr kommen? Das ist dann noch in diesem Quartal.\nSie müssten also die zehn Euro Praxisgebühr nicht zahlen.\nGeben Sie mir bitte heute noch Bescheid, ob Sie Zeit haben? Ach, und noch etwas.\nIhre Chipkarte ist bei uns, Sie haben sie letztes Mal bei uns vergessen.\nDanke und auf Wiederhören.",
     "text_no_newline": "Hallo Frau Stein, hier ist die Praxis Dr. Becker. Es geht um Ihre Grippe-Impfung. Frau Dr. Becker muss zu einer Operation. Könnten Sie vielleicht auch am Freitag um 14 Uhr kommen? Das ist dann noch in diesem Quartal. Sie müssten also die zehn Euro Praxisgebühr nicht zahlen. Geben Sie mir bitte heute noch Bescheid, ob Sie Zeit haben? Ach, und noch etwas. Ihre Chipkarte ist bei uns, Sie haben sie letztes Mal bei uns vergessen. Danke und auf Wiederhören.",
-    "word_count": 79,
+    "word_count": 80,
     "question": "Was soll Frau Stein tun?",
     "options": {
       "a": "Die Chipkarte mitbringen",
@@ -18,9 +18,9 @@
   {
     "id": 2,
     "title": "HGB-Versicherung",
-    "text": "Hallo Frau Brahms, Ulf Thomas hier von der HGB-Versicherung. Sie haben sich bei uns als Verkaufsleiterin beworben, doch leider fehlen in Ihren Unterlagen zwei Zeugnisse, die für die Bewerbung sehr wichtig sind. Es geht um die Zertifikate für die besuchten Computer- und Englischkurse. Die haben Sie zumindest so in Ihrem Lebenslauf genannt. Ähm, ich bitte Sie, diese Unterlagen so schnell wie möglich an uns zu schicken oder mich bei Rückfragen anzurufen. Vielen Dank!",
+    "text": "Hallo Frau Brahms, Ulf Thomas hier von der HGB-Versicherung.\nSie haben sich bei uns als Verkaufsleiterin beworben, doch leider fehlen in Ihren Unterlagen zwei Zeugnisse, die für die Bewerbung sehr wichtig sind.\nEs geht um die Zertifikate für die besuchten Computer- und Englischkurse.\nDie haben Sie zumindest so in Ihrem Lebenslauf genannt.\nÄhm, ich bitte Sie, diese Unterlagen so schnell wie möglich an uns zu schicken oder mich bei Rückfragen anzurufen.\nVielen Dank!",
     "text_no_newline": "Hallo Frau Brahms, Ulf Thomas hier von der HGB-Versicherung. Sie haben sich bei uns als Verkaufsleiterin beworben, doch leider fehlen in Ihren Unterlagen zwei Zeugnisse, die für die Bewerbung sehr wichtig sind. Es geht um die Zertifikate für die besuchten Computer- und Englischkurse. Die haben Sie zumindest so in Ihrem Lebenslauf genannt. Ähm, ich bitte Sie, diese Unterlagen so schnell wie möglich an uns zu schicken oder mich bei Rückfragen anzurufen. Vielen Dank!",
-    "word_count": 73,
+    "word_count": 74,
     "question": "Was möchte Herr Thomas?",
     "options": {
       "a": "Frau Brahms soll einen neuen Vertrag abschließen",
@@ -34,9 +34,9 @@
   {
     "id": 3,
     "title": "Verkehrsinformation A8",
-    "text": "Achtung Autofahrer. Auf der Autobahn A8 Stuttgart Richtung München zwischen Eschenried und Ausfahrt Dachau hat sich ein Unfall ereignet. Momentan ist der rechte Fahrstreifen blockiert. 12 Kilometer Stau. Im Stadtgebiet München kommt es aufgrund des starken Berufsverkehrs zu Behinderungen. Stau auch am Richard-Strauss-Tunnel wegen einer Baustelle. Bitte umfahren Sie dieses Gebiet weiträumig. Radio Liberty – alle 15 Minuten für ganz Süddeutschland.",
+    "text": "Achtung Autofahrer.\nAuf der Autobahn A8 Stuttgart Richtung München zwischen Eschenried und Ausfahrt Dachau hat sich ein Unfall ereignet.\nMomentan ist der rechte Fahrstreifen blockiert.\n12 Kilometer Stau.\nIm Stadtgebiet München kommt es aufgrund des starken Berufsverkehrs zu Behinderungen.\nStau auch am Richard-Strauss-Tunnel wegen einer Baustelle.\nBitte umfahren Sie dieses Gebiet weiträumig.\nRadio Liberty – alle 15 Minuten für ganz Süddeutschland.",
     "text_no_newline": "Achtung Autofahrer. Auf der Autobahn A8 Stuttgart Richtung München zwischen Eschenried und Ausfahrt Dachau hat sich ein Unfall ereignet. Momentan ist der rechte Fahrstreifen blockiert. 12 Kilometer Stau. Im Stadtgebiet München kommt es aufgrund des starken Berufsverkehrs zu Behinderungen. Stau auch am Richard-Strauss-Tunnel wegen einer Baustelle. Bitte umfahren Sie dieses Gebiet weiträumig. Radio Liberty – alle 15 Minuten für ganz Süddeutschland.",
-    "word_count": 61,
+    "word_count": 62,
     "question": "Warum gibt es Stau auf der A8?",
     "options": {
       "a": "wegen einer Baustelle",
@@ -50,9 +50,9 @@
   {
     "id": 4,
     "title": "Hauptbahnhof Durchsage",
-    "text": "Gleis 13, Einfahrt des Interregios 114 nach Bern, Zofingen, Sursee, Luzern, Abfahrt um 08 Uhr 34, erste Klasse Sektoren A und B, zweite Klasse Sektoren B, C und D, Speisewagen im Sektor B. Eine wichtige Information für die Passagiere nach Genf. Der Intercity um 08.45 fällt wegen einer Weichenstörung aus. Die nächstmögliche Verbindung nach Genf ist über Lausanne um 09.45 von Gleis 11. Wir danken Ihnen für Ihr Verständnis.",
+    "text": "Gleis 13, Einfahrt des Interregios 114 nach Bern, Zofingen, Sursee, Luzern, Abfahrt um 08 Uhr 34, erste Klasse Sektoren A und B, zweite Klasse Sektoren B, C und D, Speisewagen im Sektor B.\nEine wichtige Information für die Passagiere nach Genf.\nDer Intercity um 08.45 fällt wegen einer Weichenstörung aus.\nDie nächstmögliche Verbindung nach Genf ist über Lausanne um 09.45 von Gleis 11.\nWir danken Ihnen für Ihr Verständnis.",
     "text_no_newline": "Gleis 13, Einfahrt des Interregios 114 nach Bern, Zofingen, Sursee, Luzern, Abfahrt um 08 Uhr 34, erste Klasse Sektoren A und B, zweite Klasse Sektoren B, C und D, Speisewagen im Sektor B. Eine wichtige Information für die Passagiere nach Genf. Der Intercity um 08.45 fällt wegen einer Weichenstörung aus. Die nächstmögliche Verbindung nach Genf ist über Lausanne um 09.45 von Gleis 11. Wir danken Ihnen für Ihr Verständnis.",
-    "word_count": 69,
+    "word_count": 71,
     "question": "Welcher Zug fällt aus?",
     "options": {
       "a": "Bern",
@@ -66,7 +66,7 @@
   {
     "id": 5,
     "title": "Wetterbericht",
-    "text": "Und hier noch die aktuellen Wetteraussichten: In der Nacht zum Freitag ist es im Westen und Nordwesten Deutschlands gering bewölkt und meist trocken. Sonst ziehen bei zunehmender Bewölkung von Süddeutschland her mitunter kräftige Regengüsse und Gewitter von Thüringen bis an die Elbe im Osten. Dort kann es lokal sogar zu schweren Unwettern kommen und die Temperaturen sinken auf 17 bis 12 Grad. Achtung: Sturmböen in Gewittergebieten im Osten des Landes, sonst überall schwacher Wind aus unterschiedlichen Richtungen.",
+    "text": "Und hier noch die aktuellen Wetteraussichten: In der Nacht zum Freitag ist es im Westen und Nordwesten Deutschlands gering bewölkt und meist trocken.\nSonst ziehen bei zunehmender Bewölkung von Süddeutschland her mitunter kräftige Regengüsse und Gewitter von Thüringen bis an die Elbe im Osten.\nDort kann es lokal sogar zu schweren Unwettern kommen und die Temperaturen sinken auf 17 bis 12 Grad.\nAchtung: Sturmböen in Gewittergebieten im Osten des Landes, sonst überall schwacher Wind aus unterschiedlichen Richtungen.",
     "text_no_newline": "Und hier noch die aktuellen Wetteraussichten: In der Nacht zum Freitag ist es im Westen und Nordwesten Deutschlands gering bewölkt und meist trocken. Sonst ziehen bei zunehmender Bewölkung von Süddeutschland her mitunter kräftige Regengüsse und Gewitter von Thüringen bis an die Elbe im Osten. Dort kann es lokal sogar zu schweren Unwettern kommen und die Temperaturen sinken auf 17 bis 12 Grad. Achtung: Sturmböen in Gewittergebieten im Osten des Landes, sonst überall schwacher Wind aus unterschiedlichen Richtungen.",
     "word_count": 77,
     "question": "Wo wird schlechtes Wetter erwartet?",
