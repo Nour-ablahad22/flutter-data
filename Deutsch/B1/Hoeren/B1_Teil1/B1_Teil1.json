@@ -1,20 +1,5 @@
 [
-  {
-    "id": 1,
-    "title": "Praxis Dr. Becker",
-    "text": "Hallo Frau Stein, hier ist die Praxis Dr.\nBecker.\nEs geht um Ihre Grippe-Impfung.\nFrau Dr.\nBecker muss zu einer Operation.\nKönnten Sie vielleicht auch am Freitag um 14 Uhr kommen? Das ist dann noch in diesem Quartal.\nSie müssten also die zehn Euro Praxisgebühr nicht zahlen.\nGeben Sie mir bitte heute noch Bescheid, ob Sie Zeit haben? Ach, und noch etwas.\nIhre Chipkarte ist bei uns, Sie haben sie letztes Mal bei uns vergessen.\nDanke und auf Wiederhören.",
-    "text_no_newline": "Hallo Frau Stein, hier ist die Praxis Dr. Becker. Es geht um Ihre Grippe-Impfung. Frau Dr. Becker muss zu einer Operation. Könnten Sie vielleicht auch am Freitag um 14 Uhr kommen? Das ist dann noch in diesem Quartal. Sie müssten also die zehn Euro Praxisgebühr nicht zahlen. Geben Sie mir bitte heute noch Bescheid, ob Sie Zeit haben? Ach, und noch etwas. Ihre Chipkarte ist bei uns, Sie haben sie letztes Mal bei uns vergessen. Danke und auf Wiederhören.",
-    "word_count": 80,
-    "question": "Was soll Frau Stein tun?",
-    "options": {
-      "a": "Die Chipkarte mitbringen",
-      "b": "Zehn Euro bezahlen",
-      "c": "Zurückrufen"
-    },
-    "answer": "a,c",
-    "additional_questions": [],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil1/1.mp3"
-  },
+
   {
     "id": 2,
     "title": "HGB-Versicherung",
