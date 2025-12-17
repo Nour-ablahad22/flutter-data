@@ -1,0 +1,61 @@
+[
+  {
+    "id": 16,
+    "titel": "Privatheit in Zeiten des Internets",
+    "beschreibung": "Sie lesen in einer Fachzeitschrift Beiträge von Wissenschaftlerinnen und Wissenschaftlern. Wählen Sie bei jeder Aussage: Wer äußert das? Zwei Aussagen passen nicht. Markieren Sie in diesem Fall 0.",
+    "autoren": {
+      "A": "Hella Brückner, Professorin für Wirtschaftspsychologie",
+      "B": "Benedikt Janssen, Direktor des Instituts für Wirtschaftsinformatik",
+      "C": "Leopold Nowak, Professor für Öffentliches Recht"
+    },
+    "texte": {
+      "A": "Wer ist denn nicht froh, dass es das Internet gibt? ... Doch nur der bewusste Umgang damit vermag den Transfer persönlicher Daten in Grenzen zu halten.",
+      "B": "Das Internet hat nicht nur Vorteile ... Meiner Ansicht nach sollten die Konsumentinnen und Konsumenten darüber aufgeklärt werden, welchen Zwecken sie ungewollt durch die Teilnahme beispielsweise an Rabattprogrammen dienen.",
+      "C": "Die Lebenswirklichkeit vieler Menschen verlagert sich mehr und mehr in die digitale Welt ... Und endlich ein wichtiger Schritt in die richtige Richtung."
+    },
+    "aussagen": [
+      {
+        "nummer": 24,
+        "aussage": "Angriffe auf sensible Daten verursachen zunehmend finanzielle Verluste.",
+        "optionen": ["A", "B", "C", "0"],
+        "antwort": "C"
+      },
+      {
+        "nummer": 25,
+        "aussage": "Reflektiertes Nutzerverhalten kann dazu beitragen, die Verbreitung von Daten einzuschränken.",
+        "optionen": ["A", "B", "C", "0"],
+        "antwort": "A"
+      },
+      {
+        "nummer": 26,
+        "aussage": "Unternehmen, die nicht ausreichend für Datenschutz sorgen, werden Kundinnen und Kunden verlieren.",
+        "optionen": ["A", "B", "C", "0"],
+        "antwort": "0"
+      },
+      {
+        "nummer": 27,
+        "aussage": "Dank immenser Datenmengen können Unternehmen individuelle Kundenangebote erstellen.",
+        "optionen": ["A", "B", "C", "0"],
+        "antwort": "B"
+      },
+      {
+        "nummer": 28,
+        "aussage": "Inhaber von Internetseiten wollen effizient zum Schutz der Bürgerinnen und Bürger beitragen.",
+        "optionen": ["A", "B", "C", "0"],
+        "antwort": "0"
+      },
+      {
+        "nummer": 29,
+        "aussage": "Trotz gegenteiliger Äußerungen gehen Nutzerinnen und Nutzer sorglos mit persönlichen Angaben um.",
+        "optionen": ["A", "B", "C", "0"],
+        "antwort": "B"
+      },
+      {
+        "nummer": 30,
+        "aussage": "Kostenlose Dienstleistungen zielen auf die Gewinnung persönlicher Daten.",
+        "optionen": ["A", "B", "C", "0"],
+        "antwort": "A"
+      }
+    ]
+  }
+]
