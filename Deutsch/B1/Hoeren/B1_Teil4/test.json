@@ -1,1 +1,55 @@
 
+[
+  {
+    "id": 3,
+    "title": "Diskussion am Abend: Kinderkrippe",
+    "text": "Moderator: Liebe Hörerinnen und Hörer, hallo und willkommen bei der „Diskussion am Abend ",
+    "text_no_newline": "Moderator: Liebe Hörerinnen und Hörer, hallo und willkommen bei der „Diskussion am Abend ",
+    "question": "Für kleine Kinder sind die ersten drei Jahre sehr wichtig.",
+    "options": { "Moderator": "Moderator", "Dana Schneider": "Dana Schneider", "Florian Bader": "Florian Bader" },
+    "answer": "Dana Schneider"
+    "additional_questions": [
+      {
+        "question": "Kinder lernen soziales Verhalten erst ab einem bestimmten Alter.",
+        "options": { "Moderator": "Moderator", "Dana Schneider": "Dana Schneider", "Florian Bader": "Florian Bader" },
+        "answer": "Dana Schneider"
+      },
+      {
+        "question": "Für den Erfolg im Beruf ist es wichtig, immer zu arbeiten.",
+        "options": { "Moderator": "Moderator", "Dana Schneider": "Dana Schneider", "Florian Bader": "Florian Bader" },
+        "answer": "Florian Bader"
+      },
+      {
+        "question": "Es ist möglich, Kinder zu haben und auch zu arbeiten.",
+        "options": { "Moderator": "Moderator", "Dana Schneider": "Dana Schneider", "Florian Bader": "Florian Bader" },
+        "answer": "Florian Bader"
+      },
+      {
+        "question": "In der Krippe lernen Kinder andere Dinge als zu Hause.",
+        "options": { "Moderator": "Moderator", "Dana Schneider": "Dana Schneider", "Florian Bader": "Florian Bader" },
+        "answer": "Florian Bader"
+      },
+      {
+        "question": "In Krippen müssen Erzieherinnen viele Kinder gleichzeitig betreuen.",
+        "options": { "Moderator": "Moderator", "Dana Schneider": "Dana Schneider", "Florian Bader": "Florian Bader" },
+        "answer": "Dana Schneider"
+      },
+      {
+        "question": "Kinder sollen lernen, sich auch mal alleine zu beschäftigen.",
+        "options": { "Moderator": "Moderator", "Dana Schneider": "Dana Schneider", "Florian Bader": "Florian Bader" },
+        "answer": "Florian Bader"
+      },
+      {
+        "question": "Manche Kindertagesstätten haben zu wenig Geld.",
+        "options": { "Moderator": "Moderator", "Dana Schneider": "Dana Schneider", "Florian Bader": "Florian Bader" },
+        "answer": "Florian Bader"
+      },
+      {
+        "question": "Auch Familien mit wenig Geld sollen Kinder haben können.",
+        "options": { "Moderator": "Moderator", "Dana Schneider": "Dana Schneider", "Florian Bader": "Florian Bader" },
+        "answer": "Dana Schneider"
+      }
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/3.mp3"
+  }
+]
