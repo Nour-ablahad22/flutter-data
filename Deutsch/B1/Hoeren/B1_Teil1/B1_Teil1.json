@@ -30,7 +30,7 @@
     },
     "answer": "c",
     "additional_questions": [],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil1/3.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil1/3.mp3"
   },
   {
     "id": 4,
@@ -46,7 +46,7 @@
     },
     "answer": "b",
     "additional_questions": [],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil1/4.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil1/4.mp3"
   },
   {
     "id": 5,
@@ -62,6 +62,6 @@
     },
     "answer": "a",
     "additional_questions": [],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil1/5.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil1/5.mp3"
   }
 ]
