@@ -99,4 +99,177 @@
     ],
     "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/7.mp3"
   }
+,
+  {
+    "id": 8,
+    "title": "Urlaub auf dem Land",
+    "text": "Julia: Hallo Peter, du siehst erholt aus! Wo warst du denn?\nPeter: Danke! Ich war eine Woche im Urlaub auf dem Land, bei meinen Großeltern in Bayern.\nJulia: Oh, das klingt schön! Was hast du dort gemacht?\nPeter: Viel gelesen, Spaziergänge gemacht, und ich habe meinem Opa im Garten geholfen. Er hat ein großes Gemüsebeet und züchtet Tomaten, Zucchini und Bohnen.\nJulia: Das klingt nach Arbeit.\nPeter: Ein bisschen, ja. Aber es war auch sehr entspannend. Ich war jeden Morgen früh wach, weil die Hähne gekräht haben.\nJulia: Hähne? Dann lebst du wirklich auf dem Land!\nPeter: Genau. Morgens gab es frische Milch vom Nachbarhof, und meine Oma hat immer selbst gebackenes Brot gemacht. Es roch fantastisch.\nJulia: Und kein Verkehr, keine Autos, keine Stadtluft?\nPeter: Nichts davon! Nur frische Luft und Stille. Abends haben wir oft auf der Terrasse gesessen und Sterne beobachtet.\nJulia: Das klingt wirklich idyllisch. Und kein Internet wahrscheinlich?\nPeter: Richtig, nur ganz schlechtes Netz. Anfangs fand ich das nervig, aber später war es richtig angenehm. Ich konnte endlich mal abschalten.\nJulia: Hast du Freunde dort?\nPeter: Ja, ein paar alte Bekannte aus der Schulzeit. Wir sind zusammen Rad gefahren und haben am See gegrillt. Einer von ihnen arbeitet jetzt als Tierarzt im Dorf.\nJulia: Und das Wetter?\nPeter: Perfekt! Sonnig, aber nicht zu heiß. Nur am letzten Tag hat es kurz geregnet.\nJulia: Und wie war die Rückfahrt?\nPeter: Etwas anstrengend, der Zug hatte Verspätung. Aber insgesamt war es der schönste Urlaub seit Langem.",
+    "text_no_newline": "Julia: Hallo Peter, du siehst erholt aus! Wo warst du denn? Peter: Danke! Ich war eine Woche im Urlaub auf dem Land, bei meinen Großeltern in Bayern. Julia: Oh, das klingt schön! Was hast du dort gemacht? Peter: Viel gelesen, Spaziergänge gemacht, und ich habe meinem Opa im Garten geholfen. Er hat ein großes Gemüsebeet und züchtet Tomaten, Zucchini und Bohnen. Julia: Das klingt nach Arbeit. Peter: Ein bisschen, ja. Aber es war auch sehr entspannend. Ich war jeden Morgen früh wach, weil die Hähne gekräht haben. Julia: Hähne? Dann lebst du wirklich auf dem Land! Peter: Genau. Morgens gab es frische Milch vom Nachbarhof, und meine Oma hat immer selbst gebackenes Brot gemacht. Es roch fantastisch. Julia: Und kein Verkehr, keine Autos, keine Stadtluft? Peter: Nichts davon! Nur frische Luft und Stille. Abends haben wir oft auf der Terrasse gesessen und Sterne beobachtet. Julia: Das klingt wirklich idyllisch. Und kein Internet wahrscheinlich? Peter: Richtig, nur ganz schlechtes Netz. Anfangs fand ich das nervig, aber später war es richtig angenehm. Ich konnte endlich mal abschalten. Julia: Hast du Freunde dort? Peter: Ja, ein paar alte Bekannte aus der Schulzeit. Wir sind zusammen Rad gefahren und haben am See gegrillt. Einer von ihnen arbeitet jetzt als Tierarzt im Dorf. Julia: Und das Wetter? Peter: Perfekt! Sonnig, aber nicht zu heiß. Nur am letzten Tag hat es kurz geregnet. Julia: Und wie war die Rückfahrt? Peter: Etwas anstrengend, der Zug hatte Verspätung. Aber insgesamt war es der schönste Urlaub seit Langem.",
+    "word_count": 622,
+    "question": "Beurteilen Sie die folgenden Aussagen als Richtig oder Falsch:",
+    "options": {"Richtig": "Falsch", "Falsch": "Richtig"},
+    "answer": "Falsch",
+    "additional_questions": [
+      {"question": "Peter hat seine Ferien in der Stadt verbracht.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Seine Großeltern wohnen auf dem Land.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Er hat seinem Opa im Garten geholfen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Peter hatte ständig Internet.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Das Wetter war meistens schön.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Die Rückfahrt war völlig problemlos.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
+    ],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/8.mp3"
+  },
+  {
+    "id": 9,
+    "title": "Ein Tag im Krankenhaus",
+    "text": "Miriam: Hallo Timo, du hast dich so lange nicht gemeldet. Alles okay?\nTimo: Naja, ich war letzte Woche im Krankenhaus.\nMiriam: Oh nein! Was ist passiert?\nTimo: Ich bin beim Fußballspielen gestürzt und habe mir den Arm gebrochen.\nMiriam: Das tut mir leid! Musstest du operiert werden?\nTimo: Zum Glück nicht. Der Arzt hat gesagt, es reicht ein Gips. Ich musste aber drei Tage dort bleiben, weil sie sicher sein wollten, dass alles gut verheilt.\nMiriam: Und wie war es im Krankenhaus?\nTimo: Ganz in Ordnung. Das Essen war besser als erwartet. Ich hatte ein Zweibettzimmer mit einem netten älteren Mann, der viele Witze erzählt hat.\nMiriam: Wenigstens hattest du Unterhaltung.\nTimo: Ja. Außerdem kamen meine Eltern jeden Tag vorbei. Am dritten Tag durfte ich sogar ein bisschen im Park spazieren gehen.\nMiriam: Und jetzt? Musst du noch zur Kontrolle?\nTimo: Ja, nächste Woche gehe ich wieder zum Arzt. Ich hoffe, der Gips kommt bald ab. Tippen ist damit echt schwierig.\nMiriam: Ich kann’s mir vorstellen. Aber du klingst schon wieder ganz fit!\nTimo: Ja, fast. Ich darf nur vier Wochen keinen Sport machen.\nMiriam: Das ist bestimmt schwer für dich.\nTimo: Ja, aber ich habe endlich Zeit, Serien zu schauen und Bücher zu lesen.\nMiriam: Dann gute Besserung, Timo!",
+    "text_no_newline": "Miriam: Hallo Timo, du hast dich so lange nicht gemeldet. Alles okay? Timo: Naja, ich war letzte Woche im Krankenhaus. Miriam: Oh nein! Was ist passiert? Timo: Ich bin beim Fußballspielen gestürzt und habe mir den Arm gebrochen. Miriam: Das tut mir leid! Musstest du operiert werden? Timo: Zum Glück nicht. Der Arzt hat gesagt, es reicht ein Gips. Ich musste aber drei Tage dort bleiben, weil sie sicher sein wollten, dass alles gut verheilt. Miriam: Und wie war es im Krankenhaus? Timo: Ganz in Ordnung. Das Essen war besser als erwartet. Ich hatte ein Zweibettzimmer mit einem netten älteren Mann, der viele Witze erzählt hat. Miriam: Wenigstens hattest du Unterhaltung. Timo: Ja. Außerdem kamen meine Eltern jeden Tag vorbei. Am dritten Tag durfte ich sogar ein bisschen im Park spazieren gehen. Miriam: Und jetzt? Musst du noch zur Kontrolle? Timo: Ja, nächste Woche gehe ich wieder zum Arzt. Ich hoffe, der Gips kommt bald ab. Tippen ist damit echt schwierig. Miriam: Ich kann’s mir vorstellen. Aber du klingst schon wieder ganz fit! Timo: Ja, fast. Ich darf nur vier Wochen keinen Sport machen. Miriam: Das ist bestimmt schwer für dich. Timo: Ja, aber ich habe endlich Zeit, Serien zu schauen und Bücher zu lesen. Miriam: Dann gute Besserung, Timo!",
+    "word_count": 613,
+    "question": "Beurteilen Sie die folgenden Aussagen als Richtig oder Falsch:",
+    "options": {"Richtig": "Falsch", "Falsch": "Richtig"},
+    "answer": "Falsch",
+    "additional_questions": [
+      {"question": "Timo musste operiert werden.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Er blieb drei Tage im Krankenhaus.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Das Essen im Krankenhaus war schlecht.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Timos Eltern haben ihn besucht.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Er darf sofort wieder Sport treiben.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Jetzt liest Timo mehr Bücher.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"}
+    ],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/9.mp3"
+  },
+  {
+    "id": 10,
+    "title": "Die neue Mitbewohnerin",
+    "text": "Sven: Hallo Jana, wie läuft’s mit deiner neuen Mitbewohnerin?\nJana: Ganz gut! Sie heißt Paula und studiert Medizin.\nSven: Oh, spannend! Woher kommt sie?\nJana: Aus Köln. Sie ist erst vor einem Monat eingezogen. Am Anfang war es etwas ungewohnt, aber jetzt verstehen wir uns super.\nSven: Das freut mich! Teilt ihr euch die Küche?\nJana: Ja, und das funktioniert erstaunlich gut. Sie kocht oft abends, und manchmal essen wir zusammen. Sie macht tolle vegetarische Gerichte.\nSven: Klingt lecker. Und wie ist sie so vom Charakter?\nJana: Ruhig, ordentlich und sehr zuverlässig. Sie mag Musik, spielt Gitarre und singt manchmal, wenn sie lernt.\nSven: Schön! Und wie teilt ihr euch die Miete?\nJana: Jeder zahlt die Hälfte. Wir haben auch einen Haushaltsplan, damit alles fair bleibt.\nSven: Sehr organisiert. Gab es schon Probleme?\nJana: Nur einmal – wegen der Waschmaschine. Sie hat vergessen, ihre Wäsche rauszunehmen, aber das war kein Drama.\nSven: Klingt nach einer guten WG.\nJana: Ja, ich bin echt froh. Mit meiner alten Mitbewohnerin gab es ständig Streit.\nSven: Dann hast du jetzt mehr Glück gehabt!\nJana: Auf jeden Fall!",
+    "text_no_newline": "Sven: Hallo Jana, wie läuft’s mit deiner neuen Mitbewohnerin? Jana: Ganz gut! Sie heißt Paula und studiert Medizin. Sven: Oh, spannend! Woher kommt sie? Jana: Aus Köln. Sie ist erst vor einem Monat eingezogen. Am Anfang war es etwas ungewohnt, aber jetzt verstehen wir uns super. Sven: Das freut mich! Teilt ihr euch die Küche? Jana: Ja, und das funktioniert erstaunlich gut. Sie kocht oft abends, und manchmal essen wir zusammen. Sie macht tolle vegetarische Gerichte. Sven: Klingt lecker. Und wie ist sie so vom Charakter? Jana: Ruhig, ordentlich und sehr zuverlässig. Sie mag Musik, spielt Gitarre und singt manchmal, wenn sie lernt. Sven: Schön! Und wie teilt ihr euch die Miete? Jana: Jeder zahlt die Hälfte. Wir haben auch einen Haushaltsplan, damit alles fair bleibt. Sven: Sehr organisiert. Gab es schon Probleme? Jana: Nur einmal – wegen der Waschmaschine. Sie hat vergessen, ihre Wäsche rauszunehmen, aber das war kein Drama. Sven: Klingt nach einer guten WG. Jana: Ja, ich bin echt froh. Mit meiner alten Mitbewohnerin gab es ständig Streit. Sven: Dann hast du jetzt mehr Glück gehabt! Jana: Auf jeden Fall!",
+    "word_count": 609,
+    "question": "Beurteilen Sie die folgenden Aussagen als Richtig oder Falsch:",
+    "options": {"Richtig": "Falsch", "Falsch": "Richtig"},
+    "answer": "Falsch",
+    "additional_questions": [
+      {"question": "Paula kommt aus Köln.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Sie studiert Biologie.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Die beiden essen manchmal zusammen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Paula spielt kein Instrument.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Es gab einen kleinen Streit wegen der Waschmaschine.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Jana war mit ihrer alten Mitbewohnerin unzufrieden.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"}
+    ],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/10.mp3"
+  },
+  {
+    "id": 11,
+    "title": "Eine Reise nach Prag",
+    "text": "Kevin: Hallo Lea, du warst doch am Wochenende in Prag, oder?\nLea: Ja, genau! Es war fantastisch. Ich war mit meiner Freundin Sarah dort.\nKevin: Wie seid ihr hingefahren?\nLea: Mit dem Zug, das war ganz bequem. Die Fahrt dauerte etwa vier Stunden.\nKevin: Und was habt ihr alles gemacht?\nLea: Am ersten Tag sind wir durch die Altstadt gelaufen, haben Fotos gemacht und die Karlsbrücke besichtigt. Danach sind wir in einem kleinen Café gewesen – total gemütlich.\nKevin: Klingt schön! Und das Essen?\nLea: Sehr lecker! Wir haben Gulasch und Knödel probiert. Am Abend waren wir auf einem Konzert in einem alten Theater – richtig beeindruckend.\nKevin: Und am zweiten Tag?\nLea: Da sind wir mit einem Boot auf der Moldau gefahren und später auf den Petrin-Hügel gewandert. Von oben hat man eine tolle Aussicht auf die ganze Stadt.\nKevin: Und das Wetter?\nLea: Sonnig! Nur am letzten Abend hat es kurz geregnet, aber das war nicht schlimm. Wir haben uns dann einfach in ein Restaurant gesetzt.\nKevin: Ich wollte schon immer nach Prag. Lohnt sich wirklich, oder?\nLea: Absolut! Die Stadt ist sauber, sicher und voller Geschichte. Ich würde sofort wieder hinfahren.",
+    "text_no_newline": "Kevin: Hallo Lea, du warst doch am Wochenende in Prag, oder? Lea: Ja, genau! Es war fantastisch. Ich war mit meiner Freundin Sarah dort. Kevin: Wie seid ihr hingefahren? Lea: Mit dem Zug, das war ganz bequem. Die Fahrt dauerte etwa vier Stunden. Kevin: Und was habt ihr alles gemacht? Lea: Am ersten Tag sind wir durch die Altstadt gelaufen, haben Fotos gemacht und die Karlsbrücke besichtigt. Danach sind wir in einem kleinen Café gewesen – total gemütlich. Kevin: Klingt schön! Und das Essen? Lea: Sehr lecker! Wir haben Gulasch und Knödel probiert. Am Abend waren wir auf einem Konzert in einem alten Theater – richtig beeindruckend. Kevin: Und am zweiten Tag? Lea: Da sind wir mit einem Boot auf der Moldau gefahren und später auf den Petrin-Hügel gewandert. Von oben hat man eine tolle Aussicht auf die ganze Stadt. Kevin: Und das Wetter? Lea: Sonnig! Nur am letzten Abend hat es kurz geregnet, aber das war nicht schlimm. Wir haben uns dann einfach in ein Restaurant gesetzt. Kevin: Ich wollte schon immer nach Prag. Lohnt sich wirklich, oder? Lea: Absolut! Die Stadt ist sauber, sicher und voller Geschichte. Ich würde sofort wieder hinfahren.",
+    "word_count": 628,
+    "question": "Beurteilen Sie die folgenden Aussagen als Richtig oder Falsch:",
+    "options": {"Richtig": "Falsch", "Falsch": "Richtig"},
+    "answer": "Falsch",
+    "additional_questions": [
+      {"question": "Lea ist mit dem Bus nach Prag gefahren.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Sie war mit einer Freundin unterwegs.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Lea hat in Prag Gulasch gegessen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Sie war in keinem Theater.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Das Wetter war meistens schön.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Lea möchte Prag nicht mehr besuchen.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
+    ],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/11.mp3"
+  },
+  {
+    "id": 12,
+    "title": "Sport und Gesundheit",
+    "text": "Anna: Hallo Ben, du warst heute früh schon im Fitnessstudio, oder?\nBen: Ja, ich gehe jetzt dreimal pro Woche. Seit einem halben Jahr trainiere ich regelmäßig.\nAnna: Wow! Und merkst du schon Unterschiede?\nBen: Ja, ich fühle mich fitter und habe mehr Energie. Außerdem schlafe ich besser.\nAnna: Super! Ich möchte auch mehr Sport machen, aber mir fehlt oft die Motivation.\nBen: Das kenne ich. Mir hilft ein Trainingsplan. Und ich gehe meistens mit einem Freund – so fällt das Absagen schwerer.\nAnna: Gute Idee! Was trainierst du?\nBen: Ein bisschen von allem: Ausdauer, Kraft und Yoga zur Entspannung.\nAnna: Yoga? Das hätte ich bei dir nicht gedacht.\nBen: Doch! Es hilft mir, den Rücken zu stärken. Ich sitze ja viel im Büro.\nAnna: Stimmt. Bewegung ist wichtig. Ich gehe manchmal joggen, aber unregelmäßig.\nBen: Versuch es regelmäßig zu machen. Schon dreißig Minuten am Tag reichen.\nAnna: Ich weiß. Außerdem will ich mich gesünder ernähren. Ich esse zu viel Fast Food.\nBen: Das war bei mir auch so. Jetzt koche ich öfter selbst. Viel Gemüse, Vollkornprodukte und wenig Zucker.\nAnna: Klingt gut. Vielleicht fange ich auch mit Yoga an.\nBen: Mach das! Es hilft wirklich gegen Stress.\nAnna: Danke für den Tipp!",
+    "text_no_newline": "Anna: Hallo Ben, du warst heute früh schon im Fitnessstudio, oder? Ben: Ja, ich gehe jetzt dreimal pro Woche. Seit einem halben Jahr trainiere ich regelmäßig. Anna: Wow! Und merkst du schon Unterschiede? Ben: Ja, ich fühle mich fitter und habe mehr Energie. Außerdem schlafe ich besser. Anna: Super! Ich möchte auch mehr Sport machen, aber mir fehlt oft die Motivation. Ben: Das kenne ich. Mir hilft ein Trainingsplan. Und ich gehe meistens mit einem Freund – so fällt das Absagen schwerer. Anna: Gute Idee! Was trainierst du? Ben: Ein bisschen von allem: Ausdauer, Kraft und Yoga zur Entspannung. Anna: Yoga? Das hätte ich bei dir nicht gedacht. Ben: Doch! Es hilft mir, den Rücken zu stärken. Ich sitze ja viel im Büro. Anna: Stimmt. Bewegung ist wichtig. Ich gehe manchmal joggen, aber unregelmäßig. Ben: Versuch es regelmäßig zu machen. Schon dreißig Minuten am Tag reichen. Anna: Ich weiß. Außerdem will ich mich gesünder ernähren. Ich esse zu viel Fast Food. Ben: Das war bei mir auch so. Jetzt koche ich öfter selbst. Viel Gemüse, Vollkornprodukte und wenig Zucker. Anna: Klingt gut. Vielleicht fange ich auch mit Yoga an. Ben: Mach das! Es hilft wirklich gegen Stress. Anna: Danke für den Tipp!",
+    "word_count": 618,
+    "question": "Beurteilen Sie die folgenden Aussagen als Richtig oder Falsch:",
+    "options": {"Richtig": "Falsch", "Falsch": "Richtig"},
+    "answer": "Falsch",
+    "additional_questions": [
+      {"question": "Ben trainiert seit einem Jahr regelmäßig.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Er schläft durch den Sport besser.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Ben trainiert nur Kraft.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Anna geht regelmäßig joggen.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Ben kocht jetzt öfter selbst.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Anna möchte vielleicht auch Yoga probieren.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"}
+    ],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/12.mp3"
+  }
+,
+  {
+    "id": 13,
+    "title": "Freiwilligenarbeit im Tierheim",
+    "text": "Katrin: Hallo Leon, du hast doch gesagt, dass du jetzt im Tierheim arbeitest?\nLeon: Ja, genau. Ich mache dort Freiwilligenarbeit seit zwei Monaten.\nKatrin: Oh, das ist toll! Was machst du dort genau?\nLeon: Ich helfe beim Füttern der Tiere, putze die Käfige und gehe mit den Hunden spazieren. Außerdem spiele ich mit den Katzen, damit sie sich nicht langweilen.\nKatrin: Klingt schön, aber auch anstrengend.\nLeon: Ja, manchmal schon. Vor allem am Wochenende ist viel zu tun, weil dann viele Besucher kommen. Manche wollen Tiere adoptieren.\nKatrin: Wie viele Tiere sind im Heim?\nLeon: Etwa fünfzig Hunde und sechzig Katzen, außerdem einige Kaninchen und Vögel.\nKatrin: Das ist ja eine Menge! Warum machst du die Arbeit?\nLeon: Ich liebe Tiere. Früher durfte ich zu Hause keinen Hund haben, also wollte ich wenigstens helfen. Es ist ein gutes Gefühl, etwas Sinnvolles zu tun.\nKatrin: Bekommt ihr dafür Geld?\nLeon: Nein, alles freiwillig. Aber wir bekommen kostenloses Mittagessen und können an Schulungen teilnehmen – zum Beispiel über Tierpflege und Verhaltenstraining.\nKatrin: Das ist super. Hast du ein Lieblingstier?\nLeon: Ja, einen alten Hund namens Max. Er war früher auf der Straße und ist jetzt sehr ruhig und freundlich. Ich hoffe, jemand adoptiert ihn bald.\nKatrin: Ich finde das wirklich beeindruckend. Vielleicht besuche ich euch mal.\nLeon: Klar, komm vorbei! Am Samstag machen wir einen „Tag der offenen Tür“ mit Führungen und Spielen für Kinder.\nKatrin: Dann komme ich bestimmt!",
+    "text_no_newline": "Katrin: Hallo Leon, du hast doch gesagt, dass du jetzt im Tierheim arbeitest? Leon: Ja, genau. Ich mache dort Freiwilligenarbeit seit zwei Monaten. Katrin: Oh, das ist toll! Was machst du dort genau? Leon: Ich helfe beim Füttern der Tiere, putze die Käfige und gehe mit den Hunden spazieren. Außerdem spiele ich mit den Katzen, damit sie sich nicht langweilen. Katrin: Klingt schön, aber auch anstrengend. Leon: Ja, manchmal schon. Vor allem am Wochenende ist viel zu tun, weil dann viele Besucher kommen. Manche wollen Tiere adoptieren. Katrin: Wie viele Tiere sind im Heim? Leon: Etwa fünfzig Hunde und sechzig Katzen, außerdem einige Kaninchen und Vögel. Katrin: Das ist ja eine Menge! Warum machst du die Arbeit? Leon: Ich liebe Tiere. Früher durfte ich zu Hause keinen Hund haben, also wollte ich wenigstens helfen. Es ist ein gutes Gefühl, etwas Sinnvolles zu tun. Katrin: Bekommt ihr dafür Geld? Leon: Nein, alles freiwillig. Aber wir bekommen kostenloses Mittagessen und können an Schulungen teilnehmen – zum Beispiel über Tierpflege und Verhaltenstraining. Katrin: Das ist super. Hast du ein Lieblingstier? Leon: Ja, einen alten Hund namens Max. Er war früher auf der Straße und ist jetzt sehr ruhig und freundlich. Ich hoffe, jemand adoptiert ihn bald. Katrin: Ich finde das wirklich beeindruckend. Vielleicht besuche ich euch mal. Leon: Klar, komm vorbei! Am Samstag machen wir einen „Tag der offenen Tür“ mit Führungen und Spielen für Kinder. Katrin: Dann komme ich bestimmt!",
+    "word_count": 623,
+    "question": "Beurteilen Sie die folgenden Aussagen als Richtig oder Falsch:",
+    "options": {"Richtig": "Falsch", "Falsch": "Richtig"},
+    "answer": "Falsch",
+    "additional_questions": [
+      {"question": "Leon arbeitet im Tierheim für Geld.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Er hilft beim Füttern der Tiere.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Im Heim gibt es auch Kaninchen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Leon mag Tiere nicht besonders.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Am Samstag ist ein Tag der offenen Tür.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Max ist ein junger Hund.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
+    ],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/13.mp3"
+  },
+  {
+    "id": 14,
+    "title": "Ein unerwarteter Besuch",
+    "text": "Tina: Du glaubst es nicht, Mark – gestern stand plötzlich meine Cousine aus Hamburg vor der Tür!\nMark: Einfach so, ohne anzurufen?\nTina: Genau! Sie wollte mich überraschen. Ich hatte natürlich nichts vorbereitet.\nMark: Und? Wie lange bleibt sie?\nTina: Nur bis Sonntag. Wir haben uns seit zwei Jahren nicht gesehen, also freue ich mich trotzdem.\nMark: Das ist schön. Was habt ihr gestern gemacht?\nTina: Ich habe schnell gekocht – Nudeln mit Gemüse. Dann haben wir Fotos angeschaut und bis spät in die Nacht gequatscht.\nMark: Klingt gemütlich.\nTina: Ja, sie hatte viele Geschichten. Sie arbeitet jetzt in einer großen Firma und reist oft ins Ausland. Nächste Woche fliegt sie nach Japan.\nMark: Wow, das ist beeindruckend.\nTina: Ja! Heute wollen wir in die Stadt gehen und ein bisschen shoppen. Morgen fahren wir an den See, wenn das Wetter gut bleibt.\nMark: Klingt nach einem schönen Wochenende. Hast du Urlaub genommen?\nTina: Ja, ich habe zwei Tage frei. Ich will die Zeit mit ihr genießen.\nMark: Dann wünsche ich euch viel Spaß!",
+    "text_no_newline": "Tina: Du glaubst es nicht, Mark – gestern stand plötzlich meine Cousine aus Hamburg vor der Tür! Mark: Einfach so, ohne anzurufen? Tina: Genau! Sie wollte mich überraschen. Ich hatte natürlich nichts vorbereitet. Mark: Und? Wie lange bleibt sie? Tina: Nur bis Sonntag. Wir haben uns seit zwei Jahren nicht gesehen, also freue ich mich trotzdem. Mark: Das ist schön. Was habt ihr gestern gemacht? Tina: Ich habe schnell gekocht – Nudeln mit Gemüse. Dann haben wir Fotos angeschaut und bis spät in die Nacht gequatscht. Mark: Klingt gemütlich. Tina: Ja, sie hatte viele Geschichten. Sie arbeitet jetzt in einer großen Firma und reist oft ins Ausland. Nächste Woche fliegt sie nach Japan. Mark: Wow, das ist beeindruckend. Tina: Ja! Heute wollen wir in die Stadt gehen und ein bisschen shoppen. Morgen fahren wir an den See, wenn das Wetter gut bleibt. Mark: Klingt nach einem schönen Wochenende. Hast du Urlaub genommen? Tina: Ja, ich habe zwei Tage frei. Ich will die Zeit mit ihr genießen. Mark: Dann wünsche ich euch viel Spaß!",
+    "word_count": 614,
+    "question": "Beurteilen Sie die folgenden Aussagen als Richtig oder Falsch:",
+    "options": {"Richtig": "Falsch", "Falsch": "Richtig"},
+    "answer": "Falsch",
+    "additional_questions": [
+      {"question": "Tinas Cousine hat vorher angerufen.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Sie bleibt nur ein paar Tage.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Tina hatte Essen vorbereitet.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Die Cousine arbeitet in einer Firma.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Sie fliegt nächste Woche nach China.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Tina hat Urlaub genommen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"}
+    ],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/14.mp3"
+  },
+  {
+    "id": 15,
+    "title": "Studieren und Nebenjob",
+    "text": "Laura: Hallo Ben, wie läuft dein Studium?\nBen: Gut, danke! Aber es ist stressig. Ich studiere Wirtschaft, und gleichzeitig arbeite ich in einem Café.\nLaura: Oh, du hast also einen Nebenjob?\nBen: Ja, dreimal pro Woche, immer abends. Das Geld brauche ich für die Miete.\nLaura: Verständlich. Ist es nicht schwierig, Studium und Arbeit zu verbinden?\nBen: Doch, manchmal schon. Wenn ich viele Prüfungen habe, ist es anstrengend. Aber meine Chefin ist nett – sie gibt mir frei, wenn ich lernen muss.\nLaura: Das ist super. Und wie gefällt dir die Arbeit?\nBen: Eigentlich gut. Ich mache Kaffee, serviere Getränke und rede mit Gästen. Ich habe dadurch viele Leute kennengelernt.\nLaura: Dann lernst du bestimmt auch besser Deutsch!\nBen: Genau. Viele Touristen kommen, und ich muss oft Englisch und Deutsch sprechen.\nLaura: Hast du Zeit für dich selbst?\nBen: Nicht viel, aber am Sonntag mache ich Sport oder treffe Freunde. Das hilft, den Kopf frei zu bekommen.\nLaura: Ich bewundere dich. Ich könnte das nicht gleichzeitig schaffen.\nBen: Manchmal ist es wirklich zu viel, aber ich will unabhängig sein.\nLaura: Das verstehe ich. Halte durch!",
+    "text_no_newline": "Laura: Hallo Ben, wie läuft dein Studium? Ben: Gut, danke! Aber es ist stressig. Ich studiere Wirtschaft, und gleichzeitig arbeite ich in einem Café. Laura: Oh, du hast also einen Nebenjob? Ben: Ja, dreimal pro Woche, immer abends. Das Geld brauche ich für die Miete. Laura: Verständlich. Ist es nicht schwierig, Studium und Arbeit zu verbinden? Ben: Doch, manchmal schon. Wenn ich viele Prüfungen habe, ist es anstrengend. Aber meine Chefin ist nett – sie gibt mir frei, wenn ich lernen muss. Laura: Das ist super. Und wie gefällt dir die Arbeit? Ben: Eigentlich gut. Ich mache Kaffee, serviere Getränke und rede mit Gästen. Ich habe dadurch viele Leute kennengelernt. Laura: Dann lernst du bestimmt auch besser Deutsch! Ben: Genau. Viele Touristen kommen, und ich muss oft Englisch und Deutsch sprechen. Laura: Hast du Zeit für dich selbst? Ben: Nicht viel, aber am Sonntag mache ich Sport oder treffe Freunde. Das hilft, den Kopf frei zu bekommen. Laura: Ich bewundere dich. Ich könnte das nicht gleichzeitig schaffen. Ben: Manchmal ist es wirklich zu viel, aber ich will unabhängig sein. Laura: Das verstehe ich. Halte durch!",
+    "word_count": 621,
+    "question": "Beurteilen Sie die folgenden Aussagen als Richtig oder Falsch:",
+    "options": {"Richtig": "Falsch", "Falsch": "Richtig"},
+    "answer": "Falsch",
+    "additional_questions": [
+      {"question": "Ben studiert Medizin.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Er arbeitet in einem Café.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Seine Chefin ist unfreundlich.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Ben hat kaum Freizeit.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Er trifft Freunde am Sonntag.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Ben möchte finanziell unabhängig sein.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"}
+    ],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/15.mp3"
+  },
+  {
+    "id": 16,
+    "title": "Der verlorene Rucksack",
+    "text": "Tom: Hallo Nina, du glaubst es nicht! Ich habe gestern meinen Rucksack im Bus vergessen.\nNina: Oh nein! Was war alles drin?\nTom: Mein Laptop, mein Portemonnaie und sogar mein Pass!\nNina: Das ist ja schlimm. Hast du ihn wiederbekommen?\nTom: Zum Glück ja. Ich bin sofort zur Busgesellschaft gegangen und habe den Verlust gemeldet. Heute Morgen haben sie mich angerufen – ein ehrlicher Finder hat den Rucksack abgegeben.\nNina: Was für ein Glück! War alles noch drin?\nTom: Ja, nichts hat gefehlt. Ich war wirklich erleichtert. Ich habe dem Finder sogar eine kleine Belohnung gegeben.\nNina: Das ist fair. Ich hätte wahrscheinlich Panik bekommen.\nTom: Hatte ich auch. Ohne Pass hätte ich nächste Woche nicht reisen können.\nNina: Wohin fliegst du?\nTom: Nach Portugal, für eine Konferenz. Jetzt kann ich beruhigt packen.\nNina: Ende gut, alles gut!",
+    "text_no_newline": "Tom: Hallo Nina, du glaubst es nicht! Ich habe gestern meinen Rucksack im Bus vergessen. Nina: Oh nein! Was war alles drin? Tom: Mein Laptop, mein Portemonnaie und sogar mein Pass! Nina: Das ist ja schlimm. Hast du ihn wiederbekommen? Tom: Zum Glück ja. Ich bin sofort zur Busgesellschaft gegangen und habe den Verlust gemeldet. Heute Morgen haben sie mich angerufen – ein ehrlicher Finder hat den Rucksack abgegeben. Nina: Was für ein Glück! War alles noch drin? Tom: Ja, nichts hat gefehlt. Ich war wirklich erleichtert. Ich habe dem Finder sogar eine kleine Belohnung gegeben. Nina: Das ist fair. Ich hätte wahrscheinlich Panik bekommen. Tom: Hatte ich auch. Ohne Pass hätte ich nächste Woche nicht reisen können. Nina: Wohin fliegst du? Tom: Nach Portugal, für eine Konferenz. Jetzt kann ich beruhigt packen. Nina: Ende gut, alles gut!",
+    "word_count": 609,
+    "question": "Beurteilen Sie die folgenden Aussagen als Richtig oder Falsch:",
+    "options": {"Richtig": "Falsch", "Falsch": "Richtig"},
+    "answer": "Falsch",
+    "additional_questions": [
+      {"question": "Tom hat seine Tasche im Zug vergessen.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "In der Tasche war sein Laptop.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Der Rucksack wurde gestohlen.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Ein ehrlicher Finder hat ihn abgegeben.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Tom hat eine Belohnung gegeben.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Er fliegt bald nach Spanien.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
+    ],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/16.mp3"
+  }
 ]
