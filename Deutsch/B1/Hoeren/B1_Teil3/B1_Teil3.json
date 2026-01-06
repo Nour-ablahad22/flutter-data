@@ -20,7 +20,7 @@
       {"question": "Am Wochenende will sie mit Freunden Rad fahren.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
       {"question": "Markus arbeitet schon in einer IT-Firma.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/3.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/3.mp3"
   },
   {
     "id": 4,
@@ -40,7 +40,7 @@
       {"question": "Am Sonntag besuchten sie ein Museum.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
       {"question": "Das Hotel war laut und schmutzig.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/4.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil2/3.mp3"
   },
   {
     "id": 5,
