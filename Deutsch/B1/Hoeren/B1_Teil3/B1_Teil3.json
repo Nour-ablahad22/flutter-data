@@ -40,7 +40,7 @@
       {"question": "Am Sonntag besuchten sie ein Museum.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
       {"question": "Das Hotel war laut und schmutzig.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
     ],
-    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil2/3.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/4.mp3"
   },
   {
     "id": 5,
@@ -59,7 +59,7 @@
       {"question": "Tom war schon bei Laura zu Besuch.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
       {"question": "Clara möchte Laura mit einem Kuchen begrüßen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/5.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/5.mp3"
   },
   {
     "id": 6,
@@ -78,7 +78,7 @@
       {"question": "Am Abend hatte er viele wichtige Nachrichten.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
       {"question": "Anna möchte auch mal einen Tag ohne Handy verbringen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/6.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/6.mp3"
   },
   {
     "id": 7,
@@ -97,7 +97,7 @@
       {"question": "Er wohnt allein in Wien.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
       {"question": "Er möchte das B1-Zertifikat machen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/7.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/7.mp3"
   }
 ,
   {
@@ -117,7 +117,7 @@
       {"question": "Das Wetter war meistens schön.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
       {"question": "Die Rückfahrt war völlig problemlos.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/8.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/8.mp3"
   },
   {
     "id": 9,
@@ -136,7 +136,7 @@
       {"question": "Er darf sofort wieder Sport treiben.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
       {"question": "Jetzt liest Timo mehr Bücher.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/9.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/9.mp3"
   },
   {
     "id": 10,
@@ -155,7 +155,7 @@
       {"question": "Es gab einen kleinen Streit wegen der Waschmaschine.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
       {"question": "Jana war mit ihrer alten Mitbewohnerin unzufrieden.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/10.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/10.mp3"
   },
   {
     "id": 11,
@@ -174,7 +174,7 @@
       {"question": "Das Wetter war meistens schön.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
       {"question": "Lea möchte Prag nicht mehr besuchen.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/11.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/11.mp3"
   },
   {
     "id": 12,
@@ -193,7 +193,7 @@
       {"question": "Ben kocht jetzt öfter selbst.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
       {"question": "Anna möchte vielleicht auch Yoga probieren.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/12.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/12.mp3"
   }
 ,
   {
@@ -213,7 +213,7 @@
       {"question": "Am Samstag ist ein Tag der offenen Tür.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
       {"question": "Max ist ein junger Hund.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/13.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/13.mp3"
   },
   {
     "id": 14,
@@ -232,7 +232,7 @@
       {"question": "Sie fliegt nächste Woche nach China.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
       {"question": "Tina hat Urlaub genommen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/14.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/14.mp3"
   },
   {
     "id": 15,
@@ -251,7 +251,7 @@
       {"question": "Er trifft Freunde am Sonntag.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
       {"question": "Ben möchte finanziell unabhängig sein.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/15.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/15.mp3"
   },
   {
     "id": 16,
@@ -270,6 +270,6 @@
       {"question": "Tom hat eine Belohnung gegeben.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
       {"question": "Er fliegt bald nach Spanien.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/16.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/16.mp3"
   }
 ]
