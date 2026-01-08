@@ -849,7 +849,7 @@
       {"question": "Der Besuch dauerte den ganzen Tag.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
       {"question": "Eva möchte nicht wieder hingehen.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Ho
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/48.mp3"
  }
 ]
 
