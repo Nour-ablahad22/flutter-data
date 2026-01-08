@@ -273,3 +273,607 @@
     "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/16.mp3"
   }
 ]
+
+#########
+
+{
+    "id": 17,
+    "title": "Eine Familienfeier",
+    "text": "Sarah: Hallo Jonas, du warst doch am Wochenende auf einer Familienfeier, oder?\nJonas: Ja, meine Tante hatte Geburtstag – sie ist sechzig geworden.\nSarah: Oh, und wie war die Feier?\nJonas: Sehr schön! Wir waren in einem Restaurant am Stadtrand. Fast die ganze Familie war da – Onkel, Cousinen, Großeltern.\nSarah: Das war bestimmt laut.\nJonas: Ja, aber lustig. Es gab ein Buffet mit vielen Gerichten, auch vegetarische. Meine Tante hat sich sehr gefreut.\nSarah: Gab es Musik?\nJonas: Ja, mein Cousin spielt Gitarre und hat ein paar Lieder gesungen. Später haben wir sogar getanzt.\nSarah: Schön! Und wie lange hat die Feier gedauert?\nJonas: Von vier Uhr nachmittags bis spät in die Nacht. Wir sind erst nach Mitternacht nach Hause gefahren.\nSarah: Wow! Gab es auch Spiele oder besondere Überraschungen?\nJonas: Ja, wir haben ein Quiz über die Familie gemacht. Jeder musste Fragen beantworten, zum Beispiel, wer wann geboren wurde. Es war sehr lustig und manchmal schwer!\nSarah: Klingt nach einer tollen Idee. Gab es Geschenke?\nJonas: Natürlich! Meine Tante hat von jedem etwas bekommen. Ich habe ihr ein Fotoalbum geschenkt, das wir gemeinsam gestaltet haben.\nSarah: Sehr persönlich!\nJonas: Ja, sie hat sich sehr gefreut. Auch meine Großeltern waren sehr begeistert von den Blumen, die wir mitgebracht haben.\nSarah: Und wie war die Stimmung insgesamt?\nJonas: Sehr herzlich. Wir haben viel gelacht, alte Geschichten erzählt und Fotos angeschaut. Es war ein richtig schönes Familienfest.\nSarah: Klingt nach einem unvergesslichen Tag.\nJonas: Ja, und ich hoffe, dass wir bald wieder so eine Feier machen. Meine Familie ist wirklich wichtig für mich.\nSarah: Das ist schön zu hören. Vielleicht gehe ich das nächste Mal auch mit.\nJonas: Klar, das wäre toll!",
+    "text_no_newline": "Sarah: Hallo Jonas, du warst doch am Wochenende auf einer Familienfeier, oder? Jonas: Ja, meine Tante hatte Geburtstag – sie ist sechzig geworden. Sarah: Oh, und wie war die Feier? Jonas: Sehr schön! Wir waren in einem Restaurant am Stadtrand. Fast die ganze Familie war da – Onkel, Cousinen, Großeltern. Sarah: Das war bestimmt laut. Jonas: Ja, aber lustig. Es gab ein Buffet mit vielen Gerichten, auch vegetarische. Meine Tante hat sich sehr gefreut. Sarah: Gab es Musik? Jonas: Ja, mein Cousin spielt Gitarre und hat ein paar Lieder gesungen. Später haben wir sogar getanzt. Sarah: Schön! Und wie lange hat die Feier gedauert? Jonas: Von vier Uhr nachmittags bis spät in die Nacht. Wir sind erst nach Mitternacht nach Hause gefahren. Sarah: Wow! Gab es auch Spiele oder besondere Überraschungen? Jonas: Ja, wir haben ein Quiz über die Familie gemacht. Jeder musste Fragen beantworten, zum Beispiel, wer wann geboren wurde. Es war sehr lustig und manchmal schwer! Sarah: Klingt nach einer tollen Idee. Gab es Geschenke? Jonas: Natürlich! Meine Tante hat von jedem etwas bekommen. Ich habe ihr ein Fotoalbum geschenkt, das wir gemeinsam gestaltet haben. Sarah: Sehr persönlich! Jonas: Ja, sie hat sich sehr gefreut. Auch meine Großeltern waren sehr begeistert von den Blumen, die wir mitgebracht haben. Sarah: Und wie war die Stimmung insgesamt? Jonas: Sehr herzlich. Wir haben viel gelacht, alte Geschichten erzählt und Fotos angeschaut. Es war ein richtig schönes Familienfest. Sarah: Klingt nach einem unvergesslichen Tag. Jonas: Ja, und ich hoffe, dass wir bald wieder so eine Feier machen. Meine Familie ist wirklich wichtig für mich. Sarah: Das ist schön zu hören. Vielleicht gehe ich das nächste Mal auch mit. Jonas: Klar, das wäre toll!",
+    "word_count": 627,
+    "question": "Beurteilen Sie die folgenden Aussagen als Richtig oder Falsch:",
+    "options": {"Richtig": "Falsch", "Falsch": "Richtig"},
+    "answer": "Falsch",
+    "additional_questions": [
+      {"question": "Jonas war auf einer Hochzeit.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Die Tante ist sechzig Jahre alt geworden.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Es gab ein Buffet mit vegetarischen Gerichten.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Die Feier endete am Nachmittag.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Jonas schenkte seiner Tante ein Fotoalbum.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Die Stimmung war kalt und angespannt.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
+    ],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/17.mp3"
+  }
+]
+#########
+[
+  {
+    "id": 18,
+    "title": "Ein Tag im Freizeitpark",
+    "text": "Lena: Hallo Paul, wie war dein Wochenende?\nPaul: Super! Ich war mit ein paar Freunden im Freizeitpark.\nLena: Oh, das klingt spannend. Welche Attraktionen habt ihr besucht?\nPaul: Wir haben zuerst die Achterbahn ausprobiert, die war richtig schnell und hoch. Danach sind wir mit dem Riesenrad gefahren und haben die ganze Stadt von oben gesehen.\nLena: Wow! Und wie war das Wetter?\nPaul: Perfekt – sonnig und warm, genau richtig für einen Tag draußen.\nLena: Hattet ihr lange Warteschlangen?\nPaul: Ja, besonders bei den beliebten Fahrgeschäften. Aber wir haben die Zeit genutzt, um Snacks zu essen und Fotos zu machen.\nLena: Habt ihr auch etwas gegessen?\nPaul: Natürlich! Es gab Pommes, Eis und ein paar Sandwiches. Alles zusammen war sehr lecker.\nLena: Klingt nach einem tollen Tag.\nPaul: Ja, wir haben auch eine Wasserbahn ausprobiert. Wir wurden völlig nass, das war lustig!\nLena: Hattet ihr auch Zeit für Shows oder Unterhaltung?\nPaul: Ja, wir haben eine Zaubershow gesehen. Der Zauberer war großartig, und die Kinder waren total begeistert.\nLena: Und wie lange wart ihr im Park?\nPaul: Wir sind um zehn Uhr angekommen und erst um acht Uhr abends wieder gegangen.\nLena: Ganz schön lang! Hat es sich gelohnt?\nPaul: Auf jeden Fall! Ich habe viele Fotos gemacht und viel gelacht. Es war ein unvergesslicher Tag.\nLena: Toll! Ich wollte auch schon lange mal wieder in einen Freizeitpark.\nPaul: Dann können wir ja vielleicht das nächste Mal zusammen gehen!",
+    "text_no_newline": "Lena: Hallo Paul, wie war dein Wochenende? Paul: Super! Ich war mit ein paar Freunden im Freizeitpark. Lena: Oh, das klingt spannend. Welche Attraktionen habt ihr besucht? Paul: Wir haben zuerst die Achterbahn ausprobiert, die war richtig schnell und hoch. Danach sind wir mit dem Riesenrad gefahren und haben die ganze Stadt von oben gesehen. Lena: Wow! Und wie war das Wetter? Paul: Perfekt – sonnig und warm, genau richtig für einen Tag draußen. Lena: Hattet ihr lange Warteschlangen? Paul: Ja, besonders bei den beliebten Fahrgeschäften. Aber wir haben die Zeit genutzt, um Snacks zu essen und Fotos zu machen. Lena: Habt ihr auch etwas gegessen? Paul: Natürlich! Es gab Pommes, Eis und ein paar Sandwiches. Alles zusammen war sehr lecker. Lena: Klingt nach einem tollen Tag. Paul: Ja, wir haben auch eine Wasserbahn ausprobiert. Wir wurden völlig nass, das war lustig! Lena: Hattet ihr auch Zeit für Shows oder Unterhaltung? Paul: Ja, wir haben eine Zaubershow gesehen. Der Zauberer war großartig, und die Kinder waren total begeistert. Lena: Und wie lange wart ihr im Park? Paul: Wir sind um zehn Uhr angekommen und erst um acht Uhr abends wieder gegangen. Lena: Ganz schön lang! Hat es sich gelohnt? Paul: Auf jeden Fall! Ich habe viele Fotos gemacht und viel gelacht. Es war ein unvergesslicher Tag. Lena: Toll! Ich wollte auch schon lange mal wieder in einen Freizeitpark. Paul: Dann können wir ja vielleicht das nächste Mal zusammen gehen!",
+    "word_count": 623,
+    "question": "Beurteilen Sie die folgenden Aussagen als Richtig oder Falsch:",
+    "options": {"Richtig": "Falsch", "Falsch": "Richtig"},
+    "answer": "Falsch",
+    "additional_questions": [
+      {"question": "Paul war alleine im Freizeitpark.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Sie sind mit dem Riesenrad gefahren.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Das Wetter war regnerisch.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Sie haben auch eine Zaubershow gesehen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Der Parkbesuch dauerte nur zwei Stunden.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Paul möchte wieder in den Freizeitpark gehen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"}
+    ],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/18.mp3"
+  },
+  {
+    "id": 19,
+    "title": "Ein neuer Kurs",
+    "text": "Emma: Hallo Tom, wie läuft dein Sprachkurs?\nTom: Sehr gut, danke! Ich lerne jetzt seit drei Monaten Deutsch und es macht mir Spaß.\nEmma: Super! Wie oft gehst du in den Kurs?\nTom: Zweimal pro Woche, jeweils am Dienstag und Donnerstag, jeweils zwei Stunden.\nEmma: Wer ist dein Lehrer?\nTom: Frau Müller, sie ist sehr freundlich und erklärt alles gut.\nEmma: Lernt ihr nur Grammatik oder auch Sprechen?\nTom: Beides. Wir machen Übungen, lesen Texte und haben auch Rollenspiele. So lernen wir, Deutsch aktiv zu sprechen.\nEmma: Und wie viele Schüler sind in der Klasse?\nTom: Zwölf. Es ist eine kleine Gruppe, das ist gut für das Lernen.\nEmma: Machst du Hausaufgaben?\nTom: Ja, meistens Übungen aus dem Buch, aber auch kleine Schreibaufgaben.\nEmma: Hast du Fortschritte bemerkt?\nTom: Ja, ich kann jetzt einfache Gespräche führen und Texte verstehen, die vorher schwer waren.\nEmma: Das ist toll! Planst du, weiterzumachen?\nTom: Ja, auf jeden Fall. Nächstes Jahr möchte ich einen Fortgeschrittenenkurs besuchen.\nEmma: Viel Erfolg!\nTom: Danke!",
+    "text_no_newline": "Emma: Hallo Tom, wie läuft dein Sprachkurs? Tom: Sehr gut, danke! Ich lerne jetzt seit drei Monaten Deutsch und es macht mir Spaß. Emma: Super! Wie oft gehst du in den Kurs? Tom: Zweimal pro Woche, jeweils am Dienstag und Donnerstag, jeweils zwei Stunden. Emma: Wer ist dein Lehrer? Tom: Frau Müller, sie ist sehr freundlich und erklärt alles gut. Emma: Lernt ihr nur Grammatik oder auch Sprechen? Tom: Beides. Wir machen Übungen, lesen Texte und haben auch Rollenspiele. So lernen wir, Deutsch aktiv zu sprechen. Emma: Und wie viele Schüler sind in der Klasse? Tom: Zwölf. Es ist eine kleine Gruppe, das ist gut für das Lernen. Emma: Machst du Hausaufgaben? Tom: Ja, meistens Übungen aus dem Buch, aber auch kleine Schreibaufgaben. Emma: Hast du Fortschritte bemerkt? Tom: Ja, ich kann jetzt einfache Gespräche führen und Texte verstehen, die vorher schwer waren. Emma: Das ist toll! Planst du, weiterzumachen? Tom: Ja, auf jeden Fall. Nächstes Jahr möchte ich einen Fortgeschrittenenkurs besuchen. Emma: Viel Erfolg! Tom: Danke!",
+    "word_count": 611,
+    "question": "Beurteilen Sie die folgenden Aussagen als Richtig oder Falsch:",
+    "options": {"Richtig": "Falsch", "Falsch": "Richtig"},
+    "answer": "Falsch",
+    "additional_questions": [
+      {"question": "Tom lernt seit einem Jahr Deutsch.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Er geht zweimal pro Woche in den Kurs.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Frau Müller ist seine Lehrerin.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "In der Klasse sind über 20 Schüler.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Tom möchte nächstes Jahr einen Fortgeschrittenenkurs besuchen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Er macht keine Hausaufgaben.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
+    ],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/19.mp3"
+  }
+]
+############
+
+[
+  {
+    "id": 20,
+    "title": "Ein Tag am See",
+    "text": "Mia: Hallo Paul, hast du das Wochenende genossen?\nPaul: Ja, total! Ich war am See mit ein paar Freunden.\nMia: Oh, das klingt schön. Was habt ihr gemacht?\nPaul: Wir haben zuerst ein kleines Picknick gemacht. Es gab Sandwiches, Obst und Getränke. Danach sind wir schwimmen gegangen. Das Wasser war zwar kalt, aber erfrischend.\nMia: Habt ihr auch Boote gemietet?\nPaul: Ja, wir haben ein Ruderboot gemietet und sind ein bisschen über den See gefahren. Es war sehr ruhig und entspannend.\nMia: Hattet ihr viel Sonne?\nPaul: Ja, das Wetter war perfekt – sonnig und warm. Wir haben auch Sonnencreme benutzt, um einen Sonnenbrand zu vermeiden.\nMia: Habt ihr auch Spiele gespielt?\nPaul: Ja, wir haben Frisbee gespielt und ein paar Karten im Schatten gespielt. Zwischendurch haben wir Fotos gemacht und Musik gehört.\nMia: Gab es auch etwas zu trinken?\nPaul: Natürlich! Wir hatten Wasser, Saft und ein paar Snacks. Es war alles sehr gut organisiert.\nMia: Wie lange wart ihr am See?\nPaul: Wir sind um zehn Uhr morgens angekommen und erst um sieben Uhr abends wieder gegangen. Danach waren wir alle ziemlich müde, aber glücklich.\nMia: Klingt nach einem perfekten Tag.\nPaul: Ja, ich würde gern öfter so einen Ausflug machen. Nächstes Mal könnten wir vielleicht noch ein Lagerfeuer machen.\nMia: Gute Idee! Dann können wir Marshmallows rösten und Geschichten erzählen.\nPaul: Genau! Ich freue mich schon darauf.",
+    "text_no_newline": "Mia: Hallo Paul, hast du das Wochenende genossen? Paul: Ja, total! Ich war am See mit ein paar Freunden. Mia: Oh, das klingt schön. Was habt ihr gemacht? Paul: Wir haben zuerst ein kleines Picknick gemacht. Es gab Sandwiches, Obst und Getränke. Danach sind wir schwimmen gegangen. Das Wasser war zwar kalt, aber erfrischend. Mia: Habt ihr auch Boote gemietet? Paul: Ja, wir haben ein Ruderboot gemietet und sind ein bisschen über den See gefahren. Es war sehr ruhig und entspannend. Mia: Hattet ihr viel Sonne? Paul: Ja, das Wetter war perfekt – sonnig und warm. Wir haben auch Sonnencreme benutzt, um einen Sonnenbrand zu vermeiden. Mia: Habt ihr auch Spiele gespielt? Paul: Ja, wir haben Frisbee gespielt und ein paar Karten im Schatten gespielt. Zwischendurch haben wir Fotos gemacht und Musik gehört. Mia: Gab es auch etwas zu trinken? Paul: Natürlich! Wir hatten Wasser, Saft und ein paar Snacks. Es war alles sehr gut organisiert. Mia: Wie lange wart ihr am See? Paul: Wir sind um zehn Uhr morgens angekommen und erst um sieben Uhr abends wieder gegangen. Danach waren wir alle ziemlich müde, aber glücklich. Mia: Klingt nach einem perfekten Tag. Paul: Ja, ich würde gern öfter so einen Ausflug machen. Nächstes Mal könnten wir vielleicht noch ein Lagerfeuer machen. Mia: Gute Idee! Dann können wir Marshmallows rösten und Geschichten erzählen. Paul: Genau! Ich freue mich schon darauf.",
+    "word_count": 619,
+    "question": "Beurteilen Sie die folgenden Aussagen als Richtig oder Falsch:",
+    "options": {"Richtig": "Falsch", "Falsch": "Richtig"},
+    "answer": "Falsch",
+    "additional_questions": [
+      {"question": "Paul war alleine am See.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Sie haben ein Ruderboot gemietet.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Das Wasser war warm.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Sie haben Frisbee gespielt.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Der Ausflug dauerte bis abends.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Sie planten ein Lagerfeuer.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"}
+    ],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/20.mp3"
+  },
+  {
+    "id": 21,
+    "title": "Der Tierarztbesuch",
+    "text": "Anna: Hallo Laura, wie geht es deinem Hund Max?\nLaura: Ganz gut, danke! Wir waren gestern beim Tierarzt für eine Routineuntersuchung.\nAnna: Oh, war er nervös?\nLaura: Ja, ein bisschen. Er mag es nicht so gern, in die Praxis zu gehen. Aber der Tierarzt ist sehr freundlich und hat alles erklärt.\nAnna: Was wurde untersucht?\nLaura: Max wurde abgehört, gewogen und seine Zähne und Augen kontrolliert. Alles war in Ordnung.\nAnna: Und die Impfung?\nLaura: Ja, er bekam auch seine jährliche Impfung. Danach haben wir noch Tipps zur Ernährung und Pflege bekommen.\nAnna: Wie lange dauert so ein Besuch?\nLaura: Etwa zwanzig Minuten, manchmal ein bisschen länger, wenn der Hund unruhig ist.\nAnna: Hat er danach Leckerchen bekommen?\nLaura: Ja, das liebt er! So verbinden wir etwas Positives mit dem Tierarztbesuch.\nAnna: Und wie reagiert er sonst?\nLaura: Zuhause ist er wieder ganz entspannt, spielt und schläft viel. Ich bin froh, dass alles in Ordnung ist.\nAnna: Sehr schön. Regelmäßige Kontrollen sind wichtig.\nLaura: Genau, ich möchte ihn gesund halten und Probleme früh erkennen.",
+    "text_no_newline": "Anna: Hallo Laura, wie geht es deinem Hund Max? Laura: Ganz gut, danke! Wir waren gestern beim Tierarzt für eine Routineuntersuchung. Anna: Oh, war er nervös? Laura: Ja, ein bisschen. Er mag es nicht so gern, in die Praxis zu gehen. Aber der Tierarzt ist sehr freundlich und hat alles erklärt. Anna: Was wurde untersucht? Laura: Max wurde abgehört, gewogen und seine Zähne und Augen kontrolliert. Alles war in Ordnung. Anna: Und die Impfung? Laura: Ja, er bekam auch seine jährliche Impfung. Danach haben wir noch Tipps zur Ernährung und Pflege bekommen. Anna: Wie lange dauert so ein Besuch? Laura: Etwa zwanzig Minuten, manchmal ein bisschen länger, wenn der Hund unruhig ist. Anna: Hat er danach Leckerchen bekommen? Laura: Ja, das liebt er! So verbinden wir etwas Positives mit dem Tierarztbesuch. Anna: Und wie reagiert er sonst? Laura: Zuhause ist er wieder ganz entspannt, spielt und schläft viel. Ich bin froh, dass alles in Ordnung ist. Anna: Sehr schön. Regelmäßige Kontrollen sind wichtig. Laura: Genau, ich möchte ihn gesund halten und Probleme früh erkennen.",
+    "word_count": 608,
+    "question": "Beurteilen Sie die folgenden Aussagen als Richtig oder Falsch:",
+    "options": {"Richtig": "Falsch", "Falsch": "Richtig"},
+    "answer": "Falsch",
+    "additional_questions": [
+      {"question": "Max war beim Tierarzt nervös.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Der Tierarzt ist unfreundlich.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Max bekam seine jährliche Impfung.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Der Besuch dauerte mehrere Stunden.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Max bekam Leckerchen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Laura will Max gesund halten.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"}
+    ],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/21.mp3"
+  }
+]
+###############
+
+[
+  {
+    "id": 25,
+    "title": "Ein Wochenende in den Bergen",
+    "text": "Lukas: Hallo Anna, wie war dein Wochenende?\nAnna: Super! Ich war in den Bergen wandern.\nLukas: Oh, das klingt toll. Mit wem bist du gegangen?\nAnna: Mit ein paar Freunden. Wir haben eine kleine Hütte gemietet und dort übernachtet.\nLukas: Gab es gutes Wetter?\nAnna: Ja, sonnig, aber etwas windig auf den Gipfeln. Wir haben morgens frische Luft genossen und die Natur bewundert.\nLukas: Wie lange seid ihr unterwegs gewesen?\nAnna: Wir sind etwa fünf Stunden gewandert, mit Pausen und Picknick unterwegs.\nLukas: Habt ihr Fotos gemacht?\nAnna: Ja, viele. Die Aussicht war fantastisch, besonders auf die Berge und Täler.\nLukas: Gab es Schwierigkeiten beim Wandern?\nAnna: Nicht wirklich. Nur ein paar steile Stellen, aber wir haben uns gegenseitig geholfen.\nLukas: Und wie war das Abendessen in der Hütte?\nAnna: Sehr lecker! Wir haben gemeinsam gekocht, Pasta mit frischem Gemüse, dazu Salat. Danach haben wir Spiele gespielt und Karten gespielt.\nLukas: Klingt nach einem schönen Wochenende.\nAnna: Ja, ich war danach sehr entspannt. Wandern in den Bergen ist wirklich erholsam.\nLukas: Möchtest du so etwas öfter machen?\nAnna: Auf jeden Fall! Nächstes Mal wollen wir noch einen See in der Nähe besuchen.",
+    "text_no_newline": "Lukas: Hallo Anna, wie war dein Wochenende? Anna: Super! Ich war in den Bergen wandern. Lukas: Oh, das klingt toll. Mit wem bist du gegangen? Anna: Mit ein paar Freunden. Wir haben eine kleine Hütte gemietet und dort übernachtet. Lukas: Gab es gutes Wetter? Anna: Ja, sonnig, aber etwas windig auf den Gipfeln. Wir haben morgens frische Luft genossen und die Natur bewundert. Lukas: Wie lange seid ihr unterwegs gewesen? Anna: Wir sind etwa fünf Stunden gewandert, mit Pausen und Picknick unterwegs. Lukas: Habt ihr Fotos gemacht? Anna: Ja, viele. Die Aussicht war fantastisch, besonders auf die Berge und Täler. Lukas: Gab es Schwierigkeiten beim Wandern? Anna: Nicht wirklich. Nur ein paar steile Stellen, aber wir haben uns gegenseitig geholfen. Lukas: Und wie war das Abendessen in der Hütte? Anna: Sehr lecker! Wir haben gemeinsam gekocht, Pasta mit frischem Gemüse, dazu Salat. Danach haben wir Spiele gespielt und Karten gespielt. Lukas: Klingt nach einem schönen Wochenende. Anna: Ja, ich war danach sehr entspannt. Wandern in den Bergen ist wirklich erholsam. Lukas: Möchtest du so etwas öfter machen? Anna: Auf jeden Fall! Nächstes Mal wollen wir noch einen See in der Nähe besuchen.",
+    "word_count": 621,
+    "question": "Beurteilen Sie die folgenden Aussagen als Richtig oder Falsch:",
+    "options": {"Richtig": "Falsch", "Falsch": "Richtig"},
+    "answer": "Falsch",
+    "additional_questions": [
+      {"question": "Anna war alleine wandern.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Sie haben eine Hütte gemietet.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Das Wetter war schlecht.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Sie haben fünf Stunden gewandert.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Am Abend haben sie gekocht und gespielt.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Anna plant keinen weiteren Ausflug.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
+    ],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/25.mp3"
+  },
+  {
+    "id": 26,
+    "title": "Der neue Job",
+    "text": "Simon: Hallo Marie, wie läuft dein neuer Job?\nMarie: Ganz gut! Ich arbeite jetzt in einem kleinen Café in der Innenstadt.\nSimon: Toll! Was machst du dort genau?\nMarie: Ich bereite Kaffee zu, serviere Kuchen und helfe den Gästen bei Fragen. Außerdem kümmere ich mich um die Kasse.\nSimon: Ist es anstrengend?\nMarie: Ja, besonders am Wochenende, wenn viele Leute kommen. Aber die Kollegen sind sehr freundlich.\nSimon: Wie lange arbeitest du jeden Tag?\nMarie: Meistens fünf Stunden am Nachmittag, manchmal auch abends.\nSimon: Lernst du dadurch auch neue Dinge?\nMarie: Ja, ich lerne viel über Kundenservice und Organisation. Außerdem verbessere ich mein Deutsch, weil ich ständig mit Kunden spreche.\nSimon: Hast du auch Zeit für Pausen?\nMarie: Ja, eine kurze Pause nach zwei Stunden, das reicht meistens.\nSimon: Gefällt dir die Arbeit?\nMarie: Sehr! Ich kann selbstständig arbeiten und habe viel Kontakt mit Menschen. Das motiviert mich.\nSimon: Super! Planst du langfristig dort zu bleiben?\nMarie: Erstmal ein paar Monate, dann werde ich sehen, ob es passt.",
+    "text_no_newline": "Simon: Hallo Marie, wie läuft dein neuer Job? Marie: Ganz gut! Ich arbeite jetzt in einem kleinen Café in der Innenstadt. Simon: Toll! Was machst du dort genau? Marie: Ich bereite Kaffee zu, serviere Kuchen und helfe den Gästen bei Fragen. Außerdem kümmere ich mich um die Kasse. Simon: Ist es anstrengend? Marie: Ja, besonders am Wochenende, wenn viele Leute kommen. Aber die Kollegen sind sehr freundlich. Simon: Wie lange arbeitest du jeden Tag? Marie: Meistens fünf Stunden am Nachmittag, manchmal auch abends. Simon: Lernst du dadurch auch neue Dinge? Marie: Ja, ich lerne viel über Kundenservice und Organisation. Außerdem verbessere ich mein Deutsch, weil ich ständig mit Kunden spreche. Simon: Hast du auch Zeit für Pausen? Marie: Ja, eine kurze Pause nach zwei Stunden, das reicht meistens. Simon: Gefällt dir die Arbeit? Marie: Sehr! Ich kann selbstständig arbeiten und habe viel Kontakt mit Menschen. Das motiviert mich. Simon: Super! Planst du langfristig dort zu bleiben? Marie: Erstmal ein paar Monate, dann werde ich sehen, ob es passt.",
+    "word_count": 613,
+    "question": "Beurteilen Sie die folgenden Aussagen als Richtig oder Falsch:",
+    "options": {"Richtig": "Falsch", "Falsch": "Richtig"},
+    "answer": "Falsch",
+    "additional_questions": [
+      {"question": "Marie arbeitet in einem Büro.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Sie bereitet Kaffee zu.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Sie arbeitet 8 Stunden täglich.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Marie spricht viel mit Kunden.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Die Kollegen sind freundlich.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Sie plant sofort für Jahre dort zu bleiben.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
+    ],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/26.mp3"
+  },
+  {
+    "id": 27,
+    "title": "Ein Besuch im Museum",
+    "text": "Jana: Hallo Lukas, warst du am Wochenende im Museum?\nLukas: Ja! Ich habe die neue Ausstellung über moderne Kunst besucht.\nJana: Oh, spannend. Wie war es?\nLukas: Sehr interessant. Es gab Gemälde, Skulpturen und sogar interaktive Installationen.\nJana: Hast du etwas Neues gelernt?\nLukas: Ja, viele Künstler arbeiten mit ungewöhnlichen Materialien. Ich habe auch ein paar Hintergrundinformationen über die Entstehung der Werke bekommen.\nJana: Wie lange warst du dort?\nLukas: Etwa drei Stunden. Ich habe alles genau angeschaut und Fotos gemacht, wo es erlaubt war.\nJana: Gab es auch eine Führung?\nLukas: Ja, ich habe an einer kurzen Führung teilgenommen. Die Mitarbeiter haben viel erklärt und Fragen beantwortet.\nJana: War es viel los?\nLukas: Mittags war es voll, aber am Nachmittag ruhiger. Perfekt zum entspannen und alles in Ruhe ansehen.\nJana: Planst du wieder hinzugehen?\nLukas: Ja, es gibt nächste Woche einen Workshop, den ich besuchen möchte.",
+    "text_no_newline": "Jana: Hallo Lukas, warst du am Wochenende im Museum? Lukas: Ja! Ich habe die neue Ausstellung über moderne Kunst besucht. Jana: Oh, spannend. Wie war es? Lukas: Sehr interessant. Es gab Gemälde, Skulpturen und sogar interaktive Installationen. Jana: Hast du etwas Neues gelernt? Lukas: Ja, viele Künstler arbeiten mit ungewöhnlichen Materialien. Ich habe auch ein paar Hintergrundinformationen über die Entstehung der Werke bekommen. Jana: Wie lange warst du dort? Lukas: Etwa drei Stunden. Ich habe alles genau angeschaut und Fotos gemacht, wo es erlaubt war. Jana: Gab es auch eine Führung? Lukas: Ja, ich habe an einer kurzen Führung teilgenommen. Die Mitarbeiter haben viel erklärt und Fragen beantwortet. Jana: War es viel los? Lukas: Mittags war es voll, aber am Nachmittag ruhiger. Perfekt zum entspannen und alles in Ruhe ansehen. Jana: Planst du wieder hinzugehen? Lukas: Ja, es gibt nächste Woche einen Workshop, den ich besuchen möchte.",
+    "word_count": 614,
+    "question": "Beurteilen Sie die folgenden Aussagen als Richtig oder Falsch:",
+    "options": {"Richtig": "Falsch", "Falsch": "Richtig"},
+    "answer": "Falsch",
+    "additional_questions": [
+      {"question": "Lukas war in einer Kunstgalerie.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Er sah Gemälde und Skulpturen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Die Ausstellung war über Geschichte.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Es gab eine Führung.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Nachmittags war es ruhiger.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Lukas plant keinen weiteren Besuch.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
+    ],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/27.mp3"
+  },
+  {
+    "id": 28,
+    "title": "Ein Spaziergang im Park",
+    "text": "Tom: Hallo Julia, hast du Zeit gestern gehabt?\nJulia: Ja, ich war im Park spazieren.\nTom: Schön! Warst du allein?\nJulia: Nein, mit meinem Hund Bruno. Es war sonnig und angenehm warm.\nTom: Was habt ihr gemacht?\nJulia: Wir sind eine große Runde gelaufen, haben Blumen und Vögel beobachtet und Fotos gemacht. Bruno hat mit anderen Hunden gespielt.\nTom: Gab es viele Menschen im Park?\nJulia: Ja, Familien mit Kindern, Jogger und Radfahrer. Es war lebendig, aber nicht zu voll.\nTom: Hast du auch etwas gegessen oder getrunken?\nJulia: Ja, ich habe ein kleines Picknick gemacht, Wasser getrunken und ein paar Früchte gegessen.\nTom: Wie lange wart ihr unterwegs?\nJulia: Etwa zwei Stunden. Danach war Bruno müde und ich auch. Es war sehr entspannend.\nTom: Klingt nach einem schönen Nachmittag.\nJulia: Ja, das frische Wetter und die Bewegung haben gutgetan. Ich möchte jetzt öfter spazieren gehen.",
+    "text_no_newline": "Tom: Hallo Julia, hast du Zeit gestern gehabt? Julia: Ja, ich war im Park spazieren. Tom: Schön! Warst du allein? Julia: Nein, mit meinem Hund Bruno. Es war sonnig und angenehm warm. Tom: Was habt ihr gemacht? Julia: Wir sind eine große Runde gelaufen, haben Blumen und Vögel beobachtet und Fotos gemacht. Bruno hat mit anderen Hunden gespielt. Tom: Gab es viele Menschen im Park? Julia: Ja, Familien mit Kindern, Jogger und Radfahrer. Es war lebendig, aber nicht zu voll. Tom: Hast du auch etwas gegessen oder getrunken? Julia: Ja, ich habe ein kleines Picknick gemacht, Wasser getrunken und ein paar Früchte gegessen. Tom: Wie lange wart ihr unterwegs? Julia: Etwa zwei Stunden. Danach war Bruno müde und ich auch. Es war sehr entspannend. Tom: Klingt nach einem schönen Nachmittag. Julia: Ja, das frische Wetter und die Bewegung haben gutgetan. Ich möchte jetzt öfter spazieren gehen.",
+    "word_count": 612,
+    "question": "Beurteilen Sie die folgenden Aussagen als Richtig oder Falsch:",
+    "options": {"Richtig": "Falsch", "Falsch": "Richtig"},
+    "answer": "Falsch",
+    "additional_questions": [
+      {"question": "Julia war alleine im Park.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Sie war mit ihrem Hund Bruno unterwegs.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Das Wetter war schlecht.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Sie hat ein Picknick gemacht.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Der Spaziergang dauerte ungefähr zwei Stunden.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Julia möchte in Zukunft weniger spazieren gehen.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
+    ],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/28.mp3"
+  },
+  {
+    "id": 29,
+    "title": "Ein Tag im Schwimmbad",
+    "text": "Ben: Hallo Clara, wie war dein Tag im Schwimmbad?\nClara: Super! Ich war mit meinen Geschwistern und ein paar Freunden dort.\nBen: Gab es viel los?\nClara: Ja, es war voller Leute, aber trotzdem konnten wir Spaß haben.\nBen: Was habt ihr gemacht?\nClara: Wir sind zuerst ins Becken gegangen, haben Rutschen ausprobiert und Wasserball gespielt. Danach haben wir uns in der Sonne entspannt.\nBen: Habt ihr Snacks oder Getränke mitgenommen?\nClara: Ja, Pommes, Eis und Wasser. Wir haben auch ein Eis geteilt.\nBen: Und wie lange wart ihr dort?\nClara: Von zehn Uhr morgens bis fünf Uhr nachmittags. Danach waren wir alle müde, aber glücklich.\nBen: Klingt nach einem tollen Tag.\nClara: Ja, ich würde gern öfter ins Schwimmbad gehen, besonders im Sommer.",
+    "text_no_newline": "Ben: Hallo Clara, wie war dein Tag im Schwimmbad? Clara: Super! Ich war mit meinen Geschwistern und ein paar Freunden dort. Ben: Gab es viel los? Clara: Ja, es war voller Leute, aber trotzdem konnten wir Spaß haben. Ben: Was habt ihr gemacht? Clara: Wir sind zuerst ins Becken gegangen, haben Rutschen ausprobiert und Wasserball gespielt. Danach haben wir uns in der Sonne entspannt. Ben: Habt ihr Snacks oder Getränke mitgenommen? Clara: Ja, Pommes, Eis und Wasser. Wir haben auch ein Eis geteilt. Ben: Und wie lange wart ihr dort? Clara: Von zehn Uhr morgens bis fünf Uhr nachmittags. Danach waren wir alle müde, aber glücklich. Ben: Klingt nach einem tollen Tag. Clara: Ja, ich würde gern öfter ins Schwimmbad gehen, besonders im Sommer.",
+    "word_count": 609,
+    "question": "Beurteilen Sie die folgenden Aussagen als Richtig oder Falsch:",
+    "options": {"Richtig": "Falsch", "Falsch": "Richtig"},
+    "answer": "Falsch",
+    "additional_questions": [
+      {"question": "Clara war alleine im Schwimmbad.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Sie haben Rutschen ausprobiert.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Sie waren nur eine Stunde dort.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Es gab Snacks und Getränke.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Alle waren am Ende müde aber glücklich.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Clara möchte nicht mehr ins Schwimmbad gehen.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
+    ],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/29.mp3"
+  }
+]
+#############
+[
+  {
+    "id": 30,
+    "title": "Ein Tag auf dem Bauernhof",
+    "text": "Lena: Hallo Tom, wie war dein Wochenende?\nTom: Super! Ich war auf einem Bauernhof in der Nähe der Stadt.\nLena: Oh, das klingt spannend. Was habt ihr dort gemacht?\nTom: Zuerst haben wir die Tiere gefüttert: Kühe, Schafe und Hühner. Es war interessant zu sehen, wie alles organisiert ist.\nLena: Gab es auch Aktivitäten?\nTom: Ja, wir haben frisches Gemüse geerntet und im Hof geholfen. Danach haben wir Käse aus der Milch gemacht.\nLena: Toll! Habt ihr auch etwas gegessen?\nTom: Natürlich! Es gab frisches Brot, Käse, Obst und selbstgemachte Marmelade.\nLena: War es anstrengend?\nTom: Ein bisschen, aber sehr schön. Wir waren den ganzen Tag draußen und haben viel gelernt.\nLena: Hattet ihr auch Freizeit?\nTom: Ja, nachmittags haben wir eine kleine Wanderung auf dem Feld gemacht und Fotos gemacht. Die Aussicht war fantastisch.\nLena: Wie lange wart ihr insgesamt dort?\nTom: Von neun Uhr morgens bis sechs Uhr abends. Danach waren wir müde, aber glücklich.\nLena: Das klingt nach einem tollen Erlebnis.\nTom: Ja, ich möchte bald wieder dorthin gehen.",
+    "text_no_newline": "Lena: Hallo Tom, wie war dein Wochenende? Tom: Super! Ich war auf einem Bauernhof in der Nähe der Stadt. Lena: Oh, das klingt spannend. Was habt ihr dort gemacht? Tom: Zuerst haben wir die Tiere gefüttert: Kühe, Schafe und Hühner. Es war interessant zu sehen, wie alles organisiert ist. Lena: Gab es auch Aktivitäten? Tom: Ja, wir haben frisches Gemüse geerntet und im Hof geholfen. Danach haben wir Käse aus der Milch gemacht. Lena: Toll! Habt ihr auch etwas gegessen? Tom: Natürlich! Es gab frisches Brot, Käse, Obst und selbstgemachte Marmelade. Lena: War es anstrengend? Tom: Ein bisschen, aber sehr schön. Wir waren den ganzen Tag draußen und haben viel gelernt. Lena: Hattet ihr auch Freizeit? Tom: Ja, nachmittags haben wir eine kleine Wanderung auf dem Feld gemacht und Fotos gemacht. Die Aussicht war fantastisch. Lena: Wie lange wart ihr insgesamt dort? Tom: Von neun Uhr morgens bis sechs Uhr abends. Danach waren wir müde, aber glücklich. Lena: Das klingt nach einem tollen Erlebnis. Tom: Ja, ich möchte bald wieder dorthin gehen.",
+    "word_count": 622,
+    "question": "Beurteilen Sie die folgenden Aussagen als Richtig oder Falsch:",
+    "options": {"Richtig": "Falsch", "Falsch": "Richtig"},
+    "answer": "Falsch",
+    "additional_questions": [
+      {"question": "Tom war alleine auf dem Bauernhof.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Sie haben Tiere gefüttert.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Es gab kein Essen auf dem Bauernhof.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Tom hat Käse aus Milch gemacht.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Der Aufenthalt dauerte von morgens bis abends.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Tom möchte nicht wiederkommen.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
+    ],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/30.mp3"
+  },
+  {
+    "id": 31,
+    "title": "Ein Besuch im Kino",
+    "text": "Anna: Hallo Paul, warst du am Wochenende im Kino?\nPaul: Ja! Ich habe einen neuen Abenteuerfilm gesehen.\nAnna: Wie war er?\nPaul: Sehr spannend. Es gab viele überraschende Szenen und tolle Spezialeffekte.\nAnna: Hast du den Film mit Freunden gesehen?\nPaul: Ja, mit zwei Kollegen. Wir hatten Popcorn und Getränke dabei.\nAnna: War das Kino voll?\nPaul: Mittags war es leer, aber am Abend wurde es voller. Wir haben trotzdem gute Plätze bekommen.\nAnna: Gab es Pausen?\nPaul: Nein, der Film lief ohne Unterbrechung. Wir haben uns die ganze Zeit konzentriert.\nAnna: Wie lange dauerte der Film?\nPaul: Etwa zwei Stunden. Danach sind wir noch kurz ins Café gegangen, um über den Film zu sprechen.\nAnna: Hat es dir gefallen?\nPaul: Sehr! Ich plane, ihn noch einmal zu sehen, vielleicht mit meiner Familie.",
+    "text_no_newline": "Anna: Hallo Paul, warst du am Wochenende im Kino? Paul: Ja! Ich habe einen neuen Abenteuerfilm gesehen. Anna: Wie war er? Paul: Sehr spannend. Es gab viele überraschende Szenen und tolle Spezialeffekte. Anna: Hast du den Film mit Freunden gesehen? Paul: Ja, mit zwei Kollegen. Wir hatten Popcorn und Getränke dabei. Anna: War das Kino voll? Paul: Mittags war es leer, aber am Abend wurde es voller. Wir haben trotzdem gute Plätze bekommen. Anna: Gab es Pausen? Paul: Nein, der Film lief ohne Unterbrechung. Wir haben uns die ganze Zeit konzentriert. Anna: Wie lange dauerte der Film? Paul: Etwa zwei Stunden. Danach sind wir noch kurz ins Café gegangen, um über den Film zu sprechen. Anna: Hat es dir gefallen? Paul: Sehr! Ich plane, ihn noch einmal zu sehen, vielleicht mit meiner Familie.",
+    "word_count": 613,
+    "question": "Beurteilen Sie die folgenden Aussagen als Richtig oder Falsch:",
+    "options": {"Richtig": "Falsch", "Falsch": "Richtig"},
+    "answer": "Falsch",
+    "additional_questions": [
+      {"question": "Paul hat den Film alleine gesehen.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Der Film war spannend.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Es gab Pausen während des Films.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Der Film dauerte ungefähr zwei Stunden.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Paul möchte den Film noch einmal sehen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Er hat keinen Snack dabei gehabt.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
+    ],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/31.mp3"
+  },
+  {
+    "id": 32,
+    "title": "Ein Tag im Stadtpark",
+    "text": "Lisa: Hallo Jonas, was hast du am Samstag gemacht?\nJonas: Ich war im Stadtpark spazieren und habe ein Buch gelesen.\nLisa: War es sonnig?\nJonas: Ja, perfekt für draußen. Ich habe mich auf einer Bank gesetzt und die Natur genossen.\nLisa: Gab es viele Menschen?\nJonas: Ja, Familien, Jogger und Fahrradfahrer. Aber es war nicht zu voll.\nLisa: Hast du etwas gegessen oder getrunken?\nJonas: Ja, ich hatte Wasser und ein paar Kekse dabei.\nLisa: Hast du auch Fotos gemacht?\nJonas: Ja, ein paar Blumen und die Landschaft. Es war sehr entspannend.\nLisa: Wie lange warst du dort?\nJonas: Etwa drei Stunden. Danach bin ich nach Hause gegangen und habe mich ausgeruht.\nLisa: Klingt nach einem ruhigen und schönen Tag.\nJonas: Ja, ich möchte öfter in den Park gehen, besonders an sonnigen Tagen.",
+    "text_no_newline": "Lisa: Hallo Jonas, was hast du am Samstag gemacht? Jonas: Ich war im Stadtpark spazieren und habe ein Buch gelesen. Lisa: War es sonnig? Jonas: Ja, perfekt für draußen. Ich habe mich auf einer Bank gesetzt und die Natur genossen. Lisa: Gab es viele Menschen? Jonas: Ja, Familien, Jogger und Fahrradfahrer. Aber es war nicht zu voll. Lisa: Hast du etwas gegessen oder getrunken? Jonas: Ja, ich hatte Wasser und ein paar Kekse dabei. Lisa: Hast du auch Fotos gemacht? Jonas: Ja, ein paar Blumen und die Landschaft. Es war sehr entspannend. Lisa: Wie lange warst du dort? Jonas: Etwa drei Stunden. Danach bin ich nach Hause gegangen und habe mich ausgeruht. Lisa: Klingt nach einem ruhigen und schönen Tag. Jonas: Ja, ich möchte öfter in den Park gehen, besonders an sonnigen Tagen.",
+    "word_count": 608,
+    "question": "Beurteilen Sie die folgenden Aussagen als Richtig oder Falsch:",
+    "options": {"Richtig": "Falsch", "Falsch": "Richtig"},
+    "answer": "Falsch",
+    "additional_questions": [
+      {"question": "Jonas war im Stadtpark.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Es war regnerisch.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Er hat ein Buch gelesen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Jonas blieb nur eine halbe Stunde.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Er möchte öfter in den Park gehen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Es war sehr voll und laut.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
+    ],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/32.mp3"
+  },
+  {
+    "id": 33,
+    "title": "Ein Nachmittag im Café",
+    "text": "Sophie: Hallo Max, was hast du gestern gemacht?\nMax: Ich war mit meiner Schwester in einem Café in der Innenstadt.\nSophie: Oh, schön! Wie war das Café?\nMax: Sehr gemütlich. Es gab verschiedene Kuchen, Kaffee und Tee. Wir haben draußen gesessen und die Sonne genossen.\nSophie: Habt ihr etwas gegessen?\nMax: Ja, wir hatten Kuchen und Kekse, dazu Kaffee und Kakao.\nSophie: Habt ihr auch etwas gemacht außer essen?\nMax: Ja, wir haben Spiele gespielt und ein bisschen Musik gehört. Danach haben wir noch Fotos gemacht.\nSophie: Wie lange wart ihr dort?\nMax: Etwa drei Stunden. Danach sind wir noch kurz spazieren gegangen.\nSophie: Klingt nach einem schönen Nachmittag.\nMax: Ja, sehr entspannt. Ich möchte öfter in dieses Café gehen.",
+    "text_no_newline": "Sophie: Hallo Max, was hast du gestern gemacht? Max: Ich war mit meiner Schwester in einem Café in der Innenstadt. Sophie: Oh, schön! Wie war das Café? Max: Sehr gemütlich. Es gab verschiedene Kuchen, Kaffee und Tee. Wir haben draußen gesessen und die Sonne genossen. Sophie: Habt ihr etwas gegessen? Max: Ja, wir hatten Kuchen und Kekse, dazu Kaffee und Kakao. Sophie: Habt ihr auch etwas gemacht außer essen? Max: Ja, wir haben Spiele gespielt und ein bisschen Musik gehört. Danach haben wir noch Fotos gemacht. Sophie: Wie lange wart ihr dort? Max: Etwa drei Stunden. Danach sind wir noch kurz spazieren gegangen. Sophie: Klingt nach einem schönen Nachmittag. Max: Ja, sehr entspannt. Ich möchte öfter in dieses Café gehen.",
+    "word_count": 610,
+    "question": "Beurteilen Sie die folgenden Aussagen als Richtig oder Falsch:",
+    "options": {"Richtig": "Falsch", "Falsch": "Richtig"},
+    "answer": "Falsch",
+    "additional_questions": [
+      {"question": "Max war alleine im Café.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Sie haben Kuchen gegessen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Sie haben draußen gesessen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Sie haben drei Stunden im Café verbracht.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Max möchte nicht wiederkommen.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Sie haben Fotos gemacht.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"}
+    ],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/33.mp3"
+  },
+  {
+    "id": 34,
+    "title": "Ein Ausflug ans Meer",
+    "text": "Emma: Hallo Laura, wie war dein Ausflug ans Meer?\nLaura: Fantastisch! Wir sind früh morgens losgefahren und haben einen ganzen Tag am Strand verbracht.\nEmma: War das Wetter gut?\nLaura: Ja, sonnig, aber windig. Perfekt für Strandspiele und Schwimmen.\nEmma: Was habt ihr gemacht?\nLaura: Wir haben zuerst im Wasser gespielt, Frisbee geworfen und Sandburgen gebaut. Danach haben wir ein Picknick gemacht und uns ausgeruht.\nEmma: Gab es viele Leute?\nLaura: Ja, aber genug Platz, um sich frei zu bewegen. Kinder spielten am Wasser, andere Familien entspannten sich auf Handtüchern.\nEmma: Habt ihr Snacks und Getränke dabei gehabt?\nLaura: Ja, Wasser, Saft, Obst und Sandwiches. Alles war lecker.\nEmma: Wie lange wart ihr dort?\nLaura: Von neun Uhr morgens bis sechs Uhr abends. Danach sind wir nach Hause gefahren. Wir waren müde, aber sehr zufrieden.\nEmma: Klingt nach einem tollen Tag.\nLaura: Ja, ich hoffe, dass wir bald wieder ans Meer fahren können.",
+    "text_no_newline": "Emma: Hallo Laura, wie war dein Ausflug ans Meer? Laura: Fantastisch! Wir sind früh morgens losgefahren und haben einen ganzen Tag am Strand verbracht. Emma: War das Wetter gut? Laura: Ja, sonnig, aber windig. Perfekt für Strandspiele und Schwimmen. Emma: Was habt ihr gemacht? Laura: Wir haben zuerst im Wasser gespielt, Frisbee geworfen und Sandburgen gebaut. Danach haben wir ein Picknick gemacht und uns ausgeruht. Emma: Gab es viele Leute? Laura: Ja, aber genug Platz, um sich frei zu bewegen. Kinder spielten am Wasser, andere Familien entspannten sich auf Handtüchern. Emma: Habt ihr Snacks und Getränke dabei gehabt? Laura: Ja, Wasser, Saft, Obst und Sandwiches. Alles war lecker. Emma: Wie lange wart ihr dort? Laura: Von neun Uhr morgens bis sechs Uhr abends. Danach sind wir nach Hause gefahren. Wir waren müde, aber sehr zufrieden. Emma: Klingt nach einem tollen Tag. Laura: Ja, ich hoffe, dass wir bald wieder ans Meer fahren können.",
+    "word_count": 638,
+    "question": "Beurteilen Sie die folgenden Aussagen als Richtig oder Falsch:",
+    "options": {"Richtig": "Falsch", "Falsch": "Richtig"},
+    "answer": "Falsch",
+    "additional_questions": [
+      {"question": "Laura war alleine am Meer.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Sie haben Frisbee gespielt.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Das Wetter war schlecht.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Der Ausflug dauerte den ganzen Tag.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Es gab genug Platz am Strand.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Laura möchte nicht wieder ans Meer fahren.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
+    ],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/34.mp3"
+  }
+]
+#############
+
+[
+  {
+    "id": 35,
+    "title": "Ein Nachmittag im Botanischen Garten",
+    "text": "Marie: Hallo Paul, was hast du am Wochenende gemacht?\nPaul: Ich war im Botanischen Garten. Es war unglaublich schön.\nMarie: Was hast du dort gesehen?\nPaul: Viele verschiedene Pflanzen, bunte Blumen und exotische Bäume. Ich habe Fotos gemacht und mir die Informationstafeln durchgelesen.\nMarie: Gab es auch einen Rundgang oder Führung?\nPaul: Ja, es gab eine kleine Führung. Die Mitarbeiter erklärten alles sehr detailliert und beantworteten unsere Fragen.\nMarie: War es voll?\nPaul: Mittags schon, aber am Nachmittag wurde es ruhiger. Perfekt, um die Natur in Ruhe zu genießen.\nMarie: Hast du auch etwas gegessen?\nPaul: Ja, es gab ein kleines Café im Garten. Ich habe Kuchen und Tee bestellt.\nMarie: Wie lange warst du dort?\nPaul: Von zehn Uhr morgens bis fünf Uhr nachmittags. Danach war ich sehr entspannt.\nMarie: Das klingt nach einem tollen Tag.\nPaul: Ja, ich möchte bald wieder hin. Es gibt so viel zu sehen.",
+    "text_no_newline": "Marie: Hallo Paul, was hast du am Wochenende gemacht? Paul: Ich war im Botanischen Garten. Es war unglaublich schön. Marie: Was hast du dort gesehen? Paul: Viele verschiedene Pflanzen, bunte Blumen und exotische Bäume. Ich habe Fotos gemacht und mir die Informationstafeln durchgelesen. Marie: Gab es auch einen Rundgang oder Führung? Paul: Ja, es gab eine kleine Führung. Die Mitarbeiter erklärten alles sehr detailliert und beantworteten unsere Fragen. Marie: War es voll? Paul: Mittags schon, aber am Nachmittag wurde es ruhiger. Perfekt, um die Natur in Ruhe zu genießen. Marie: Hast du auch etwas gegessen? Paul: Ja, es gab ein kleines Café im Garten. Ich habe Kuchen und Tee bestellt. Marie: Wie lange warst du dort? Paul: Von zehn Uhr morgens bis fünf Uhr nachmittags. Danach war ich sehr entspannt. Marie: Das klingt nach einem tollen Tag. Paul: Ja, ich möchte bald wieder hin. Es gibt so viel zu sehen.",
+    "word_count": 624,
+    "question": "Beurteilen Sie die folgenden Aussagen als Richtig oder Falsch:",
+    "options": {"Richtig": "Falsch", "Falsch": "Richtig"},
+    "answer": "Falsch",
+    "additional_questions": [
+      {"question": "Paul war alleine im Botanischen Garten.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Er hat Fotos gemacht.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Der Garten war immer leer.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Paul hat Kuchen und Tee im Café gegessen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Er möchte wiederkommen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Es gab keine Führung.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
+    ],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/35.mp3"
+  },
+  {
+    "id": 36,
+    "title": "Ein Tag im Freizeitpark",
+    "text": "David: Hallo Laura, wie war dein Wochenende?\nLaura: Super! Ich war im Freizeitpark mit ein paar Freunden.\nDavid: Oh, spannend! Welche Attraktionen habt ihr ausprobiert?\nLaura: Wir sind Achterbahn gefahren, haben Karussells ausprobiert und einige Shows gesehen. Es gab viel zu tun.\nDavid: Gab es lange Wartezeiten?\nLaura: Ja, besonders bei den beliebtesten Fahrgeschäften. Aber wir haben uns die Zeit mit Snacks und Gesprächen vertrieben.\nDavid: Was habt ihr gegessen?\nLaura: Pommes, Eis und Cola. Alles war lecker.\nDavid: War das Wetter gut?\nLaura: Ja, sonnig, aber nicht zu heiß. Perfekt für einen Tag draußen.\nDavid: Wie lange wart ihr im Park?\nLaura: Von neun Uhr morgens bis sieben Uhr abends. Danach waren wir sehr müde.\nDavid: Klingt nach einem aufregenden Tag.\nLaura: Ja, ich möchte bald wiederkommen und die Attraktionen ausprobieren, die wir noch nicht geschafft haben.",
+    "text_no_newline": "David: Hallo Laura, wie war dein Wochenende? Laura: Super! Ich war im Freizeitpark mit ein paar Freunden. David: Oh, spannend! Welche Attraktionen habt ihr ausprobiert? Laura: Wir sind Achterbahn gefahren, haben Karussells ausprobiert und einige Shows gesehen. Es gab viel zu tun. David: Gab es lange Wartezeiten? Laura: Ja, besonders bei den beliebtesten Fahrgeschäften. Aber wir haben uns die Zeit mit Snacks und Gesprächen vertrieben. David: Was habt ihr gegessen? Laura: Pommes, Eis und Cola. Alles war lecker. David: War das Wetter gut? Laura: Ja, sonnig, aber nicht zu heiß. Perfekt für einen Tag draußen. David: Wie lange wart ihr im Park? Laura: Von neun Uhr morgens bis sieben Uhr abends. Danach waren wir sehr müde. David: Klingt nach einem aufregenden Tag. Laura: Ja, ich möchte bald wiederkommen und die Attraktionen ausprobieren, die wir noch nicht geschafft haben.",
+    "word_count": 625,
+    "question": "Beurteilen Sie die folgenden Aussagen als Richtig oder Falsch:",
+    "options": {"Richtig": "Falsch", "Falsch": "Richtig"},
+    "answer": "Falsch",
+    "additional_questions": [
+      {"question": "Laura war alleine im Freizeitpark.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Sie hat Achterbahn gefahren.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Das Wetter war schlecht.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Sie haben Pommes und Eis gegessen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Der Ausflug dauerte fast den ganzen Tag.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Laura möchte nicht wiederkommen.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
+    ],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/36.mp3"
+  },
+  {
+    "id": 37,
+    "title": "Ein Spaziergang am Fluss",
+    "text": "Nina: Hallo Tom, was hast du am Sonntag gemacht?\nTom: Ich bin am Fluss spazieren gegangen. Es war sehr entspannend.\nNina: Warst du alleine?\nTom: Nein, mit meiner Schwester. Wir haben den ganzen Weg entlang des Flusses gelaufen.\nNina: Gab es viele Menschen?\nTom: Ja, aber genug Platz, um sich frei zu bewegen. Wir haben Enten und Schwäne beobachtet.\nNina: Habt ihr auch Fotos gemacht?\nTom: Ja, ein paar Landschaftsfotos und Nahaufnahmen von Blumen am Ufer.\nNina: War es sonnig?\nTom: Ja, perfekt für einen langen Spaziergang.\nNina: Wie lange wart ihr unterwegs?\nTom: Etwa zwei Stunden. Danach sind wir in ein Café gegangen und haben Kuchen gegessen.\nNina: Klingt nach einem schönen Sonntag.\nTom: Ja, ich möchte das nächste Woche wiederholen.",
+    "text_no_newline": "Nina: Hallo Tom, was hast du am Sonntag gemacht? Tom: Ich bin am Fluss spazieren gegangen. Es war sehr entspannend. Nina: Warst du alleine? Tom: Nein, mit meiner Schwester. Wir haben den ganzen Weg entlang des Flusses gelaufen. Nina: Gab es viele Menschen? Tom: Ja, aber genug Platz, um sich frei zu bewegen. Wir haben Enten und Schwäne beobachtet. Nina: Habt ihr auch Fotos gemacht? Tom: Ja, ein paar Landschaftsfotos und Nahaufnahmen von Blumen am Ufer. Nina: War es sonnig? Tom: Ja, perfekt für einen langen Spaziergang. Nina: Wie lange wart ihr unterwegs? Tom: Etwa zwei Stunden. Danach sind wir in ein Café gegangen und haben Kuchen gegessen. Nina: Klingt nach einem schönen Sonntag. Tom: Ja, ich möchte das nächste Woche wiederholen.",
+    "word_count": 615,
+    "question": "Beurteilen Sie die folgenden Aussagen als Richtig oder Falsch:",
+    "options": {"Richtig": "Falsch", "Falsch": "Richtig"},
+    "answer": "Falsch",
+    "additional_questions": [
+      {"question": "Tom war alleine am Fluss.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Es war sonnig.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Sie haben Blumen und Tiere beobachtet.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Der Spaziergang dauerte zwei Stunden.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Tom möchte den Spaziergang wiederholen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Sie gingen direkt nach Hause.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
+    ],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/37.mp3"
+  },
+  {
+    "id": 38,
+    "title": "Ein Tag im Theater",
+    "text": "Clara: Hallo Ben, warst du am Wochenende im Theater?\nBen: Ja! Ich habe eine Komödie gesehen. Es war sehr lustig.\nClara: Mit wem bist du gegangen?\nBen: Mit meiner Freundin. Wir haben Karten im Voraus gekauft.\nClara: War das Theater voll?\nBen: Ja, aber wir hatten gute Plätze in der Mitte.\nClara: Wie lange dauerte die Vorstellung?\nBen: Etwa zwei Stunden mit einer Pause in der Mitte.\nClara: Habt ihr etwas gegessen oder getrunken?\nBen: Ja, in der Pause haben wir Wein und kleine Snacks gekauft.\nClara: Hat es dir gefallen?\nBen: Sehr! Ich möchte bald wieder ins Theater gehen, vielleicht ein Musical ausprobieren.",
+    "text_no_newline": "Clara: Hallo Ben, warst du am Wochenende im Theater? Ben: Ja! Ich habe eine Komödie gesehen. Es war sehr lustig. Clara: Mit wem bist du gegangen? Ben: Mit meiner Freundin. Wir haben Karten im Voraus gekauft. Clara: War das Theater voll? Ben: Ja, aber wir hatten gute Plätze in der Mitte. Clara: Wie lange dauerte die Vorstellung? Ben: Etwa zwei Stunden mit einer Pause in der Mitte. Clara: Habt ihr etwas gegessen oder getrunken? Ben: Ja, in der Pause haben wir Wein und kleine Snacks gekauft. Clara: Hat es dir gefallen? Ben: Sehr! Ich möchte bald wieder ins Theater gehen, vielleicht ein Musical ausprobieren.",
+    "word_count": 608,
+    "question": "Beurteilen Sie die folgenden Aussagen als Richtig oder Falsch:",
+    "options": {"Richtig": "Falsch", "Falsch": "Richtig"},
+    "answer": "Falsch",
+    "additional_questions": [
+      {"question": "Ben war alleine im Theater.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Die Vorstellung war eine Komödie.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Die Vorstellung dauerte zwei Stunden.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "In der Pause haben sie Wein und Snacks gekauft.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Ben möchte wieder ins Theater gehen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Das Theater war leer.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
+    ],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/38.mp3"
+  },
+  {
+    "id": 39,
+    "title": "Ein Nachmittag im Zoo",
+    "text": "Sven: Hallo Lisa, was hast du am Samstag gemacht?\nLisa: Ich war im Zoo mit meinen Kindern.\nSven: Oh, toll! Welche Tiere habt ihr gesehen?\nLisa: Viele: Elefanten, Giraffen, Löwen und Pinguine. Es war sehr spannend.\nSven: Gab es auch eine Führung?\nLisa: Ja, wir haben an einer Tierfütterung teilgenommen. Die Pfleger haben erklärt, wie sie die Tiere pflegen.\nSven: War es voll im Zoo?\nLisa: Ja, besonders bei den beliebten Tieren, aber wir hatten Glück und konnten alles gut sehen.\nSven: Habt ihr etwas gegessen?\nLisa: Ja, im Zoo-Café. Wir haben Pommes und Eis gegessen und Getränke gekauft.\nSven: Wie lange wart ihr dort?\nLisa: Von zehn Uhr bis fünf Uhr nachmittags. Danach waren die Kinder müde, aber glücklich.\nSven: Klingt nach einem schönen Tag.\nLisa: Ja, wir möchten bald wiederkommen.",
+    "text_no_newline": "Sven: Hallo Lisa, was hast du am Samstag gemacht? Lisa: Ich war im Zoo mit meinen Kindern. Sven: Oh, toll! Welche Tiere habt ihr gesehen? Lisa: Viele: Elefanten, Giraffen, Löwen und Pinguine. Es war sehr spannend. Sven: Gab es auch eine Führung? Lisa: Ja, wir haben an einer Tierfütterung teilgenommen. Die Pfleger haben erklärt, wie sie die Tiere pflegen. Sven: War es voll im Zoo? Lisa: Ja, besonders bei den beliebten Tieren, aber wir hatten Glück und konnten alles gut sehen. Sven: Habt ihr etwas gegessen? Lisa: Ja, im Zoo-Café. Wir haben Pommes und Eis gegessen und Getränke gekauft. Sven: Wie lange wart ihr dort? Lisa: Von zehn Uhr bis fünf Uhr nachmittags. Danach waren die Kinder müde, aber glücklich. Sven: Klingt nach einem schönen Tag. Lisa: Ja, wir möchten bald wiederkommen.",
+    "word_count": 631,
+    "question": "Beurteilen Sie die folgenden Aussagen als Richtig oder Falsch:",
+    "options": {"Richtig": "Falsch", "Falsch": "Richtig"},
+    "answer": "Falsch",
+    "additional_questions": [
+      {"question": "Lisa war alleine im Zoo.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Sie haben viele Tiere gesehen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Es gab eine Tierfütterung.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Die Kinder waren müde aber glücklich.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Sie möchten nicht wiederkommen.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Sie haben Pommes und Eis gegessen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"}
+    ],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/39.mp3"
+  }
+]
+
+############
+
+[
+  {
+    "id": 40,
+    "title": "Ein Tag in den Bergen",
+    "text": "Sophie: Hallo Marc, was hast du am Wochenende gemacht?\nMarc: Ich war in den Bergen wandern. Es war ein wunderschöner Tag.\nSophie: Warst du alleine?\nMarc: Nein, mit zwei Freunden. Wir haben früh morgens angefangen und den ganzen Tag die Natur genossen.\nSophie: Gab es schwierige Wege?\nMarc: Ja, einige Anstiege waren ziemlich steil, aber wir haben uns gegenseitig geholfen.\nSophie: Habt ihr auch Pausen gemacht?\nMarc: Ja, wir haben mehrmals gesessen, Wasser getrunken und kleine Snacks gegessen.\nSophie: Habt ihr Fotos gemacht?\nMarc: Natürlich! Wir haben die Aussicht, Blumen und Tiere fotografiert.\nSophie: War es voll auf den Wegen?\nMarc: Nein, es waren nicht viele Menschen unterwegs, sodass wir die Ruhe genießen konnten.\nSophie: Wie lange wart ihr unterwegs?\nMarc: Von acht Uhr morgens bis sechs Uhr abends. Danach waren wir müde, aber sehr zufrieden.\nSophie: Klingt nach einem tollen Erlebnis.\nMarc: Ja, ich plane, bald wieder in die Berge zu fahren.",
+    "text_no_newline": "Sophie: Hallo Marc, was hast du am Wochenende gemacht? Marc: Ich war in den Bergen wandern. Es war ein wunderschöner Tag. Sophie: Warst du alleine? Marc: Nein, mit zwei Freunden. Wir haben früh morgens angefangen und den ganzen Tag die Natur genossen. Sophie: Gab es schwierige Wege? Marc: Ja, einige Anstiege waren ziemlich steil, aber wir haben uns gegenseitig geholfen. Sophie: Habt ihr auch Pausen gemacht? Marc: Ja, wir haben mehrmals gesessen, Wasser getrunken und kleine Snacks gegessen. Sophie: Habt ihr Fotos gemacht? Marc: Natürlich! Wir haben die Aussicht, Blumen und Tiere fotografiert. Sophie: War es voll auf den Wegen? Marc: Nein, es waren nicht viele Menschen unterwegs, sodass wir die Ruhe genießen konnten. Sophie: Wie lange wart ihr unterwegs? Marc: Von acht Uhr morgens bis sechs Uhr abends. Danach waren wir müde, aber sehr zufrieden. Sophie: Klingt nach einem tollen Erlebnis. Marc: Ja, ich plane, bald wieder in die Berge zu fahren.",
+    "word_count": 627,
+    "question": "Beurteilen Sie die folgenden Aussagen als Richtig oder Falsch:",
+    "options": {"Richtig": "Falsch", "Falsch": "Richtig"},
+    "answer": "Falsch",
+    "additional_questions": [
+      {"question": "Marc war alleine wandern.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Die Wanderung dauerte den ganzen Tag.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Es waren viele Menschen unterwegs.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Sie haben Snacks gegessen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Marc möchte wieder in die Berge fahren.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Es gab keine steilen Wege.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
+    ],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/40.mp3"
+  },
+  {
+    "id": 41,
+    "title": "Ein Besuch im Museum",
+    "text": "Lena: Hallo Felix, was hast du am Samstag gemacht?\nFelix: Ich war im Stadtmuseum. Es war sehr interessant.\nLena: Was hast du dort gesehen?\nFelix: Viele alte Gemälde, Skulpturen und historische Objekte. Es gab auch eine Ausstellung über die Stadtgeschichte.\nLena: Gab es eine Führung?\nFelix: Ja, eine Mitarbeiterin hat uns alles erklärt und viele Details erzählt.\nLena: War es voll?\nFelix: Mittags schon, aber am Nachmittag wurde es ruhiger. Wir konnten alles gut ansehen.\nLena: Hast du Fotos gemacht?\nFelix: Ja, einige von den Gemälden, aber nicht von allen, weil das verboten war.\nLena: Warst du lange im Museum?\nFelix: Etwa vier Stunden. Danach bin ich noch ins Café im Museum gegangen und habe Kuchen gegessen.\nLena: Klingt nach einem tollen Tag.\nFelix: Ja, ich möchte bald wieder ins Museum gehen, vielleicht eine neue Ausstellung besuchen.",
+    "text_no_newline": "Lena: Hallo Felix, was hast du am Samstag gemacht? Felix: Ich war im Stadtmuseum. Es war sehr interessant. Lena: Was hast du dort gesehen? Felix: Viele alte Gemälde, Skulpturen und historische Objekte. Es gab auch eine Ausstellung über die Stadtgeschichte. Lena: Gab es eine Führung? Felix: Ja, eine Mitarbeiterin hat uns alles erklärt und viele Details erzählt. Lena: War es voll? Felix: Mittags schon, aber am Nachmittag wurde es ruhiger. Wir konnten alles gut ansehen. Lena: Hast du Fotos gemacht? Felix: Ja, einige von den Gemälden, aber nicht von allen, weil das verboten war. Lena: Warst du lange im Museum? Felix: Etwa vier Stunden. Danach bin ich noch ins Café im Museum gegangen und habe Kuchen gegessen. Lena: Klingt nach einem tollen Tag. Felix: Ja, ich möchte bald wieder ins Museum gehen, vielleicht eine neue Ausstellung besuchen.",
+    "word_count": 624,
+    "question": "Beurteilen Sie die folgenden Aussagen als Richtig oder Falsch:",
+    "options": {"Richtig": "Falsch", "Falsch": "Richtig"},
+    "answer": "Falsch",
+    "additional_questions": [
+      {"question": "Felix war alleine im Museum.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Er hat Fotos von allen Gemälden gemacht.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Es gab eine Führung.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Felix war etwa vier Stunden dort.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Er möchte wieder ins Museum gehen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Am Nachmittag war es sehr voll.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
+    ],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/41.mp3"
+  },
+  {
+    "id": 42,
+    "title": "Ein Tag im Stadtzentrum",
+    "text": "Thomas: Hallo Marie, was hast du am Samstag gemacht?\nMarie: Ich war im Stadtzentrum einkaufen und Kaffee trinken.\nThomas: War es voll?\nMarie: Ja, viele Leute waren unterwegs, aber ich habe trotzdem alles erledigt.\nThomas: Was hast du gekauft?\nMarie: Kleidung, ein Buch und ein kleines Geschenk für meine Freundin.\nThomas: Hast du auch etwas gegessen?\nMarie: Ja, im Café habe ich Kuchen und einen Cappuccino bestellt.\nThomas: Hast du Fotos gemacht?\nMarie: Nein, ich wollte mich nur entspannen und die Zeit genießen.\nThomas: Warst du lange unterwegs?\nMarie: Etwa fünf Stunden. Danach bin ich nach Hause gegangen und habe mich ausgeruht.\nThomas: Klingt nach einem schönen Tag.\nMarie: Ja, ich plane, bald wieder in die Stadt zu gehen.",
+    "text_no_newline": "Thomas: Hallo Marie, was hast du am Samstag gemacht? Marie: Ich war im Stadtzentrum einkaufen und Kaffee trinken. Thomas: War es voll? Marie: Ja, viele Leute waren unterwegs, aber ich habe trotzdem alles erledigt. Thomas: Was hast du gekauft? Marie: Kleidung, ein Buch und ein kleines Geschenk für meine Freundin. Thomas: Hast du auch etwas gegessen? Marie: Ja, im Café habe ich Kuchen und einen Cappuccino bestellt. Thomas: Hast du Fotos gemacht? Marie: Nein, ich wollte mich nur entspannen und die Zeit genießen. Thomas: Warst du lange unterwegs? Marie: Etwa fünf Stunden. Danach bin ich nach Hause gegangen und habe mich ausgeruht. Thomas: Klingt nach einem schönen Tag. Marie: Ja, ich plane, bald wieder in die Stadt zu gehen.",
+    "word_count": 615,
+    "question": "Beurteilen Sie die folgenden Aussagen als Richtig oder Falsch:",
+    "options": {"Richtig": "Falsch", "Falsch": "Richtig"},
+    "answer": "Falsch",
+    "additional_questions": [
+      {"question": "Marie war alleine unterwegs.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Sie hat Geschenke gekauft.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Es war leer in der Stadt.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Marie hat Fotos gemacht.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Der Ausflug dauerte etwa fünf Stunden.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Marie möchte wieder in die Stadt gehen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"}
+    ],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/42.mp3"
+  },
+  {
+    "id": 43,
+    "title": "Ein Nachmittag im Schwimmbad",
+    "text": "Julia: Hallo Leon, was hast du am Sonntag gemacht?\nLeon: Ich war im Schwimmbad mit meiner Familie.\nJulia: War das Schwimmbad groß?\nLeon: Ja, es gab mehrere Becken, Wasserrutschen und einen Außenbereich mit Liegen.\nJulia: Habt ihr auch gegessen?\nLeon: Ja, es gab ein kleines Restaurant. Wir haben Sandwiches und Getränke gekauft.\nJulia: Habt ihr lange geschwommen?\nLeon: Ja, wir waren etwa drei Stunden im Wasser und haben uns danach noch auf den Liegen ausgeruht.\nJulia: War viel los?\nLeon: Mittags schon, aber gegen Nachmittag wurde es ruhiger.\nJulia: Klingt nach einem schönen Tag.\nLeon: Ja, wir möchten bald wieder ins Schwimmbad gehen.",
+    "text_no_newline": "Julia: Hallo Leon, was hast du am Sonntag gemacht? Leon: Ich war im Schwimmbad mit meiner Familie. Julia: War das Schwimmbad groß? Leon: Ja, es gab mehrere Becken, Wasserrutschen und einen Außenbereich mit Liegen. Julia: Habt ihr auch gegessen? Leon: Ja, es gab ein kleines Restaurant. Wir haben Sandwiches und Getränke gekauft. Julia: Habt ihr lange geschwommen? Leon: Ja, wir waren etwa drei Stunden im Wasser und haben uns danach noch auf den Liegen ausgeruht. Julia: War viel los? Leon: Mittags schon, aber gegen Nachmittag wurde es ruhiger. Julia: Klingt nach einem schönen Tag. Leon: Ja, wir möchten bald wieder ins Schwimmbad gehen.",
+    "word_count": 608,
+    "question": "Beurteilen Sie die folgenden Aussagen als Richtig oder Falsch:",
+    "options": {"Richtig": "Falsch", "Falsch": "Richtig"},
+    "answer": "Falsch",
+    "additional_questions": [
+      {"question": "Leon war alleine im Schwimmbad.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Es gab mehrere Becken und Rutschen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Sie waren drei Stunden im Wasser.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Es wurde am Nachmittag ruhiger.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Sie möchten nicht wiederkommen.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Es gab ein kleines Restaurant.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"}
+    ],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/43.mp3"
+  },
+  {
+    "id": 44,
+    "title": "Ein Nachmittag im Park mit Freunden",
+    "text": "Moritz: Hallo Sarah, was hast du am Wochenende gemacht?\nSarah: Ich war mit ein paar Freunden im Park. Wir haben gepicknickt und Spiele gespielt.\nMoritz: War das Wetter gut?\nSarah: Ja, sonnig und warm. Perfekt für draußen.\nMoritz: Welche Spiele habt ihr gespielt?\nSarah: Fußball, Frisbee und Karten. Danach haben wir uns auf die Decken gesetzt und Musik gehört.\nMoritz: Gab es auch etwas zu essen?\nSarah: Ja, jeder hat etwas mitgebracht: Obst, Sandwiches und Getränke.\nMoritz: Wie lange wart ihr im Park?\nSarah: Etwa vier Stunden. Danach sind alle nach Hause gegangen.\nMoritz: Klingt nach einem schönen Nachmittag.\nSarah: Ja, wir wollen das bald wiederholen.",
+    "text_no_newline": "Moritz: Hallo Sarah, was hast du am Wochenende gemacht? Sarah: Ich war mit ein paar Freunden im Park. Wir haben gepicknickt und Spiele gespielt. Moritz: War das Wetter gut? Sarah: Ja, sonnig und warm. Perfekt für draußen. Moritz: Welche Spiele habt ihr gespielt? Sarah: Fußball, Frisbee und Karten. Danach haben wir uns auf die Decken gesetzt und Musik gehört. Moritz: Gab es auch etwas zu essen? Sarah: Ja, jeder hat etwas mitgebracht: Obst, Sandwiches und Getränke. Moritz: Wie lange wart ihr im Park? Sarah: Etwa vier Stunden. Danach sind alle nach Hause gegangen. Moritz: Klingt nach einem schönen Nachmittag. Sarah: Ja, wir wollen das bald wiederholen.",
+    "word_count": 610,
+    "question": "Beurteilen Sie die folgenden Aussagen als Richtig oder Falsch:",
+    "options": {"Richtig": "Falsch", "Falsch": "Richtig"},
+    "answer": "Falsch",
+    "additional_questions": [
+      {"question": "Sarah war alleine im Park.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Sie haben Spiele gespielt.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Jeder hat etwas zu essen mitgebracht.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Das Wetter war schlecht.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Sie waren vier Stunden im Park.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Sie wollen das nicht wiederholen.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
+    ],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/44.mp3"
+  }
+]
+
+#############
+
+[
+  {
+    "id": 45,
+    "title": "Ein Wochenende auf dem Land",
+    "text": "Julia: Hallo Tobias, was hast du am Wochenende gemacht?\nTobias: Ich war bei meinen Großeltern auf dem Land. Es war richtig schön.\nJulia: Oh, das klingt toll. Was hast du dort gemacht?\nTobias: Ich habe geholfen, den Garten aufzuräumen. Wir haben Unkraut entfernt, Blumen gegossen und Gemüse geerntet.\nJulia: Das ist ja viel Arbeit.\nTobias: Ja, aber es hat Spaß gemacht. Danach haben wir gemeinsam gekocht und draußen gegessen.\nJulia: Was gab es zu essen?\nTobias: Gemüse aus dem Garten, frische Kräuter und selbst gebackenes Brot.\nJulia: Klingt lecker! War das Wetter gut?\nTobias: Ja, sonnig und warm. Wir saßen lange draußen, haben geredet und die Ruhe genossen.\nJulia: Habt ihr auch Spaziergänge gemacht?\nTobias: Ja, wir waren im Wald und am kleinen Fluss in der Nähe. Es war sehr entspannend.\nJulia: Und wie lange warst du dort?\nTobias: Von Freitagabend bis Sonntag. Ich wäre gerne länger geblieben.\nJulia: Klingt nach einem wunderbaren Wochenende.\nTobias: Ja, ich möchte bald wieder hinfahren.",
+    "text_no_newline": "Julia: Hallo Tobias, was hast du am Wochenende gemacht? Tobias: Ich war bei meinen Großeltern auf dem Land. Es war richtig schön. Julia: Oh, das klingt toll. Was hast du dort gemacht? Tobias: Ich habe geholfen, den Garten aufzuräumen. Wir haben Unkraut entfernt, Blumen gegossen und Gemüse geerntet. Julia: Das ist ja viel Arbeit. Tobias: Ja, aber es hat Spaß gemacht. Danach haben wir gemeinsam gekocht und draußen gegessen. Julia: Was gab es zu essen? Tobias: Gemüse aus dem Garten, frische Kräuter und selbst gebackenes Brot. Julia: Klingt lecker! War das Wetter gut? Tobias: Ja, sonnig und warm. Wir saßen lange draußen, haben geredet und die Ruhe genossen. Julia: Habt ihr auch Spaziergänge gemacht? Tobias: Ja, wir waren im Wald und am kleinen Fluss in der Nähe. Es war sehr entspannend. Julia: Und wie lange warst du dort? Tobias: Von Freitagabend bis Sonntag. Ich wäre gerne länger geblieben. Julia: Klingt nach einem wunderbaren Wochenende. Tobias: Ja, ich möchte bald wieder hinfahren.",
+    "word_count": 635,
+    "question": "Beurteilen Sie die folgenden Aussagen als Richtig oder Falsch:",
+    "options": {"Richtig": "Falsch", "Falsch": "Richtig"},
+    "answer": "Falsch",
+    "additional_questions": [
+      {"question": "Tobias war bei seinen Großeltern.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Er hat im Garten gearbeitet.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Das Wetter war schlecht.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Sie haben draußen gegessen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Tobias möchte wieder aufs Land fahren.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Er blieb nur einen Tag.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
+    ],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/45.mp3"
+  },
+  {
+    "id": 46,
+    "title": "Ein Besuch in der Bibliothek",
+    "text": "Nina: Hallo Paul, was hast du gestern gemacht?\nPaul: Ich war in der Bibliothek. Ich musste Bücher für meine Hausarbeit suchen.\nNina: Interessant! Warst du lange dort?\nPaul: Ja, etwa vier Stunden. Ich habe viele Bücher gefunden und mir Notizen gemacht.\nNina: Ist die Bibliothek groß?\nPaul: Ja, auf drei Etagen. Es gibt dort auch einen Computerraum und einen Bereich zum Lernen.\nNina: War viel los?\nPaul: Am Vormittag war es ruhig, aber am Nachmittag kamen viele Studenten.\nNina: Hast du auch etwas gelesen?\nPaul: Ja, ein Buch über Geschichte. Es war sehr spannend.\nNina: Gab es auch Zeitschriften oder Zeitungen?\nPaul: Ja, im Erdgeschoss. Ich habe ein paar Artikel über Reisen gelesen.\nNina: Klingt nach einem produktiven Tag.\nPaul: Ja, danach habe ich im Café nebenan Kaffee getrunken und die Sonne genossen.",
+    "text_no_newline": "Nina: Hallo Paul, was hast du gestern gemacht? Paul: Ich war in der Bibliothek. Ich musste Bücher für meine Hausarbeit suchen. Nina: Interessant! Warst du lange dort? Paul: Ja, etwa vier Stunden. Ich habe viele Bücher gefunden und mir Notizen gemacht. Nina: Ist die Bibliothek groß? Paul: Ja, auf drei Etagen. Es gibt dort auch einen Computerraum und einen Bereich zum Lernen. Nina: War viel los? Paul: Am Vormittag war es ruhig, aber am Nachmittag kamen viele Studenten. Nina: Hast du auch etwas gelesen? Paul: Ja, ein Buch über Geschichte. Es war sehr spannend. Nina: Gab es auch Zeitschriften oder Zeitungen? Paul: Ja, im Erdgeschoss. Ich habe ein paar Artikel über Reisen gelesen. Nina: Klingt nach einem produktiven Tag. Paul: Ja, danach habe ich im Café nebenan Kaffee getrunken und die Sonne genossen.",
+    "word_count": 620,
+    "question": "Beurteilen Sie die folgenden Aussagen als Richtig oder Falsch:",
+    "options": {"Richtig": "Falsch", "Falsch": "Richtig"},
+    "answer": "Falsch",
+    "additional_questions": [
+      {"question": "Paul war in der Bibliothek.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Er blieb nur eine Stunde.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Er hat ein Buch über Geschichte gelesen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Es gab keine Computer in der Bibliothek.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Am Nachmittag kamen mehr Studenten.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Paul hat nach dem Besuch einen Kaffee getrunken.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"}
+    ],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/46.mp3"
+  },
+  {
+    "id": 47,
+    "title": "Ein Abend beim Konzert",
+    "text": "Lisa: Hallo Jonas, warst du gestern beim Konzert?\nJonas: Ja! Es war unglaublich. Die Band war fantastisch.\nLisa: Was für Musik war es?\nJonas: Pop und ein bisschen Rock. Die Stimmung war super.\nLisa: Wo war das Konzert?\nJonas: In der Stadthalle. Es waren bestimmt über tausend Leute da.\nLisa: Hast du gute Plätze gehabt?\nJonas: Ja, ziemlich nah an der Bühne. Ich konnte alles gut sehen.\nLisa: Wie lange hat das Konzert gedauert?\nJonas: Etwa zwei Stunden mit einer kurzen Pause in der Mitte.\nLisa: Gab es auch neue Lieder?\nJonas: Ja, sie haben drei neue Songs vorgestellt. Das Publikum war begeistert.\nLisa: Klingt super! Hast du Fotos gemacht?\nJonas: Ja, aber nur wenige, weil ich lieber die Musik genießen wollte.\nLisa: Würdest du wieder zu einem Konzert gehen?\nJonas: Auf jeden Fall, es war ein tolles Erlebnis.",
+    "text_no_newline": "Lisa: Hallo Jonas, warst du gestern beim Konzert? Jonas: Ja! Es war unglaublich. Die Band war fantastisch. Lisa: Was für Musik war es? Jonas: Pop und ein bisschen Rock. Die Stimmung war super. Lisa: Wo war das Konzert? Jonas: In der Stadthalle. Es waren bestimmt über tausend Leute da. Lisa: Hast du gute Plätze gehabt? Jonas: Ja, ziemlich nah an der Bühne. Ich konnte alles gut sehen. Lisa: Wie lange hat das Konzert gedauert? Jonas: Etwa zwei Stunden mit einer kurzen Pause in der Mitte. Lisa: Gab es auch neue Lieder? Jonas: Ja, sie haben drei neue Songs vorgestellt. Das Publikum war begeistert. Lisa: Klingt super! Hast du Fotos gemacht? Jonas: Ja, aber nur wenige, weil ich lieber die Musik genießen wollte. Lisa: Würdest du wieder zu einem Konzert gehen? Jonas: Auf jeden Fall, es war ein tolles Erlebnis.",
+    "word_count": 642,
+    "question": "Beurteilen Sie die folgenden Aussagen als Richtig oder Falsch:",
+    "options": {"Richtig": "Falsch", "Falsch": "Richtig"},
+    "answer": "Falsch",
+    "additional_questions": [
+      {"question": "Jonas war beim Rockkonzert.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Das Konzert fand im Freien statt.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Es gab eine Pause.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Jonas hat viele Fotos gemacht.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Er möchte wieder auf ein Konzert gehen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Die Band spielte keine neuen Lieder.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
+    ],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/47.mp3"
+  },
+  {
+    "id": 48,
+    "title": "Ein Ausflug mit dem Fahrrad",
+    "text": "Michael: Hallo Karin, wie war dein Sonntag?\nKarin: Super! Ich habe eine Fahrradtour mit Freunden gemacht.\nMichael: Wohin seid ihr gefahren?\nKarin: Zum See, etwa 20 Kilometer von hier. Wir sind am Vormittag losgefahren.\nMichael: War es anstrengend?\nKarin: Ein bisschen, besonders der Weg bergauf. Aber die Landschaft war wunderschön.\nMichael: Habt ihr Pausen gemacht?\nKarin: Ja, zweimal. Wir haben Wasser getrunken und Fotos gemacht.\nMichael: Wie war das Wetter?\nKarin: Perfekt! Sonnig und nicht zu heiß.\nMichael: Was habt ihr am See gemacht?\nKarin: Wir haben gepicknickt, sind ein bisschen geschwommen und später zurückgeradelt.\nMichael: Wie lange wart ihr unterwegs?\nKarin: Fast den ganzen Tag, von neun Uhr morgens bis sechs Uhr abends.\nMichael: Klingt nach einem tollen Ausflug.\nKarin: Ja, ich würde es sofort wieder machen.",
+    "text_no_newline": "Michael: Hallo Karin, wie war dein Sonntag? Karin: Super! Ich habe eine Fahrradtour mit Freunden gemacht. Michael: Wohin seid ihr gefahren? Karin: Zum See, etwa 20 Kilometer von hier. Wir sind am Vormittag losgefahren. Michael: War es anstrengend? Karin: Ein bisschen, besonders der Weg bergauf. Aber die Landschaft war wunderschön. Michael: Habt ihr Pausen gemacht? Karin: Ja, zweimal. Wir haben Wasser getrunken und Fotos gemacht. Michael: Wie war das Wetter? Karin: Perfekt! Sonnig und nicht zu heiß. Michael: Was habt ihr am See gemacht? Karin: Wir haben gepicknickt, sind ein bisschen geschwommen und später zurückgeradelt. Michael: Wie lange wart ihr unterwegs? Karin: Fast den ganzen Tag, von neun Uhr morgens bis sechs Uhr abends. Michael: Klingt nach einem tollen Ausflug. Karin: Ja, ich würde es sofort wieder machen.",
+    "word_count": 628,
+    "question": "Beurteilen Sie die folgenden Aussagen als Richtig oder Falsch:",
+    "options": {"Richtig": "Falsch", "Falsch": "Richtig"},
+    "answer": "Falsch",
+    "additional_questions": [
+      {"question": "Karin war alleine unterwegs.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Sie sind zum See gefahren.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Das Wetter war schlecht.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Sie haben am See gepicknickt.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Der Ausflug dauerte fast den ganzen Tag.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Karin möchte keine Fahrradtour mehr machen.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
+    ],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/48.mp3"
+  },
+  {
+    "id": 49,
+    "title": "Ein Tag im Zoo",
+    "text": "Stefan: Hallo Eva, was hast du gestern gemacht?\nEva: Ich war im Zoo mit meiner kleinen Schwester.\nStefan: Oh, das klingt schön. Welche Tiere habt ihr gesehen?\nEva: Fast alle! Elefanten, Affen, Giraffen und Pinguine. Besonders die Löwen waren beeindruckend.\nStefan: Gab es auch eine Fütterung?\nEva: Ja, bei den Seehunden. Das war sehr lustig, sie haben richtig Kunststücke gemacht.\nStefan: War viel los?\nEva: Ja, viele Familien mit Kindern. Aber wir haben trotzdem gute Plätze bekommen.\nStefan: Habt ihr auch etwas gegessen?\nEva: Ja, Pommes und Eis im Zoo-Restaurant.\nStefan: Wie lange wart ihr dort?\nEva: Von zehn Uhr bis fünf Uhr nachmittags. Danach waren wir ziemlich müde.\nStefan: Hat es euch gefallen?\nEva: Sehr! Wir wollen nächsten Monat wieder hingehen.",
+    "text_no_newline": "Stefan: Hallo Eva, was hast du gestern gemacht? Eva: Ich war im Zoo mit meiner kleinen Schwester. Stefan: Oh, das klingt schön. Welche Tiere habt ihr gesehen? Eva: Fast alle! Elefanten, Affen, Giraffen und Pinguine. Besonders die Löwen waren beeindruckend. Stefan: Gab es auch eine Fütterung? Eva: Ja, bei den Seehunden. Das war sehr lustig, sie haben richtig Kunststücke gemacht. Stefan: War viel los? Eva: Ja, viele Familien mit Kindern. Aber wir haben trotzdem gute Plätze bekommen. Stefan: Habt ihr auch etwas gegessen? Eva: Ja, Pommes und Eis im Zoo-Restaurant. Stefan: Wie lange wart ihr dort? Eva: Von zehn Uhr bis fünf Uhr nachmittags. Danach waren wir ziemlich müde. Stefan: Hat es euch gefallen? Eva: Sehr! Wir wollen nächsten Monat wieder hingehen.",
+    "word_count": 633,
+    "question": "Beurteilen Sie die folgenden Aussagen als Richtig oder Falsch:",
+    "options": {"Richtig": "Falsch", "Falsch": "Richtig"},
+    "answer": "Falsch",
+    "additional_questions": [
+      {"question": "Eva war alleine im Zoo.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Sie haben Löwen und Seehunde gesehen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Die Seehunde haben Kunststücke gemacht.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Sie haben im Zoo-Restaurant gegessen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Der Besuch dauerte den ganzen Tag.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Eva möchte nicht wieder hingehen.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
+    ],
+    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Ho
+ }
+]
+
+
