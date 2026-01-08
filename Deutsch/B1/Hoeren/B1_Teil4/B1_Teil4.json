@@ -147,7 +147,7 @@
         "answer": "Lisa Meier"
       }
     ],
-    "audio_url": "https://example.com/audio/freizeit.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil4/3.mp3"
   },
   {
     "id": 5,
@@ -208,7 +208,7 @@
         "answer": "Moderator"
       }
     ],
-    "audio_url": "https://example.com/audio/ernaehrung.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil4/3.mp3"
   }
 ,
   {
@@ -270,7 +270,7 @@
         "answer": "Moderator"
       }
     ],
-    "audio_url": "https://example.com/audio/umwelt.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil4/3.mp3"
   },
   {
     "id": 7,
@@ -331,7 +331,7 @@
         "answer": "Peter Schmitt"
       }
     ],
-    "audio_url": "https://example.com/audio/mobilitaet.mp3"
+    ""audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil4/3.mp3"
   },
   {
     "id": 8,
@@ -392,7 +392,7 @@
         "answer": "David Klein"
       }
     ],
-    "audio_url": "https://example.com/audio/digitales_lernen.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil4/3.mp3"
   }
 ,
   {
@@ -454,7 +454,7 @@
         "answer": "Michael Krause"
       }
     ],
-    "audio_url": "https://example.com/audio/haustiere.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil4/3.mp3"
   },
   {
     "id": 10,
@@ -515,7 +515,7 @@
         "answer": "Moderator"
       }
     ],
-    "audio_url": "https://example.com/audio/sportvereine.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil4/3.mp3"
   },
   {
     "id": 11,
@@ -576,7 +576,7 @@
         "answer": "Moderator"
       }
     ],
-    "audio_url": "https://example.com/audio/ferienreisen.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil4/3.mp3"
   }
 ,
   {
@@ -638,7 +638,7 @@
         "answer": "Nina Sommer"
       }
     ],
-    "audio_url": "https://example.com/audio/homeoffice.mp3"
+   "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil4/3.mp3"
   },
   {
     "id": 13,
@@ -699,7 +699,7 @@
         "answer": "Laura Benz"
       }
     ],
-    "audio_url": "https://example.com/audio/ehrenamt.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil4/3.mp3"
   }
 ,
   {
@@ -761,7 +761,7 @@
         "answer": "Claudia Steiner"
       }
     ],
-    "audio_url": "https://example.com/audio/freizeit.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil4/3.mp3"
   },
   {
     "id": 18,
@@ -822,7 +822,7 @@
         "answer": "Elena Graf"
       }
     ],
-    "audio_url": "https://example.com/audio/nachhaltige_mode.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil4/3.mp3"
   }
 ,
   {
@@ -884,7 +884,7 @@
         "answer": "Moderator"
       }
     ],
-    "audio_url": "https://example.com/audio/digitale_medien.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil4/3.mp3"
   },
   {
     "id": 20,
@@ -945,7 +945,7 @@
         "answer": "Moderator"
       }
     ],
-    "audio_url": "https://example.com/audio/arbeitsernaehrung.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil4/3.mp3"
   },
   {
     "id": 21,
@@ -1006,7 +1006,7 @@
         "answer": "Aylin Demir"
       }
     ],
-    "audio_url": "https://example.com/audio/kultur.mp3"
+   "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil4/3.mp3"
   }
 ,
   {
@@ -1068,7 +1068,7 @@
         "answer": "Moderator"
       }
     ],
-    "audio_url": "https://example.com/audio/beruf_familie.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil4/3.mp3"
   },
   {
     "id": 23,
@@ -1129,7 +1129,7 @@
         "answer": "Moderator"
       }
     ],
-    "audio_url": "https://example.com/audio/reisen_budget.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil4/3.mp3"
   }
 ,
   {
@@ -1191,7 +1191,7 @@
         "answer": "Moderator"
       }
     ],
-    "audio_url": "https://example.com/audio/umweltschutz.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil4/3.mp3"
   },
   {
     "id": 25,
@@ -1252,7 +1252,7 @@
         "answer": "Moderator"
       }
     ],
-    "audio_url": "https://example.com/audio/lernen_im_alter.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil4/3.mp3"
   },
   {
     "id": 26,
@@ -1313,7 +1313,7 @@
         "answer": "Moderator"
       }
     ],
-    "audio_url": "https://example.com/audio/ernaehrung_kinder.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil4/3.mp3"
   }
 ,
   {
@@ -1375,7 +1375,7 @@
         "answer": "Lara König"
       }
     ],
-    "audio_url": "https://example.com/audio/soziale_medien.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil4/3.mp3"
   },
   {
     "id": 30,
@@ -1436,7 +1436,7 @@
         "answer": "Moderator"
       }
     ],
-    "audio_url": "https://example.com/audio/schlaf.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil4/3.mp3"
   },
   {
     "id": 31,
@@ -1497,7 +1497,7 @@
         "answer": "Moderator"
       }
     ],
-    "audio_url": "https://example.com/audio/gemeinschaftsgaerten.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil4/3.mp3"
   }
 ,
   {
@@ -1559,7 +1559,7 @@
         "answer": "Clara Wagner"
       }
     ],
-    "audio_url": "https://example.com/audio/digitalisierung_schule.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil4/3.mp3"
   },
   {
     "id": 35,
@@ -1620,7 +1620,7 @@
         "answer": "Moderator"
       }
     ],
-    "audio_url": "https://example.com/audio/haustiere_stadt.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil4/3.mp3"
   }
 ,
   {
@@ -1682,7 +1682,7 @@
         "answer": "Moderator"
       }
     ],
-    "audio_url": "https://example.com/audio/klimawandel_alltag.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil4/3.mp3"
   },
   {
     "id": 40,
@@ -1743,7 +1743,7 @@
         "answer": "Moderator"
       }
     ],
-    "audio_url": "https://example.com/audio/ehrenamt_krankenhaus.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil4/3.mp3"
   },
   {
     "id": 41,
@@ -1804,7 +1804,7 @@
         "answer": "Moderator"
       }
     ],
-    "audio_url": "https://example.com/audio/buecher_ebooks.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil4/3.mp3"
   }
 ]
 
