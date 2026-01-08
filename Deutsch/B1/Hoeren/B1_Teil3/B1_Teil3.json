@@ -291,7 +291,7 @@
       {"question": "Jonas schenkte seiner Tante ein Fotoalbum.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
       {"question": "Die Stimmung war kalt und angespannt.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/17.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/16.mp3"
   }
 ,
   {
@@ -311,7 +311,7 @@
       {"question": "Der Parkbesuch dauerte nur zwei Stunden.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
       {"question": "Paul möchte wieder in den Freizeitpark gehen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/18.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/16.mp3"
   },
   {
     "id": 19,
@@ -330,7 +330,7 @@
       {"question": "Tom möchte nächstes Jahr einen Fortgeschrittenenkurs besuchen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
       {"question": "Er macht keine Hausaufgaben.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/19.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/16.mp3"
   }
 ,
   {
@@ -350,7 +350,7 @@
       {"question": "Der Ausflug dauerte bis abends.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
       {"question": "Sie planten ein Lagerfeuer.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/20.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/16.mp3"
   },
   {
     "id": 21,
@@ -369,7 +369,7 @@
       {"question": "Max bekam Leckerchen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
       {"question": "Laura will Max gesund halten.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/21.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/16.mp3"
   }
 ,
   {
@@ -389,7 +389,7 @@
       {"question": "Am Abend haben sie gekocht und gespielt.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
       {"question": "Anna plant keinen weiteren Ausflug.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/25.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/16.mp3"
   },
   {
     "id": 26,
@@ -408,7 +408,7 @@
       {"question": "Die Kollegen sind freundlich.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
       {"question": "Sie plant sofort für Jahre dort zu bleiben.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/26.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/16.mp3"
   },
   {
     "id": 27,
@@ -427,7 +427,7 @@
       {"question": "Nachmittags war es ruhiger.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
       {"question": "Lukas plant keinen weiteren Besuch.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/27.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/16.mp3"
   },
   {
     "id": 28,
@@ -446,7 +446,7 @@
       {"question": "Der Spaziergang dauerte ungefähr zwei Stunden.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
       {"question": "Julia möchte in Zukunft weniger spazieren gehen.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/28.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/16.mp3"
   },
   {
     "id": 29,
@@ -465,7 +465,7 @@
       {"question": "Alle waren am Ende müde aber glücklich.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
       {"question": "Clara möchte nicht mehr ins Schwimmbad gehen.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/29.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/16.mp3"
   }
 ,
   {
@@ -485,7 +485,7 @@
       {"question": "Der Aufenthalt dauerte von morgens bis abends.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
       {"question": "Tom möchte nicht wiederkommen.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/30.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/16.mp3"
   },
   {
     "id": 31,
@@ -504,7 +504,7 @@
       {"question": "Paul möchte den Film noch einmal sehen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
       {"question": "Er hat keinen Snack dabei gehabt.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/31.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/16.mp3"
   },
   {
     "id": 32,
@@ -523,7 +523,7 @@
       {"question": "Er möchte öfter in den Park gehen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
       {"question": "Es war sehr voll und laut.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/32.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/16.mp3"
   },
   {
     "id": 33,
@@ -542,7 +542,7 @@
       {"question": "Max möchte nicht wiederkommen.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
       {"question": "Sie haben Fotos gemacht.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/33.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/16.mp3"
   },
   {
     "id": 34,
@@ -561,7 +561,7 @@
       {"question": "Es gab genug Platz am Strand.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
       {"question": "Laura möchte nicht wieder ans Meer fahren.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/34.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/16.mp3"
   }
 ,
   {
@@ -581,7 +581,7 @@
       {"question": "Er möchte wiederkommen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
       {"question": "Es gab keine Führung.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/35.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/16.mp3"
   },
   {
     "id": 36,
@@ -600,7 +600,7 @@
       {"question": "Der Ausflug dauerte fast den ganzen Tag.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
       {"question": "Laura möchte nicht wiederkommen.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/36.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/16.mp3"
   },
   {
     "id": 37,
@@ -619,7 +619,7 @@
       {"question": "Tom möchte den Spaziergang wiederholen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
       {"question": "Sie gingen direkt nach Hause.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/37.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/16.mp3"
   },
   {
     "id": 38,
@@ -638,7 +638,7 @@
       {"question": "Ben möchte wieder ins Theater gehen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
       {"question": "Das Theater war leer.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/38.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/16.mp3"
   },
   {
     "id": 39,
@@ -657,7 +657,7 @@
       {"question": "Sie möchten nicht wiederkommen.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
       {"question": "Sie haben Pommes und Eis gegessen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/39.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/16.mp3"
   }
 ,
   {
@@ -677,7 +677,7 @@
       {"question": "Marc möchte wieder in die Berge fahren.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
       {"question": "Es gab keine steilen Wege.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/40.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/16.mp3"
   },
   {
     "id": 41,
@@ -696,7 +696,7 @@
       {"question": "Er möchte wieder ins Museum gehen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
       {"question": "Am Nachmittag war es sehr voll.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/41.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/16.mp3"
   },
   {
     "id": 42,
@@ -715,7 +715,7 @@
       {"question": "Der Ausflug dauerte etwa fünf Stunden.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
       {"question": "Marie möchte wieder in die Stadt gehen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/42.mp3"
+   "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/16.mp3"
   },
   {
     "id": 43,
@@ -734,7 +734,7 @@
       {"question": "Sie möchten nicht wiederkommen.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
       {"question": "Es gab ein kleines Restaurant.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/43.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/16.mp3"
   },
   {
     "id": 44,
@@ -753,7 +753,7 @@
       {"question": "Sie waren vier Stunden im Park.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
       {"question": "Sie wollen das nicht wiederholen.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/44.mp3"
+   "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/16.mp3"
   }
 ,
   {
@@ -773,7 +773,7 @@
       {"question": "Tobias möchte wieder aufs Land fahren.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
       {"question": "Er blieb nur einen Tag.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/45.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/16.mp3"
   },
   {
     "id": 46,
@@ -792,7 +792,7 @@
       {"question": "Am Nachmittag kamen mehr Studenten.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
       {"question": "Paul hat nach dem Besuch einen Kaffee getrunken.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/46.mp3"
+   "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/16.mp3"
   },
   {
     "id": 47,
@@ -811,7 +811,7 @@
       {"question": "Er möchte wieder auf ein Konzert gehen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
       {"question": "Die Band spielte keine neuen Lieder.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/47.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/16.mp3"
   },
   {
     "id": 48,
@@ -830,7 +830,7 @@
       {"question": "Der Ausflug dauerte fast den ganzen Tag.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
       {"question": "Karin möchte keine Fahrradtour mehr machen.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/48.mp3"
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/16.mp3"
   },
   {
     "id": 49,
@@ -849,7 +849,7 @@
       {"question": "Der Besuch dauerte den ganzen Tag.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
       {"question": "Eva möchte nicht wieder hingehen.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
     ],
-    "audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/48.mp3"
+   "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/16.mp3"
  },
 ]
 
