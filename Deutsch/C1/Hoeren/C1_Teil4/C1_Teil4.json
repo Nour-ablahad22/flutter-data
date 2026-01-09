@@ -39,7 +39,7 @@
     { "question": "Was erfordert nachhaltiger Tourismus laut Text?", "options": { "a": "Zusammenarbeit von Individuen, Staat und Wirtschaft", "b": "Nur staatliche Kontrolle", "c": "Nur wirtschaftliche Planung" }, "answer": "a" },
     { "question": "Was ist das langfristige Ziel nachhaltigen Tourismus?", "options": { "a": "Positives Erlebnis für Mensch, Natur und Gesellschaft", "b": "Mehr Einnahmen für Hotels", "c": "Nur niedrige Preise" }, "answer": "a" }
   ],
-"audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil4/11.mp3"}
+"audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/C1/Hoeren/Audio/C1_Teil4/11.mp3"}
 ,{
   "id": 12,
   "title": "Medien und gesellschaftliche Verantwortung",
@@ -59,7 +59,7 @@
     { "question": "Wie können ethische Fragen im Journalismus behandelt werden?", "options": { "a": "Durch Wahrung von Persönlichkeitsrechten und Informationsrechten", "b": "Indem man keine Quellen angibt", "c": "Durch Vermeidung aller Berichterstattung" }, "answer": "a" },
     { "question": "Welche Maßnahmen sichern Qualitätsjournalismus?", "options": { "a": "Internationale Standards und unabhängige Aufsichten", "b": "Zensur und Kontrolle", "c": "Nur Werbeeinnahmen steigern" }, "answer": "a" }
   ],
-"audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil4/12.mp3"},{
+"audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/C1/Hoeren/Audio/C1_Teil4/12.mp3"},{
   "id": 13,
   "title": "Urbanisierung und Lebensqualität",
   "text": "Die Urbanisierung schreitet weltweit mit hoher Geschwindigkeit voran. Immer mehr Menschen ziehen in Städte auf der Suche nach Arbeit, Bildung und besseren Lebensbedingungen. Dieser Trend hat weitreichende Auswirkungen auf Infrastruktur, Umwelt und soziale Strukturen. Einerseits bieten Städte wirtschaftliche Chancen, kulturelle Vielfalt und ein umfangreiches Bildungs- und Freizeitangebot. Andererseits führen Bevölkerungsdichte, Verkehr, Luftverschmutzung und steigende Mietpreise zu Herausforderungen, die die Lebensqualität beeinträchtigen können. Stadtplanung und nachhaltige Architektur spielen daher eine zentrale Rolle. Intelligente Verkehrssysteme, Grünflächen, Energieeffizienz und soziale Infrastruktur sind entscheidend, um urbane Lebensqualität zu sichern. Beteiligung der Bürgerinnen und Bürger bei Planungsprozessen stärkt zudem die soziale Kohäsion und sorgt dafür, dass Entwicklungen den Bedürfnissen der Bewohner entsprechen. Gleichzeitig müssen Städte mit sozialen Ungleichheiten umgehen: Armut, Wohnungsknappheit und fehlende Zugangsmöglichkeiten zu Bildung oder Gesundheitsversorgung betreffen vor allem marginalisierte Gruppen. Innovative Konzepte wie Co-Working-Spaces, urbanes Gärtnern oder nachhaltige Mobilitätslösungen können die Lebensqualität erhöhen. Technologie bietet zusätzliche Chancen: Smart-City-Konzepte, digitale Informationssysteme und Sensoren zur Überwachung von Umweltparametern ermöglichen effizientere und umweltfreundlichere Städte. Dennoch sind technologische Lösungen allein nicht ausreichend. Nachhaltigkeit, soziale Verantwortung und Partizipation sind Schlüssel, um städtisches Leben lebenswert zu gestalten. Internationale Vergleiche zeigen, dass Städte, die auf integrative Planung, öffentliche Verkehrssysteme und Zugang zu Kultur und Bildung setzen, höhere Zufriedenheit bei ihren Bewohnern erzielen. Bildung und Gesundheitsversorgung bilden dabei die Basis für ein gesundes und produktives Leben. Gleichzeitig sollte die kulturelle Vielfalt nicht nur toleriert, sondern aktiv gefördert werden, da sie Innovation, Kreativität und gegenseitiges Verständnis unterstützt. Kritiker weisen darauf hin, dass Städte oft kurzfristige ökonomische Interessen über langfristige Lebensqualität stellen. Luxussanierungen, Gentrifizierung und exzessiver Tourismus können lokale Gemeinschaften verdrängen. Umso wichtiger ist eine Politik, die die Bedürfnisse aller Bewohner berücksichtigt, sozialen Wohnraum schafft und ökologische Standards wahrt. Zusammenfassend zeigt sich, dass Urbanisierung Chancen und Risiken zugleich bietet. Nur durch ganzheitliche Strategien, die Umwelt, Gesellschaft und Wirtschaft in Einklang bringen, kann die Lebensqualität in urbanen Zentren langfristig gesichert werden.",
@@ -78,7 +78,7 @@
     { "question": "Was ist laut Text entscheidend für nachhaltige Städte?", "options": { "a": "Integration von Umwelt, Gesellschaft und Wirtschaft", "b": "Nur Wirtschaftswachstum", "c": "Nur Technologie" }, "answer": "a" },
     { "question": "Was zeigt internationale Vergleiche laut Text?", "options": { "a": "Integrative Planung und Zugang zu Kultur steigern Zufriedenheit", "b": "Kulturelle Vielfalt schadet der Zufriedenheit", "c": "Nur Wirtschaft zählt" }, "answer": "a" }
   ],
-"audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil4/13.mp3"},{
+"audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/C1/Hoeren/Audio/C1_Teil4/13.mp3"},{
   "id": 14,
   "title": "Freiwilligenarbeit und soziales Engagement",
   "text": "Freiwilligenarbeit und soziales Engagement sind wichtige Säulen einer solidarischen Gesellschaft. Sie ermöglichen es Menschen, sich aktiv einzubringen, anderen zu helfen und gleichzeitig persönliche Kompetenzen zu entwickeln. In vielen Ländern sind Vereine, gemeinnützige Organisationen und soziale Projekte auf die Mithilfe freiwilliger Helfer angewiesen, um ihre Aufgaben zu erfüllen. Die Motivation für ehrenamtliches Engagement ist vielfältig: Einige möchten einen Beitrag zur Gesellschaft leisten, andere suchen soziale Kontakte oder persönliche Weiterentwicklung. Forschung zeigt, dass Freiwilligenarbeit nicht nur den Empfängern zugutekommt, sondern auch die Helfer selbst positiv beeinflusst. Sie steigert Lebenszufriedenheit, Selbstwertgefühl und soziale Vernetzung. In modernen Gesellschaften gewinnt ehrenamtliches Engagement zunehmend an Bedeutung, da staatliche Einrichtungen und soziale Dienste oft an Ressourcenbegrenzungen stoßen. Freiwillige können flexibel und innovativ auf gesellschaftliche Bedürfnisse reagieren, von der Unterstützung älterer Menschen bis hin zu Bildungsprojekten oder Umweltschutzinitiativen. Organisationen stehen jedoch vor Herausforderungen: Koordination, Schulung und langfristige Motivation der Freiwilligen sind entscheidend für nachhaltigen Erfolg. Auch gesellschaftliche Anerkennung und Wertschätzung spielen eine Rolle. Digitale Plattformen erleichtern heute die Vernetzung von Helfern, die Organisation von Projekten und die Kommunikation zwischen Beteiligten. Gleichzeitig stellt die digitale Welt neue Anforderungen: Datenschutz, Transparenz und ethische Verantwortung müssen beachtet werden. Bildungseinrichtungen tragen dazu bei, das Bewusstsein für gesellschaftliches Engagement früh zu fördern. Schulen und Universitäten integrieren zunehmend Projekte, bei denen Studierende aktiv teilnehmen und praktische Erfahrungen sammeln können. Politische Rahmenbedingungen unterstützen Engagement durch Förderprogramme, steuerliche Anreize oder gesetzliche Regelungen. Kritiker weisen jedoch darauf hin, dass Freiwilligenarbeit nicht die Aufgabe des Staates ersetzen darf, sondern ergänzend wirken sollte. Zusammenfassend zeigt sich, dass soziales Engagement eine Win-Win-Situation für Gesellschaft und Individuum darstellt. Es stärkt den sozialen Zusammenhalt, fördert demokratische Werte und ermöglicht persönliche Entwicklung. Eine Kultur des freiwilligen Mitwirkens ist somit ein zentraler Bestandteil lebendiger, resilenter Gemeinschaften.",
@@ -97,7 +97,7 @@
     { "question": "Was betonen Kritiker?", "options": { "a": "Freiwilligenarbeit darf staatliche Aufgaben nicht ersetzen", "b": "Sie ist überflüssig", "c": "Sie ist kostspielig" }, "answer": "a" },
     { "question": "Welche Wirkung hat soziales Engagement laut Text?", "options": { "a": "Stärkt sozialen Zusammenhalt und demokratische Werte", "b": "Nur individuelle Vorteile", "c": "Reduziert soziale Netzwerke" }, "answer": "a" }
   ],
-"audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil4/14.mp3"}
+"audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/C1/Hoeren/Audio/C1_Teil4/14.mp3"}
 ,
 {
   "id": 15,
@@ -117,7 +117,7 @@
     { "question": "Wie können inklusive Chancen entstehen?", "options": { "a": "Adaptive Systeme für Menschen mit Einschränkungen", "b": "Mehr Büroflächen", "c": "Weniger Arbeitszeiten" }, "answer": "a" },
     { "question": "Wer trägt Verantwortung für den Übergang?", "options": { "a": "Politik, Wirtschaft und Bildung", "b": "Nur Unternehmen", "c": "Nur Maschinenhersteller" }, "answer": "a" }
   ],
-"audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil4/15.mp3"}
+"audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/C1/Hoeren/Audio/C1_Teil4/15.mp3"}
 ,{
   "id": 16,
   "title": "Nachhaltige Ernährung und globale Ernährungssicherheit",
@@ -137,7 +137,7 @@
     { "question": "Welche Aufgabe haben politische Maßnahmen?", "options": { "a": "Subventionen, Regulierung von Verschwendung, Förderung Innovationen", "b": "Nur Exportkontrolle", "c": "Nur Steuersenkung", "answer": "a" }},
     { "question": "Was ist das langfristige Ziel nachhaltiger Ernährung?", "options": { "a": "Ernährungssicherheit, Ressourcenschutz und Generationengerechtigkeit", "b": "Nur Wirtschaftswachstum", "c": "Nur regionale Selbstversorgung", "answer": "a" }}
   ],
-"audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil4/16.mp3"},{
+"audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/C1/Hoeren/Audio/C1_Teil4/16.mp3"},{
   "id": 17,
   "title": "Globale Mobilität und urbane Verkehrssysteme",
   "text": "Die zunehmende Urbanisierung und Globalisierung haben die Anforderungen an Mobilität und Verkehrssysteme in Städten stark verändert. Immer mehr Menschen ziehen in urbane Zentren, wodurch Verkehrsnetze überlastet und Umweltbelastungen erhöht werden. Gleichzeitig steigt der Bedarf an effizienter, nachhaltiger und sicherer Mobilität für Personen und Güter. Urbane Verkehrssysteme stehen daher vor der Herausforderung, Kapazität, Flexibilität und Umweltverträglichkeit miteinander zu verbinden. Öffentliche Verkehrsmittel, Fahrradnetze und Fußwege sollen attraktiver gestaltet werden, um den Individualverkehr zu reduzieren. Technologische Innovationen wie intelligente Ampelsysteme, Echtzeitverkehrsdaten und digitale Mobilitätsplattformen erleichtern Planung und Steuerung. Elektromobilität, Carsharing und autonome Fahrzeuge bieten neue Möglichkeiten, die Verkehrseffizienz zu steigern und Emissionen zu senken. Gleichzeitig entstehen Fragen zu Infrastruktur, Energieversorgung, Sicherheit und sozialer Gerechtigkeit: Nicht alle Bevölkerungsgruppen haben gleichberechtigten Zugang zu modernen Verkehrsmitteln, und städtische Planung muss inklusiv gestaltet sein. Politische Entscheidungsträger entwickeln Strategien, um nachhaltige Mobilität zu fördern, z. B. durch Investitionen in öffentliche Verkehrsmittel, Anreize für umweltfreundliche Fahrzeuge oder Regelungen zur Verkehrsreduzierung. Kritiker weisen jedoch darauf hin, dass technologische Lösungen allein die sozialen und ökologischen Probleme nicht vollständig lösen können. Bildung, Sensibilisierung und Bürgerbeteiligung sind entscheidend, um Verkehrsverhalten nachhaltig zu verändern. Internationale Kooperationen im Bereich Stadtplanung, Verkehrstechnik und Umweltstandards tragen dazu bei, Best Practices auszutauschen und globale Herausforderungen zu bewältigen. Langfristig wird eine enge Integration verschiedener Verkehrsträger notwendig sein, um effiziente, nachhaltige und lebenswerte Städte zu gestalten. Städte müssen innovative Konzepte entwickeln, um Mobilität, Lebensqualität und ökologische Verantwortung in Einklang zu bringen, wobei die Beteiligung der Bürger und die Förderung sozialer Gerechtigkeit zentrale Faktoren bleiben.",
@@ -156,7 +156,7 @@
     { "question": "Welche internationalen Maßnahmen werden genannt?", "options": { "a": "Kooperation in Stadtplanung, Verkehrstechnik und Umweltstandards", "b": "Nur Export von Autos", "c": "Nur Forschung in einem Land" }, "answer": "a" },
     { "question": "Was ist das langfristige Ziel für urbane Mobilität?", "options": { "a": "Effiziente, nachhaltige und lebenswerte Städte gestalten", "b": "Verkehr vollständig auf Autos konzentrieren", "c": "Nur Kosten senken" }, "answer": "a" }
   ],
-"audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil4/17.mp3"}
+"audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/C1/Hoeren/Audio/C1_Teil4/17.mp3"}
 ,{
   "id": 18,
   "title": "Klimafreundliche Architektur und nachhaltiges Bauen",
@@ -176,7 +176,7 @@
     { "question": "Wie kann Akzeptanz für Bauprojekte erhöht werden?", "options": { "a": "Beteiligung der Öffentlichkeit und transparente Kommunikation", "b": "Nur durch Werbung", "c": "Nur durch Bauaufsicht", "answer": "a" }},
     { "question": "Welche Anpassungen an den Klimawandel werden erwähnt?", "options": { "a": "Regenwassermanagement und grüne Dächer", "b": "Nur Heizungssysteme", "c": "Nur Fensteraustausch", "answer": "a" }}
   ],
-"audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil4/18.mp3"}
+"audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/C1/Hoeren/Audio/C1_Teil4/18.mp3"}
 ,{
   "id": 19,
   "title": "Digitale Medien und gesellschaftliche Kommunikation",
@@ -195,7 +195,7 @@
     { "question": "Wer muss zusammenarbeiten, um digitale Medien sinnvoll zu nutzen?", "options": { "a": "Gesellschaftliche Akteure, Bildungseinrichtungen und politische Entscheidungsträger", "b": "Nur Unternehmen", "c": "Nur Medienhäuser", "answer": "a" }},
     { "question": "Was ist das langfristige Ziel der Nutzung digitaler Medien?", "options": { "a": "Nachhaltige, faire und integrative Kommunikation", "b": "Nur Umsatzsteigerung", "c": "Nur schnelle Nachrichten", "answer": "a" }}
   ],
-"audio_url": "https://github.com/Nour-ablahad22/flutter-data/blob/main/Deutsch/C1/Hoeren/Audio/C1_Teil4/19.mp3"}
+"audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/C1/Hoeren/Audio/C1_Teil4/19.mp3"}
 
 
 
