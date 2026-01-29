@@ -1,1 +1,497 @@
 
+{
+  "teil1": [
+    {
+      "id": 1,
+      "title": "Thema 1: Ein Austauschjahr in Deutschland",
+      "texts": [
+        {
+          "text": "Letztes Jahr hatte ich die Möglichkeit, ein Austauschjahr in Deutschland zu machen. Ich war siebzehn Jahre alt und wohnte normalerweise in Spanien. Am Anfang war ich sehr aufgeregt, weil ich mein Zuhause für fast ein Jahr verlassen würde. Ich wollte unbedingt neue Freunde finden, die Kultur kennenlernen und mein Deutsch verbessern. Meine Austauschfamilie lebte in einer kleinen Stadt in Nordrhein-Westfalen. Sie bestand aus den Eltern und einer Tochter in meinem Alter. Am ersten Tag war alles neu: das Haus, die Nachbarn, die Schule. Meine Gasteltern halfen mir, mich schnell einzuleben. Jeden Morgen frühstückten wir gemeinsam und unterhielten uns. Die Schule war am Anfang sehr schwierig, weil die Lehrer schnell sprachen. Glücklicherweise waren meine Klassenkameraden hilfsbereit und erklärten mir Aufgaben, wenn ich sie nicht verstand. Ich nahm auch an der Theater-AG teil, die mir sehr half, die Sprache besser zu lernen. In meiner Freizeit machte ich Ausflüge mit meiner Familie. Wir besuchten Schlösser, gingen wandern und manchmal ins Kino. Besonders beeindruckend fand ich die Landschaft und die Natur, die ich vorher nur aus Büchern kannte. Natürlich hatte ich auch Heimweh. An manchen Tagen war es schwer, meine Familie und Freunde zu vermissen. Doch ich lernte, selbstständig zu sein und Verantwortung zu übernehmen. Nach einigen Monaten konnte ich schon flüssig Deutsch sprechen und mich gut verständigen. Am Ende des Jahres war ich stolz auf das, was ich erreicht hatte. Ich hatte nicht nur eine neue Sprache gelernt, sondern auch viele neue Erfahrungen gesammelt und Freunde fürs Leben gefunden. Dieses Austauschjahr hat mein Leben verändert und mir gezeigt, wie wichtig es ist, offen für Neues zu sein und neue Kulturen zu entdecken.",
+          "questions": [
+            {
+              "question": "Der Erzähler machte ein Austauschjahr in Deutschland.",
+              "options": [
+                "Richtig",
+                "Falsch"
+              ],
+              "answer": "Richtig"
+            },
+            {
+              "question": "Die Austauschfamilie hatte keine Kinder.",
+              "options": [
+                "Richtig",
+                "Falsch"
+              ],
+              "answer": "Falsch"
+            },
+            {
+              "question": "Die Schule war am Anfang schwierig.",
+              "options": [
+                "Richtig",
+                "Falsch"
+              ],
+              "answer": "Richtig"
+            },
+            {
+              "question": "Der Erzähler hatte keine Heimwehprobleme.",
+              "options": [
+                "Richtig",
+                "Falsch"
+              ],
+              "answer": "Falsch"
+            },
+            {
+              "question": "Am Ende konnte der Erzähler flüssig Deutsch sprechen.",
+              "options": [
+                "Richtig",
+                "Falsch"
+              ],
+              "answer": "Richtig"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Thema 2: Ein Tag im Freizeitpark",
+      "texts": [
+        {
+          "text": "Letzten Samstag besuchte ich mit meiner Familie einen großen Freizeitpark. Wir fuhren früh morgens los, weil wir den ganzen Tag nutzen wollten. Schon am Eingang war es laut, bunt und voller Menschen. Wir gingen zuerst zu den Achterbahnen. Ich war nervös, aber die Fahrt machte richtig Spaß. Danach fuhren wir mit dem Riesenrad und hatten einen tollen Blick über den ganzen Park. Zwischendurch aßen wir Pommes, Eis und tranken Limonade. Nach dem Mittag machten wir eine Pause auf einer Wiese, spielten kleine Spiele und kauften Souvenirs. Besonders spannend fand ich das Gruselkabinett, obwohl ich mich manchmal erschreckte. Am Nachmittag sahen wir eine Show mit Akrobaten und Tieren. Die Tiere waren sehr gut trainiert, und die Künstler beeindruckten mich mit ihren Tricks. Am Abend fuhren wir müde, aber glücklich nach Hause. Ich war froh, dass ich diesen Tag mit meiner Familie erleben konnte, und ich hoffe, bald wieder in diesen Freizeitpark zu gehen.",
+          "questions": [
+            {
+              "question": "Der Erzähler war alleine im Freizeitpark.",
+              "options": [
+                "Richtig",
+                "Falsch"
+              ],
+              "answer": "Falsch"
+            },
+            {
+              "question": "Sie fuhren mit dem Riesenrad.",
+              "options": [
+                "Richtig",
+                "Falsch"
+              ],
+              "answer": "Richtig"
+            },
+            {
+              "question": "Sie aßen Pommes und Eis.",
+              "options": [
+                "Richtig",
+                "Falsch"
+              ],
+              "answer": "Richtig"
+            },
+            {
+              "question": "Am Ende sahen sie eine Show.",
+              "options": [
+                "Richtig",
+                "Falsch"
+              ],
+              "answer": "Richtig"
+            },
+            {
+              "question": "Der Tag war langweilig.",
+              "options": [
+                "Richtig",
+                "Falsch"
+              ],
+              "answer": "Falsch"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "teil2": [
+    {
+      "id": 1,
+      "title": "Thema 2: Gesunde Ernährung im Alltag  22222",
+      "texts": [
+        {
+          "text": "Gesunde Ernährung ist sehr wichtig für das Wohlbefinden und die Gesundheit. Viele Menschen essen oft Fast Food oder Süßigkeiten, weil es schnell geht, aber das belastet den Körper. Besser ist es, frisches Obst, Gemüse, Vollkornprodukte und mageres Fleisch zu essen. So bekommt der Körper alle wichtigen Vitamine und Mineralstoffe. Außerdem sollte man genug Wasser trinken – mindestens anderthalb bis zwei Liter am Tag. Wer regelmäßig selbst kocht, kann besser kontrollieren, was er isst, und entwickelt gesunde Gewohnheiten. Auch das Frühstück sollte nicht ausgelassen werden, denn es liefert Energie für den Tag. Kleine Snacks zwischendurch sind in Ordnung, aber es ist wichtig, auf Qualität und Menge zu achten. Eine bewusste Ernährung kann Krankheiten vorbeugen und das Wohlbefinden steigern. Wichtig ist außerdem Bewegung, denn Ernährung und Bewegung gehören zusammen für einen gesunden Lebensstil.",
+          "questions": [
+            {
+              "question": "Warum ist gesunde Ernährung wichtig?",
+              "options": [
+                "Sie macht schnell satt.",
+                "Sie verbessert das Wohlbefinden und die Gesundheit.",
+                "Sie spart Geld."
+              ],
+              "answer": "Sie verbessert das Wohlbefinden und die Gesundheit."
+            },
+            {
+              "question": "Was sollte man täglich trinken?",
+              "options": [
+                "Mindestens anderthalb bis zwei Liter Wasser.",
+                "Nur Saft oder Softdrinks.",
+                "Gar nichts, Wasser ist nicht wichtig."
+              ],
+              "answer": "Mindestens anderthalb bis zwei Liter Wasser."
+            },
+            {
+              "question": "Warum ist es gut, selbst zu kochen?",
+              "options": [
+                "Man kann besser kontrollieren, was man isst.",
+                "Es ist immer schneller als Fast Food.",
+                "Man braucht keine Zutaten."
+              ],
+              "answer": "Man kann besser kontrollieren, was man isst."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Thema 2: Gesunde Ernährung im Alltag",
+      "texts": [
+        {
+          "text": "Gesunde Ernährung ist sehr wichtig für das Wohlbefinden und die Gesundheit. Viele Menschen essen oft Fast Food oder Süßigkeiten, weil es schnell geht, aber das belastet den Körper. Besser ist es, frisches Obst, Gemüse, Vollkornprodukte und mageres Fleisch zu essen. So bekommt der Körper alle wichtigen Vitamine und Mineralstoffe. Außerdem sollte man genug Wasser trinken – mindestens anderthalb bis zwei Liter am Tag. Wer regelmäßig selbst kocht, kann besser kontrollieren, was er isst, und entwickelt gesunde Gewohnheiten. Auch das Frühstück sollte nicht ausgelassen werden, denn es liefert Energie für den Tag. Kleine Snacks zwischendurch sind in Ordnung, aber es ist wichtig, auf Qualität und Menge zu achten. Eine bewusste Ernährung kann Krankheiten vorbeugen und das Wohlbefinden steigern. Wichtig ist außerdem Bewegung, denn Ernährung und Bewegung gehören zusammen für einen gesunden Lebensstil.",
+          "questions": [
+            {
+              "question": "Warum ist gesunde Ernährung wichtig?",
+              "options": [
+                "Sie macht schnell satt.",
+                "Sie verbessert das Wohlbefinden und die Gesundheit.",
+                "Sie spart Geld."
+              ],
+              "answer": "Sie verbessert das Wohlbefinden und die Gesundheit."
+            },
+            {
+              "question": "Was sollte man täglich trinken?",
+              "options": [
+                "Mindestens anderthalb bis zwei Liter Wasser.",
+                "Nur Saft oder Softdrinks.",
+                "Gar nichts, Wasser ist nicht wichtig."
+              ],
+              "answer": "Mindestens anderthalb bis zwei Liter Wasser."
+            },
+            {
+              "question": "Warum ist es gut, selbst zu kochen?",
+              "options": [
+                "Man kann besser kontrollieren, was man isst.",
+                "Es ist immer schneller als Fast Food.",
+                "Man braucht keine Zutaten."
+              ],
+              "answer": "Man kann besser kontrollieren, was man isst."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "teil3": [
+    {
+      "id": 1,
+      "title": "Anzeigen und passende Personen – Runde 1",
+      "texts": [
+        {
+          "text": "Hier findest du Anzeigen. Jede beschreibt eine Möglichkeit, Deutsch zu lernen oder zu üben. Lies die Anzeigen und finde die passende für jede Person.",
+          "anzeigen": [
+            {
+              "id": "A",
+              "content": "Deutsch lernen mit Kochvideos\nSchau deutsche Kochvideos auf YouTube und lerne Wörter wie: Gemüse, Gewürze, backen, kochen. Jede Woche ein neues Rezept mit deutschen Untertiteln.\nwww.kochen-deutsch.de"
+            },
+            {
+              "id": "B",
+              "content": "Sprachpartner-Treff in der Bibliothek\nTäglich von 16:00–18:00 Uhr: Triff deutsche Freunde und übe Deutsch beim Kaffee. Kein Kurs – nur sprechen! Für Anfänger und Fortgeschrittene.\nwww.bibliothek-sprachtreff.de"
+            },
+            {
+              "id": "C",
+              "content": "Deutsch für Fahrradfahrer\nMache eine wöchentliche Radtour mit anderen Lernenden. Lerne Wörter wie: Straße, Ampel, Radweg, Parkplatz, Wetter. Sprich über deine Fahrt auf Deutsch.\nwww.rad-deutsch.de"
+            },
+            {
+              "id": "D",
+              "content": "Online-Schreibkurs: Tagebuch auf Deutsch\nSchreibe jeden Tag 5 Sätze über deinen Tag. Dein Lehrer korrigiert sie und gibt dir Tipps. Perfekt, wenn du mehr schreiben willst.\nwww.tagebuch-deutsch.de"
+            },
+            {
+              "id": "E",
+              "content": "Sommerjob in einem Campingplatz\nArbeite im Juli und August in einem Campingplatz in Bayern. Hilf bei Zeltvermietung, Rezeption und Gesprächen mit Gästen. Alles auf Deutsch!\nwww.camping-job-deutsch.de"
+            },
+            {
+              "id": "F",
+              "content": "Deutsch-Podcast: 'Mein Tag in Deutschland'\nJede Woche eine neue Folge mit echten Geschichten von Menschen in Deutschland. Langsam gesprochen, mit Transkript. Ideal für unterwegs.\nwww.mein-tag-deutsch.de"
+            },
+            {
+              "id": "G",
+              "content": "Deutsch für Tierfreunde\nBesuche ein Tierheim und sprich mit den Mitarbeitern über Hunde, Katzen, Futter, Pflege. Lerne nützliche Wörter im Gespräch – mit Übungen danach.\nwww.tierheim-deutsch.de"
+            },
+            {
+              "id": "H",
+              "content": "Kurs: Deutsch im Café\nTriff dich jeden Mittwoch mit anderen Lernenden in einem Café. Thema: Essen, Wetter, Reisen. Kein Lehrbuch – nur sprechen und lernen!\nwww.cafe-deutsch.de"
+            },
+            {
+              "id": "J",
+              "content": "App: Deutsch lernen mit Bildern\nZeige dein Handy auf Gegenstände in deinem Zimmer – die App sagt dir das deutsche Wort und spricht es vor. Lerne Vokabeln ohne Auswendiglernen.\nwww.bild-deutsch-app.de"
+            }
+          ],
+          "questions": [
+            {
+              "question": "Lena möchte Deutsch lernen, während sie ihre Freizeit genießt. Sie liebt es, in der Natur zu sein und Rad zu fahren. Anzeige: _____",
+              "answer": "C"
+            },
+            {
+              "question": "Tom braucht Hilfe beim Schreiben. Er möchte jeden Tag etwas auf Deutsch schreiben, aber er hat keine Zeit für einen Kurs. Anzeige: _____",
+              "answer": "D"
+            },
+            {
+              "question": "Fatima hat im Sommer frei und möchte Geld verdienen. Sie möchte auch Deutsch lernen. Anzeige: _____",
+              "answer": "E"
+            },
+            {
+              "question": "Kai hört gerne Podcasts, wenn er zur Arbeit fährt. Er möchte deutsche Geschichten verstehen, aber nicht zu schwer. Anzeige: _____",
+              "answer": "F"
+            },
+            {
+              "question": "Sara möchte Deutsch lernen, aber sie mag keine Kurse. Sie möchte mit echten Menschen sprechen. Anzeige: _____",
+              "answer": "B"
+            },
+            {
+              "question": "Max liebt es, neue Rezepte auszuprobieren. Er will deutsche Lebensmittelwörter lernen. Anzeige: _____",
+              "answer": "A"
+            },
+            {
+              "question": "Anna hat einen Hund und möchte mit deutschen Tierheim-Mitarbeitern sprechen. Anzeige: _____",
+              "answer": "G"
+            },
+            {
+              "question": "Julia möchte Deutsch lernen, ohne zu Hause zu bleiben. Sie mag Kaffee und gemütliche Orte. Anzeige: _____",
+              "answer": "H"
+            },
+            {
+              "question": "Ben möchte Vokabeln lernen, aber er vergisst sie schnell. Er möchte etwas, das ihm hilft, Wörter zu sehen und zu hören. Anzeige: _____",
+              "answer": "J"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Anzeigen und passende Personen – Runde 2",
+      "texts": [
+        {
+          "text": "Hier findest du Anzeigen. Jede beschreibt eine Möglichkeit, Deutsch zu lernen oder zu üben. Lies die Anzeigen und finde die passende für jede Person.",
+          "anzeigen": [
+            {
+              "id": "A",
+              "content": "Deutsch lernen mit Musik: Liedtexte analysieren\nHöre deutsche Poplieder und lerne Vokabeln durch Texte. Jede Woche ein neues Lied mit Erklärungen und Quiz. Für Anfänger und Fortgeschrittene.\nwww.musik-deutsch.de"
+            },
+            {
+              "id": "B",
+              "content": "Online-Kurs: Deutsch für Reisen\nLerne, wie man Tickets kauft, nach dem Weg fragt, im Hotel eincheckt und Bestellungen aufgibt. 10 kurze Lektionen – jederzeit online.\nwww.reisen-deutsch.de"
+            },
+            {
+              "id": "C",
+              "content": "Deutsch & Garten: Gemeinschaftsgarten in Berlin\nArbeite im Garten mit deutschen Nachbarn. Lerne Wörter wie: Pflanzen, Erde, Gießen, Blumen, Schaufel. Sprich über Wetter und Jahreszeiten.\nwww.garten-deutsch.de"
+            },
+            {
+              "id": "D",
+              "content": "Deutsch-Chatbot mit Sprachaufnahme\nSprich mit einem KI-Chatbot auf Deutsch. Er nimmt deine Stimme auf, vergleicht sie mit Muttersprachlern und zeigt dir, wie du dich verbessern kannst.\nwww.chatbot-deutsch.de"
+            },
+            {
+              "id": "E",
+              "content": "Tägliche Nachrichten auf einfachem Deutsch\nErhalte jeden Morgen eine kurze Nachricht über aktuelle Ereignisse in Deutschland – mit einfachen Wörtern und Audio. Kein Kurs, nur lesen und hören.\nwww.nachrichten-b1.de"
+            },
+            {
+              "id": "F",
+              "content": "Kurs: Deutsch für Fotografen\nGehe mit einer Gruppe auf Foto-Tour durch die Stadt. Beschreibe Bilder, Farben, Gefühle und Orte auf Deutsch. Perfekt, wenn du kreativ bist.\nwww.fotografie-deutsch.de"
+            },
+            {
+              "id": "G",
+              "content": "Sommerkurs: Deutsch und Schwimmen\nSchwimme im See und lerne Wörter wie: Wasser, Sonne, Badehose, tief, flach, sicher. Sprich mit anderen über dein Schwimmen – auf Deutsch!\nwww.schwimmen-deutsch.de"
+            },
+            {
+              "id": "H",
+              "content": "Deutsch für Eltern: Kinderbücher vorlesen\nLerne, wie man deutsche Kinderbücher vorliest – mit richtiger Aussprache und Ausdruck. Übe mit Audio und Videos. Ideal für Eltern mit Kindern.\nwww.eltern-deutsch.de"
+            },
+            {
+              "id": "J",
+              "content": "Deutsch lernen mit Brettspielen\nSpielen Sie deutsche Brettspiele wie „Mensch ärgere dich nicht“ oder „Catan“ mit anderen Lernenden. Lernen Sie Wörter wie: Würfel, Feld, Gewinn, Verlust, Spiel.\nwww.spiel-deutsch.de"
+            }
+          ],
+          "questions": [
+            {
+              "question": "Lina liebt Musik und möchte Deutsch lernen, indem sie deutsche Lieder hört. Sie will die Wörter verstehen. Anzeige: _____",
+              "answer": "A"
+            },
+            {
+              "question": "David plant eine Reise nach Deutschland und möchte sich auf einfache Situationen vorbereiten. Anzeige: _____",
+              "answer": "B"
+            },
+            {
+              "question": "Mira arbeitet im Büro, aber sie möchte im Freien sein. Sie mag Pflanzen und möchte mit Deutschen sprechen. Anzeige: _____",
+              "answer": "C"
+            },
+            {
+              "question": "Jonas möchte seine Aussprache verbessern, aber er hat Angst, mit Menschen zu sprechen. Anzeige: _____",
+              "answer": "D"
+            },
+            {
+              "question": "Zara hat keine Zeit für Kurse, aber sie möchte jeden Tag etwas über Deutschland erfahren. Anzeige: _____",
+              "answer": "E"
+            },
+            {
+              "question": "Nora ist kreativ und liebt es, Fotos zu machen. Sie möchte Deutsch lernen, indem sie über Bilder spricht. Anzeige: _____",
+              "answer": "F"
+            },
+            {
+              "question": "Omar möchte im Sommer etwas Aktives machen – er liebt Wasser und Sonne. Anzeige: _____",
+              "answer": "G"
+            },
+            {
+              "question": "Leila hat ein kleines Kind und möchte ihm deutsche Kinderbücher vorlesen. Sie braucht Hilfe mit der Aussprache. Anzeige: _____",
+              "answer": "H"
+            },
+            {
+              "question": "Felix mag Spiele und möchte Deutsch lernen, während er spielt. Anzeige: _____",
+              "answer": "J"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "teil4": [
+    {
+      "id": 1,
+      "title": "Thema: Verbot von violenten Videospiele",
+      "texts": [
+        {
+          "text": "Ich verstehe, warum manche Leute Angst haben. Aber ich spiele diese Spiele nur mit Freunden, und wir wissen, dass es nur Fantasie ist. Ein Verbot macht sie nur noch geheimnisvoller. Besser ist es, Eltern und Lehrer zu informieren, damit sie mit uns darüber sprechen.",
+          "question": "Ist Elena für ein Verbot von violenten Videospielen?",
+          "options": [
+            "Ja",
+            "Nein"
+          ],
+          "answer": "Nein"
+        },
+        {
+          "text": "Als Vater von zwei Kindern sehe ich, wie leicht Jugendliche von diesen Spielen beeinflusst werden können. Einige Kinder werden ruhiger, andere aggressiv. Ich glaube, wir müssen etwas tun – und ein Verbot ist der erste Schritt. Man kann nicht alles erlauben, was Gewalt zeigt.",
+          "question": "Ist Hassan für ein Verbot von violenten Videospielen?",
+          "options": [
+            "Ja",
+            "Nein"
+          ],
+          "answer": "Ja"
+        },
+        {
+          "text": "Warum verbietet man nur Spiele und nicht Filme oder Fernsehsendungen mit Gewalt? Das ist ungerecht. Diese Spiele sind oft komplex und erfordern Strategie. Ich habe sie gespielt, und ich bin kein gewalttätiger Mensch. Verbote lösen kein Problem – Bildung schon.",
+          "question": "Ist Nina für ein Verbot von violenten Videospielen?",
+          "options": [
+            "Ja",
+            "Nein"
+          ],
+          "answer": "Nein"
+        },
+        {
+          "text": "Ich spiele diese Spiele seit 10 Jahren – ich habe einen Job, eine Freundin und ein Haus. Wenn ich abends spiele, hilft es mir, Stress abzubauen. Ein Verbot wäre eine Strafe für Millionen Menschen, die verantwortungsvoll spielen. Die Lösung ist Kontrolle, nicht Verbot.",
+          "question": "Ist Luca für ein Verbot von violenten Videospielen?",
+          "options": [
+            "Ja",
+            "Nein"
+          ],
+          "answer": "Nein"
+        },
+        {
+          "text": "Es ist gefährlich, wenn Jugendliche stundenlang Gewalt sehen und darin üben, Menschen zu töten. Das verändert ihre Sicht auf das Leben. Ich kenne jemanden, der nach dem Spiel aggressiv wurde. Das ist nicht normal. Wir müssen etwas tun – jetzt!",
+          "question": "Ist Sofia für ein Verbot von violenten Videospielen?",
+          "options": [
+            "Ja",
+            "Nein"
+          ],
+          "answer": "Ja"
+        },
+        {
+          "text": "Diese Spiele sind oft Teamarbeit. Man muss kommunizieren, planen und zusammenarbeiten – das ist wie Sport! Die Gewalt ist nur ein Teil des Designs, nicht der Hauptzweck. Ein Verbot würde viele Talente verlieren. Lieber mehr Aufklärung statt Verbote.",
+          "question": "Ist Kai für ein Verbot von violenten Videospielen?",
+          "options": [
+            "Ja",
+            "Nein"
+          ],
+          "answer": "Nein"
+        },
+        {
+          "text": "Ich weiß, dass nicht jeder zum Mörder wird. Aber wenn ein Kind durch ein Spiel denkt, dass Gewalt normal ist – dann ist das ein Problem. Ein Verbot allein reicht nicht, aber es ist ein wichtiges Zeichen. Wir müssen der Gewalt in Spielen Grenzen setzen.",
+          "question": "Ist Anja für ein Verbot von violenten Videospielen?",
+          "options": [
+            "Ja",
+            "Nein"
+          ],
+          "answer": "Ja"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Thema: Jugendliche und Gewaltspiele",
+      "texts": [
+        {
+          "text": "Ich spiele diese Spiele, weil sie spannend sind und mich herausfordern. Ich bin kein gewalttätiger Mensch. Ein Verbot ist übertrieben. Eltern sollten besser aufpassen, was ihre Kinder spielen.",
+          "question": "Ist Felix für ein Verbot von Gewaltspielen?",
+          "options": [
+            "Ja",
+            "Nein"
+          ],
+          "answer": "Nein"
+        },
+        {
+          "text": "Meine Tochter hat letzte Woche nach einem Spiel aggressiv mit ihrem Bruder geschrien. Das hat mich erschreckt. Ich glaube, solche Spiele dürfen Kinder nicht spielen. Ein Verbot ist notwendig.",
+          "question": "Ist Petra für ein Verbot von Gewaltspielen?",
+          "options": [
+            "Ja",
+            "Nein"
+          ],
+          "answer": "Ja"
+        },
+        {
+          "text": "Diese Spiele sind wie Filme mit Action. Niemand verbietet Actionfilme. Warum dann Spiele? Es geht nicht um die Spiele, sondern um die Persönlichkeit des Spielers.",
+          "question": "Ist Marco für ein Verbot von Gewaltspielen?",
+          "options": [
+            "Ja",
+            "Nein"
+          ],
+          "answer": "Nein"
+        },
+        {
+          "text": "Viele Jugendliche spielen diese Spiele, weil sie sich einsam fühlen. Sie suchen eine Welt, in der sie Macht haben. Ein Verbot löst das Problem nicht. Wir brauchen mehr soziale Angebote für Jugendliche.",
+          "question": "Ist Laura für ein Verbot von Gewaltspielen?",
+          "options": [
+            "Ja",
+            "Nein"
+          ],
+          "answer": "Ja"
+        },
+        {
+          "text": "Ich habe diese Spiele nie gespielt, aber ich finde sie langweilig. Warum sollte man sie verbieten, wenn sie niemanden interessieren? Ein Verbot macht sie nur populärer.",
+          "question": "Ist Tobias für ein Verbot von Gewaltspielen?",
+          "options": [
+            "Ja",
+            "Nein"
+          ],
+          "answer": "Nein"
+        },
+        {
+          "text": "Als Lehrer sehe ich, wie einige Schüler nach dem Spielen ruhiger sind. Andere werden gereizt. Aber das hängt von der Person ab. Ein Verbot ist keine Lösung – Bildung schon.",
+          "question": "Ist Herr Weber für ein Verbot von Gewaltspielen?",
+          "options": [
+            "Ja",
+            "Nein"
+          ],
+          "answer": "Nein"
+        },
+        {
+          "text": "Ich habe einen Freund, der nach dem Spielen keine Freunde mehr hatte. Er dachte, alle sind seine Feinde. Das ist gefährlich. Wir müssen etwas tun – und ein Verbot ist ein guter Anfang.",
+          "question": "Ist Julia für ein Verbot von Gewaltspielen?",
+          "options": [
+            "Ja",
+            "Nein"
+          ],
+          "answer": "Ja"
+        }
+      ]
+    }
+  ]
+}
