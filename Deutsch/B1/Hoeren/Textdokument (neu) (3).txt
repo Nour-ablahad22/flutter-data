@@ -1,0 +1,187 @@
+
+{
+
+"Kopf": "Thema 1"{
+  "teil1": [
+    {
+  {
+    "id": 2,
+    "title": "HGB-Versicherung",
+    "text": "Hallo Frau Brahms, Ulf Thomas hier von der HGB-Versicherung.\nSie haben sich bei uns als Verkaufsleiterin beworben, doch leider fehlen in Ihren Unterlagen zwei Zeugnisse, die für die Bewerbung sehr wichtig sind.\nEs geht um die Zertifikate für die besuchten Computer- und Englischkurse.\nDie haben Sie zumindest so in Ihrem Lebenslauf genannt.\nÄhm, ich bitte Sie, diese Unterlagen so schnell wie möglich an uns zu schicken oder mich bei Rückfragen anzurufen.\nVielen Dank!",
+    "text_no_newline": "Hallo Frau Brahms, Ulf Thomas hier von der HGB-Versicherung. Sie haben sich bei uns als Verkaufsleiterin beworben, doch leider fehlen in Ihren Unterlagen zwei Zeugnisse, die für die Bewerbung sehr wichtig sind. Es geht um die Zertifikate für die besuchten Computer- und Englischkurse. Die haben Sie zumindest so in Ihrem Lebenslauf genannt. Ähm, ich bitte Sie, diese Unterlagen so schnell wie möglich an uns zu schicken oder mich bei Rückfragen anzurufen. Vielen Dank!",
+    "word_count": 74,
+    "question": "Was möchte Herr Thomas?",
+    "options": {
+      "a": "Frau Brahms soll einen neuen Vertrag abschließen",
+      "b": "Frau Brahms soll Zeugnisse schicken",
+      "c": "Herr Thomas ruft später zurück"
+    },
+    "answer": "b",
+    "additional_questions": [],
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil1/2.mp3"
+  },
+
+  "teil2": [
+
+  {
+    "id": 3,
+    "title": "Botanischer Garten in Frankfurt",
+    "text": "Guten Morgen, ich heiße Laura Schmidt und begrüße Sie im Botanischen Garten in Frankfurt.\nHeute ist ein Dienstag, und die Sonne scheint hell.\nWir sind fast allein, da viele Besucher lieber in Cafés sitzen.\nUnser Rundgang dauert ungefähr 95 Minuten.\nZuerst besuchen wir das Tropenhaus, hier gibt es exotische Pflanzen wie Orchideen, Palmen und Bananenstauden.\nDie Luft ist feucht und warm, genau wie in einem tropischen Regenwald.\nDanach gehen wir in das Gewächshaus für Wüstenpflanzen: Kakteen, Sukkulenten und andere trockentolerante Arten.\nWir hören ein Audio: Ein Botaniker erklärt, wie Pflanzen Wasser speichern und welche Besonderheiten sie haben.\nIm nächsten Bereich gibt es ein Experiment: Besucher können verschiedene Blätter und Früchte untersuchen.\nWir sehen auch historische Pflanzensammlungen, die über hundert Jahre alt sind.\nAm Ende können die Besucher ihre eigene kleine Pflanze in einen Topf setzen und mit nach Hause nehmen.\nBitte treffen Sie sich um 15:30 Uhr am Ausgang wieder.\nIhre Taschen können Sie an der Garderobe abgeben.\nViele denken, Frankfurt sei nur für Banken bekannt.\nAber hier entdecken wir die Vielfalt der Pflanzenwelt und die Wissenschaft dahinter.\nJede Pflanze erzählt ihre eigene Geschichte von Anpassung und Wachstum.\nFragen Sie jederzeit! Viel Spaß beim Rundgang und Entdecken der Natur.",
+    "text_no_newline": "Guten Morgen, ich heiße Laura Schmidt und begrüße Sie im Botanischen Garten in Frankfurt. Heute ist ein Dienstag, und die Sonne scheint hell. Wir sind fast allein, da viele Besucher lieber in Cafés sitzen. Unser Rundgang dauert ungefähr 95 Minuten. Zuerst besuchen wir das Tropenhaus, hier gibt es exotische Pflanzen wie Orchideen, Palmen und Bananenstauden. Die Luft ist feucht und warm, genau wie in einem tropischen Regenwald. Danach gehen wir in das Gewächshaus für Wüstenpflanzen: Kakteen, Sukkulenten und andere trockentolerante Arten. Wir hören ein Audio: Ein Botaniker erklärt, wie Pflanzen Wasser speichern und welche Besonderheiten sie haben. Im nächsten Bereich gibt es ein Experiment: Besucher können verschiedene Blätter und Früchte untersuchen. Wir sehen auch historische Pflanzensammlungen, die über hundert Jahre alt sind. Am Ende können die Besucher ihre eigene kleine Pflanze in einen Topf setzen und mit nach Hause nehmen. Bitte treffen Sie sich um 15:30 Uhr am Ausgang wieder. Ihre Taschen können Sie an der Garderobe abgeben. Viele denken, Frankfurt sei nur für Banken bekannt. Aber hier entdecken wir die Vielfalt der Pflanzenwelt und die Wissenschaft dahinter. Jede Pflanze erzählt ihre eigene Geschichte von Anpassung und Wachstum. Fragen Sie jederzeit! Viel Spaß beim Rundgang und Entdecken der Natur.",
+    "word_count": 472,
+    "question": "Was können die Besucher am Ende mitnehmen?",
+    "options": { "a": "eine Pflanze", "b": "ein Buch", "c": "ein Souvenir" },
+    "answer": "a",
+    "additional_questions": [
+      { "question": "Welche Pflanzen gibt es im Tropenhaus?", "options": { "a": "Kakteen", "b": "Orchideen und Palmen", "c": "Farnpflanzen" }, "answer": "b" },
+      { "question": "Was können Besucher im Experiment machen?", "options": { "a": "Blätter und Früchte untersuchen", "b": "pflanzen gießen", "c": "Samen sammeln" }, "answer": "a" },
+      { "question": "Wo sollen Besucher ihre Taschen abgeben?", "options": { "a": "am Ausgang", "b": "an der Garderobe", "c": "im Café" }, "answer": "b" },
+      { "question": "Was ist das Hauptthema des Gartens?", "options": { "a": "Pflanzenvielfalt und Botanik", "b": "Stadtgeschichte", "c": "Kunstwerke" }, "answer": "a" }
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil2/3.mp3"
+    
+  },
+
+  {
+    "id": 3,
+    "title": "Lisa und ihr neuer Job",
+    "text": "Lisa: Hallo Markus, lange nicht gesehen!\nMarkus: Hallo Lisa! Stimmt, es ist wirklich eine Ewigkeit her. Wie geht’s dir?\nLisa: Ganz gut, danke! Ich habe seit drei Monaten einen neuen Job in einer Marketingagentur.\nMarkus: Oh, das klingt spannend! Wie ist es dort?\nLisa: Ziemlich stressig, ehrlich gesagt. Die Projekte wechseln ständig, und die Kunden sind oft anspruchsvoll. Aber ich lerne jeden Tag etwas Neues.\nMarkus: Und wie sind deine Kollegen?\nLisa: Sehr nett! Es gibt ein gutes Teamgefühl, und jeden Freitag machen wir gemeinsam Frühstück im Büro. Außerdem hat mein Chef Humor – das hilft an stressigen Tagen.\nMarkus: Klingt nach einer tollen Arbeitsatmosphäre.\nLisa: Ja, meistens schon. Nur die Arbeitszeiten sind manchmal lang. Letzte Woche habe ich bis 22 Uhr gearbeitet, weil eine Präsentation fertig werden musste.\nMarkus: Das kenne ich. Aber wenn du den Job magst, geht’s leichter, oder?\nLisa: Genau. Und ich habe viele kreative Aufgaben – Texte schreiben, Social-Media-Kampagnen planen, Fotos aussuchen. Das macht mir Spaß.\nMarkus: Gibt’s auch Weiterbildungsmöglichkeiten?\nLisa: Ja, das ist super. Nächsten Monat darf ich an einem Workshop über Online-Marketing teilnehmen. Und vielleicht kann ich im Sommer für zwei Wochen nach Berlin in die Hauptfiliale.\nMarkus: Wow, das klingt nach einer echten Chance.\nLisa: Ja, ich hoffe, ich kann dort Kontakte knüpfen.\nMarkus: Und wie läuft’s privat?\nLisa: Gut. Ich bin vor Kurzem in eine neue Wohnung gezogen – klein, aber gemütlich, mit Balkon. Abends sitze ich dort oft mit einem Buch und einer Tasse Tee.\nMarkus: Klingt entspannt! Und was machst du am Wochenende?\nLisa: Morgen fahre ich mit Freunden an den Neusiedler See. Wir wollen Rad fahren und grillen. Ich freu mich schon sehr darauf, mal rauszukommen.\nMarkus: Das klingt perfekt zum Abschalten.\nLisa: Ja! Nach einer anstrengenden Woche braucht man das. Ach übrigens, Markus, suchst du nicht auch gerade eine neue Stelle?\nMarkus: Ja, ich hatte letzte Woche ein Vorstellungsgespräch bei einer IT-Firma. Mal sehen, ob es klappt.\nLisa: Ich drück dir die Daumen!\nMarkus: Danke! Vielleicht kann ich dich dann besuchen, wenn du in Berlin bist.\nLisa: Sehr gerne! Dann gehen wir irgendwo schön essen.\nMarkus: Abgemacht. So, ich muss jetzt aber los, mein Zug fährt gleich.\nLisa: Kein Problem. Viel Glück beim Job, und lass bald wieder was von dir hören!\nMarkus: Mach ich. Tschüss Lisa!\nLisa: Tschüss Markus!",
+    "text_no_newline": "Lisa: Hallo Markus, lange nicht gesehen! Markus: Hallo Lisa! Stimmt, es ist wirklich eine Ewigkeit her. Wie geht’s dir? Lisa: Ganz gut, danke! Ich habe seit drei Monaten einen neuen Job in einer Marketingagentur. Markus: Oh, das klingt spannend! Wie ist es dort? Lisa: Ziemlich stressig, ehrlich gesagt. Die Projekte wechseln ständig, und die Kunden sind oft anspruchsvoll. Aber ich lerne jeden Tag etwas Neues. Markus: Und wie sind deine Kollegen? Lisa: Sehr nett! Es gibt ein gutes Teamgefühl, und jeden Freitag machen wir gemeinsam Frühstück im Büro. Außerdem hat mein Chef Humor – das hilft an stressigen Tagen. Markus: Klingt nach einer tollen Arbeitsatmosphäre. Lisa: Ja, meistens schon. Nur die Arbeitszeiten sind manchmal lang. Letzte Woche habe ich bis 22 Uhr gearbeitet, weil eine Präsentation fertig werden musste. Markus: Das kenne ich. Aber wenn du den Job magst, geht’s leichter, oder? Lisa: Genau. Und ich habe viele kreative Aufgaben – Texte schreiben, Social-Media-Kampagnen planen, Fotos aussuchen. Das macht mir Spaß. Markus: Gibt’s auch Weiterbildungsmöglichkeiten? Lisa: Ja, das ist super. Nächsten Monat darf ich an einem Workshop über Online-Marketing teilnehmen. Und vielleicht kann ich im Sommer für zwei Wochen nach Berlin in die Hauptfiliale. Markus: Wow, das klingt nach einer echten Chance. Lisa: Ja, ich hoffe, ich kann dort Kontakte knüpfen. Markus: Und wie läuft’s privat? Lisa: Gut. Ich bin vor Kurzem in eine neue Wohnung gezogen – klein, aber gemütlich, mit Balkon. Abends sitze ich dort oft mit einem Buch und einer Tasse Tee. Markus: Klingt entspannt! Und was machst du am Wochenende? Lisa: Morgen fahre ich mit Freunden an den Neusiedler See. Wir wollen Rad fahren und grillen. Ich freu mich schon sehr darauf, mal rauszukommen. Markus: Das klingt perfekt zum Abschalten. Lisa: Ja! Nach einer anstrengenden Woche braucht man das. Ach übrigens, Markus, suchst du nicht auch gerade eine neue Stelle? Markus: Ja, ich hatte letzte Woche ein Vorstellungsgespräch bei einer IT-Firma. Mal sehen, ob es klappt. Lisa: Ich drück dir die Daumen! Markus: Danke! Vielleicht kann ich dich dann besuchen, wenn du in Berlin bist. Lisa: Sehr gerne! Dann gehen wir irgendwo schön essen. Markus: Abgemacht. So, ich muss jetzt aber los, mein Zug fährt gleich. Lisa: Kein Problem. Viel Glück beim Job, und lass bald wieder was von dir hören! Markus: Mach ich. Tschüss Lisa! Lisa: Tschüss Markus!",
+    "word_count": 610,
+    "question": "Beurteilen Sie die folgenden Aussagen als Richtig oder Falsch:",
+    "options": {
+      "Richtig": "Falsch",
+      "Falsch": "Richtig"
+    },
+    "answer": "Falsch",
+    "additional_questions": [
+      {"question": "Lisa arbeitet erst seit kurzem in einer neuen Firma.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Lisa findet ihre Arbeit langweilig.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Ihr Chef ist oft schlecht gelaunt.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Lisa darf bald an einem Workshop teilnehmen.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Sie wohnt jetzt in einer großen Wohnung.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"},
+      {"question": "Am Wochenende will sie mit Freunden Rad fahren.", "options": {"Richtig": "Richtig", "Falsch": "Falsch"}, "answer": "Richtig"},
+      {"question": "Markus arbeitet schon in einer IT-Firma.", "options": {"Richtig": "Falsch", "Falsch": "Richtig"}, "answer": "Falsch"}
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil3/3.mp3"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "teil4": [
+    {
+      {
+
+
+
+    "id": 3,
+    "title": "Diskussion am Abend: Kinderkrippe",
+    "text": "Moderator: Liebe Hörerinnen und Hörer, hallo und willkommen bei der „Diskussion am Abend“! Das ist heute unser Thema. „Sollten Kinder in die Kinderkrippe gehen oder nicht?“. Dazu haben wir Frau Dana Schneider eingeladen; sie hat zwei Kinder zu Hause, die 2 und 5 Jahre alt sind. Unser zweiter Studiogast ist Florian Bader, dessen 3-jährige Zwillinge seit einem Jahr in die Kinderkrippe gehen. Frau Schneider, Sie wussten schon vor der Geburt Ihrer Kinder, dass Sie sie nicht in die Kinderkrippe schicken würden. Warum? Fr. Schneider: Weil die ersten drei Jahre für ein Kind von großer Bedeutung sind. In diesen drei Jahren brauchen Kinder eine feste Bezugsperson und ich würde nicht wollen, dass meine Kinder zur Erzieherin „Mama“ sagen. Moderator: tun Ihre Kinder das denn, Herr Bader? Hr. Bader: Nein, natürlich nicht. Unsere Kinder wissen genau, wer die „Mama“ ist, nämlich meine Frau. Aber sie lernen, dass sie auch auf andere Leute hören müssen, und das ist für ihr soziales Verhalten bestimmt sinnvoll. Fr. Schneider: Das soziale Miteinander lernen die Kinder sowieso später. Mein fünfjähriger Sohn geht seit einem Jahr in den Kindergarten und lernt jetzt, wie er mit anderen Kindern zusammen spielen kann. Unter drei Jahren brauchen Kinder keine gleichaltrigen Kinder, sondern vor allem ihre Bezugsperson. Moderator: Hm, ja, unter drei Jahren beschäftigen sich Kinder ja meist auch gut mit sich selber und spielen eher mit Dingen als mit anderen Kindern … Aber: Ist es denn nicht eher eine finanzielle Frage, Kinder in die Kinderkrippe zu schicken, damit die Eltern arbeiten können? Herr Bader, wie ist denn das bei Ihnen? Hr. Bader: Es ist weniger eine finanzielle Frage als einfach die Tatsache, dass weder meine Frau noch ich drei Jahre aus dem Beruf aussteigen können. Stellen Sie sich vor, Sie arbeiten drei Jahre nicht und wollen dann weiter Karriere machen. Dann verlieren Sie nicht nur die drei Jahre, sondern auch alles, was Sie sich zuvor erarbeitet haben. Fr. Schneider: Warum haben Sie überhaupt Kinder, wenn Ihnen Ihre Karriere so wichtig ist? Kinder sollten doch das Wichtigste in Ihrem Leben sein. Da kann man doch auf ein paar Jahre Karriere verzichten. Hr. Bader: Das mag sein. Aber muss man wirklich das eine für das andere aufgeben oder austauschen? Warum kann man nicht beides haben? Meine Frau war als Kind selber in der Kinderkrippe und es hat ihr nicht geschadet. Unsere Kinder gehen gern in die Krippe, sie haben ihre Freunde dort und erzählen abends begeistert von den Spielen, die sie gemacht haben. Moderator: Ein Vorteil einer Kindertagesstätte, den Sie da ansprechen, ist, dass die Kinder beschäftigt sind – Spiele kennenlernen und Erfahrungen machen, die Eltern ihren Kindern zu Hause vielleicht nicht bieten können. Haben Sie dem etwas entgegenzusetzen, Frau Schneider? Fr. Schneider: Nun ja, in einer idealen Kindertagesstätte wäre das vielleicht wirklich so. Aber ist es nicht eher so, dass die Erzieherinnen bei so vielen Kindern gar keine Zeit für das einzelne Kind haben? Mit ein wenig Recherche und Phantasie kann ich meinen Kindern deutlich mehr bieten als die drei Erzieherinnen den 12 Kindern in ihrer Gruppe. Hr. Bader: Das ist bei unserer Kinderkrippe eigentlich kein Problem. Unsere Kinder sind in einer Gruppe mit acht Kindern und bekommen sicher genug Aufmerksamkeit. Sie sollen ja gerade lernen, alleine etwas zu machen und sich dann nur an die Erwachsenen zu wenden, wenn sie etwas brauchen. Moderator: Es kommt also auch auf die Kinderkrippe an! Hr. Bader: Ja, das denke ich auch. In einigen Krippen gibt es schon Probleme. Bei uns im Dorf ist das nicht so schlimm, aber in so mancher Kindertagesstätte fehlen inzwischen die finanziellen Mittel. In einigen Kinderkrippen müssen die Eltern schon Papier und Stifte mitgeben, damit die Kinder malen können, wie ich gehört habe. Da fragt man sich, woran sonst noch gespart wird! Moderator: Also sollten Kinderkrippen finanziell besser gefördert werden! Frau Schneider, wie stehen Sie dazu? Ist es sinnvoll, dass Kinderkrippen von unseren Steuern bezahlt werden? Sie haben ja nichts davon! Fr. Schneider: Nun ja, das finanzielle Argument sehe ich schon ein. Wer nicht genug Geld hat, um zu Hause zu bleiben, soll ja trotzdem Kinder kriegen können. Daher würde ich den Bau und den Unterhalt von Kinderkrippen und Kindertagesstätten nicht ablehnen, denn das kommt der ganzen Gesellschaft zugute. Aber ich finde es nicht gut, wenn Kinder in die Krippe abgeschoben werden, damit die Eltern ihren persönlichen Zielen hinterherjagen können. Hr. Bader: Wir schieben sie ja nicht ab! Sie verbringen den Tag in einer kinderfreundlichen, warmen, qualifizierten Umgebung mit anderen Kindern, anstatt sich zu Hause mit uns zu langweilen. Moderator: Vielleicht hängt es ja auch von den Menschen ab: der eine möchte die ersten Jahre seines Kindes intensiv erleben, der andere möchte oder kann nicht auf seine Arbeit verzichten und dennoch dem Kind eine schöne Kindheit bieten. Die Diskussion scheint wohl endlos … Fr. Schneider + Hr. Bader: Mhm … Moderator: Herr Bader, Frau Schneider, ich bedanke mich für Ihre Zeit und dass Sie uns Ihre Meinung zum Thema gesagt haben. Liebe Hörerinnen und Hörer, ich wünsche Ihnen einen schönen Abend und bis nächste Woche bei der „Diskussion am Abend“ …",
+    "text_no_newline": "Moderator: Liebe Hörerinnen und Hörer, hallo und willkommen bei der „Diskussion am Abend“! Das ist heute unser Thema. „Sollten Kinder in die Kinderkrippe gehen oder nicht?“. Dazu haben wir Frau Dana Schneider eingeladen; sie hat zwei Kinder zu Hause, die 2 und 5 Jahre alt sind. Unser zweiter Studiogast ist Florian Bader, dessen 3-jährige Zwillinge seit einem Jahr in die Kinderkrippe gehen. Frau Schneider, Sie wussten schon vor der Geburt Ihrer Kinder, dass Sie sie nicht in die Kinderkrippe schicken würden. Warum? Fr. Schneider: Weil die ersten drei Jahre für ein Kind von großer Bedeutung sind. In diesen drei Jahren brauchen Kinder eine feste Bezugsperson und ich würde nicht wollen, dass meine Kinder zur Erzieherin „Mama“ sagen. Moderator: tun Ihre Kinder das denn, Herr Bader? Hr. Bader: Nein, natürlich nicht. Unsere Kinder wissen genau, wer die „Mama“ ist, nämlich meine Frau. Aber sie lernen, dass sie auch auf andere Leute hören müssen, und das ist für ihr soziales Verhalten bestimmt sinnvoll. Fr. Schneider: Das soziale Miteinander lernen die Kinder sowieso später. Mein fünfjähriger Sohn geht seit einem Jahr in den Kindergarten und lernt jetzt, wie er mit anderen Kindern zusammen spielen kann. Unter drei Jahren brauchen Kinder keine gleichaltrigen Kinder, sondern vor allem ihre Bezugsperson. Moderator: Hm, ja, unter drei Jahren beschäftigen sich Kinder ja meist auch gut mit sich selber und spielen eher mit Dingen als mit anderen Kindern … Aber: Ist es denn nicht eher eine finanzielle Frage, Kinder in die Kinderkrippe zu schicken, damit die Eltern arbeiten können? Herr Bader, wie ist denn das bei Ihnen? Hr. Bader: Es ist weniger eine finanzielle Frage als einfach die Tatsache, dass weder meine Frau noch ich drei Jahre aus dem Beruf aussteigen können. Stellen Sie sich vor, Sie arbeiten drei Jahre nicht und wollen dann weiter Karriere machen. Dann verlieren Sie nicht nur die drei Jahre, sondern auch alles, was Sie sich zuvor erarbeitet haben. Fr. Schneider: Warum haben Sie überhaupt Kinder, wenn Ihnen Ihre Karriere so wichtig ist? Kinder sollten doch das Wichtigste in Ihrem Leben sein. Da kann man doch auf ein paar Jahre Karriere verzichten. Hr. Bader: Das mag sein. Aber muss man wirklich das eine für das andere aufgeben oder austauschen? Warum kann man nicht beides haben? Meine Frau war als Kind selber in der Kinderkrippe und es hat ihr nicht geschadet. Unsere Kinder gehen gern in die Krippe, sie haben ihre Freunde dort und erzählen abends begeistert von den Spielen, die sie gemacht haben. Moderator: Ein Vorteil einer Kindertagesstätte, den Sie da ansprechen, ist, dass die Kinder beschäftigt sind – Spiele kennenlernen und Erfahrungen machen, die Eltern ihren Kindern zu Hause vielleicht nicht bieten können. Haben Sie dem etwas entgegenzusetzen, Frau Schneider? Fr. Schneider: Nun ja, in einer idealen Kindertagesstätte wäre das vielleicht wirklich so. Aber ist es nicht eher so, dass die Erzieherinnen bei so vielen Kindern gar keine Zeit für das einzelne Kind haben? Mit ein wenig Recherche und Phantasie kann ich meinen Kindern deutlich mehr bieten als die drei Erzieherinnen den 12 Kindern in ihrer Gruppe. Hr. Bader: Das ist bei unserer Kinderkrippe eigentlich kein Problem. Unsere Kinder sind in einer Gruppe mit acht Kindern und bekommen sicher genug Aufmerksamkeit. Sie sollen ja gerade lernen, alleine etwas zu machen und sich dann nur an die Erwachsenen zu wenden, wenn sie etwas brauchen. Moderator: Es kommt also auch auf die Kinderkrippe an! Hr. Bader: Ja, das denke ich auch. In einigen Krippen gibt es schon Probleme. Bei uns im Dorf ist das nicht so schlimm, aber in so mancher Kindertagesstätte fehlen inzwischen die finanziellen Mittel. In einigen Kinderkrippen müssen die Eltern schon Papier und Stifte mitgeben, damit die Kinder malen können, wie ich gehört habe. Da fragt man sich, woran sonst noch gespart wird! Moderator: Also sollten Kinderkrippen finanziell besser gefördert werden! Frau Schneider, wie stehen Sie dazu? Ist es sinnvoll, dass Kinderkrippen von unseren Steuern bezahlt werden? Sie haben ja nichts davon! Fr. Schneider: Nun ja, das finanzielle Argument sehe ich schon ein. Wer nicht genug Geld hat, um zu Hause zu bleiben, soll ja trotzdem Kinder kriegen können. Daher würde ich den Bau und den Unterhalt von Kinderkrippen und Kindertagesstätten nicht ablehnen, denn das kommt der ganzen Gesellschaft zugute. Aber ich finde es nicht gut, wenn Kinder in die Krippe abgeschoben werden, damit die Eltern ihren persönlichen Zielen hinterherjagen können. Hr. Bader: Wir schieben sie ja nicht ab! Sie verbringen den Tag in einer kinderfreundlichen, warmen, qualifizierten Umgebung mit anderen Kindern, anstatt sich zu Hause mit uns zu langweilen. Moderator: Vielleicht hängt es ja auch von den Menschen ab: der eine möchte die ersten Jahre seines Kindes intensiv erleben, der andere möchte oder kann nicht auf seine Arbeit verzichten und dennoch dem Kind eine schöne Kindheit bieten. Die Diskussion scheint wohl endlos … Fr. Schneider + Hr. Bader: Mhm … Moderator: Herr Bader, Frau Schneider, ich bedanke mich für Ihre Zeit und dass Sie uns Ihre Meinung zum Thema gesagt haben. Liebe Hörerinnen und Hörer, ich wünsche Ihnen einen schönen Abend und bis nächste Woche bei der „Diskussion am Abend“ …",
+    "question": "Für kleine Kinder sind die ersten drei Jahre sehr wichtig.",
+    "options": {
+      "Moderator": "Moderator",
+      "Dana Schneider": "Dana Schneider",
+      "Florian Bader": "Florian Bader"
+    },
+    "answer": "Dana Schneider",
+    "additional_questions": [
+      {
+        "question": "Kinder lernen soziales Verhalten erst ab einem bestimmten Alter.",
+        "options": {
+          "Moderator": "Moderator",
+          "Dana Schneider": "Dana Schneider",
+          "Florian Bader": "Florian Bader"
+        },
+        "answer": "Dana Schneider"
+      },
+      {
+        "question": "Für den Erfolg im Beruf ist es wichtig, immer zu arbeiten.",
+        "options": {
+          "Moderator": "Moderator",
+          "Dana Schneider": "Dana Schneider",
+          "Florian Bader": "Florian Bader"
+        },
+        "answer": "Florian Bader"
+      },
+      {
+        "question": "Es ist möglich, Kinder zu haben und auch zu arbeiten.",
+        "options": {
+          "Moderator": "Moderator",
+          "Dana Schneider": "Dana Schneider",
+          "Florian Bader": "Florian Bader"
+        },
+        "answer": "Florian Bader"
+      },
+      {
+        "question": "In der Krippe lernen Kinder andere Dinge als zu Hause.",
+        "options": {
+          "Moderator": "Moderator",
+          "Dana Schneider": "Dana Schneider",
+          "Florian Bader": "Florian Bader"
+        },
+        "answer": "Florian Bader"
+      },
+      {
+        "question": "In Krippen müssen Erzieherinnen viele Kinder gleichzeitig betreuen.",
+        "options": {
+          "Moderator": "Moderator",
+          "Dana Schneider": "Dana Schneider",
+          "Florian Bader": "Florian Bader"
+        },
+        "answer": "Dana Schneider"
+      },
+      {
+        "question": "Kinder sollen lernen, sich auch mal alleine zu beschäftigen.",
+        "options": {
+          "Moderator": "Moderator",
+          "Dana Schneider": "Dana Schneider",
+          "Florian Bader": "Florian Bader"
+        },
+        "answer": "Florian Bader"
+      },
+      {
+        "question": "Manche Kindertagesstätten haben zu wenig Geld.",
+        "options": {
+          "Moderator": "Moderator",
+          "Dana Schneider": "Dana Schneider",
+          "Florian Bader": "Florian Bader"
+        },
+        "answer": "Florian Bader"
+      },
+      {
+        "question": "Auch Familien mit wenig Geld sollen Kinder haben können.",
+        "options": {
+          "Moderator": "Moderator",
+          "Dana Schneider": "Dana Schneider",
+          "Florian Bader": "Florian Bader"
+        },
+        "answer": "Dana Schneider"
+      }
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Nour-ablahad22/flutter-data/main/Deutsch/B1/Hoeren/Audio/B1_Teil4/3.mp3"
+  }
+  ]
+}
+}
